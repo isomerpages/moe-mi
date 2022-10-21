@@ -13,25 +13,25 @@ third_nav_title: MI IDENTITY
 <table style="border-collapse: collapse; width: 100%; height: 36px;" border="1">
 <tbody>
 <tr style="height: 18px;">
-<td style="width: 33.3333%; height: 36px; text-align: center;" rowspan="2">
-<p><strong>OUTRAM INSTITUTE</strong></p><img style="width: 50%;" src="/images/ohist2.jpg" />
+<td style="width: 10%; height: 36px; text-align: center;" rowspan="2">
+<p><strong>OUTRAM INSTITUTE</strong></p><img style="width: 80%;" src="/images/ohist2.jpg" />
 </td>
-<td style="width: 33.3333%; height: 18px; text-align: center;">
+<td style="width: 30%; height: 18px; text-align: center;">
 <img style="width: 75%;" src="/images/ohist3.jpg" />
 <div>MRS LIM HAN SOON</div>
 <div>(1987 &ndash; Mar 1991)</div>
 </td>
-<td style="width: 33.3333%; height: 18px; text-align: center;">
+<td style="width: 60%; height: 18px; text-align: center;">
 <p><em>&ldquo;Peak performers are not born but made. They are successful because they have set goals for themselves and have planned well their mission in life and they look forward to the future with optimism and hope. Let us be encouraged by their examples and continue to uphold the Institute motto &ldquo;Towards Excellence.&rdquo;</em></p>
 </td>
 </tr>
 <tr style="height: 18px;">
-<td style="width: 33.3333%; height: 18px; text-align: center;">
+<td style="width: 30%; height: 18px; text-align: center;">
 <img style="width: 75%;" src="/images/ohist4.jpg" />
 <div>MRS LAM-KAN KIM SWEE</div>
 <div>(April 1991 &ndash; 2003)</div>
 </td>
-<td style="width: 33.3333%; height: 18px; text-align: center;">
+<td style="width: 60%; height: 18px; text-align: center;">
 <p><em>&ldquo;We will provide a wide range of educational opportunities to enrich the learning experience, and also make the environment conducive to learning. And more importantly, I believe in inculcating socially desirable values and attitudes in our students, not only for higher education and work, but for life.&rdquo;</em></p>
 </td>
 </tr>
