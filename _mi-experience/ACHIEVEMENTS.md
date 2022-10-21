@@ -294,22 +294,242 @@ description: ""
 </table>
 </div>
 </li>
-<li><input id="accordion1" type="checkbox" /> <label for="accordion1">2022 Achievements</label>
+<li><input id="accordion4" type="checkbox" /> <label for="accordion4">2019 Achievements</label>
+<div>
+<table>
+<tbody>
+<tr>
+<th>Month</th>
+<th>Department/CCA</th>
+<th>Event</th>
+<th>Organiser</th>
+<th>Achievement</th>
+</tr>
+<tr>
+<td>February</td>
+<td>Cross Country</td>
+<td>Wing Active SG Cross Country</td>
+<td>Wings Athletics Club</td>
+<td>12th - Aldrich Goh 18A2&nbsp;</td>
+</tr>
+<tr>
+<td>February</td>
+<td>Mathematics</td>
+<td>NUS Business Analytics Case Competition 2019</td>
+<td>NUS Industrial Systems Engineering Club</td>
+<td>Team attained 4th Position in the Quantitative Segment.<br />Team members: Ng Chuan Chai Dillion 17S1, Goh See Yin 17S3, Joei Chen Pei Shi 17S3, Neo See Chyi 17S3</td>
+</tr>
+<tr>
+<td>March</td>
+<td>Mother Tongue Language</td>
+<td>National Malay Debate Competition</td>
+<td>Malay Youth and Literary Association (4PM)</td>
+<td>Best Speaker for the Qualiyfing Round. Top 10 speakers overall.</td>
+</tr>
+<tr>
+<td>March</td>
+<td>Track &amp; Field</td>
+<td>National School Games 'A' Division</td>
+<td>Singapore Schools Sports Council</td>
+<td>3rd 100m - Ibrahim Halil 18C2, 8th 1500m - Aldrich Goh 18A2</td>
+</tr>
+<tr>
+<td>March</td>
+<td>Science</td>
+<td>Successful Publication of Journal Article as co-researcher with Dr Daniel Tan of NIE in Chemistry Education Research and Practice, 2019, 20, 412 - 427</td>
+<td>NIE</td>
+<td>Successful Publication of Journal Article as co-researcher (3rd Author) - Mr Liew Yong Qiang</td>
+</tr>
+<tr>
+<td>March</td>
+<td>Youth Diplomats</td>
+<td>Singapore Model Cabinet</td>
+<td>People's Association</td>
+<td>Outstanding Representatives - Chase Karlsen 17A1, Josh Timothy Lee 17C4,Tan Xuan Yi 18A3</td>
+</tr>
+<tr>
+<td>April</td>
+<td>Malay Dance</td>
+<td>Singapore Youth Festival Arts Presentation</td>
+<td>MOE Arts Education Branch</td>
+<td>Certificate of Distinction</td>
+</tr>
+<tr>
+<td>April</td>
+<td>Cross Country</td>
+<td>National School Games 'A' Division</td>
+<td>Singapore Schools Sports Council</td>
+<td>20th, Boys Individual - Aldrich Goh 18A2</td>
+</tr>
+<tr>
+<td>April</td>
+<td>Modern Dance</td>
+<td>Singapore Youth Festival Arts Presentation</td>
+<td>MOE Arts Education Branch</td>
+<td>Certificate of Accomplishment</td>
+</tr>
+<tr>
+<td>April</td>
+<td>Bowling</td>
+<td>National School Games 'A' Division</td>
+<td>Singapore Schools Sports Council</td>
+<td>3rd, Girls Singles event - Georgia Kuok 19S2</td>
+</tr>
+<tr>
+<td>April</td>
+<td>Angklung Kulintang Ensemble</td>
+<td>Singapore Youth Festival Arts Presentation</td>
+<td>MOE Arts Education Branch</td>
+<td>Certificate of Distinction</td>
+</tr>
+<tr>
+<td>April</td>
+<td>Indian Dance</td>
+<td>Singapore Youth Festival Arts Presentation</td>
+<td>MOE Arts Education Branch</td>
+<td>Certificate of Distinction</td>
+</tr>
+<tr>
+<td>April</td>
+<td>Football Girls</td>
+<td>National School Games 'A' Division</td>
+<td>Football Association Singapore</td>
+<td>5th Place</td>
+</tr>
+<tr>
+<td>April</td>
+<td>GP/Lit</td>
+<td>NTU Current Affairs Challenge</td>
+<td>NTU</td>
+<td>3rd, Team Presentation - Dillon Sim Si Chun 19A1, Winston Ng Yong Jie 19A3, Siti Amanah Mulyati Bte Husaini 19C1<br />1st, Individual Speech - Nicole Teo Yi Teng 19A1, 3rd Individual Speech - Chong Ye Ni 19A1</td>
+</tr>
+<tr>
+<td>May</td>
+<td>Symphonic Band</td>
+<td>Singapore Youth Festival Arts Presentation</td>
+<td>MOE Arts Education Branch</td>
+<td>Certificate of Accomplishment</td>
+</tr>
+<tr>
+<td>May</td>
+<td>CCS</td>
+<td>12th National Chinese Short Film Competition for Secondary Schools and Junior Colleges</td>
+<td>Maris Stella High School</td>
+<td>Best Supporting Actress Award - Wang Shimin 19S7</td>
+</tr>
+<tr>
+<td>May</td>
+<td>Hockey Girls</td>
+<td>National School Games 'A' Division</td>
+<td>Singapore Schools Sports Council</td>
+<td>Plate winner</td>
+</tr>
+<tr>
+<td>May</td>
+<td>Millennian Stage</td>
+<td>Normal</td>
+<td>Millennian Stage/How Drama Education</td>
+<td>Public Performance</td>
+</tr>
+<tr>
+<td>May</td>
+<td>Science</td>
+<td>Singapore Student Learning Space (SLS) Learning Designers Symposium</td>
+<td>MOE ETD</td>
+<td>Certificate of Achievement for Quality Lesson Design<br />Neo Yng Yng, Annie Koh, Chan Xin Yu</td>
+</tr>
+<tr>
+<td>June</td>
+<td>Malay Dance</td>
+<td>Istana Open House</td>
+<td>Istana</td>
+<td>Public Performance</td>
+</tr>
+<tr>
+<td>July</td>
+<td>Basketball Girls</td>
+<td>ASEAN Schools Games</td>
+<td>ASEAN Schools Sports Council</td>
+<td>Representation - Valarie Lim Xue Er 19C2</td>
+</tr>
+<tr>
+<td>July</td>
+<td>Floorball Girls</td>
+<td>National School Games 'A' Division</td>
+<td>Singapore Schools Sports Council</td>
+<td>Sportsmanship Award - Angel Thong 17S2</td>
+</tr>
+<tr>
+<td>September</td>
+<td>Track &amp; FIeld</td>
+<td>Singapore Schools Sports Council Colour Awards</td>
+<td>Singapore Schools Sports Council</td>
+<td>Colours Award - Ibrahim Halil 18C2</td>
+</tr>
+<tr>
+<td>September</td>
+<td>Basketball Girls</td>
+<td>Singapore Schools Sports Council Colour Awards</td>
+<td>Singapore Schools Sports Council</td>
+<td>Colours Award - Valarie Lim Xue Er 19C2</td>
+</tr>
+<tr>
+<td>September</td>
+<td>Bowling</td>
+<td>Singapore Schools Sports Council Colour Awards</td>
+<td>Singapore Schools Sports Council</td>
+<td>Colours Award - Georgia Kuok 19S2</td>
+</tr>
+<tr>
+<td>September</td>
+<td>Art</td>
+<td>Bicentennial Art project- 2000 years Vitality of Malay Language in Singapore</td>
+<td>National Heritage Board</td>
+<td>Public exhibition at National Library 14 Sep- 20 Oct 2019 (Kamelia Tufah,Nur Shayiqah, Nursyaza Nadya, Chan Jia Ying, Oh Kai Hui, Nur Sabrina 18A2)</td>
+</tr>
+<tr>
+<td>October</td>
+<td>E Club</td>
+<td>Youth Technopreneurs Competition</td>
+<td>Singapore Science Centre, Temasek Foundation</td>
+<td>Finalist - Ng JIa Ni 17A1, Winston Ng Yong Jie 19A3, Bhuvan Shrivastava 19S4</td>
+</tr>
+<tr>
+<td>November</td>
+<td>Football Boys</td>
+<td>Asian Schools U18 Football Championship</td>
+<td>Asian Schools Sports Federation</td>
+<td>Representation - Mohammed Riaz 18S5</td>
+</tr>
+<tr>
+<td>November</td>
+<td>History</td>
+<td>Festival of Ideas: Futures Thinking Workshop &amp; Scenario Workshop for Youths (21-23 Nov)&nbsp;</td>
+<td>Lee Kuan Yew School of Public Policy</td>
+<td>3rd prize (Roschendini's group) and Most Enthusiastic Award (Deshawn's group)</td>
+</tr>
+<tr>
+<td>November</td>
+<td>Science</td>
+<td>SINGAPORE INTERNATIONAL SCIENCE TEACHERS CONFERENCE 2019</td>
+<td>Science Teachers Association of Singapore, AST, Science Centre, CPDD</td>
+<td>Paper presentation by Annie Koh, Liew Yong Qiang and Adrian Tan</td>
+</tr>
+</tbody>
+</table>
+</div>
+</li>
+<li><input id="accordion5" type="checkbox" /> <label for="accordion5">2018 Achievements</label>
 <div>
 <p>This is a simple one line item</p>
 </div>
 </li>
-<li><input id="accordion1" type="checkbox" /> <label for="accordion1">2022 Achievements</label>
+<li><input id="accordion6" type="checkbox" /> <label for="accordion6">2017 Achievements</label>
 <div>
 <p>This is a simple one line item</p>
 </div>
 </li>
-<li><input id="accordion1" type="checkbox" /> <label for="accordion1">2022 Achievements</label>
-<div>
-<p>This is a simple one line item</p>
-</div>
-</li>
-<li><input id="accordion1" type="checkbox" /> <label for="accordion1">2022 Achievements</label>
+<li><input id="accordion7" type="checkbox" /> <label for="accordion7">2016 Achievements</label>
 <div>
 <p>This is a simple one line item</p>
 </div>
