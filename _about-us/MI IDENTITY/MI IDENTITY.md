@@ -15,7 +15,7 @@ third_nav_title: MI IDENTITY
 <tr>
 <td style="width: 33.3333%; text-align: center;"><strong><a href="/about-us/mi-identity/our-vision-mission-values"><img src="/images/mii1.jpg"></a><a href="/about-us/mi-identity/our-vision-mission-values">Our Vision, Mission, Values</a></strong></td>
 <td style="width: 33.3333%; text-align: center;"><strong><a href="/about-us/mi-identity/institute-song"><img src="/images/mii2.jpg"></a><a href="/about-us/mi-identity/institute-song">Institute Song</a></strong></td>
-<td style="width: 33.3333%; text-align: center;"><strong>Our History</strong></td>
+<td style="width: 33.3333%; text-align: center;"><strong><a href="/about-us/mi-identity/our-history"><img src="/images/mii3.jpg"></a><a href="/about-us/mi-identity/our-history">Our History</a></strong></td>
 </tr>
 </tbody>
 </table>
