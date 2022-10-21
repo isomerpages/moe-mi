@@ -13,5 +13,18 @@ links:
         url: /about-us/mi-virtual-tour
       - title: MI VIDEOS
         url: /about-us/mi-videos
+  - title: ADMISSION
+    url: /admission
+    sublinks:
+      - title: JAE APPEALS
+        url: /admission/jae-appeals
+      - title: RETURNING SINGAPOREANS
+        url: /admission/returning-singaporeans-international-students
+      - title: SUBJECT COMBINATION
+        url: /admission/subject-combination
+      - title: FINANCIAL ASSISTANCE SCHEMES
+        url: /admission/financial-assistance-schemes
+      - title: PU1 ORIENTATION
+        url: /admission/pu1-orientation
   - title: Contact Us
     url: /mi/contact-us/
