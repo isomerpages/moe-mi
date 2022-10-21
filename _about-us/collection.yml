@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - OUR STAFF.md
       - MI IDENTITY/.keep
       - MI IDENTITY/MI IDENTITY.md
       - MI IDENTITY/OUR VISION, MISSION, VALUES.md
