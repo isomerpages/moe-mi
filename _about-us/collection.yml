@@ -2,4 +2,5 @@ collections:
   about-us:
     output: true
     order:
+      - MI VIRTUAL TOUR.md
       - MI VIDEOS.md
