@@ -1,4 +1,5 @@
 collections:
   admission:
     output: true
-    order: []
+    order:
+      - PU1 ORIENTATION.md
