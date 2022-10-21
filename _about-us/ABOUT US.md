@@ -15,8 +15,8 @@ description: ""
 <td style="width: 33.3333%; text-align: center;"><a href="/about-us/mi-identity"><img src="/images/au3.jpg"></a><a href="/about-us/mi-identity"><strong>MI Identity</strong></a></td>
 </tr>
 <tr>
-<td style="width: 33.3333%; text-align: center;"><strong>MI Virtual Tour</strong></td>
-<td style="width: 33.3333%; text-align: center;"><strong>MI Videos</strong></td>
+<td style="width: 33.3333%; text-align: center;"><a href="/about-us/mi-virtual-tour"><img src="/images/au4.jpg"></a><a href="/about-us/mi-virtual-tour"><strong>MI Virtual Tour</strong></a></td>
+<td style="width: 33.3333%; text-align: center;"><a href="/about-us/mi-videos"><img src="/images/au5.jpg"></a><a href="/about-us/mi-videos"><strong>MI Videos</strong></a></td>
 <td style="width: 33.3333%; text-align: center;">&nbsp;</td>
 </tr>
 </tbody>
