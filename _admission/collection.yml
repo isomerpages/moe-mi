@@ -2,5 +2,6 @@ collections:
   admission:
     output: true
     order:
+      - SUBJECT COMBINATION.md
       - FINANCIAL ASSISTANCE SCHEMES.md
       - PU1 ORIENTATION.md
