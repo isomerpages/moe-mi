@@ -521,7 +521,199 @@ description: ""
 </li>
 <li><input id="accordion5" type="checkbox" /> <label for="accordion5">2018 Achievements</label>
 <div>
-<p>This is a simple one line item</p>
+<table>
+<tbody>
+<tr>
+<th>Month</th>
+<th>Department/CCA</th>
+<th>Event</th>
+<th>Organiser</th>
+<th>Achievement</th>
+</tr>
+<tr>
+<td>February</td>
+<td>CCA - Softball</td>
+<td>Taichung International Women Softball Tournament</td>
+<td>Chinese Taipei Softball Association</td>
+<td>National Representation - Nuha Zakirah Bte Asrin (17S4)</td>
+</tr>
+<tr>
+<td>March</td>
+<td>CCA - Entrepreneurship Club</td>
+<td>FINEX (Financial Expedition 2018)</td>
+<td>Investment Interactive Club, NTU</td>
+<td>2nd Runner-Up in the Post-Secondary category</td>
+</tr>
+<tr>
+<td>April</td>
+<td>CCA - CCS</td>
+<td>Singapore Youth Festival Arts Presentation</td>
+<td>Arts Education Branch</td>
+<td>Certificate of Commendation</td>
+</tr>
+<tr>
+<td>April</td>
+<td>CCA - Drama Club</td>
+<td>Singapore Youth Festival Arts Presentation</td>
+<td>Arts Education Branch</td>
+<td>Certificate of Accomplishment</td>
+</tr>
+<tr>
+<td>April</td>
+<td>CCA - MCS</td>
+<td>Singapore Youth Festival Arts Presentation</td>
+<td>Arts Education Branch</td>
+<td>Certificate of Distinction</td>
+</tr>
+<tr>
+<td>May</td>
+<td>CCA - Hockey</td>
+<td>National School 'A' Division Hockey (Girls)</td>
+<td>Singapore School Sports Council</td>
+<td>Girls Team 4th</td>
+</tr>
+<tr>
+<td>May</td>
+<td>CCA - Football</td>
+<td>National School 'A' Division Football (Boys)</td>
+<td>Singapore School Sports Council</td>
+<td>Boys Team 4th</td>
+</tr>
+<tr>
+<td>May</td>
+<td>CCA - Hockey</td>
+<td>National School 'A' Division Hockey (Boys)</td>
+<td>Singapore School Sports Council</td>
+<td>Boys Team Plate 2nd</td>
+</tr>
+<tr>
+<td>May</td>
+<td>CCA - Cross Country</td>
+<td>Singapore Schools Sports team - Athletes Support Programe</td>
+<td>National Youth Sports Institute</td>
+<td>Selected - Aldrich Goh (18A3)</td>
+</tr>
+<tr>
+<td>May</td>
+<td>Humanities - Art/Art Club &amp; Service Learning Club</td>
+<td>Art@Hong Kah North</td>
+<td>Millennia Institute &amp; Hong Kah North CCAC</td>
+<td>Co-organisers - Er Kia Hui, Ghazrizal, John Goh, Azra, Art Club &amp; Service Learning Club</td>
+</tr>
+<tr>
+<td>May</td>
+<td>Science</td>
+<td>International Conference on Teaching &amp; Learning with Technology (iCTLT)</td>
+<td>Ministry of Education</td>
+<td>Improving Scientific Literarcy Skills through Virtual Laboratary Simulations - Adrian Tan, Danver Teo, Alivia Xu &amp; Foo Yong Kuan</td>
+</tr>
+<tr>
+<td>May</td>
+<td>Mathematics</td>
+<td>International Conference on Teaching &amp; Learning with Technology (iCTLT)</td>
+<td>Ministry of Education</td>
+<td>Fostering Future Ready Learners through Technology Infused Team-based Learning - Ginny Tan, Lee Zhiying</td>
+</tr>
+<tr>
+<td>May</td>
+<td>Science</td>
+<td>Dr J. M Nathan Memorial Prize for Curriculum Project</td>
+<td>National Institute of Education</td>
+<td>Adrian Tan</td>
+</tr>
+<tr>
+<td>May</td>
+<td>Malay</td>
+<td>Friends of the Malay Language</td>
+<td>Malay Language Council Singapore</td>
+<td>Appointed- Nurul Salma Bte Halizad (18A3) &amp; Naufal Bin Jamil (18S6)</td>
+</tr>
+<tr>
+<td>June</td>
+<td>Science</td>
+<td>Youth Research Programme (YRP)</td>
+<td>Institute of Bioengineering and Nanotechnology (IBN)</td>
+<td>Lee Han Xuan Hans - 2nd in the Exit Presentation</td>
+</tr>
+<tr>
+<td>July</td>
+<td>CCA - Speechmasters</td>
+<td>32nd YMCA Plain English Speaking Award (PESA)</td>
+<td>YMCA</td>
+<td>Fong Tien Rei 18A2 - Semi-final JC/Poly category</td>
+</tr>
+<tr>
+<td>July</td>
+<td>Humanities - Art/Art Club &amp; Service Learning Club</td>
+<td>Passion Art Festival Village@Hong Kah North</td>
+<td>People's Association</td>
+<td>Co-organisers - Er Kia Hui, Ghazrizal, John Goh, Azra, Art Club &amp; Service Learning Club</td>
+</tr>
+<tr>
+<td>July</td>
+<td>English</td>
+<td>2018 Tales of &lsquo;S&rsquo; eBook Competition</td>
+<td>CIVICA</td>
+<td>Winner (Darin Chow 16A1)</td>
+</tr>
+<tr>
+<td>Aug</td>
+<td>Mathematics</td>
+<td>Australian Mathematics Competition (AMC 2018)</td>
+<td>Australian Mathematics Trust</td>
+<td>Distinction award - Amar Sham Nair S/O Mohd Azhar (18S3)</td>
+</tr>
+<tr>
+<td>September</td>
+<td>CCA - Hockey</td>
+<td>SSSC National Colours Award</td>
+<td>Singapore School Sports Council</td>
+<td>Colours Award - Girls Team</td>
+</tr>
+<tr>
+<td>September</td>
+<td>CCA - Football</td>
+<td>SSSC National Colours Award</td>
+<td>Singapore School Sports Council</td>
+<td>Colours Award - Girls Team</td>
+</tr>
+<tr>
+<td>September</td>
+<td>Science</td>
+<td>MOE Innergy Award</td>
+<td>Ministry of Education</td>
+<td>Bronze Award - Danver Teo, Adrian Tan, Xu Ruiping and Foo Yong Kuan</td>
+</tr>
+<tr>
+<td>October</td>
+<td>Chinese</td>
+<td>National Novel Writing Competition</td>
+<td>Singapore Foo Chow Association</td>
+<td>Gold Award - Stephanie Lim 16C2</td>
+</tr>
+<tr>
+<td>October</td>
+<td>Chinese</td>
+<td>National Novel Writing Competition</td>
+<td>Singapore Foo Chow Association</td>
+<td>Commendation Award - Lee Zhe Weng 18S6</td>
+</tr>
+<tr>
+<td>October</td>
+<td>Chinese</td>
+<td>National Novel Writing Competition</td>
+<td>Singapore Foo Chow Association</td>
+<td>Commendation Award - Hu Hongyu 18S6</td>
+</tr>
+<tr>
+<td>October</td>
+<td>Science</td>
+<td>Sembcorp Marine Green Wave Competition</td>
+<td>Sembcorp Marine Ltd</td>
+<td>Third - Randolph Daniel P.Vega 18S4</td>
+</tr>
+</tbody>
+</table>
 </div>
 </li>
 <li><input id="accordion6" type="checkbox" /> <label for="accordion6">2017 Achievements</label>
