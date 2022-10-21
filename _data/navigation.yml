@@ -1,6 +1,17 @@
 logo: /images/logo.png
 links:
+  - title: About Us
+    url: /about-us
+    sublinks:
+      - title: PRINCIPAL'S MESSAGE
+        url: /about-us/principals-message
+      - title: OUR STAFF
+        url: /about-us/our-staff
+      - title: MI IDENTITY
+        url: /about-us/mi-identity
+      - title: MI VIRTUAL TOUR
+        url: /about-us/mi-virtual-tour
+      - title: MI VIDEOS
+        url: /about-us/mi-videos
   - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+    url: /mi/contact-us/
