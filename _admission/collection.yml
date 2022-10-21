@@ -2,4 +2,5 @@ collections:
   admission:
     output: true
     order:
+      - FINANCIAL ASSISTANCE SCHEMES.md
       - PU1 ORIENTATION.md
