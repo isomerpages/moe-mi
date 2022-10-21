@@ -37,3 +37,86 @@ third_nav_title: MI IDENTITY
 </tr>
 </tbody>
 </table>
+<table style="border-collapse: collapse; width: 100%; height: 90px;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 10%; height: 90px; text-align: center;" rowspan="5">
+<p><strong>JURONG INSTITUTE</strong></p>
+<img style="width: 75%;" src="/images/ohist5.jpg" />
+</td>
+<td style="width: 30%; height: 18px; text-align: center;">
+<img style="width: 75%;" src="/images/ohist6.jpg" />
+<div>MDM LAU KAN HOW</div>
+<div>(1989 &ndash; 1990)</div>
+</td>
+<td style="width: 60%; height: 18px; text-align: center;">
+<p><em>JI&rsquo;s pioneer principal, Mdm Lau Kan How, had her first office in a container amidst bulldozers and cement mixers. But overseeing the physical construction of JI was a small task compared to the more daunting challenge she faced, of moulding the JI identity. With the conception of the motto &lsquo;Justice and Integrity&rsquo;, Mdm Lau set about creating opportunities for bonding. From a concept, JI became an entity.</em></p>
+</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 30%; height: 18px; text-align: center;">
+<img style="width: 75%;" src="/images/ohist7.jpg" />
+<div>MR TAN THIAM HOCK</div>
+<div>(1991 &ndash; 1993)</div>
+</td>
+<td style="width: 60%; height: 18px; text-align: center;">
+<p><em>&ldquo;As principal of JI, I had three objectives. First, to help the students excel in their academic studies. Second, to train them well in ECA, and third, to instill moral uprightness. I must say that we managed to make good headway in all three areas.&rdquo;</em></p>
+</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 30%; height: 18px; text-align: center;">
+<img style="width: 75%;" src="/images/ohist8.jpg" />
+<div>MRS GOH SOO GEEM</div>
+<div>(1994 &ndash; 1997)</div>
+</td>
+<td style="width: 60%; height: 18px; text-align: center;">
+<p><em>&ldquo;I feel proud because I had a good team of teachers who were willing to go the extra mile. I feel especially proud of the students we helped, who grew and blossomed in JI, overcoming personal problems.&rdquo;</em></p>
+</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 30%; height: 18px; text-align: center;">
+<img style="width: 75%;" src="/images/ohist9.jpg" />
+<div>MDM MAK LAI YING</div>
+<div>(1998 &ndash; 1999)</div>
+</td>
+<td style="width: 60%; height: 18px; text-align: center;">
+<p><em>&ldquo;I am proud to say that the Institute has been very successful in fostering strong ties with students. Our ex-students visit their teachers often at the Institute &hellip;&rdquo;</em></p>
+</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 30%; height: 18px; text-align: center;">
+<img style="width: 75%;" src="/images/ohist10.jpg" />
+<div>MRS ONG-OOI GIOK TIN</div>
+<div>(2000 &ndash; 2003)</div>
+</td>
+<td style="width: 60%; height: 18px; text-align: center;">
+<p><em>&ldquo;We have come this far and farther we will venture. As we consolidate our resources and build on our strengths, we enter the next phase of our journey, to provide a whole new learning experience complete with innovation, entrepreneurship, accreditation and academic excellence &hellip;&rdquo;</em></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 10%;" rowspan="2"><strong>MILLENNIA INSTITUTE</strong><img style="width: 75%;" src="/images/ohist11.jpg" /></td>
+<td style="width: 30%; text-align: center;">
+<img style="width: 75%;" src="/images/ohist12.jpg" />
+<div>MRS ONG-OOI GIOK TIN</div>
+<div>(2004 &ndash; 2005)</div>
+</td>
+<td style="width: 60%; text-align: center;">
+<p><em>&ldquo;All students who pass through the portals of Millennia Institute must be resilient in overcoming challenges and moving in uncharted waters, respect self and others, take responsibility for self, others and the environment, and above all, be persons of integrity.&rdquo;</em></p>
+</td>
+</tr>
+<tr>
+<td style="width: 30%; text-align: center;">
+<img style="width: 75%;" src="/images/ohist13.jpg" />
+<div>MR TAN CHOR PANG</div>
+<div>(2006 &ndash; 2013)</div>
+</td>
+<td style="width: 60%; text-align: center;">
+<p><em>&ldquo;Our strategic plan is to ensure that you are skilful beyond just content knowledge, so you can strive and achieve as global citizens, with a sense of rootedness to Singapore. We want MI to be a familial home where you feel a sense of belonging, because you are accepted, you are heard and you can grow from the opportunities offered to you.&rdquo;</em></p>
+</td>
+</tr>
+</tbody>
+</table>
