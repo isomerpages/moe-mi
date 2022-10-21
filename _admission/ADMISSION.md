@@ -46,13 +46,13 @@ description: ""
 <table border="1">
 <tbody>
 <tr>
-<td><img src="/images/ad1.png"></td>
-<td><img src="/images/ad2.png"></td>
-<td><img src="/images/ad3.png"></td>
+<td><a href="/admission/jae-appeals"><img src="/images/ad1.png"></a></td>
+<td><a href="/admission/returning-singaporeans-international-students"><img src="/images/ad2.png"></a></td>
+<td><a href="/admission/subject-combination"><img src="/images/ad3.png"></a></td>
 </tr>
 <tr>
-<td><img src="/images/ad4.png"></td>
-<td><img src="/images/ad5.png"></td>
+<td><a href="/admission/financial-assistance-schemes"><img src="/images/ad4.png"></a></td>
+<td><a href="/admission/pu1-orientation"><img src="/images/ad5.png"></a></td>
 </tr>
 </tbody>
 </table>
