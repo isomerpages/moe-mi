@@ -1,4 +1,5 @@
 collections:
   ldp:
     output: true
-    order: []
+    order:
+      - Houses.md
