@@ -25,3 +25,8 @@ third_nav_title: SOCIAL EMOTIONAL LEARNING
 </tr>
 </tbody>
 </table>
+<p style="text-align: center;"><strong>Millennia Institute Student Management Framework</strong></p>
+<p><strong>SCHOOL RULES FOR STUDENTS</strong></p>
+<p>Millennia Institute&rsquo;s Core Values of Respect, Resilience, Responsibility and Integrity form the basis of the Institute Rules. These rules aim to set a standard of behaviour expected of all Millennia Institute students so that they may maintain a positive attitude towards learning and lead a civil and respectable lives in society.</p>
+<p>Every student in MI matters. In this regard, there is a need to foster a spirit of cooperation and to observe these rules that are for the good of all.</p>
+<p><strong>TOGETHER, LET US STRIVE TO ACHIEVE OUR INSTITUTE&rsquo;S GOALS THROUGH PERSONAL DISCIPLINE.</strong></p>
