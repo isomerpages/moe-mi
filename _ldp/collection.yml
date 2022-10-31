@@ -2,6 +2,7 @@ collections:
   ldp:
     output: true
     order:
+      - CCE/NE Programme.md
       - CCE/VIA Programme.md
       - CCE/Sexuality Education.md
       - CCE/Character and Citizenship Education.md
