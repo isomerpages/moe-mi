@@ -2,6 +2,7 @@ collections:
   ccas:
     output: true
     order:
+      - AESTHETICS/Cultural Societies.md
       - AESTHETICS/Dance.md
       - AESTHETICS/Millennian Stage.md
       - AESTHETICS/Symphonic Band.md
