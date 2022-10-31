@@ -2,6 +2,7 @@ collections:
   mi-experience:
     output: true
     order:
+      - DEPARTMENTS/Science.md
       - DEPARTMENTS/Departments.md
       - DEPARTMENTS/.keep
       - KEY PROGRAMMES/.keep
