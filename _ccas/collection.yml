@@ -2,6 +2,7 @@ collections:
   ccas:
     output: true
     order:
+      - AESTHETICS/Symphonic Band.md
       - AESTHETICS/.keep
       - SPORTS/Badminton.md
       - SPORTS/Basketball.md
