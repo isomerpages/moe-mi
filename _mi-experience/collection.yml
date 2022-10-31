@@ -2,6 +2,7 @@ collections:
   mi-experience:
     output: true
     order:
+      - KEY PROGRAMMES/Character and Citizenship Education.md
       - KEY PROGRAMMES/Education and Career Guidance.md
       - KEY PROGRAMMES/Leadership Development Programmes.md
       - KEY PROGRAMMES/MI World Programme.md
