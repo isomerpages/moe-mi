@@ -2,10 +2,10 @@ collections:
   mi-experience:
     output: true
     order:
+      - SOCIAL EMOTIONAL LEARNING/.keep
+      - SOCIAL EMOTIONAL LEARNING/Social Emotional Learning.md
       - SOCIAL EMOTIONAL LEARNING/Student Wellbeing.md
       - SOCIAL EMOTIONAL LEARNING/Year Head System.md
       - SOCIAL EMOTIONAL LEARNING/Student Management.md
-      - SOCIAL EMOTIONAL LEARNING/Social Emotional Learning.md
-      - SOCIAL EMOTIONAL LEARNING/.keep
       - CCA.md
       - ACHIEVEMENTS.md
