@@ -17,3 +17,8 @@ third_nav_title: CCE
 </tr>
 </tbody>
 </table>
+<ul>
+<li><strong>Student-initiated VIA Projects</strong></li>
+</ul>
+<p>To provide ownership, engagement and empowerment, students are encouraged to champion and lead community involvement and environmental projects. This promotes student activism for social and environmental causes that improve the lives of others. Past projects included a buddy reading programme with Delta Senior School, monthly befriending visits to All Saints Home (Jurong), the HP Make IT Green Initiative E-Waste Donation Drive, and fund-raising for a cause as part of the annual Citi-YMCA Youth for Causes in 2017, 2018 and 2020.</p>
+<img style="width: 50%;" src="/images/via3.jpg" />
