@@ -27,14 +27,40 @@ description: ""
 </table>
 </div>
 </li>
-<li><input id="accordion2" type="checkbox" /> <label for="accordion2">Simple</label>
+<li><input id="accordion2" type="checkbox" /> <label for="accordion2">Aesthetics</label>
 <div>
-<p>This is a simple one line item</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 33.3333%;"><a href="/mi-experience/cca/aesthetics/art-club"><img src="/images/cca9.png"></a></td>
+<td style="width: 33.3333%;"><a href="/mi-experience/cca/aesthetics/cultural-studies"><img src="/images/cca10.png"></a></td>
+<td style="width: 33.3333%;"><a href="/mi-experience/cca/aesthetics/angklung-kulintang-ensemble"><img src="/images/cca11.png"></a></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;"><a href="/mi-experience/cca/aesthetics/dance"><img src="/images/cca12.png"></a></td>
+<td style="width: 33.3333%;"><a href="/mi-experience/cca/aesthetics/millennian-stage"><img src="/images/cca13.png"></a></td>
+<td style="width: 33.3333%;"><a href="/mi-experience/cca/aesthetics/symphonic-band"><img src="/images/cca14.png"></a></td>
+</tr>
+</tbody>
+</table>
 </div>
 </li>
-<li><input id="accordion3" type="checkbox" /> <label for="accordion3">Simple</label>
+<li><input id="accordion3" type="checkbox" /> <label for="accordion3">Clubs</label>
 <div>
-<p>This is a simple one line item</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 33.3333%;"><a href="/mi-experience/cca/aesthetics/symphonic-band"><img src="/images/cca15.png"></a></td>
+<td style="width: 33.3333%;"><a href="/mi-experience/cca/aesthetics/symphonic-band"><img src="/images/cca16.png"></a></td>
+<td style="width: 33.3333%;"><a href="/mi-experience/cca/aesthetics/symphonic-band"><img src="/images/cca17.png"></a></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;"><a href="/mi-experience/cca/aesthetics/symphonic-band"><img src="/images/cca14.png"></a></td>
+<td style="width: 33.3333%;">&nbsp;</td>
+<td style="width: 33.3333%;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
 </div>
 </li>
 <li><input id="accordion4" type="checkbox" /> <label for="accordion4">Simple</label>
