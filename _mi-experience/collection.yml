@@ -2,7 +2,7 @@ collections:
   mi-experience:
     output: true
     order:
-      - SOCIAL EMOTIONAL LEARNING/SOCIAL EMOTIONAL LEARNING.md
+      - SOCIAL EMOTIONAL LEARNING/Social Emotional Learning.md
       - SOCIAL EMOTIONAL LEARNING/.keep
       - CCA.md
       - ACHIEVEMENTS.md
