@@ -38,3 +38,21 @@ description: ""
 </tr>
 </tbody>
 </table>
+<h4><strong>Key Highlights</strong></h4>
+<p><strong>Orientation 2021<br /></strong>Student Council just successfully ran Orientation 2021: Amaranthine, which saw us welcoming freshmen to the school and encouraging in them a sense of belonging and school pride. Safe management measures were put in place so students could take part in fun-filled station games while staying safe. The 3-day programme ended on a high with a &lsquo;live&rsquo; prize presentation segment, cheers from the classes and clans and a strong sense of camaraderie in the cohort.</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="/images/sc1.jpg"></td>
+<td style="width: 50%;"><img src="/images/sc2.jpg"></td>
+</tr>
+<tr>
+<td style="width: 50%;"><img src="/images/sc3.jpg"></td>
+<td style="width: 50%;"><img src="/images/sc4.jpg"></td>
+</tr>
+<tr>
+<td style="width: 50%;"><img src="/images/sc5.jpg"></td>
+<td style="width: 50%;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
