@@ -84,17 +84,23 @@ third_nav_title: SOCIAL EMOTIONAL LEARNING
 <li>Truancy</li>
 <li>Wilful disobedience or repeated tardiness in submitting assignments</li>
 </ul>
-
 </div>
 </li>
-<li><input id="accordion5" type="checkbox" /> <label for="accordion5">Simple</label>
+<li><input id="accordion5" type="checkbox" /> <label for="accordion5">Cleanliness, Safety and Use of School Facilities</label>
 <div>
-<p>This is a simple one line item</p>
+<p><strong><u>Purpose</u></strong>: It is the responsibility of every student to keep the school clean and pleasant as this helps all to enjoy a comfortable and conducive learning environment.</p>
+<p>Littering mars the appearance and lowers the hygiene standards of the Institute. All litter must therefore be properly disposed of.</p>
+<p>In the canteen, students should clear all utensils and containers from the tables after use. There should be no eating or drinking in any classroom or resource room like the library and lecture rooms.</p>
+<p>To conserve energy, lights and fans should be switched off before a room is vacated.</p>
+<p>Any defect or damage to Institute property shall be duly reported to the General Office. Students are to seek permission before notices are posted on walls or notice boards.</p>
+<p>Students are expected to act responsibly in safety matters by adhering to safety procedures and reporting any potential safety hazards. Students are expected to be responsible for their own safety as well as watch out for fellow students and other members of the school in order to maintain a safe school environment conducive for learning.</p>
+<p>For the security of students, no overnight stay on Institute premises is permitted unless organised by a teacher with parental consent and approval from the Principal.</p>
+<p>Persons who are neither students nor staff of Millennia Institute must not be invited to the premises, participate in any Institute activity, instruct or address students without approval from the Principal.</p>
 </div>
 </li>
-<li><input id="accordion6" type="checkbox" /> <label for="accordion6">Simple</label>
+<li><input id="accordion6" type="checkbox" /> <label for="accordion6">Sales and Fund-raising Activities</label>
 <div>
-<p>This is a simple one line item</p>
+<p>There should not be any sale of items or advertisements with the purpose of soliciting sales within the Institute without the approval from the Principal.</p>
 </div>
 </li>
 </ul>
