@@ -38,9 +38,15 @@ third_nav_title: SOCIAL EMOTIONAL LEARNING
 <p>All students who are Singapore citizens must sing the National Anthem and take the Pledge. All Millennia Institute students must sing the Institute Song.</p>
 </div>
 </li>
-<li><input id="accordion2" type="checkbox" /> <label for="accordion2">Simple</label>
+<li><input id="accordion2" type="checkbox" /> <label for="accordion2">Attire and Appearance</label>
 <div>
-<p>This is a simple one line item</p>
+<p><strong><u>Purpose</u></strong>: Our students are ambassadors of the Institute and therefore represent the Institute to the general public. As such, our students must demonstrate a strong sense of discipline, decency and propriety through proper conduct and dressing so as to uphold the reputation of the Institute.</p>
+<p>The standard uniform consists of light-blue shirt and trousers for male students and light-blue blouse and skirt for female students. The uniform is to be worn during lessons, Institute activities and official school functions. Students may wear the prescribed Institute Polo T-shirt (except on Mondays) with pants/skirts. On Wednesdays, Fridays and during school holidays, students may wear half-uniform i.e. Institute PE/House T-shirts/approved CCA T-shirts with pants/skirts.</p>
+<p>All students must wear the prescribed school uniform and any unauthorised modification to the uniform is not allowed. The uniform should not be tight-fitting. Tapered pants for the males and short skirts for females are not allowed. Non-Institute T-shirts worn under the Institute shirt or blouse must be plain and white.</p>
+<p>Tattoos on any part of the body is strictly not allowed.</p>
+<p>All male students must be neat in appearance. Male students must be clean-shaven (e.g. beards and moustaches are not allowed).</p>
+<p>Religious ornaments must be worn discreetly or covered up.</p>
+<p>Donning or carrying expensive items is discouraged as these may present security issues for students.</p>
 </div>
 </li>
 <li><input id="accordion3" type="checkbox" /> <label for="accordion3">Simple</label>
