@@ -47,11 +47,18 @@ third_nav_title: SOCIAL EMOTIONAL LEARNING
 <p>All male students must be neat in appearance. Male students must be clean-shaven (e.g. beards and moustaches are not allowed).</p>
 <p>Religious ornaments must be worn discreetly or covered up.</p>
 <p>Donning or carrying expensive items is discouraged as these may present security issues for students.</p>
+<img style="width: 80%;" src="/images/attire.jpg" />
 </div>
 </li>
-<li><input id="accordion3" type="checkbox" /> <label for="accordion3">Simple</label>
+<li><input id="accordion3" type="checkbox" /> <label for="accordion3">Attendance and Punctuality</label>
 <div>
-<p>This is a simple one line item</p>
+<p><strong><u>Purpose</u></strong>: Good attendance is essential for academic progress and characterises a responsible person. Punctuality is also a vital work ethic associated with successful people.</p>
+<p>Attendance is compulsory at the flag-raising ceremonies, assemblies, academic and co-curricular lessons, as well as official Institute functions.</p>
+<p>Students who are absent from lessons or Institute functions must submit a medical certificate (MC) on the next school day. Digital MC must be submitted via this link:&nbsp;<a href="https://go.gov.sg/mie-mcs" target="_blank" rel="noopener">https://Go.gov.sg/mie-mcs</a>. MC from a traditional Chinese medicine practitioner is not acceptable.</p>
+<p>Students are not allowed to leave the Institute before 1300 hours without permission. Applications for early departure from the Institute must be made on the Student Early Leave Form, which requires authorisation by the Principal or a Head of Department and the Home Tutor. Parental consent, endorsed by the Home Tutor, is mandatory.</p>
+<p>If a student is unwell, he/she shall inform the Home Tutor or relevant Subject Tutors. He/She will proceed to the general office and the parents/guardian will be informed. The student will be granted early leave from the institute to seek medical attention.</p>
+<p>A student who is seriously ill should notify his/her Home Tutor or any other available teacher. The General Office and the student&rsquo;s parent or guardian will be contacted accordingly.</p>
+<p>Persistent absence without valid reasons and frequent late-coming are serious offences that Home Tutors will bring to the attention of parents. Attendance and punctuality data shall be documented in Result Slips and Personal Profiles as references for future educational institutions, prospective employers and other relevant authorities.</p>
 </div>
 </li>
 <li><input id="accordion4" type="checkbox" /> <label for="accordion4">Simple</label>
