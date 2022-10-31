@@ -3,12 +3,12 @@ collections:
     output: true
     order:
       - AESTHETICS/.keep
-      - Sports/Badminton.md
-      - Sports/Basketball.md
-      - Sports/Cross Country.md
-      - Sports/Floorball.md
-      - Sports/Football (Boys).md
-      - Sports/Football (Girls).md
-      - Sports/Hockey.md
-      - Sports/Netball.md
-      - Sports/.keep
+      - SPORTS/Badminton.md
+      - SPORTS/Basketball.md
+      - SPORTS/Cross Country.md
+      - SPORTS/Floorball.md
+      - SPORTS/Football (Boys).md
+      - SPORTS/Football (Girls).md
+      - SPORTS/Hockey.md
+      - SPORTS/Netball.md
+      - SPORTS/.keep
