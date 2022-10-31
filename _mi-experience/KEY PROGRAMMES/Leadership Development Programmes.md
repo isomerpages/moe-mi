@@ -11,3 +11,4 @@ third_nav_title: KEY PROGRAMMES
 <h4><strong>Programme Objectives</strong></h4>
 <p>The vision behind our work in developing students as leaders is to develop within them 21st Century Competencies. Students go through a self- reflective journey to understand what is involved in leadership, and to assess and develop their own abilities. They grow to be more confident and ready to be leaders of today and tomorrow.</p>
 <h4><strong>Key Components in the Programme</strong></h4>
+<img style="width: 50%;" src="/images/ldp.png" />
