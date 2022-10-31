@@ -2,6 +2,7 @@ collections:
   mi-experience:
     output: true
     order:
+      - DEPARTMENTS/.keep
       - KEY PROGRAMMES/.keep
       - KEY PROGRAMMES/Key Programmes.md
       - KEY PROGRAMMES/Amethyst Talent Programme.md
