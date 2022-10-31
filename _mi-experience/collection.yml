@@ -2,6 +2,7 @@ collections:
   mi-experience:
     output: true
     order:
+      - KEY PROGRAMMES/Key Programmes.md
       - KEY PROGRAMMES/.keep
       - SOCIAL EMOTIONAL LEARNING/.keep
       - SOCIAL EMOTIONAL LEARNING/Social Emotional Learning.md
