@@ -31,9 +31,11 @@ third_nav_title: SOCIAL EMOTIONAL LEARNING
 <p>Every student in MI matters. In this regard, there is a need to foster a spirit of cooperation and to observe these rules that are for the good of all.</p>
 <p><strong>TOGETHER, LET US STRIVE TO ACHIEVE OUR INSTITUTE&rsquo;S GOALS THROUGH PERSONAL DISCIPLINE.</strong></p>
 <ul class="jekyllcodex_accordion">
-<li><input id="accordion1" type="checkbox" /> <label for="accordion1">Simple</label>
+<li><input id="accordion1" type="checkbox" /> <label for="accordion1">Flag-raising Ceremony</label>
 <div>
-<p>This is a simple one line item</p>
+<p><strong><u>Purpose</u></strong>: This observance ceremony promotes reverence and projects our sense of pride and loyalty to the State and Institute. Any disrespectful behaviour during the ceremony would be considered a serious offence.</p>
+<p>The Institute shall assemble punctually at 0745 hours daily (0845 hours on Thursday only) for teachers to perform minor administrative duties and for the flag-raising ceremony. The National Anthem shall be sung and the pledge solemnly taken. The Institute Song is sung on Mondays.</p>
+<p>All students who are Singapore citizens must sing the National Anthem and take the Pledge. All Millennia Institute students must sing the Institute Song.</p>
 </div>
 </li>
 <li><input id="accordion2" type="checkbox" /> <label for="accordion2">Simple</label>
