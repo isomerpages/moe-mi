@@ -1,0 +1,4 @@
+collections:
+  ldp:
+    output: true
+    order: []
