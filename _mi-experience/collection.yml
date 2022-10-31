@@ -2,6 +2,7 @@ collections:
   mi-experience:
     output: true
     order:
+      - DEPARTMENTS/Physical Education.md
       - DEPARTMENTS/Project Work.md
       - DEPARTMENTS/Science.md
       - DEPARTMENTS/Departments.md
