@@ -65,7 +65,15 @@ description: ""
 </li>
 <li><input id="accordion4" type="checkbox" /> <label for="accordion4">Student-Initiated Interest Group</label>
 <div>
-<p>This is a simple one line item</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 33.3333%;"><img src="/images/cca19.png"></td>
+<td style="width: 33.3333%;"><img src="/images/cca20.png"></td>
+<td style="width: 33.3333%;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
 </div>
 </li>
 </ul>
