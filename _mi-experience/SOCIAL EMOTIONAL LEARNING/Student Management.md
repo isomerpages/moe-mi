@@ -30,3 +30,35 @@ third_nav_title: SOCIAL EMOTIONAL LEARNING
 <p>Millennia Institute&rsquo;s Core Values of Respect, Resilience, Responsibility and Integrity form the basis of the Institute Rules. These rules aim to set a standard of behaviour expected of all Millennia Institute students so that they may maintain a positive attitude towards learning and lead a civil and respectable lives in society.</p>
 <p>Every student in MI matters. In this regard, there is a need to foster a spirit of cooperation and to observe these rules that are for the good of all.</p>
 <p><strong>TOGETHER, LET US STRIVE TO ACHIEVE OUR INSTITUTE&rsquo;S GOALS THROUGH PERSONAL DISCIPLINE.</strong></p>
+<ul class="jekyllcodex_accordion">
+<li><input id="accordion1" type="checkbox" /> <label for="accordion1">Simple</label>
+<div>
+<p>This is a simple one line item</p>
+</div>
+</li>
+<li><input id="accordion2" type="checkbox" /> <label for="accordion2">Simple</label>
+<div>
+<p>This is a simple one line item</p>
+</div>
+</li>
+<li><input id="accordion3" type="checkbox" /> <label for="accordion3">Simple</label>
+<div>
+<p>This is a simple one line item</p>
+</div>
+</li>
+<li><input id="accordion4" type="checkbox" /> <label for="accordion4">Simple</label>
+<div>
+<p>This is a simple one line item</p>
+</div>
+</li>
+<li><input id="accordion5" type="checkbox" /> <label for="accordion5">Simple</label>
+<div>
+<p>This is a simple one line item</p>
+</div>
+</li>
+<li><input id="accordion6" type="checkbox" /> <label for="accordion6">Simple</label>
+<div>
+<p>This is a simple one line item</p>
+</div>
+</li>
+</ul>
