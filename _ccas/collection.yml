@@ -2,6 +2,7 @@ collections:
   ccas:
     output: true
     order:
+      - Sports/Cross Country.md
       - Sports/Floorball.md
       - Sports/Football (Boys).md
       - Sports/Football (Girls).md
