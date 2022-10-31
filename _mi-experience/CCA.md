@@ -63,7 +63,7 @@ description: ""
 </table>
 </div>
 </li>
-<li><input id="accordion4" type="checkbox" /> <label for="accordion4">Simple</label>
+<li><input id="accordion4" type="checkbox" /> <label for="accordion4">Student-Initiated Interest Group</label>
 <div>
 <p>This is a simple one line item</p>
 </div>
