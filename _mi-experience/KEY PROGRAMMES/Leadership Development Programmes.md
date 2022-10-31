@@ -17,3 +17,12 @@ third_nav_title: KEY PROGRAMMES
 <p><strong>Team Leadership</strong>&nbsp;focuses on developing the students&rsquo; social skill of influence such that they are able to lead others with competence and care. A successful team leader strikes a good balance between being people-oriented and task-oriented; he or she inspires productive team performance towards a common goal, by managing conflicts and enabling members to see how they can collaborate and contribute meaningfully to the task.</p>
 <p><strong>Community Leadership</strong>&nbsp;focuses on honing students&rsquo; capacities to influence and create value through quality insight and innovation, particularly through making a positive change to society. Students are expected to be able to apply fresh perspectives to authentic tasks that are critical to achieving positive outcomes for the community.</p>
 <h4><strong>Key Leadership Development Programmes</strong></h4>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 33.3333%; text-align: center;"><a href="/mi-experience/key-programmes/leadership-development-programmes/student-council"><img src="/images/ldp1.jpg"></a><a href="/mi-experience/key-programmes/leadership-development-programmes/student-council">Student Council</a></td>
+<td style="width: 33.3333%; text-align: center;"><a href="/mi-experience/key-programmes/leadership-development-programmes/senate"><img src="/images/ldp2.jpg"></a><a href="/mi-experience/key-programmes/leadership-development-programmes/senate">Senate</a></td>
+<td style="width: 33.3333%; text-align: center;"><a href="/mi-experience/key-programmes/leadership-development-programmes/houses"><img src="/images/ldp3.jpg"></a><a href="/mi-experience/key-programmes/leadership-development-programmes/houses">Houses</a></td>
+</tr>
+</tbody>
+</table>
