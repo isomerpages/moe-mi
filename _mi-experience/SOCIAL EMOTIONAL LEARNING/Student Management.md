@@ -61,9 +61,30 @@ third_nav_title: SOCIAL EMOTIONAL LEARNING
 <p>Persistent absence without valid reasons and frequent late-coming are serious offences that Home Tutors will bring to the attention of parents. Attendance and punctuality data shall be documented in Result Slips and Personal Profiles as references for future educational institutions, prospective employers and other relevant authorities.</p>
 </div>
 </li>
-<li><input id="accordion4" type="checkbox" /> <label for="accordion4">Simple</label>
+<li><input id="accordion4" type="checkbox" /> <label for="accordion4">General Behaviour</label>
 <div>
-<p>This is a simple one line item</p>
+<p><strong><u>Purpose</u></strong>: Students should conduct themselves responsibly so that all can benefit from a pleasant and conducive learning environment. More significantly, they should strive to become morally upright citizens with respect for authority.</p>
+<p>All rules pertaining to the use of the Institute&rsquo;s resources, facilities and equipment, and rules governing CCA groups are to be complied with. Students are expected to use Institute property responsibly.</p>
+<p>Students are expected to maintain orderliness during all activities.</p>
+<p>The Institute reserves the right to confiscate any Personal Electronic Device if a student uses it indiscriminately. Subsequently, the device can be reclaimed by the student only at 6 pm on the same day at the general office. In addition, the Institute reserves the right to confiscate the said device beyond 6 pm when and if necessary.</p>
+<p>All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which can be used or intended to be used to cause harm to others.</p>
+<p>The following offences are considered serious and may render offenders liable for expulsion:</p>
+<ul>
+<li>Any behaviour that is prejudicial to the image of the school;</li>
+<li>Assault and Fighting;</li>
+<li>Bullying (including Cyber-Bullying);</li>
+<li>Cheating during tests/examinations;</li>
+<li>Disorderly behaviour;</li>
+<li>Forging of Medical Certificates or alteration of other official documents;</li>
+<li>Gambling;</li>
+<li>Possession of contrabands;</li>
+<li>Possession of weapon or weapon-like item;</li>
+<li>Possession/Consumption of alcoholic drinks, drugs, cigarettes and vaporisers;</li>
+<li>Theft and Vandalism;</li>
+<li>Truancy</li>
+<li>Wilful disobedience or repeated tardiness in submitting assignments</li>
+</ul>
+
 </div>
 </li>
 <li><input id="accordion5" type="checkbox" /> <label for="accordion5">Simple</label>
