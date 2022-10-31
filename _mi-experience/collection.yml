@@ -2,6 +2,7 @@ collections:
   mi-experience:
     output: true
     order:
+      - KEY PROGRAMMES/Leadership Development Programmes.md
       - KEY PROGRAMMES/MI World Programme.md
       - KEY PROGRAMMES/SkillsFuture Programme.md
       - KEY PROGRAMMES/Key Programmes.md
