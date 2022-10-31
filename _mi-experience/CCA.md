@@ -50,12 +50,12 @@ description: ""
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 33.3333%;"><a href="/mi-experience/cca/aesthetics/symphonic-band"><img src="/images/cca15.png"></a></td>
-<td style="width: 33.3333%;"><a href="/mi-experience/cca/aesthetics/symphonic-band"><img src="/images/cca16.png"></a></td>
-<td style="width: 33.3333%;"><a href="/mi-experience/cca/aesthetics/symphonic-band"><img src="/images/cca17.png"></a></td>
+<td style="width: 33.3333%;"><a href="/mi-experience/cca/clubs/entrepreneurship-club"><img src="/images/cca15.png"></a></td>
+<td style="width: 33.3333%;"><a href="/mi-experience/cca/clubs/new-media-club"><img src="/images/cca16.png"></a></td>
+<td style="width: 33.3333%;"><a href="/mi-experience/cca/clubs/young-diplomats-society"><img src="/images/cca17.png"></a></td>
 </tr>
 <tr>
-<td style="width: 33.3333%;"><a href="/mi-experience/cca/aesthetics/symphonic-band"><img src="/images/cca14.png"></a></td>
+<td style="width: 33.3333%;"><a href="/mi-experience/cca/clubs/youth-literary-society"><img src="/images/cca18.png"></a></td>
 <td style="width: 33.3333%;">&nbsp;</td>
 <td style="width: 33.3333%;">&nbsp;</td>
 </tr>
