@@ -2,6 +2,7 @@ collections:
   mi-experience:
     output: true
     order:
+      - DEPARTMENTS/Business.md
       - DEPARTMENTS/English.md
       - DEPARTMENTS/Humanities.md
       - DEPARTMENTS/Mathematics.md
