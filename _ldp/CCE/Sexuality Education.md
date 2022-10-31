@@ -162,3 +162,9 @@ third_nav_title: CCE
 </tr>
 </tbody>
 </table>
+<h4><strong>INFORMATION FOR PARENTS</strong></h4>
+<p>8. Parents may opt their children out of Growing Years and/or supplementary sexuality education programmes by MOE-approved external provider.</p>
+<p>9. Parents who wish to opt their children out of the&nbsp;<strong>Sexuality Education lessons</strong>&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;<a href="/files/Annex%20A_GY_Opt-out%20Form%202022.pdf" target="_blank" rel="noopener">here</a>. The completed form is to be submitted by 07/02/2022 (PU2) and 29/07/2022 (PU1).</p>
+<p>10. Parents who wish to opt their children out of the&nbsp;<strong><em>eTeens programme</em></strong>&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;<a href="/files/Annex%20B_eTeens_Opt-out%20Form%202022.pdf" target="_blank" rel="noopener">here</a>. The completed form is to be submitted by 22/07/2022.</p>
+<p>11. Parents can contact the school at&nbsp;<strong><a href="mailto:millennia_inst@moe.edu.sg" target="">millennia_inst@moe.edu.sg</a></strong>&nbsp;for discussion or to seek clarification about the school&rsquo;s sexuality education programme.</p>
+<p>12. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.</p>
