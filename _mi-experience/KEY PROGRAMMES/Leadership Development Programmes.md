@@ -26,3 +26,8 @@ third_nav_title: KEY PROGRAMMES
 </tr>
 </tbody>
 </table>
+<h4><strong>Key Highlights</strong></h4>
+<p><strong>Student-Initaiated School Activities<br /></strong>Platforms are provided for student leaders at the school level and beyond, to develop and hone their leadership skills through engagement in authentic projects. Student leaders are guided by teacher-mentors to conceptualise and organise school activities and events. Examples of such activities and events include Orientation, A-Division Cheering, Class Learning Day, Teachers&rsquo; Day, and National Day. Other opportunities to develop students as community leaders include participation in the Keep Singapore Clean movement and the National Day Parade.</p>
+<img style="width: 80%;" src="/images/ldp4.jpg" />
+<p><strong>Student Leadership Experience<br /></strong>This annual event is specially designed for potential CCA leaders and current class leaders. During this event, students participate in both indoor and outdoor team building activities to build and strengthen their collaboration, communication and management skills. After the event, students extend their learning when they apply these skills in planning and executing their CCA action plans. Some student leaders also step up and exercise their leadership skills in the planning and execution of PU1 bonding related activities in the following year.</p>
+<img style="width: 60%;" src="/images/ldp5.jpg" />
