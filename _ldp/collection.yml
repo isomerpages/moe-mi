@@ -2,8 +2,6 @@ collections:
   ldp:
     output: true
     order:
-      - CCE/.keep
-      - CCE/Character and Citizenship Education.md
       - Student Council.md
       - Senate.md
       - Houses.md
