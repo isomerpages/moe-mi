@@ -2,6 +2,7 @@ collections:
   ldp:
     output: true
     order:
+      - CCE/Sexuality Education.md
       - CCE/Character and Citizenship Education.md
       - CCE/.keep
       - Education and Career Guidance.md
