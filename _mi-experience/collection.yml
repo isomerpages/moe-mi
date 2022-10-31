@@ -2,6 +2,8 @@ collections:
   mi-experience:
     output: true
     order:
+      - DEPARTMENTS/.keep
+      - DEPARTMENTS/Departments.md
       - DEPARTMENTS/Business.md
       - DEPARTMENTS/English.md
       - DEPARTMENTS/Humanities.md
@@ -11,8 +13,6 @@ collections:
       - DEPARTMENTS/Physical Education.md
       - DEPARTMENTS/Project Work.md
       - DEPARTMENTS/Science.md
-      - DEPARTMENTS/Departments.md
-      - DEPARTMENTS/.keep
       - KEY PROGRAMMES/.keep
       - KEY PROGRAMMES/Key Programmes.md
       - KEY PROGRAMMES/Amethyst Talent Programme.md
