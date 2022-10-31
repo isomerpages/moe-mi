@@ -2,6 +2,7 @@ collections:
   ccas:
     output: true
     order:
+      - AESTHETICS/Angklung Kulintang Ensemble.md
       - AESTHETICS/Cultural Societies.md
       - AESTHETICS/Dance.md
       - AESTHETICS/Millennian Stage.md
