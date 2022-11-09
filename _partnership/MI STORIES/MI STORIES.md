@@ -11,8 +11,7 @@ third_nav_title: MI STORIES
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 33.3333%; text-align: center;"><a href="/partnership/alumni/mi-stories/mi-mettle-journey/sanchay" target=""><img src="/images/mmj1.png"></a><a href="/partnership/alumni/mi-stories/mi-mettle-journey/sanchay" target=""><div><strong>Sanchay</strong></div>
-<div>Class of 2019</div></a></td>
+<td style="width: 33.3333%; text-align: center;"><a href="/partnership/alumni/mi-stories/mi-mettle-journey/sanchay" target=""><img src="/images/mmj1.png"></a><a href="/partnership/alumni/mi-stories/mi-mettle-journey/sanchay" target=""><p><strong>Sanchay</strong><br>Class of 2019</p></a></td>
 <td style="width: 33.3333%; text-align: center;"><a href="https://www.millenniainstitute.moe.edu.sg/partnership/alumni/mi-stories/mi-mettle-journey/clarence-and-clester-cher" target="">Clarence and Clester Cher</a><a href="https://www.millenniainstitute.moe.edu.sg/partnership/alumni/mi-stories/mi-mettle-journey/clarence-and-clester-cher" target="">Clarence and Clester Cher</a></td>
 <td style="width: 33.3333%; text-align: center;"><a href="https://www.millenniainstitute.moe.edu.sg/partnership/alumni/mi-stories/mi-mettle-journey/nan-phyu-phyu-thin-dael" target="">Nan Phyu Phyu Thin Dael</a><a href="https://www.millenniainstitute.moe.edu.sg/partnership/alumni/mi-stories/mi-mettle-journey/nan-phyu-phyu-thin-dael" target="">Nan Phyu Phyu Thin Dael</a></td>
 </tr>
