@@ -3,28 +3,41 @@ links:
   - title: About Us
     url: /about-us
     sublinks:
-      - title: PRINCIPAL'S MESSAGE
+      - title: Principal's Message
         url: /about-us/principals-message
-      - title: OUR STAFF
+      - title: Our Staff
         url: /about-us/our-staff
-      - title: MI IDENTITY
+      - title: MI Identity
         url: /about-us/mi-identity
-      - title: MI VIRTUAL TOUR
+      - title: MI Virtual Tour
         url: /about-us/mi-virtual-tour
-      - title: MI VIDEOS
+      - title: MI Videos
         url: /about-us/mi-videos
   - title: Admission
     url: /admission
     sublinks:
-      - title: JAE APPEALS
+      - title: JAE Appeals
         url: /admission/jae-appeals
-      - title: RETURNING SINGAPOREANS
+      - title: Returning Singaporeans
         url: /admission/returning-singaporeans-international-students
-      - title: SUBJECT COMBINATION
+      - title: Subject Combination
         url: /admission/subject-combination
-      - title: FINANCIAL ASSISTANCE SCHEMES
+      - title: Financial Assistance Schemes
         url: /admission/financial-assistance-schemes
-      - title: PU1 ORIENTATION
+      - title: PU1 Orientation
         url: /admission/pu1-orientation
+  - title: MI Experience
+    url: /mi-experience
+    sublinks:
+      - title: Departments
+        url: /mi-experience/departments
+      - title: Key Programmes
+        url: /mi-experience/key-programmes
+      - title: Social Emotional Learning
+        url: /mi-experience/social-emotional-learning
+      - title: CCA
+        url: /mi-experience/cca
+      - title: Achievements
+        url: /mi-experience/achievements
   - title: Contact Us
     url: /mi/contact-us/
