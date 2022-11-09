@@ -2,4 +2,5 @@ collections:
   partnership:
     output: true
     order:
+      - PARENT SUPPORT GROUP.md
       - PARTNERSHIP.md
