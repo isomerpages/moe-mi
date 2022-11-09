@@ -1,4 +1,5 @@
 collections:
   partnership:
     output: true
-    order: []
+    order:
+      - PARTNERSHIP.md
