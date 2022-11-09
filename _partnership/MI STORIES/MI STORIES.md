@@ -31,7 +31,25 @@ third_nav_title: MI STORIES
 </li>
 <li><input id="accordion1" type="checkbox" /> <label for="accordion1">MI Beyond Academics</label>
 <div>
-<p>This is a simple one line item</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 33.3333%; text-align: center;"><a href="/partnership/alumni/mi-stories/mi-beyond-academics/nuur-hasanah-bte-noor-azman" target=""><img src="/images/mba1.png"></a><a href="/partnership/alumni/mi-stories/mi-beyond-academics/nuur-hasanah-bte-noor-azman" target=""><p><strong>Nuur Hasanah Bte Noor Azman</strong><br>Class of 2020</p></a></td>
+<td style="width: 33.3333%; text-align: center;"><a href="/partnership/alumni/mi-stories/mi-beyond-academics/rachel-ng" target=""><img src="/images/mba2.png"></a><a href="/partnership/alumni/mi-stories/mi-beyond-academics/rachel-ng" target=""><p><strong>Rachel Ng</strong><br>Class of 2020</p></a></td>
+<td style="width: 33.3333%; text-align: center;"><a href="/partnership/alumni/mi-stories/mi-beyond-academics/nurliyana-bte-mohd-hisham" target=""><img src="/images/mba3.png"></a><a href="/partnership/alumni/mi-stories/mi-beyond-academics/nurliyana-bte-mohd-hisham" target=""><p><strong>Nurliyana Bte Mohd Hisham</strong><br>Class of 2020</p></a></td>
+</tr>
+<tr>
+<td style="width: 33.3333%; text-align: center;"><a href="/partnership/alumni/mi-stories/mi-beyond-academics/aljess-lee-indian-cultural-society" target=""><img src="/images/mba4.png"></a><a href="/partnership/alumni/mi-stories/mi-beyond-academics/aljess-lee-indian-cultural-society" target=""><p><strong>Aljess Lee</strong><br>Class of 2018, Indian Cultural Society</p></a></td>
+<td style="width: 33.3333%; text-align: center;"><a href="/partnership/alumni/mi-stories/mi-beyond-academics/arabelle-ilankovan-read-with-me" target=""><img src="/images/mba5.png"></a><a href="/partnership/alumni/mi-stories/mi-beyond-academics/arabelle-ilankovan-read-with-me" target=""><p><strong>Arabelle Ilankovan</strong><br>Class of 2018, Service Learning Club</p></a></td>
+<td style="width: 33.3333%; text-align: center;"><a href="/partnership/alumni/mi-stories/mi-beyond-academics/norman-wong-smu-yic" target=""><img src="/images/mba6.png"></a><a href="/partnership/alumni/mi-stories/mi-beyond-academics/norman-wong-smu-yic" target=""><p><strong>Norman Wong</strong><br>Class of 2017, SMU YIC</p></a></td>
+</tr>
+<tr>
+<td style="width: 33.3333%; text-align: center;"><a href="/partnership/alumni/mi-stories/mi-beyond-academics/samantha-foo-hockey-girls" target=""><img src="/images/mba7.png"></a><a href="/partnership/alumni/mi-stories/mi-beyond-academics/samantha-foo-hockey-girls" target=""><p><strong>Samantha Foo</strong><br>Class of 2017, Hockey Girls</p></a></td>
+<td style="width: 33.3333%; text-align: center;">&nbsp;</td>
+<td style="width: 33.3333%; text-align: center;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
 </div>
 </li>
 </ul>
