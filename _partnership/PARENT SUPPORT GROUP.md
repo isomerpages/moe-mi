@@ -25,7 +25,7 @@ description: ""
 <td style="width: 50%;"><img src="/images/psg2.png"></td>
 </tr>
 <tr>
-<td colspan = "2"><img style="width: 50%;" src="/images/psg3.png"></td>
+<td colspan = "2"><img style="width: 60%;" src="/images/psg3.png"></td>
 </tr>
 </tbody>
 </table>
