@@ -2,6 +2,7 @@ collections:
   partnership:
     output: true
     order:
+      - MI STORIES/.keep
       - STAY CONNECTED.md
       - UPDATE FOR PARENTS.md
       - PARENT SUPPORT GROUP.md
