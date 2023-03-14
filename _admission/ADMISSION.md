@@ -26,8 +26,11 @@ description: ""
 <div><strong><u>OR</u></strong>&nbsp;Chinese Language &lsquo;B&rsquo; Syllabus, Malay Language &lsquo;B&rsquo; Syllabus, Tamil Language &lsquo;B&rsquo; Syllabus</div>
 </td>
 <td style="text-align: center;">
+<p>
 <div>A1 to D7</div>
+
 <div>A1 to E8</div>
+<p>
 <div>Merit or Pass</div>
 </td>
 </tr>
@@ -37,7 +40,8 @@ description: ""
 <div>Mathematics</div>
 <div><span style="text-decoration: underline;"><strong>OR</strong></span> Additional Mathematics</div>
 </td>
-<td style="text-align: center;">A1 to D7<br />A1 to D7</td>
+<td style="text-align: center;">
+<p>A1 to D7<br />A1 to D7</td>
 </tr>
 </tbody>
 </table>
