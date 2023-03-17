@@ -8,7 +8,7 @@ description: ""
 <td style="width: 50%; text-align: center;">
 <h4><strong>MI Teachers</strong></h4> 
 	<p> <iframe width="560" height="315" src="https://www.youtube.com/embed/n4TYjyynEok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
-</td>
+
 </tr>
 </tbody>
 </table>
