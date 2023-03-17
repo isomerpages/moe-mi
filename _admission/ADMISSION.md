@@ -8,18 +8,14 @@ description: ""
 <table style="border-collapse:collapse;border:none;mso-yfti-tbllook:1184;mso-padding-alt:
  0cm 5.4pt 0cm 5.4pt;mso-border-insideh:none;mso-border-insidev:none" cellpadding="0" cellspacing="0" border="0" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:1.0cm;padding:0cm 5.4pt 0cm 5.4pt" width="38"><p style="margin-top:6.0pt;margin-right:0cm;margin-bottom:
   6.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph;
-  line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin">1.</span></p></td><td style="width:439.15pt;padding:0cm 5.4pt 0cm 5.4pt" width="586"><p style="margin-top:6.0pt;margin-right:0cm;margin-bottom:
-  6.0pt;margin-left:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">Aggregate Range for L1R4 </span><span style="font-size:12.0pt;font-family:DengXian;
-  mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:
-  minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin" lang="ZH-CN">≤</span><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin"> 20.</span></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes;height:17.75pt"><td style="width:1.0cm;padding:0cm 5.4pt 0cm 5.4pt;height:17.75pt" width="38"><p style="margin-top:6.0pt;margin-right:0cm;margin-bottom:
-  6.0pt;margin-left:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:black">2.</span></p></td><td style="width:439.15pt;padding:0cm 5.4pt 0cm 5.4pt;height:17.75pt" width="586"><p style="margin-top:6.0pt;margin-right:0cm;margin-bottom:
-  6.0pt;margin-left:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:black">Meet Subject Requirements:</span></p></td></tr></tbody></table>
+  line-height:normal" class="MsoNormal">1.</p></td><td style="width:439.15pt;padding:0cm 5.4pt 0cm 5.4pt" width="586"><p style="margin-top:6.0pt;margin-right:0cm;margin-bottom:
+  6.0pt;margin-left:0cm;line-height:normal" class="MsoNormal">Aggregate Range for L1R4 ≤ 20. </p></td></tr></tbody></table>
+
+<table style="border-collapse:collapse;border:none;mso-yfti-tbllook:1184;mso-padding-alt:
+ 0cm 5.4pt 0cm 5.4pt;mso-border-insideh:none;mso-border-insidev:none" cellpadding="0" cellspacing="0" border="0" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
+<td style="width:1.0cm;padding:0cm 5.4pt 0cm 5.4pt;height:17.75pt" width="38"><p style="margin-top:6.0pt;margin-right:0cm;margin-bottom:
+  6.0pt;margin-left:0cm;line-height:normal" class="MsoNormal">2.</p></td><td style="width:439.15pt;padding:0cm 5.4pt 0cm 5.4pt;height:17.75pt" width="586"><p style="margin-top:6.0pt;margin-right:0cm;margin-bottom:
+  6.0pt;margin-left:0cm;line-height:normal" class="MsoNormal">Meet Subject Requirements:</p></td></tr></tbody></table>
 
 
 <table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-yfti-tbllook:1184;mso-padding-alt:
