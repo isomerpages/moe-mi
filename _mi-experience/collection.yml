@@ -2,6 +2,7 @@ collections:
   mi-experience:
     output: true
     order:
+      - MI Stories/.keep
       - MI EXPERIENCE.md
       - DEPARTMENTS/.keep
       - DEPARTMENTS/Departments.md
