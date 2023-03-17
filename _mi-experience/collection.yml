@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - MI STORIES/.keep
-      - MI Stories/CLARENCE AND CLESTER CHER.md
       - MI Stories/SANCHAY.md
       - MI Stories/MI STORIES.md
       - MI Stories/.keep
