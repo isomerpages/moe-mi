@@ -87,45 +87,5 @@ description: ""
 
 
 
-
-<table>
-<tbody>
-<tr>
-<th style="text-align: center;">Subject</th>
-<th style="text-align: center;">Requirement</th>
-</tr>
-<tr>
-<td>English Language</td>
-<td style="text-align: center;">A1 to C6</td>
-</tr>
-<tr>
-<td>
-<div>Mother Tongue Language:</div>
-<div>Chinese Language, Malay Language, Tamil Language</div>
-<div><strong><u>OR</u></strong>&nbsp;Higher Chinese Language, Higher Malay Language, Higher Tamil Language</div>
-<div><strong><u>OR</u></strong>&nbsp;Chinese Language ‘B’ Syllabus, Malay Language ‘B’ Syllabus, Tamil Language ‘B’ Syllabus</div>
-</td>
-<td style="text-align: center;">
-<p>
-</p><div>A1 to D7</div>
-
-<div>A1 to E8</div>
-<p>
-</p><div>Merit or Pass</div>
-</td>
-</tr>
-<tr>
-<td>
-<div>Mathematics:</div>
-<div>Mathematics</div>
-<div><span style="text-decoration: underline;"><strong>OR</strong></span> Additional Mathematics</div>
-</td>
-<td style="text-align: center;">
-<p>A1 to D7<br>A1 to D7</p></td>
-</tr>
-</tbody>
-</table>
-  
-
 <p style="text-align:justify;">Students who satisfy the conditional admission criteria and are conditionally admitted to Millennia Institute would be required to re-sit for the relevant language and/or mathematics papers by the following year’s GCE ‘O’ Level Examination.</p>
 <p>For more information, please access the&nbsp;<a rel="noopener" target="_blank" href="https://www.moe.gov.sg/post-secondary/admissions/jae/admission-criteria">MOE website</a>.</p>
