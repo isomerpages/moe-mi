@@ -2,7 +2,6 @@ collections:
   mi-experience:
     output: true
     order:
-      - MI STORIES.md
       - MI EXPERIENCE.md
       - DEPARTMENTS/.keep
       - DEPARTMENTS/Departments.md
@@ -30,3 +29,4 @@ collections:
       - SOCIAL EMOTIONAL LEARNING/Student Management.md
       - CCA.md
       - ACHIEVEMENTS.md
+      - MI STORIES.md
