@@ -202,7 +202,7 @@ description: ""
 <p>MATH</p>
 </td>
 <td style="text-align: center;" width="318">
-<p>GEO/HIST/ELIT/BIO/CHEM/PHY</p>
+<p>HIST/ELIT/BIO/CHEM/PHY</p>
 </td>
 </tr>
 <tr>
@@ -236,7 +236,7 @@ description: ""
 <p>MATH</p>
 </td>
 <td style="text-align: center;" width="318">
-<p>ECONS/GEO/HIST/ELIT/BIO/CHEM/PHY</p>
+<p>ECONS/HIST/ELIT/BIO/CHEM/PHY</p>
 </td>
 </tr>
 <tr>
@@ -287,7 +287,7 @@ description: ""
 <p>MATH</p>
 </td>
 <td style="text-align: center;" width="318">
-<p>GEO/HIST/ELIT/BIO/CHEM/PHY<sup>#</sup></p>
+<p>HIST/ELIT/BIO/CHEM/PHY<sup>#</sup></p>
 </td>
 </tr>
 <tr>
@@ -304,7 +304,7 @@ description: ""
 <p>ECONS</p>
 </td>
 <td style="text-align: center;" width="318">
-<p>GEO/HIST/ELIT/CHEM/PHY</p>
+<p>HIST/ELIT/CHEM/PHY</p>
 </td>
 </tr>
 <tr>
