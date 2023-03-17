@@ -3,8 +3,8 @@ title: SUBJECT COMBINATION
 permalink: /admission/subject-combination/
 description: ""
 ---
-<p>Millennia Institute offers the GCE A-Level curriculum to our students. All students are required to offer 10 to 12 Academic Units of study including two compulsory Knowledge Skills subjects (General Paper and Project Work), four content-based subjects and Mother Tongue Language.</p>
-<p>All A-Level subjects are classified at H1, H2 or H3 level. General Paper, Project Work and Mother Tongue Language are H1 subjects. Of the four content-based subjects, students offer three at H2 level and one at H1 level. The combinations of the four content-based subjects offered by the Institute are shown in the table below:</p>
+<p style="text-align:justify;">Millennia Institute offers the GCE A-Level curriculum to our students. All students are required to offer 10 to 12 Academic Units of study including two compulsory Knowledge Skills subjects (General Paper and Project Work), four content-based subjects and Mother Tongue Language.</p>
+<p style="text-align:justify;">All A-Level subjects are classified at H1, H2 or H3 level. General Paper, Project Work and Mother Tongue Language are H1 subjects. Of the four content-based subjects, students offer three at H2 level and one at H1 level. The combinations of the four content-based subjects offered by the Institute are shown in the table below:</p>
 <table>
 <tbody>
 <tr>
@@ -496,20 +496,22 @@ description: ""
 </tr>
 </tbody>
 </table>
+
+
 <p><strong>Note:</strong></p>
-<p><sup>*</sup>AC01, AC02 and AC03 are offered to students in Arts and Commerce streams.</p>
-<p><sup>#</sup>CS01 is offered to students in Commerce and Science streams. Students in Science stream who choose to offer CS01 must choose H1BIO, H1CHEM or H1PHY as the H1 content-based subject.</p>
-<p>^Students who wish to offer S05 or S06 must have the following assumed knowledge at GCE O-Level: </p>
+<p style="text-align:justify;"><sup>*</sup>AC01, AC02 and AC03 are offered to students in Arts and Commerce streams.</p>
+<p style="text-align:justify;"><sup>#</sup>CS01 is offered to students in Commerce and Science streams. Students in Science stream who choose to offer CS01 must choose H1BIO, H1CHEM or H1PHY as the H1 content-based subject.</p>
+<p style="text-align:justify;">^Students who wish to offer S05 or S06 must have the following assumed knowledge at GCE O-Level: </p>
 <ul>
-<li>Achieved at least C6 in both relevant Pure Science subjects at GCE O-Level OR</li>
-<li>Achieved at least C6 in one relevant Pure Science subject AND at least B4 in one relevant Combined Science subject at GCE O-Level OR</li>
-<li>Achieved at least A2 in one relevant Combined Science subject AND at least C6 in Additional Mathematics at GCE O-Level.</li>
+<li><p style="text-align:justify;"> Achieved at least C6 in both relevant Pure Science subjects at GCE O-Level <u><strong>OR</strong></u></p></li>
+<li><p style="text-align:justify;">Achieved at least C6 in one relevant Pure Science subject AND at least B4 in one relevant Combined Science subject at GCE O-Level <u><strong>OR</strong></u></p></li>
+<li><p style="text-align:justify;">Achieved at least A2 in one relevant Combined Science subject AND at least C6 in Additional Mathematics at GCE O-Level.</></li>
 </ul>
 <h4><strong>Considerations to Note</strong></h4>
-<p><strong>Merit-Based Allocation</strong></p>
-<p>Students are allocated to their choice of subject combination based on academic merit, including their L1R4 aggregate score or equivalent, and performance in the relevant subject(s). The allocation also depends on the number of places that are available for each subject. In the event that a subject is oversubscribed, allocation is done based on academic merit.</p>
+<strong>Merit-Based Allocation</strong></p>
+<p style="text-align:justify;">Students are allocated to their choice of subject combination based on academic merit, including their L1R4 aggregate score or equivalent, and performance in the relevant subject(s). The allocation also depends on the number of places that are available for each subject. In the event that a subject is oversubscribed, allocation is done based on academic merit.</p>
 <p><strong>Assumed Knowledge</strong></p>
-<p>Students who chose to offer&nbsp;<u>Science and Mathematics subjects</u>&nbsp;need to be aware of the assumed knowledge<sup>1</sup>&nbsp;of the corresponding subject at GCE O-Level.</p>
+<p style="text-align:justify;">Students who chose to offer&nbsp;<u>Science and Mathematics subjects</u>&nbsp;need to be aware of the assumed knowledge<sup>1</sup>&nbsp;of the corresponding subject at GCE O-Level.</p>
 <table>
 <tbody>
 <tr>
