@@ -2,6 +2,7 @@ collections:
   mi-experience:
     output: true
     order:
+      - MI STORIES/SANCHAY.md
       - MI STORIES/CLARENCE AND CLESTER CHER.md
       - MI STORIES/.keep
       - MI Stories/MI STORIES.md
