@@ -47,16 +47,3 @@ description: ""
 </table>
 <p><br />Students who satisfy the conditional admission criteria and are conditionally admitted to Millennia Institute would be required to re-sit for the relevant language and/or mathematics papers by the following year&rsquo;s GCE &lsquo;O&rsquo; Level Examination.</p>
 <p>For more information, please access the&nbsp;<a href="https://www.moe.gov.sg/post-secondary/admissions/jae/admission-criteria" target="_blank" rel="noopener">MOE website</a>.</p>
-<table border="1">
-<tbody>
-<tr>
-<td><a href="/admission/jae-appeals"><img src="/images/ad1.png"></a></td>
-<td><a href="/admission/returning-singaporeans-international-students"><img src="/images/ad2.png"></a></td>
-<td><a href="/admission/subject-combination"><img src="/images/ad3.png"></a></td>
-</tr>
-<tr>
-<td><a href="/admission/financial-assistance-schemes"><img src="/images/ad4.png"></a></td>
-<td><a href="/admission/pu1-orientation"><img src="/images/ad5.png"></a></td>
-</tr>
-</tbody>
-</table>
