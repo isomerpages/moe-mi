@@ -3,7 +3,7 @@ url: https://www.millenniainstitute.moe.edu.sg
 favicon: /images/logos.jpg
 colors:
   primary-color: "#0047ba"
-  secondary-color: "#f8282b"
+  secondary-color: "#cc2647"
   media-colors:
     - title: media-color-one
       color: "#000000"
