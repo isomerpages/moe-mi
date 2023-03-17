@@ -2,6 +2,7 @@ collections:
   mi-experience:
     output: true
     order:
+      - MI STORIES/NAN PHYU PHYU THIN DAEL.md
       - MI STORIES/MI STORIES.md
       - MI STORIES/SANCHAY.md
       - MI STORIES/CLARENCE AND CLESTER CHER.md
