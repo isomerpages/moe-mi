@@ -3,10 +3,6 @@ title: MI VIDEOS
 permalink: /about-us/mi-videos/
 description: ""
 ---
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 50%; text-align: center;">
 <h4><strong>Millennia Institute Corporate Video</strong></h4>
 	<p> <iframe width="550" height="309" src="https://www.youtube.com/embed/Wjt3FtojvFs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <td style="width: 50%; text-align: center;">
