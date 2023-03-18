@@ -10,7 +10,7 @@ description: ""
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 50%;"><img style="width: 80%;" src="/images/via1.jpg" /></td>
+<td style="width:50%;"><img style="width: 80%;" src="/images/via1.jpg" /></td>
 <td style="width: 50%;"><img style="width: 60%;" src="/images/via2.png" /></td>
 </tr>
 </tbody>
@@ -18,4 +18,4 @@ description: ""
 
 <strong>Student-initiated VIA Projects</strong> 
 <p style="text-align:justify;">To provide ownership, engagement and empowerment, students are encouraged to champion and lead community involvement and environmental projects. This promotes student activism for social and environmental causes that improve the lives of others. Past projects included a buddy reading programme with Delta Senior School, monthly befriending visits to All Saints Home (Jurong), the HP Make IT Green Initiative E-Waste Donation Drive, and fund-raising for a cause as part of the annual Citi-YMCA Youth for Causes in 2017, 2018 and 2020.</p>
-<img style="width: 50%;" src="/images/via3.jpg" />
+<img style="width: %;" src="/images/via3.jpg" />
