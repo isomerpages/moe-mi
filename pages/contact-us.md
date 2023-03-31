@@ -14,10 +14,17 @@ locations:
   - address:
       - Bukit Batok West Avenue 3
       - "[157, 174/174e, 178, 506, 991]"
-      - ""
-    title: How to Get Here
+      - "Bus stop code: 43341 & 43349."
     operating_hours: []
     maps_link: https://goo.gl/maps/pvUgJFtdrhqZd5Z48
+    title: How to Get Here
+  - address:
+      - Bukit Batok West Avenue 8
+      - "[ 941, 991]"
+      - "Bus stop code: 40329 & 40321."
+    title: ""
+    operating_hours: []
+    maps_link: https://goo.gl/maps/VdLhFQ3Empm3zfF99
 contacts:
   - content:
       - phone: +65 6302 3700
