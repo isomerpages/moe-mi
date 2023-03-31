@@ -5,7 +5,7 @@ description: ""
 third_nav_title: SPORTS
 ---
 <font size="3">
-<table border="0" cellspacing="0" cellpadding="0">
+</font><table border="0" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
 <td width="616"><strong>Teacher-in-charge:&nbsp;</strong>Mdm Giam Suyin, Mr Mohammed Fadzil Bin Dawood, Mdm Chee Poh Leng, Mr Ooi Teck Chye</td>
@@ -30,5 +30,5 @@ third_nav_title: SPORTS
 </td>
 </tr>
 </tbody>
+
 </table>
-</font>
