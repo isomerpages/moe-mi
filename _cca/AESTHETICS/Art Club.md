@@ -7,13 +7,13 @@ third_nav_title: AESTHETICS
 <table>
 <tbody>
 <tr>
-<td width="616"><strong>Teacher-in-charge:&nbsp;</strong>Mdm Er Kia Hui, Mr Ghazrizal Azry Ghazali Nor</td>
+<td width="616"><strong>Teacher-in-charge:&nbsp;</strong>Mdm Er Kia Hui, Mr Ghazrizal Azry Ghazali Nor, Ms Lim Zhen Ting Jodyn</td>
 </tr>
 <tr>
 <td width="616"><strong>Training Days:&nbsp;</strong>Wednesday&nbsp;(2.30 pm - 4.30 pm) and Friday (2.30 pm - 4.30 pm)</td>
 </tr>
 <tr>
-<td width="616"><strong>Important Events:</strong><br />
+<td width="616"><strong>Important Events:</strong><br>
 <ul>
 <li>Cultural Exchange Workshops</li>
 <li>Art Entrepreneurship Programme</li>
@@ -27,7 +27,7 @@ third_nav_title: AESTHETICS
 </td>
 </tr>
 <tr>
-<td width="616"><strong>Key Achievements in the past three years:</strong><br />
+<td width="616"><strong>Key Achievements in the past three years:</strong><br>
 <ul>
 <li>'The Water Story' Mural Painting at PUB Van Kleef Centre 2017</li>
 <li>Hong Kah North PAssion Arts Festival 2017 3D Pen Ary Student-led Workshops</li>
