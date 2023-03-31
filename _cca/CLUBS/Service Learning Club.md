@@ -7,7 +7,7 @@ third_nav_title: CLUBS
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
-<td><strong>Teacher-in-charge:&nbsp;</strong>Mr Lee Jake Hooi, Mdm Apetroaie Gabriela</td>
+<td><strong>Teacher-in-charge:&nbsp;</strong>Ms Kelly Tan Sin Yee, Mrs Tamilselvi Siva, Mr Jonah Chua En Huang</td>
 </tr>
 <tr>
 <td><strong>Training Days:&nbsp;</strong>Wednesday</td>
@@ -15,20 +15,13 @@ third_nav_title: CLUBS
 <tr>
 <td><strong>Important Events:</strong><br>
 <ul>
-<li>Fortnightly debates during CCA meetings</li>
-<li>Preparations for competitions (Singapore Model Cabinet, Singapore Model United Nations)</li>
-<li>Singapore International Relations Conference</li>
-<li>River Valley Model United Nations</li>
-<li>One People Model United Nations</li>
-<li>Hwa Chong Conflict Resolution and Inquiry</li>
-</ul>
-</td>
+<li>MI Social Bazaar</li>
+</ul></td>
 </tr>
 <tr>
 <td><strong>Key Achievements in the past three years:</strong><br>
 <ul>
-<li>Organised school's annual International Friendship Day</li>
-<li>Active collaboration in fundraising projects with People's Association Youth Movement (2017)</li>
+<li>&nbsp;</li>
 </ul>
 </td>
 </tr>
