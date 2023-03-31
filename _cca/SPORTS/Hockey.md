@@ -4,24 +4,23 @@ permalink: /mi-experience/cca/sports/hockey/
 description: ""
 third_nav_title: SPORTS
 ---
-
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
-<td width="616"><strong>Teacher-in-charge:</strong>&nbsp;Mr Roslan Taib, Mr See Kurt Wei, Mdm Shirlyn Wu Yuen Yi, Mr Tommy Kee</td>
+<td width="616"><strong>Teacher-in-charge:</strong>&nbsp;Mr Roslan Taib, Mr See Kurt Wei, Mr Tommy Kee Yongxiang, Mr Ong Yong Yang</td>
 </tr>
 <tr>
 <td width="616"><strong>Training Days:</strong>&nbsp;Monday, Wednesday and Friday</td>
 </tr>
 <tr>
-<td width="616"><strong>Important Events:</strong><br />
+<td width="616"><strong>Important Events:</strong><br>
 <ul>
 <li>National Inter-School Hockey</li>
 </ul>
 </td>
 </tr>
 <tr>
-<td width="616"><strong>Key Achievements in the past three years:</strong><br />
+<td width="616"><strong>Key Achievements in the past three years:</strong><br>
 <div>
 <div>
 <ul>
