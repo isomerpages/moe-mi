@@ -286,6 +286,9 @@ $desktop: 960px + (2 * $gap) !default;
 		font-size: 16px;
 		text-align: justify;
 	}
+	table {
+		border: 0px;
+	}
 }
 
 // Media category buttons - not used now but will be used in the future
