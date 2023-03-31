@@ -7,7 +7,7 @@ third_nav_title: SPORTS
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
-<td width="616"><strong>Teacher-in-charge:&nbsp;</strong>Mdm Giam Suyin, Mr Mohammed Fadzil Bin Dawood, Mdm Chee Poh Leng, Mr Ooi Teck Chye</td>
+<td width="616"><strong>Teacher-in-charge:&nbsp;</strong>Mdm Giam Suyin, Mr Mohammed Fadzil Dawood, Ms Voon Xin Yi, Mr Wee Chong Lin</td>
 </tr>
 <tr>
 <td width="616"><strong>Training Days:</strong>&nbsp;Wednesday (3.30 pm - 5.30 pm), Friday (2.30 pm - 4 pm)</td>
