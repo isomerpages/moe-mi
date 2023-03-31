@@ -38,7 +38,7 @@ description: ""
 </tr>
 <tr>
 <td style="width: 33.3333%;"><a href="/mi-experience/cca/aesthetics/dance"><img src="/images/cca12.png"></a></td>
-<td style="width: 33.3333%;"><a href="/mi-experience/cca/aesthetics/millennian-stage"><img src="/images/cca13.png"></a></td>
+<td style="width: 33.3333%;"><a href="/mi-experience/cca/aesthetics/eldds"><img src="/images/cca22.png"></a></td>
 <td style="width: 33.3333%;"><a href="/mi-experience/cca/aesthetics/symphonic-band"><img src="/images/cca14.png"></a></td>
 </tr>
 </tbody>
@@ -52,25 +52,7 @@ description: ""
 <tr>
 <td style="width: 33.3333%;"><a href="/mi-experience/cca/clubs/entrepreneurship-club"><img src="/images/cca15.png"></a></td>
 <td style="width: 33.3333%;"><a href="/mi-experience/cca/clubs/new-media-club"><img src="/images/cca16.png"></a></td>
-<td style="width: 33.3333%;"><a href="/mi-experience/cca/clubs/young-diplomats-society"><img src="/images/cca17.png"></a></td>
-</tr>
-<tr>
-<td style="width: 33.3333%;"><a href="/mi-experience/cca/clubs/youth-literary-society"><img src="/images/cca18.png"></a></td>
-<td style="width: 33.3333%;">&nbsp;</td>
-<td style="width: 33.3333%;">&nbsp;</td>
-</tr>
-</tbody>
-</table>
-</div>
-</li>
-<li>Student-Initiated Interest Group
-<div>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 33.3333%;"><img src="/images/cca19.png"></td>
-<td style="width: 33.3333%;"><img src="/images/cca20.png"></td>
-<td style="width: 33.3333%;">&nbsp;</td>
+<td style="width: 33.3333%;"><a href="/mi-experience/cca/clubs/service-learning-club"><img src="/images/cca21.png"></a></td>
 </tr>
 </tbody>
 </table>
