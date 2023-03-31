@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage/DSC04498.jpg
+      background: /images/banner.gif
   - resources:
       title: Highlights
       button: More Highlights
