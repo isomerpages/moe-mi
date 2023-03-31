@@ -5,7 +5,7 @@ permalink: /contact-us/
 agency_name: Millennia Institute
 locations:
   - address:
-      - 60 Bukit Batok West
+      - 60 Bukit Batok West Avenue 8
       - Singapore 658965
       - ""
     operating_hours: []
