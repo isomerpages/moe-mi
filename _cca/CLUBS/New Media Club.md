@@ -13,17 +13,18 @@ third_nav_title: CLUBS
 <td width="616"><strong>Training Days:</strong>&nbsp;Wednesday (2.30 pm - 5.30 pm), Friday (Events-dependent)</td>
 </tr>
 <tr>
-<td width="616"><strong>Important Events:</strong><br />
+<td width="616"><strong>Important Events:</strong><br>
 <ul>
 <li>Basic Photography / Videography and Photoshop Workshop</li>
 <li>Coding Workshop</li>
-<li>Aerial Photocopy using drone</li>
+<li>3D Printing Workshop</li>
 <li>AVIT Support for School Events</li>
+	<li>Cyber Wellness Advocacy</li>
 </ul>
 </td>
 </tr>
 <tr>
-<td width="616"><strong>Key Achievements in the past three years:</strong><br />
+<td width="616"><strong>Key Achievements in the past three years:</strong><br>
 <ul>
 <li>2nd Place in 2016 VJC Canon Expose IX Playmobil Macro Photography Competition</li>
 </ul>
