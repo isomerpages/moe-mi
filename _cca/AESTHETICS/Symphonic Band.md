@@ -7,7 +7,7 @@ third_nav_title: AESTHETICS
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
-<td width="616"><strong>Teacher-in-charge:&nbsp;</strong>Mr Sai Chang Sheng Dillon, Ms Thia Shi Hui, Mr Kelvin Thiang Perng Meng</td>
+<td width="616"><strong>Teacher-in-charge:&nbsp;</strong>Mr Dillon Sai Chang Sheng, Ms Thia Shi Hui, Mr Kelvin Thiang Perng Meng</td>
 </tr>
 <tr>
 <td width="616"><strong>Training Days:</strong>&nbsp;Wednesday and Friday</td>
