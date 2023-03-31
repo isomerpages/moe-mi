@@ -5,7 +5,7 @@ description: ""
 ---
 <h4><strong>Sports</strong></h4>
 <div>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 33.3333%;"><a href="/mi-experience/cca/sports/basketball"><img src="/images/cca2.png"></a></td>
@@ -23,7 +23,7 @@ description: ""
 
 <h4><strong>Aesthetics</strong></h4>
 <div>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 33.3333%;"><a href="/mi-experience/cca/aesthetics/art-club"><img src="/images/cca9.png"></a></td>
@@ -41,7 +41,7 @@ description: ""
 
 <h4><strong>Clubs</strong></h4>
 <div>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 33.3333%;"><a href="/mi-experience/cca/clubs/entrepreneurship-club"><img src="/images/cca15.png"></a></td>
