@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/banner.gif
+      background: /images/mi splash page2-min.gif
   - resources:
       title: Highlights
       button: More Highlights
