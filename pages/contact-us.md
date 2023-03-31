@@ -16,7 +16,7 @@ contacts:
       - phone: +65 6302 3700
       - email: millennia_inst@moe.edu.sg
       - other: ""
-    title: Telephone
+    title: Telephone / Email
   - content:
       - phone: +65 6302 3767
       - email: ""
