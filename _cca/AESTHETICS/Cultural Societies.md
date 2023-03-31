@@ -7,7 +7,7 @@ third_nav_title: AESTHETICS
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
-<td width="669"><strong>Teacher-in-charge:</strong>&nbsp;Mdm Li Qiu Jue, Mr Mohd Fuad Bin Salim, Mrs Rajarajan Hemalatha</td>
+<td width="669"><strong>Teacher-in-charge:</strong>&nbsp;Mdm Li Qiu Jue, Mr Mohd Fuad Salim, Mrs Rajarajan Hemalatha</td>
 </tr>
 <tr>
 <td width="669"><strong>Training Days:</strong>&nbsp;Wednesday (3.00 pm - 5.00 pm) and Friday (1.00 pm - 3.00 pm)</td>
