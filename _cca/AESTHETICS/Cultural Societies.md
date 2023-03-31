@@ -7,13 +7,13 @@ third_nav_title: AESTHETICS
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
-<td width="669"><strong>Teacher-in-charge:</strong>&nbsp;Ms Siti Mardiana, Mdm Li Qiu Jue, Mdm Marnee Suhiat, Mrs Rajarajan Hemalatha, Mr Wee Chong Lin</td>
+<td width="669"><strong>Teacher-in-charge:</strong>&nbsp;Mdm Li Qiu Jue, Mr Mohd Fuad Bin Salim, Mrs Rajarajan Hemalatha</td>
 </tr>
 <tr>
 <td width="669"><strong>Training Days:</strong>&nbsp;Wednesday (3.00 pm - 5.00 pm) and Friday (1.00 pm - 3.00 pm)</td>
 </tr>
 <tr>
-<td width="669"><strong>Important Events:</strong><br />
+<td width="669"><strong>Important Events:</strong><br>
 <ul>
 <li>Singapore Youth Festival (Dance)</li>
 <li>Singapore Youth Festival (Drama)</li>
@@ -25,7 +25,7 @@ third_nav_title: AESTHETICS
 </td>
 </tr>
 <tr>
-<td width="669"><strong>Key Achievements in the past three years:</strong><br />
+<td width="669"><strong>Key Achievements in the past three years:</strong><br>
 <ul>
 <li>Certificate of Distinction in Singapore Youth Festival 2021 (Malay Dance)</li>
 <li>Certificate of Distinction in Singapore Youth Festival 2019 (Malay Dance &amp; Indian Dance)</li>
