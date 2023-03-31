@@ -270,6 +270,12 @@ $desktop: 960px + (2 * $gap) !default;
 	blockquote > ul {
 		color: $secondary;
 	}
+	ul > li {
+		font-size: 3px;
+	}
+	ol > li {
+		font-size: 3px;
+	}
 }
 
 // Media category buttons - not used now but will be used in the future
