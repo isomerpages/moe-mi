@@ -2,6 +2,15 @@ collections:
   ccas:
     output: true
     order:
+      - SPORTS/.keep
+      - SPORTS/Badminton.md
+      - SPORTS/Basketball.md
+      - SPORTS/Cross Country.md
+      - SPORTS/Floorball.md
+      - SPORTS/Football (Boys).md
+      - SPORTS/Football (Girls).md
+      - SPORTS/Hockey.md
+      - SPORTS/Netball.md
       - AESTHETICS/.keep
       - AESTHETICS/Art Club.md
       - AESTHETICS/Angklung Kulintang Ensemble.md
@@ -14,12 +23,3 @@ collections:
       - CLUBS/New Media Club.md
       - CLUBS/Young Diplomats Society.md
       - CLUBS/Youth Literary Society.md
-      - SPORTS/.keep
-      - SPORTS/Badminton.md
-      - SPORTS/Basketball.md
-      - SPORTS/Cross Country.md
-      - SPORTS/Floorball.md
-      - SPORTS/Football (Boys).md
-      - SPORTS/Football (Girls).md
-      - SPORTS/Hockey.md
-      - SPORTS/Netball.md
