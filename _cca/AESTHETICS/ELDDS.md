@@ -7,10 +7,10 @@ third_nav_title: AESTHETICS
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
-<td width="616"><strong>Teacher-in-charge:&nbsp;</strong>Ms Jamaliah Othman, Ms Jamie Shen, Mr Christopher Tay Rong Shenq, Mr Bernard Tay Guan Wei</td>
+<td width="616"><strong>Teacher-in-charge:&nbsp;</strong>Ms Jamie Shen Liwen, Ms Jamaliah Othman, Mr Christopher Tay Rong Shenq, Mr Bernard Tay Guan Wei</td>
 </tr>
 <tr>
-<td width="616"><strong>Training Days:</strong> Wednesday(2.30 pm - 5.30 pm) and&nbsp;Friday&nbsp;(1.30 pm - 4.30 pm)</td>
+<td width="616"><strong>Training Days:</strong> Wednesday (2.30 pm - 5.30 pm) and&nbsp;Friday&nbsp;(1.30 pm - 4.30 pm)</td>
 </tr>
 <tr>
 <td width="616"><strong>Important Events:</strong><br>
