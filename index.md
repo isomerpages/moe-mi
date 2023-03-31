@@ -8,6 +8,7 @@ notification: ""
 sections:
   - hero:
       background: /images/mi splash page2-min.gif
+      height: 504
   - resources:
       title: Highlights
       button: More Highlights
