@@ -7,13 +7,13 @@ third_nav_title: CLUBS
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
-<td width="616"><strong>Teacher-in-charge:</strong>&nbsp;Mrs Selina Wee, Mr Foo Yong Kuan</td>
+<td width="616"><strong>Teacher-in-charge:</strong>&nbsp;Mrs Selina Wee, Mr Tay Yong Khiang Jason</td>
 </tr>
 <tr>
 <td width="616"><strong>Training Days:</strong>&nbsp;Wednesday and Friday</td>
 </tr>
 <tr>
-<td width="616"><strong>Important Events:</strong><br />
+<td width="616"><strong>Important Events:</strong><br>
 <ul>
 <li>Social Bazaar</li>
 <li>National Cashflow Competition</li>
@@ -25,7 +25,7 @@ third_nav_title: CLUBS
 </td>
 </tr>
 <tr>
-<td width="616"><strong>Key Achievements in the past three years:</strong><br />
+<td width="616"><strong>Key Achievements in the past three years:</strong><br>
 <ul>
 <li>
 <div>Prudential Young TrailBlazers Competition 2020 - Overall Champion &amp; Best Innovation</div>
