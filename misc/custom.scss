@@ -272,9 +272,19 @@ $desktop: 960px + (2 * $gap) !default;
 	}
 	ul > li {
 		font-size: 16px;
+		text-align: justify;
 	}
 	ol > li {
 		font-size: 16px;
+		text-align: justify;
+	}
+	p {
+		font-size: 16px;
+		text-align: justify;
+	}
+	table > tr > td {
+		font-size: 16px;
+		text-align: justify;
 	}
 }
 
