@@ -22,9 +22,9 @@ locations:
       - Bukit Batok West Avenue 8
       - "[ 941, 991]"
       - "Bus stop code: 40329 & 40321."
-    title: ""
     operating_hours: []
     maps_link: https://goo.gl/maps/VdLhFQ3Empm3zfF99
+    title: " "
 contacts:
   - content:
       - phone: +65 6302 3700
