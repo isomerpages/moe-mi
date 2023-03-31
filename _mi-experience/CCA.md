@@ -9,14 +9,9 @@ description: ""
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 33.3333%;"><div class="popup"><a href="/mi-experience/cca/sports/badminton"><img src="/images/cca1.png"></a></div></td>
 <td style="width: 33.3333%;"><a href="/mi-experience/cca/sports/basketball"><img src="/images/cca2.png"></a></td>
 <td style="width: 33.3333%;"><a href="/mi-experience/cca/sports/cross-country"><img src="/images/cca3.png"></a></td>
-</tr>
-<tr>
-<td style="width: 33.3333%;"><a href="/mi-experience/cca/sports/floorball"><img src="/images/cca4.png"></a></td>
 <td style="width: 33.3333%;"><a href="/mi-experience/cca/sports/football-boys"><img src="/images/cca5.png"></a></td>
-<td style="width: 33.3333%;"><a href="/mi-experience/cca/sports/football-girls"><img src="/images/cca6.png"></a></td>
 </tr>
 <tr>
 <td style="width: 33.3333%;"><a href="/mi-experience/cca/sports/hockey"><img src="/images/cca7.png"></a></td>
