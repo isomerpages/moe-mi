@@ -38,7 +38,7 @@ description: ""
 </tr>
 <tr>
 <td style="width: 33.3333%;"><a href="/mi-experience/cca/aesthetics/dance"><img src="/images/cca12.png"></a></td>
-<td style="width: 33.3333%;"><a href="/mi-experience/cca/aesthetics/eldds"><img src="/images/cca22.png"></a></td>
+<td style="width: 33.3333%;"><a href="/mi-experience/cca/aesthetics/eldds"><img src="/images/cca-22.png"></a></td>
 <td style="width: 33.3333%;"><a href="/mi-experience/cca/aesthetics/symphonic-band"><img src="/images/cca14.png"></a></td>
 </tr>
 </tbody>
@@ -52,7 +52,7 @@ description: ""
 <tr>
 <td style="width: 33.3333%;"><a href="/mi-experience/cca/clubs/entrepreneurship-club"><img src="/images/cca15.png"></a></td>
 <td style="width: 33.3333%;"><a href="/mi-experience/cca/clubs/new-media-club"><img src="/images/cca16.png"></a></td>
-<td style="width: 33.3333%;"><a href="/mi-experience/cca/clubs/service-learning-club"><img src="/images/cca21.png"></a></td>
+<td style="width: 33.3333%;"><a href="/mi-experience/cca/clubs/service-learning-club"><img src="/images/cca-21.png"></a></td>
 </tr>
 </tbody>
 </table>
