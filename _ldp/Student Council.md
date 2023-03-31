@@ -4,7 +4,7 @@ permalink: /mi-experience/key-programmes/leadership-development-programmes/stude
 description: ""
 ---
 <font size="3">
-<p>The Student Council is the apex of student leadership in MI. It offers student councilors an array of action platforms to grow their selves, teams and leadership competencies through the planning and implementation of Institute-wide events. Simultaneously, the Student Council – as representatives of the student body – play a critical role in advocating for, and speaking with, the diverse members of the school community. To be a part of Council, students have to undergo a rigorous development and selection process. This includes School Leadership involvement, Home and Subject Tutor nomination and voting by the student body.</p>
+<p>The Students' Council is the apex of student leadership in MI. It offers student councilors an array of action platforms to grow their selves, teams and leadership competencies through the planning and implementation of Institute-wide events. Simultaneously, the Students' Council – as representatives of the student body – play a critical role in advocating for, and speaking with, the diverse members of the school community. To be a part of Council, students have to undergo a rigorous development and selection process. This includes School Leadership involvement, Home and Subject Tutor nomination and voting by the student body.</p>
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
