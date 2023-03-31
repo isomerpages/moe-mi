@@ -2,6 +2,7 @@ collections:
   mi-experience:
     output: true
     order:
+      - MI EXPERIENCE.md
       - CCA/Basketball.md
       - CCA/.keep
       - DEPARTMENTS/.keep
