@@ -3,8 +3,7 @@ title: CCA
 permalink: /mi-experience/cca/
 description: ""
 ---
-<ul>
-<li>Sports
+<h4><strong>Sports</strong></h4>
 <div>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
@@ -21,8 +20,8 @@ description: ""
 </tbody>
 </table>
 </div>
-</li>
-<li>Aesthetics
+
+<h4><strong>Aesthetics</strong></h4>
 <div>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
@@ -39,8 +38,8 @@ description: ""
 </tbody>
 </table>
 </div>
-</li>
-<li>Clubs
+
+<h4><strong>Clubs</strong></h4>
 <div>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
@@ -52,5 +51,3 @@ description: ""
 </tbody>
 </table>
 </div>
-</li>
-</ul>
