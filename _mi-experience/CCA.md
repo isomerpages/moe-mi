@@ -3,8 +3,8 @@ title: CCA
 permalink: /mi-experience/cca/
 description: ""
 ---
-<ul class="jekyllcodex_accordion">
-<li><input id="accordion1" type="checkbox" /> <label for="accordion1">Sports</label>
+<ul>
+<li>Sports
 <div>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
@@ -27,7 +27,7 @@ description: ""
 </table>
 </div>
 </li>
-<li><input id="accordion2" type="checkbox" /> <label for="accordion2">Aesthetics</label>
+<li>Aesthetics
 <div>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
@@ -45,7 +45,7 @@ description: ""
 </table>
 </div>
 </li>
-<li><input id="accordion3" type="checkbox" /> <label for="accordion3">Clubs</label>
+<li>Clubs
 <div>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
@@ -63,7 +63,7 @@ description: ""
 </table>
 </div>
 </li>
-<li><input id="accordion4" type="checkbox" /> <label for="accordion4">Student-Initiated Interest Group</label>
+<li>Student-Initiated Interest Group
 <div>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
