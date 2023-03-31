@@ -270,14 +270,11 @@ $desktop: 960px + (2 * $gap) !default;
 	blockquote > ul {
 		color: $secondary;
 	}
-	p {
-		font-size: 18px;
-	}
 	ul > li {
-		font-size: 18px;
+		font-size: 16px;
 	}
 	ol > li {
-		font-size: 18px;
+		font-size: 16px;
 	}
 }
 
