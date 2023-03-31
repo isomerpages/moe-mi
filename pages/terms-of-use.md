@@ -23,7 +23,7 @@ The materials located on this Web Site including the information and software pr
 
 <h4><strong>Privacy Policy</strong></h4>
 <ol start="5">
-	<li>Click here to view this Web Site's Privacy Statement.</li>
+	<li><a href="/privacy/">Click here</a> to view this Web Site's Privacy Statement.</li>
 </ol>
 
 <h4><strong>Restrictions on Use of Materials</strong></h4>
