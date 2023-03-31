@@ -2,5 +2,5 @@ collections:
   contact-us:
     output: true
     order:
-      - IT Support.md
       - Contact Us.md
+      - IT Support.md
