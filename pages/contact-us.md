@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Millenia Institute
+agency_name: Millennia Institute
 locations:
   - address:
       - 60 Bukit Batok West
