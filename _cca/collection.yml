@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - SPORTS/Cross Country.md
       - SPORTS/.keep
       - SPORTS/Badminton.md
       - SPORTS/Floorball.md
