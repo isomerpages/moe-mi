@@ -7,7 +7,7 @@ third_nav_title: AESTHETICS
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
-<td width="616"><strong>Teacher-in-charge:&nbsp;</strong>Mr Martin Ang, Ms Zaibah Mohammed Amin</td>
+<td width="616"><strong>Teacher-in-charge:&nbsp;</strong>Ms Zaibah Binte Mohammed Amin, Mr Martin Ang Jian, Mr Lionel Liu Yiqian, Ms Siti Mardiana Bte Abdul Hamid</td>
 </tr>
 <tr>
 <td width="616"><strong>Training Days:&nbsp;</strong>Wednesday&nbsp;(3.00 pm - 5.30 pm) and Friday (1.30 pm - 4.30 pm)</td>
