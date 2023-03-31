@@ -2,6 +2,6 @@ collections:
   ldp:
     output: true
     order:
-      - Student Council.md
+      - Students' Council.md
       - Senate.md
       - Houses.md
