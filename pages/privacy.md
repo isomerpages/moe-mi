@@ -2,8 +2,6 @@
 title: Privacy Statement
 permalink: /privacy/
 ---
-<h4><strong>Privacy Statement</strong></h4>
-
 <ol>
 <li>This is a Millennia Institute website. Thank you for examining our privacy statement.  
 </li>
