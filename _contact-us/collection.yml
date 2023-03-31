@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Contact Us.md
-      - IT Support.md
       - Bookshop & School Uniform.md
+      - IT Support.md
