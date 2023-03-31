@@ -1,5 +1,5 @@
 collections:
-  ccas:
+  cca:
     output: true
     order:
       - SPORTS/.keep
