@@ -7,13 +7,13 @@ third_nav_title: AESTHETICS
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
-<td width="616"><strong>Teacher-in-charge:&nbsp;</strong>Ms Jamaliah Othman; Mr Christopher Tay Rong Shenq</td>
+<td width="616"><strong>Teacher-in-charge:&nbsp;</strong>Ms Jamaliah Othman, Ms Jamie Shen, Mr Christopher Tay Rong Shenq, Mr Bernard Tay Guan Wei</td>
 </tr>
 <tr>
-<td width="616"><strong>Training Days:</strong>Wednesday(2.30 pm - 5.30 pm) and&nbsp;Friday&nbsp;(1.30 pm - 4.30 pm)</td>
+<td width="616"><strong>Training Days:</strong> Wednesday(2.30 pm - 5.30 pm) and&nbsp;Friday&nbsp;(1.30 pm - 4.30 pm)</td>
 </tr>
 <tr>
-<td width="616"><strong>Important Events:</strong><br />
+<td width="616"><strong>Important Events:</strong><br>
 <ul>
 <li>Singapore Youth Festival (Drama)</li>
 <li>PU1 Orientation</li>
@@ -23,7 +23,7 @@ third_nav_title: AESTHETICS
 </td>
 </tr>
 <tr>
-<td width="616"><strong>Key Achievements in the Past Three Years:</strong><br />
+<td width="616"><strong>Key Achievements in the Past Three Years:</strong><br>
 <ul>
 <li>Normal - A production by the Millennian Stage</li>
 <li>Certificate of Accomplishment in Singapore Youth Festival 2018</li>
