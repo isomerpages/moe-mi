@@ -7,7 +7,7 @@ description: ""
 <tbody>
 <tr>
 <td>
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7977.42458905533!2d103.739303!3d1.3491298!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da103ab76344c1%3A0x1aa6918212de7394!2sMillennia%20Institute!5e0!3m2!1sen!2ssg!4v1682045584098!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7977.42458905533!2d103.739303!3d1.3491298!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da103ab76344c1%3A0x1aa6918212de7394!2sMillennia%20Institute!5e0!3m2!1sen!2ssg!4v1682045584098!5m2!1sen!2ssg" width="720" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 </td>
 </tr>
 </tbody>
