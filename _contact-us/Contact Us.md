@@ -15,19 +15,26 @@ description: ""
 <table>
 <tbody>
 <tr>
-<td style="width: 30%;">
-<ul id="contactinfo">
-<li><a href="mailto:millennia_inst@moe.edu.sg">millennia_inst@moe.edu.sg</a></li>
-<li>(65) 6302 3700</li>
-<li>(65) 6302 3767</li>
-</ul>
+<td style="width: 65%;">
+<h4><strong>Address</strong></h4>
+	60, Bukit Batok West Avenue 8, Singapore 658965
+<h4><strong>How To Get Here</strong></h4>
+<b>Bukit Batok West Avenue 3</b><br>
+Bus stop code:&nbsp;<a rel="noopener" href="https://www.google.com.sg/maps/place/Princess+E+Pr+Sch/@1.3502447,103.7411833,18z/data=!4m5!3m4!1s0x31da103cba08b1b5:0x9cb3c0ba628403d!8m2!3d1.3497223!4d103.741394">43341</a>&nbsp;&amp;&nbsp;<a rel="noopener" href="https://www.google.com.sg/maps/place/Opp+Princess+E+Pr+Sch/@1.3502447,103.7411833,18z/data=!4m5!3m4!1s0x31da103cb243708d:0xe88dbdae61b6cc7!8m2!3d1.3498912!4d103.7407375">43349</a><br>
+Buses: 157, 174, 174e, 178, 506, 991<br><br>
+<b>Bukit Batok West Avenue 8</b> 
+Bus stop code:&nbsp;<a rel="noopener" href="https://www.google.com.sg/maps/place/Millennia+Institute/@1.3503675,103.7411245,17.75z/data=!4m5!3m4!1s0x31da1024a5b180e1:0x508c1cc41bbfba8e!8m2!3d1.3509672!4d103.7396197">40329</a>&nbsp;&amp;&nbsp;<a rel="noopener" href="https://www.google.com.sg/maps/place/Dulwich+College/@1.3503675,103.7411245,17z/data=!4m12!1m6!3m5!1s0x31da1024a5b180e1:0x508c1cc41bbfba8e!2sMillennia+Institute!8m2!3d1.3509672!4d103.7396197!3m4!1s0x31da1024b8a773e3:0x565990a43b4c4417!8m2!3d1.3517428!4d103.7394742">40321</a>
+Buses: 941, 991
+<h4><strong>Nearest MRT Station</strong></h4>
+<a rel="noopener" href="https://www.google.com.sg/maps/place/Millennia+Institute/@1.3480342,103.7430098,16z/data=!4m5!3m4!1s0x31da103ab76344c1:0x1aa6918212de7394!8m2!3d1.3510027!4d103.7414074">Bukit Batok MRT Station</a>
 </td>
-<td style="width: 70%;">
-<ul id="gettingthere">
-<li>60, Bukit Batok West Avenue 8, Singapore 658965<br>Location:&nbsp;<a rel="noopener" href="https://www.google.com.sg/maps/place/Millennia+Institute/@1.3491298,103.739303,16.5z/data=!4m12!1m6!3m5!1s0x31da103ab76344c1:0x1aa6918212de7394!2sMillennia+Institute!8m2!3d1.3510027!4d103.7414074!3m4!1s0x31da103ab76344c1:0x1aa6918212de7394!8m2!3d1.3510027!4d103.7414074">Map</a></li>
-<li>Bukit Batok West Avenue 3 [157, 174, 174e, 178, 506, 991].<br>Bus stop code:&nbsp;<a rel="noopener" href="https://www.google.com.sg/maps/place/Princess+E+Pr+Sch/@1.3502447,103.7411833,18z/data=!4m5!3m4!1s0x31da103cba08b1b5:0x9cb3c0ba628403d!8m2!3d1.3497223!4d103.741394">43341</a>&nbsp;&amp;&nbsp;<a rel="noopener" href="https://www.google.com.sg/maps/place/Opp+Princess+E+Pr+Sch/@1.3502447,103.7411833,18z/data=!4m5!3m4!1s0x31da103cb243708d:0xe88dbdae61b6cc7!8m2!3d1.3498912!4d103.7407375">43349</a>.<br>Bukit Batok West Avenue 8 [ 941, 991].<br>Bus stop code:&nbsp;<a rel="noopener" href="https://www.google.com.sg/maps/place/Millennia+Institute/@1.3503675,103.7411245,17.75z/data=!4m5!3m4!1s0x31da1024a5b180e1:0x508c1cc41bbfba8e!8m2!3d1.3509672!4d103.7396197">40329</a>&nbsp;&amp;&nbsp;<a rel="noopener" href="https://www.google.com.sg/maps/place/Dulwich+College/@1.3503675,103.7411245,17z/data=!4m12!1m6!3m5!1s0x31da1024a5b180e1:0x508c1cc41bbfba8e!2sMillennia+Institute!8m2!3d1.3509672!4d103.7396197!3m4!1s0x31da1024b8a773e3:0x565990a43b4c4417!8m2!3d1.3517428!4d103.7394742">40321</a>.</li>
-<li><a rel="noopener" href="https://www.google.com.sg/maps/place/Millennia+Institute/@1.3480342,103.7430098,16z/data=!4m5!3m4!1s0x31da103ab76344c1:0x1aa6918212de7394!8m2!3d1.3510027!4d103.7414074">Bukit Batok MRT Station</a></li>
-</ul>
+<td style="width: 35%;">
+<h4><strong>Email</strong></h4>
+<a href="mailto:millennia_inst@moe.edu.sg">millennia_inst@moe.edu.sg</a>
+<h4><strong>Phone</strong></h4>
+(65) 6302 3700
+<h4><strong>Fax</strong></h4>
+(65) 6302 3767
 </td>
 </tr>
 </tbody>
