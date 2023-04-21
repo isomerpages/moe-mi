@@ -15,7 +15,7 @@ description: ""
 <table>
 <tbody>
 <tr>
-<td style="width: 65%;">
+<td style="width: 55%;">
 <h4><strong>Address</strong></h4>
 	60, Bukit Batok West Avenue 8, Singapore 658965
 <h4><strong>How To Get Here</strong></h4>
@@ -36,6 +36,8 @@ Buses: 941, 991
 <h4><strong>Fax</strong></h4>
 (65) 6302 3767
 </td>
+<td style="width: 10%;">
+	</td>
 </tr>
 </tbody>
 </table>
