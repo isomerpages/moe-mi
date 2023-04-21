@@ -4,13 +4,10 @@ permalink: /about-us/mi-videos/
 description: ""
 ---
 <h4><strong>Millennia Institute Corporate Video</strong></h4>
-	<p> <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Wjt3FtojvFs" height="315" width="560"></iframe>
+<p><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Wjt3FtojvFs" height="315" width="560"></iframe></p>
 
-</p><h4><strong>MI Teachers</strong></h4> 
-	<p> <iframe width="560" height="315" src="https://www.youtube.com/embed/n4TYjyynEok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></p>
-
-
-
+<h4><strong>MI Teachers</strong></h4>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/n4TYjyynEok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></p>
 
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
