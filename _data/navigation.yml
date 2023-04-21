@@ -42,4 +42,9 @@ links:
   - title: Partnership
     url: /partnership
   - title: Contact Us
-    url: /contact-us/
+    url: " /contact-us/"
+    sublinks:
+      - title: Bookshop & Uniform Vendor
+        url: /contact-us/bookshop-uniform/
+      - title: IT Support
+        url: /contact-us/it-support/
