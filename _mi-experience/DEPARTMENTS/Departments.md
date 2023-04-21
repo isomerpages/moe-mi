@@ -13,7 +13,7 @@ third_nav_title: DEPARTMENTS
 </tr>
 <tr>
 <td style="width: 33.3333%;"><a href="/mi-experience/departments/departments/mathematics"><img src="/images/de4.png"></a></td>
-<td style="width: 33.3333%;"><a href="/mi-experience/departments/departments/prospectus"><img src="/images/de5.png"></a></td>
+<td style="width: 33.3333%;"><a href="/admissions/prospectus"><img src="/images/de5.png"></a></td>
 <td style="width: 33.3333%;"><a href="/mi-experience/departments/departments/mother-tongue-languages"><img src="/images/de6.png"></a></td>
 </tr>
 <tr>
