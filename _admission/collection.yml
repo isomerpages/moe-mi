@@ -2,7 +2,7 @@ collections:
   admission:
     output: true
     order:
-      - Prospectus.md
+      - PROPECTUS A.md
       - ADMISSION.md
       - JAE APPEALS.md
       - RETURNING SINGAPOREANS & INTERNATIONAL STUDENTS.md
