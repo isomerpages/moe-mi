@@ -2,9 +2,9 @@ collections:
   admission:
     output: true
     order:
-      - PROPECTUS.md
       - ADMISSION.md
       - JAE APPEALS.md
       - RETURNING SINGAPOREANS & INTERNATIONAL STUDENTS.md
       - SUBJECT COMBINATION.md
+      - PROPECTUS.md
       - FINANCIAL ASSISTANCE SCHEMES.md
