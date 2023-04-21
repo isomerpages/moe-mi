@@ -16,10 +16,10 @@ third_nav_title: MI IDENTITY
 <p style="text-align:justify;">In 2015, the school vision was refined to ‘A Forward-looking Community of Learners, Thinkers and Leaders’ to reflect the school’s focus on preparing students for a world that is volatile, uncertain, complex and ambiguous. MI marked its 15th Anniversary in 2018 with a celebration of its unique position as a place of opportunity and an alternative education pathway to the university.</p>
 <img style="width: 30%;" src="/images/ohist.jpg">
 <p><strong>Past Principals of Outram Institute, Jurong Institute, and Millennia Institute</strong></p>
-<table style="border: 2px solid black; border-collapse: collapse; width: 100%; height: 36px;" border="1">
+<table style="border: 0px; border-collapse: collapse; width: 100%; height: 36px;" border="1">
 <tbody>
-<tr style="border: 0px solid white; height: 18px;">
-<td style="width: 10%; height: 36px; text-align: center;" rowspan="2">
+<tr style="height: 18px; background-color: #FAFAFA;">
+<td style="width: 10%; height: 36px; text-align: center; border: 0px;" rowspan="2">
 <strong>OUTRAM INSTITUTE</strong><img style="width: 80%;" src="/images/ohist2.jpg">
 </td>
 <td style="width: 30%; height: 18px; text-align: center;">
@@ -31,7 +31,7 @@ third_nav_title: MI IDENTITY
 <p><em>“Peak performers are not born but made. They are successful because they have set goals for themselves and have planned well their mission in life and they look forward to the future with optimism and hope. Let us be encouraged by their examples and continue to uphold the Institute motto “Towards Excellence.”</em></p>
 </td>
 </tr>
-<tr style="height: 18px;">
+<tr style="height: 18px; background-color: #FAFAFA;">
 <td style="width: 30%; height: 18px; text-align: center;">
 <img style="width: 75%;" src="/images/ohist4.jpg">
 <div>MRS LAM-KAN KIM SWEE</div>
@@ -43,10 +43,10 @@ third_nav_title: MI IDENTITY
 </tr>
 </tbody>
 </table>
-<table style="border: 2px solid black; border-collapse: collapse; width: 100%; height: 90px;" border="1">
+<table style="border: 0px; border-collapse: collapse; width: 100%; height: 90px;" border="1">
 <tbody>
-<tr style="height: 18px;">
-<td style="width: 10%; height: 90px; text-align: center;" rowspan="5">
+<tr style="height: 18px; background-color: #FAFAFA;">
+<td style="width: 10%; height: 90px; text-align: center; border: 0px;" rowspan="5">
 <strong>JURONG INSTITUTE</strong>
 <img style="width: 75%;" src="/images/ohist5.jpg">
 </td>
@@ -59,7 +59,7 @@ third_nav_title: MI IDENTITY
 <p><em>JI’s pioneer principal, Mdm Lau Kan How, had her first office in a container amidst bulldozers and cement mixers. But overseeing the physical construction of JI was a small task compared to the more daunting challenge she faced, of moulding the JI identity. With the conception of the motto ‘Justice and Integrity’, Mdm Lau set about creating opportunities for bonding. From a concept, JI became an entity.</em></p>
 </td>
 </tr>
-<tr style="height: 18px;">
+<tr style="height: 18px; background-color: #FAFAFA;">
 <td style="width: 30%; height: 18px; text-align: center;">
 <img style="width: 75%;" src="/images/ohist7.jpg">
 <div>MR TAN THIAM HOCK</div>
@@ -69,7 +69,7 @@ third_nav_title: MI IDENTITY
 <p><em>“As principal of JI, I had three objectives. First, to help the students excel in their academic studies. Second, to train them well in ECA, and third, to instill moral uprightness. I must say that we managed to make good headway in all three areas.”</em></p>
 </td>
 </tr>
-<tr style="height: 18px;">
+<tr style="height: 18px; background-color: #FAFAFA;">
 <td style="width: 30%; height: 18px; text-align: center;">
 <img style="width: 75%;" src="/images/ohist8.jpg">
 <div>MRS GOH SOO GEEM</div>
@@ -79,7 +79,7 @@ third_nav_title: MI IDENTITY
 <p><em>“I feel proud because I had a good team of teachers who were willing to go the extra mile. I feel especially proud of the students we helped, who grew and blossomed in JI, overcoming personal problems.”</em></p>
 </td>
 </tr>
-<tr style="height: 18px;">
+<tr style="height: 18px; background-color: #FAFAFA;">
 <td style="width: 30%; height: 18px; text-align: center;">
 <img style="width: 75%;" src="/images/ohist9.jpg">
 <div>MDM MAK LAI YING</div>
@@ -89,7 +89,7 @@ third_nav_title: MI IDENTITY
 <p><em>“I am proud to say that the Institute has been very successful in fostering strong ties with students. Our ex-students visit their teachers often at the Institute …”</em></p>
 </td>
 </tr>
-<tr style="height: 18px;">
+<tr style="height: 18px; background-color: #FAFAFA;">
 <td style="width: 30%; height: 18px; text-align: center;">
 <img style="width: 75%;" src="/images/ohist10.jpg">
 <div>MRS ONG-OOI GIOK TIN</div>
@@ -101,10 +101,10 @@ third_nav_title: MI IDENTITY
 </tr>
 </tbody>
 </table>
-<table style="border: 2px solid black; background-color:&nbsp;#222222; border-collapse: collapse; width: 100%;" border="1">
+<table style="border: 0px solid black; border-collapse: collapse; width: 100%;" border="1">
 <tbody>
-<tr>
-	<td style="width: 10%;" rowspan="2"><strong>MILLENNIA INSTITUTE</strong><img style="width: 75%;" src="/images/ohist11.jpg"></td>
+<tr style="background-color: #FAFAFA;">
+<td style="width: 10%; border: 0px;" rowspan="2"><strong>MILLENNIA INSTITUTE</strong><img style="width: 75%;" src="/images/ohist11.jpg"></td>
 <td style="width: 30%; text-align: center;">
 <img style="width: 75%;" src="/images/ohist12.jpg">
 <div>MRS ONG-OOI GIOK TIN</div>
@@ -114,7 +114,7 @@ third_nav_title: MI IDENTITY
 <p><em>“All students who pass through the portals of Millennia Institute must be resilient in overcoming challenges and moving in uncharted waters, respect self and others, take responsibility for self, others and the environment, and above all, be persons of integrity.”</em></p>
 </td>
 </tr>
-<tr>
+<tr style="background-color: #FAFAFA;">
 <td style="width: 30%; text-align: center;">
 <img style="width: 75%;" src="/images/ohist13.jpg">
 <div>MR TAN CHOR PANG</div>
