@@ -2,7 +2,6 @@ collections:
   mi-experience:
     output: true
     order:
-      - Departments.md
       - MI EXPERIENCE.md
       - DEPARTMENTS/.keep
       - DEPARTMENTS/Business.md
