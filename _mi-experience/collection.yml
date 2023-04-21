@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - MI EXPERIENCE.md
+      - DEPARTMENTS/Departments.md
       - DEPARTMENTS/.keep
       - DEPARTMENTS/Business.md
       - DEPARTMENTS/English.md
