@@ -311,60 +311,7 @@ description: ""
 
 
 
-<p style="text-align: center;"><strong>CENTRALISED INSTITUTE 2<br></strong><strong>"Love Matters (2nd Edition)" Teaching &amp; Learning resource package</strong></p>
-<table cellpadding="0" cellspacing="0" width="925" border="0">
-<thead>
-<tr>
-<th style="text-align: center;"><strong>UNIT</strong></th>
-<th style="text-align: center;"><strong>LESSONS / DURATION</strong></th>
-<th style="text-align: center;"><strong>LESSON OBJECTIVES<br>At the end of the lesson, students will be able to:</strong></th>
-<th style="text-align: center;"><strong>TIME PERIOD<br>(e.g. Term 1 Week 4)</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td rowspan="2" style="text-align: center;">Lessons about Love<br>(Part 7)</td>
-<td style="text-align: center;">
-<div>4</div>
-<div>(60 mins)</div>
-</td>
-<td>
-<ul>
-<li>identify signs of an unhealthy dating relationship and the early indications of a breakdown of relationship</li>
-<li>appreciate that one can emerge stronger despite having gone through a breakup</li>
-<li>explore beliefs about marriage</li>
-<li>know the possible psychological impact on children experiencing parental separation or divorce</li>
-<li>recognise the importance of having family support for a relationship</li>
-<li>aspire to develop similar enduring character traits and qualities that one would consider in a life partner</li>
-<li>appreciate that marriage is a lifetime commitment and that there will be challenges in marriage as in any other relationships</li>
-</ul>
-</td>
-<td style="text-align: center;">Term 1 Week 6</td>
-</tr>
-<tr>
-<td style="text-align: center;">
-<div>5</div>
-<div>(60 mins)</div>
-</td>
-<td>
-<ul>
-<li>recognise that personal decisions on how one displays own affections in public can affect others</li>
-<li>discern the impact of new media on relationship building</li>
-</ul>
-</td>
-<td style="text-align: center;">Term 1 Week 8</td>
-</tr>
-<tr>
-<td style="text-align: center;">NA</td>
-<td style="text-align: center;">
-<div>6</div>
-<div>(60 mins)</div>
-</td>
-<td>This will be a culminating formative assessment task for students to consolidate what they have learnt from the previous lessons.</td>
-<td style="text-align: center;">Term 1 Week 9</td>
-</tr>
-</tbody>
-</table>
+
 <p><strong><em><u>eTeens Programme:</u></em></strong></p>
 <p style="text-align:justify;">6. <em>eTeens</em>&nbsp;is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide JC/CI Year 1 students with accurate information on STI/HIV and protection from a health perspective so as to enable them to make wise, informed, and sensible decisions.</p>
 <p style="text-align:justify;">7. &nbsp;Students learn&nbsp;the health, social and financial implications of STIs/HIV on an individual and the family if he/she gets infected with STIs/HIV and the importance of responsible decision-making and knowing where to seek help.&nbsp;Abstinence and upholding family values are the key messages.&nbsp;The desired outcome of the&nbsp;<em>eTeens</em>&nbsp;programme is that students are empowered to make wise, informed and sensible decisions.</p>
