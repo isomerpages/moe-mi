@@ -120,7 +120,7 @@ third_nav_title: MI IDENTITY
 <td style="width: 30%; text-align: center;">
 <img style="width: 75%;" src="/images/ohist13.jpg">
 <div>MR TAN CHOR PANG</div>
-<div>(2006 – 2013)</div>
+<div>(2005 – 2013)</div>
 </td>
 <td style="width: 60%; text-align: center;">
 <p><em>“Our strategic plan is to ensure that you are skilful beyond just content knowledge, so you can strive and achieve as global citizens, with a sense of rootedness to Singapore. We want MI to be a familial home where you feel a sense of belonging, because you are accepted, you are heard and you can grow from the opportunities offered to you.”</em></p>
