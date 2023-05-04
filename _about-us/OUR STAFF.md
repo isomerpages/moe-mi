@@ -275,7 +275,7 @@ description: ""
 </tr>
 <tr>
 <td><a href="mailto:tamilselvi_siva@moe.edu.sg" target="">Mrs Siva-Tamilselvi D/O Muthu</a></td>
-<td>SH CCE</td>
+<td>SH CCE - History</td>
 </tr>
 <tr>
 <td><a href="mailto:tay_rong_shenq_christopher@moe.edu.sg" target="">Mr Tay Rong Shenq Christopher</a></td>
