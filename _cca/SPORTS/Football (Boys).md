@@ -10,7 +10,7 @@ third_nav_title: SPORTS
 <td width="616"><strong>Teacher-in-charge:</strong>&nbsp;Mr Cavell Chee Jiahe, Mr Shawn Ang Wei Wen, Mr David Lim Eik Kheng, Mr Chua Tiong Seng</td>
 </tr>
 <tr>
-<td width="616"><strong>Training Days:</strong>&nbsp;Wednesday (2.30 pm - 4.30 pm), Friday (4.30 pm - 6.30 pm)</td>
+<td width="616"><strong>Training Days:</strong>&nbsp;Wednesday (3 pm - 5.30 pm), Friday (3.30 pm - 6 pm)</td>
 </tr>
 <tr>
 <td width="616"><strong>Important Events:</strong><br>
