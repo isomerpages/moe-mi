@@ -3,7 +3,9 @@ title: Houses
 permalink: /mi-experience/key-programmes/leadership-development-programmes/houses/
 description: ""
 ---
-<p>The 4 Houses in MI are GARNET, ONYX, SAPPHIRE, ZIRCON. The MI House system promotes healthy competition, school spirit and bonding among students. It also encourages positive interactions between seniors and juniors. House leaders are guided by House masters to conceptualise and organise House-based activities such as Transcendence, MI Play Fiesta, etc.</p>
+  
+
+<p style="text-align:justify;">The 4 Houses in MI are GARNET, ONYX, SAPPHIRE, ZIRCON. The MI House system promotes healthy competition, school spirit and bonding among students. It also encourages positive interactions between seniors and juniors. House leaders are guided by House masters to conceptualise and organise House-based activities such as Transcendence, MI Play Fiesta, etc.</p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
