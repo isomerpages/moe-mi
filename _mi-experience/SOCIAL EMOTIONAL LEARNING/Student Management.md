@@ -7,7 +7,7 @@ third_nav_title: SOCIAL EMOTIONAL LEARNING
 <table border="1" style="border-collapse: collapse; width: 100%;">
 <tbody>
 <tr>
-<td><img src="/images/studmgmt-framework.png" width="500"></td>
+<td><img src="/images/studmgmt-framework.png" style="width:500px;"></td>
 </tr>
 <tr>
 <td style="width: 50%;">
