@@ -4,7 +4,7 @@ permalink: /about-us/our-staff/
 description: ""
 ---
 <ul class="jekyllcodex_accordion">
-<li><input id="accordion1" type="checkbox" /> <label for="accordion1">School Leaders</label>
+<li><input id="accordion1" type="checkbox"> <label for="accordion1">School Leaders</label>
 <div>
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody>
@@ -24,7 +24,7 @@ description: ""
 </table>
 </div>
 </li>
-<li><input id="accordion2" type="checkbox" /> <label for="accordion2">EAS and AEDs</label>
+<li><input id="accordion2" type="checkbox"> <label for="accordion2">EAS and AEDs</label>
 <div>
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody>
@@ -49,10 +49,6 @@ description: ""
 <td>Corporate Support Officer</td>
 </tr>
 <tr>
-<td><a href="mailto:LONG_FONG_NGOH@moe.edu.sg" target="">Mdm Long Fong Ngoh Jessie</a></td>
-<td>Corporate Support Officer</td>
-</tr>
-<tr>
 <td><a href="mailto:low_san_san_a@moe.edu.sg" target="">Ms Low San San</a>&nbsp;</td>
 <td>Corporate Support Officer</td>
 </tr>
@@ -65,7 +61,7 @@ description: ""
 <td>School Laboratory Technician</td>
 </tr>
 <tr>
-<td><a href="mailto:nur_hudawati_hussin@moe.edu.sg" target="">Ms Nur Hudawati Binte Hussin</a></td>
+<td><a href="mailto:nor_juani_jumaat@moe.edu.sg" target="">Ms Nor Juani Binte Jumaat</a></td>
 <td>School Laboratory Technician</td>
 </tr>
 <tr>
@@ -90,10 +86,6 @@ description: ""
 </tr>
 <tr>
 <td><a href="mailto:NORHAYATI_OTHMAN_A@moe.edu.sg" target="">Mdm Norhayati Othman</a></td>
-<td>Operations Support Officer</td>
-</tr>
-<tr>
-<td><a href="mailto:VIJAYA_KUMARI_NADARAJA@moe.edu.sg" target="">Mdm Vijaya Kumari D/O Nadaraja</a></td>
 <td>Operations Support Officer</td>
 </tr>
 <tr>
@@ -125,18 +117,24 @@ description: ""
 <td>Admin Assistant</td>
 </tr>
 <tr>
-<td><a href="mailto:Nurul.Rafiqah@staff.spydus.com.sg" target="">Ms Nurul Rafiqah Binte Ramli</a></td>
+<td><a href="mailto:Sri.Liyana@staff.spydus.com.sg" target="">Ms Sri Liyana Binte Samad</a></td>
 <td>Library Officer</td>
 </tr>
 <tr>
 <td><a href="mailto:g-ncs0908jde@ncs.com.sg" target="">Mr Lim Jia Qing</a></td>
 <td>Desktop Engineer</td>
 </tr>
+	<tr><td><a href="mailto:g-ncs0908jde@ncs.com.sg" target="">Mr Alexander Aggasih Morrie</a></td>
+<td>Desktop Engineer</td>
+</tr>
+	
+	
+	
 </tbody>
 </table>
 </div>
 </li>
-<li><input id="accordion3" type="checkbox" /> <label for="accordion3">Business</label>
+<li><input id="accordion3" type="checkbox"> <label for="accordion3">Business</label>
 <div>
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody>
@@ -145,7 +143,10 @@ description: ""
 <td>HOD Business - PAA</td>
 </tr>
 <tr>
-<td><a href="mailto:siti_zubaidah_zainee@moe.edu.sg" target="">Mdm Siti Zubaidah Zainee</a></td>
+<td><a href="mailto:tan_siew_hong_annie@moe.edu.sg" target="">Ms Tan Siew Hong Annie</a></td>
+<td>HOD CCE - Econs</td>
+</tr>
+<tr><td><a href="mailto:siti_zubaidah_zainee@moe.edu.sg" target="">Mdm Siti Zubaidah Zainee</a></td>
 <td>Lead Teacher MOB</td>
 </tr>
 <tr>
@@ -157,12 +158,11 @@ description: ""
 <td>SH Project Work - PAA</td>
 </tr>
 <tr>
-<td><a href="mailto:madathiammal_karuppiah@moe.edu.sg" target="">Ms Madathiammal d/o Karuppiah</a></td>
-<td>Assistant Year Head</td>
+<td><a href="mailto:Lai_Yi Han@moe.edu.sg" target="">Mr Lai Yi Han</a></td>
+<td>SH CCE - Econs</td>
 </tr>
-<tr>
-<td><a href="mailto:chee_poh_ling@moe.edu.sg" target="">Mrs Koh-Chee Poh Ling</a></td>
-<td>Senior Teacher - Econs</td>
+<tr><td><a href="mailto:madathiammal_karuppiah@moe.edu.sg" target="">Ms Madathiammal d/o Karuppiah</a></td>
+<td>Assistant Year Head</td>
 </tr>
 <tr>
 <td><a href="mailto:chong_huey_nee@moe.edu.sg" target="">Mdm Chong Huey Nee</a></td>
@@ -200,7 +200,7 @@ description: ""
 </table>
 </div>
 </li>
-<li><input id="accordion4" type="checkbox" /> <label for="accordion4">English</label>
+<li><input id="accordion4" type="checkbox"> <label for="accordion4">English</label>
 <div>
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody>
@@ -210,10 +210,13 @@ description: ""
 </tr>
 <tr>
 <td><a href="mailto:ng_hong_peng@moe.edu.sg" target="">Mr Ng Hong Peng</a></td>
-<td>School Staff Developer</td>
+<td>School Staff Developer - GP/Lit</td>
 </tr>
 <tr>
-<td><a href="mailto:apetroaie_gabriela@moe.edu.sg" target="">Mdm Apetroaie Gabriela</a></td>
+<td><a href="mailto:loh_ya_ting_stephanie@moe.edu.sg" target="">Ms Loh Ya Ting, Stephanie</a></td>
+<td>SH English</td>
+</tr>
+<tr><td><a href="mailto:apetroaie_gabriela@moe.edu.sg" target="">Mdm Apetroaie Gabriela</a></td>
 <td>GP Teacher</td>
 </tr>
 <tr>
@@ -229,14 +232,7 @@ description: ""
 <td>GP Teacher</td>
 </tr>
 <tr>
-<td><a href="mailto:liao_yingtong@moe.edu.sg" target="">Ms Liao Yingtong Sharon</a></td>
-<td>GP / Lit Teacher</td>
-</tr>
-<tr>
-<td><a href="mailto:loh_ya_ting_stephanie@moe.edu.sg" target="">Ms Loh Ya Ting, Stephanie</a></td>
-<td>GP / Lit Teacher&nbsp;</td>
-</tr>
-<tr>
+
 <td><a href="mailto:ooi_teck_chye@moe.edu.sg" target="">Mr Ooi Teck Chye</a></td>
 <td>GP Teacher&nbsp;</td>
 </tr>
@@ -252,11 +248,20 @@ description: ""
 <td><a href="mailto:ong_yong_yang@moe.edu.sg" target="">Mr Ong Yong Yang</a></td>
 <td>GP Teacher</td>
 </tr>
-</tbody>
+<tr>
+<td><a href="mailto:chua_tiong_seng@moe.edu.sg" target="">Mr Chua Tiong Seng</a></td>
+<td>GP Teacher</td>
+</tr>
+<tr>
+<td><a href="mailto:liao_yingtong@moe.edu.sg" target="">Ms Liao Yingtong Sharon</a></td>
+<td>Lit Teacher</td>
+</tr>
+<tr>
+</tr></tbody>
 </table>
 </div>
 </li>
-<li><input id="accordion5" type="checkbox" /> <label for="accordion5">Humanities</label>
+<li><input id="accordion5" type="checkbox"> <label for="accordion5">Humanities</label>
 <div>
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody>
@@ -296,7 +301,7 @@ description: ""
 </table>
 </div>
 </li>
-<li><input id="accordion6" type="checkbox" /> <label for="accordion6">Mathematics</label>
+<li><input id="accordion6" type="checkbox"> <label for="accordion6">Mathematics</label>
 <div>
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody>
@@ -336,7 +341,7 @@ description: ""
 </table>
 </div>
 </li>
-<li><input id="accordion7" type="checkbox" /> <label for="accordion7">Mother Tongue Languages</label>
+<li><input id="accordion7" type="checkbox"> <label for="accordion7">Mother Tongue Languages</label>
 <div>
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody>
@@ -388,7 +393,7 @@ description: ""
 </table>
 </div>
 </li>
-<li><input id="accordion8" type="checkbox" /> <label for="accordion8">Physical Education</label>
+<li><input id="accordion8" type="checkbox"> <label for="accordion8">Physical Education</label>
 <div>
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody>
@@ -416,7 +421,7 @@ description: ""
 </table>
 </div>
 </li>
-<li><input id="accordion9" type="checkbox" /> <label for="accordion9">Science</label>
+<li><input id="accordion9" type="checkbox"> <label for="accordion9">Science</label>
 <div>
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody>
