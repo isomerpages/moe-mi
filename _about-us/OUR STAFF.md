@@ -282,16 +282,12 @@ description: ""
 <td>Senior Teacher - Geography</td>
 </tr>
 <tr>
-<td><a href="mailto:guo_hefang@moe.edu.sg" target="">Mr Guo Hefang</a></td>
-<td>Geog Teacher</td>
-</tr>
-<tr>
 <td><a href="mailto:ghazrizal_azry_ghazali_nor@moe.edu.sg" target="">Mr Ghazrizal Azry Bin Ghazali Nor</a></td>
 <td>Art Teacher</td>
 </tr>
 <tr>
 <td><a href="mailto:lee_jake_hooi@moe.edu.sg" target="">Mr Lee Jake Hooi</a></td>
-<td>Hist / CSE Teacher</td>
+<td>Hist Teacher</td>
 </tr>
 <tr>
 <td><a href="mailto:see_kurt_wei@moe.edu.sg" target="">Mr See Kurt Wei</a></td>
@@ -306,15 +302,15 @@ description: ""
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
-<td><a href="mailto:tan_keng_seng@moe.edu.sg" target="">Mr Tan Keng Seng</a></td>
-<td>HOD Maths</td>
-</tr>
-<tr>
 <td><a href="mailto:tan_shu_yan_ginny@moe.edu.sg" target="">Ms Tan Shu Yan Ginny</a></td>
 <td>SH Maths</td>
 </tr>
 <tr>
-<td><a href="mailto:kelvin_thiang_perng_meng@moe.edu.sg" target="">Mr Thiang Perng Meng Kelvin</a></td>
+<td><a href="mailto:lee_peici@moe.edu.sg" target="">Mdm Lee Peici</a></td>
+<td>SH Maths</td>
+</tr>
+<tr>
+	<td><a href="mailto:kelvin_thiang_perng_meng@moe.edu.sg" target="">Mr Thiang Perng Meng Kelvin</a></td>
 <td>Senior Teacher Maths</td>
 </tr>
 <tr>
@@ -326,11 +322,11 @@ description: ""
 <td>Maths Teacher&nbsp;</td>
 </tr>
 <tr>
-<td><a href="mailto:lee_peici@moe.edu.sg" target="">Mdm Lee Peici</a></td>
+<td><a href="mailto:sai_chang_sheng@moe.edu.sg" target="">Mr Sai Chang Sheng Dillon</a></td>
 <td>Maths Teacher</td>
 </tr>
 <tr>
-<td><a href="mailto:sai_chang_sheng@moe.edu.sg" target="">Mr Sai Chang Sheng Dillon</a></td>
+<td><a href="mailto:lim_eik_kheng@moe.edu.sg" target="">Mr Lim Eik Kheng David</a></td>
 <td>Maths Teacher</td>
 </tr>
 <tr>
@@ -354,6 +350,14 @@ description: ""
 <td>Year Head 1 - ML</td>
 </tr>
 <tr>
+<td><a href="mailto:mohd_fuad_salim@moe.edu.sg" target="">Mr Mohd Fuad Bin Salim</a>&nbsp;</td>
+<td>SH ML</td>
+</tr>
+<tr>
+<td><a href="mailto:zaibah_mohammed_amin@moe.edu.sg" target="">Ms Zaibah Mohd Amin</a></td>
+<td>Senior Teacher - ML</td>
+</tr>
+<tr>
 <td><a href="mailto:rajarajan_hemalatha@moe.edu.sg" target="">Mdm Rajarajan Hemalatha</a></td>
 <td>TL Teacher</td>
 </tr>
@@ -362,33 +366,24 @@ description: ""
 <td>TL Teacher&nbsp;</td>
 </tr>
 <tr>
-<td><a href="mailto:zaibah_mohammed_amin@moe.edu.sg" target="">Ms Zaibah Mohd Amin</a></td>
-<td>Senior Teacher - ML</td>
-</tr>
-<tr>
+
 <td><a href="mailto:marnee_suhiat@moe.edu.sg" target="">Mdm Marnee Suhiat</a></td>
 <td>ML Teacher</td>
 </tr>
 <tr>
-<td><a href="mailto:mohd_fuad_salim@moe.edu.sg" target="">Mr Mohd Fuad Bin Salim</a>&nbsp;</td>
-<td>SH/ML Teacher&nbsp;</td>
-</tr>
-<tr>
+
 <td><a href="mailto:siti_mardiana_abdul_hamid@moe.edu.sg" target="">Ms Siti Mardiana Bte Abdul Hamid</a></td>
 <td>ML Teacher</td>
-</tr>
-<tr>
-<td><a href="mailto:see_hui_chen@moe.edu.sg" target="">Ms See Hui Chen</a></td>
-<td>CL Teacher</td>
-</tr>
-<tr>
-<td><a href="mailto:shang_xiaoyan@moe.edu.sg" target="">Mdm Shang Xiaoyan</a></td>
-<td>CL Teacher</td>
 </tr>
 <tr>
 <td><a href="mailto:li_qiu_jue@moe.edu.sg" target="">Mdm Li Qiu Jue</a></td>
 <td>CL Teacher</td>
 </tr>
+<tr>
+<td><a href="mailto:voon_xin_yi@moe.edu.sg" target="">Ms Voon Xin Yi</a></td>
+<td>CL Teacher</td>
+</tr>
+<tr></tr>
 </tbody>
 </table>
 </div>
@@ -398,7 +393,10 @@ description: ""
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
-<td><a href="mailto:ang_wei_wen_shawn@moe.edu.sg" target="">Mr Ang Wei Wen Shawn</a></td>
+<td><a href="mailto:chia_peng_hwee@moe.edu.sg" target="">Mr Chia Peng Hwee Joel</a></td>
+<td>HOD PE</td>
+</tr>
+<tr><td><a href="mailto:ang_wei_wen_shawn@moe.edu.sg" target="">Mr Ang Wei Wen Shawn</a></td>
 <td>SH PE</td>
 </tr>
 <tr>
@@ -443,23 +441,19 @@ description: ""
 </tr>
 <tr>
 <td><a href="mailto:jascelyn_ang_qian_lin@moe.edu.sg" target="">Mdm Jacelyn Ang Qian Lin</a></td>
-<td>Year Head&nbsp;</td>
+<td>Year Head - Chemistry</td>
 </tr>
 <tr>
 <td><a href="mailto:lee_le_xin@moe.edu.sg" target="">Mrs Ang-Lee Le Xin Lydia</a></td>
-<td>SH - Chemistry</td>
+<td>SH Chemistry</td>
 </tr>
 <tr>
 <td><a href="mailto:liew_yong_qiang@moe.edu.sg" target="">Mr Liew Yong Qiang</a></td>
-<td>SH - ICT</td>
+<td>SH ICT - Chemistry</td>
 </tr>
 <tr>
 <td><a href="mailto:xu_ruiping@moe.edu.sg" target="">Ms Xu Ruiping Alivia</a></td>
-<td>SH - Biology</td>
-</tr>
-<tr>
-<td><a href="mailto:chan_xin_yu@moe.edu.sg" target="">Ms Chan Xin Yu</a></td>
-<td>Chemistry Teacher</td>
+<td>SH Biology</td>
 </tr>
 <tr>
 <td><a href="mailto:lee_li_wen@moe.edu.sg" target="">Ms Lee Li Wen</a></td>
@@ -474,7 +468,11 @@ description: ""
 <td>Chemistry Teacher</td>
 </tr>
 <tr>
-<td><a href="mailto:jian_martin_ang@moe.edu.sg" target="">Mr Ang Jian Martin</a></td>
+<td><a href="mailto:tay_yong_kiang_jason@moe.edu.sg" target="">Mr Tay Yong Khiang Jason</a></td>
+<td>Chemistry Teacher</td>
+</tr>
+<tr>
+	<td><a href="mailto:jian_martin_ang@moe.edu.sg" target="">Mr Ang Jian Martin</a></td>
 <td>Physics Teacher</td>
 </tr>
 <tr>
@@ -486,11 +484,11 @@ description: ""
 <td>Physics Teacher&nbsp;</td>
 </tr>
 <tr>
-<td><a href="mailto:foo_yongkuan@moe.edu.sg" target="">Mr Foo Yong Kuan</a></td>
+<td><a href="mailto:lee_qiao_le@moe.edu.sg" target="">Ms Lee Qiao Le</a></td>
 <td>Biology Teacher</td>
 </tr>
-<tr>
-<td><a href="mailto:lee_qiao_le@moe.edu.sg" target="">Ms Lee Qiao Le</a></td>
+	<tr>
+	<td><a href="mailto:liu_pei_shan@moe.edu.sg" target="">Ms Liu Pei Shan</a></td>
 <td>Biology Teacher</td>
 </tr>
 </tbody>
