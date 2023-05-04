@@ -4,10 +4,10 @@ permalink: /mi-experience/social-emotional-learning/student-management/
 description: ""
 third_nav_title: SOCIAL EMOTIONAL LEARNING
 ---
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table border="1" style="border-collapse: collapse; width: 100%;">
 <tbody>
 <tr>
-<td><img src="/images/studmgmt-framework.png"></td>
+<td><img src="/images/studmgmt-framework.png" width="500"></td>
 </tr>
 <tr>
 <td style="width: 50%;">
@@ -29,14 +29,14 @@ third_nav_title: SOCIAL EMOTIONAL LEARNING
 <p>Every student in MI matters. In this regard, there is a need to foster a spirit of cooperation and to observe these rules that are for the good of all.</p>
 <p><strong>TOGETHER, LET US STRIVE TO ACHIEVE OUR INSTITUTE’S GOALS THROUGH PERSONAL DISCIPLINE.</strong></p>
 <ul class="jekyllcodex_accordion">
-<li><input id="accordion1" type="checkbox"> <label for="accordion1">Flag-raising Ceremony</label>
+<li><input type="checkbox" id="accordion1"> <label for="accordion1">Flag-raising Ceremony</label>
 <div>
 <p><strong><u>Purpose</u></strong>: This observance ceremony promotes reverence and projects our sense of pride and loyalty to the State and Institute. Any disrespectful behaviour during the ceremony would be considered a serious offence.</p>
 <p>The Institute shall assemble punctually at 0745 hours daily (0845 hours on Thursday only) for teachers to perform minor administrative duties and for the flag-raising ceremony. The National Anthem shall be sung and the pledge solemnly taken. The Institute Song is sung on Mondays.</p>
 <p>All students who are Singapore citizens must sing the National Anthem and take the Pledge. All Millennia Institute students must sing the Institute Song.</p>
 </div>
 </li>
-<li><input id="accordion2" type="checkbox"> <label for="accordion2">Attire and Appearance</label>
+<li><input type="checkbox" id="accordion2"> <label for="accordion2">Attire and Appearance</label>
 <div>
 <p><strong><u>Purpose</u></strong>: Our students are ambassadors of the Institute and therefore represent the Institute to the general public. As such, our students must demonstrate a strong sense of discipline, decency and propriety through proper conduct and dressing so as to uphold the reputation of the Institute.</p>
 <p>The standard uniform consists of light-blue shirt and trousers for male students and light-blue blouse and skirt for female students. The uniform is to be worn during lessons, Institute activities and official school functions. Students may wear the prescribed Institute Polo T-shirt (except on Mondays) with pants/skirts. On Wednesdays, Fridays and during school holidays, students may wear half-uniform i.e. Institute PE/House T-shirts/approved CCA T-shirts with pants/skirts.</p>
@@ -45,21 +45,21 @@ third_nav_title: SOCIAL EMOTIONAL LEARNING
 <p>All male students must be neat in appearance. Male students must be clean-shaven (e.g. beards and moustaches are not allowed).</p>
 <p>Religious ornaments must be worn discreetly or covered up.</p>
 <p>Donning or carrying expensive items is discouraged as these may present security issues for students.</p>
-<img style="width: 80%;" src="/images/attire.jpg">
+<img src="/images/attire.jpg" style="width: 80%;">
 </div>
 </li>
-<li><input id="accordion3" type="checkbox"> <label for="accordion3">Attendance and Punctuality</label>
+<li><input type="checkbox" id="accordion3"> <label for="accordion3">Attendance and Punctuality</label>
 <div>
 <p><strong><u>Purpose</u></strong>: Good attendance is essential for academic progress and characterises a responsible person. Punctuality is also a vital work ethic associated with successful people.</p>
 <p>Attendance is compulsory at the flag-raising ceremonies, assemblies, academic and co-curricular lessons, as well as official Institute functions.</p>
-<p>Students who are absent from lessons or Institute functions must submit a medical certificate (MC) on the next school day. Digital MC must be submitted via this link:&nbsp;<a href="https://go.gov.sg/mie-mcs" target="_blank" rel="noopener">https://Go.gov.sg/mie-mcs</a>. MC from a traditional Chinese medicine practitioner is not acceptable.</p>
+<p>Students who are absent from lessons or Institute functions must submit a medical certificate (MC) on the next school day. Digital MC must be submitted via this link:&nbsp;<a rel="noopener" target="_blank" href="https://go.gov.sg/mie-mcs">https://Go.gov.sg/mie-mcs</a>. MC from a traditional Chinese medicine practitioner is not acceptable.</p>
 <p>Students are not allowed to leave the Institute before 1300 hours without permission. Applications for early departure from the Institute must be made on the Student Early Leave Form, which requires authorisation by the Principal or a Head of Department and the Home Tutor. Parental consent, endorsed by the Home Tutor, is mandatory.</p>
 <p>If a student is unwell, he/she shall inform the Home Tutor or relevant Subject Tutors. He/She will proceed to the general office and the parents/guardian will be informed. The student will be granted early leave from the institute to seek medical attention.</p>
 <p>A student who is seriously ill should notify his/her Home Tutor or any other available teacher. The General Office and the student’s parent or guardian will be contacted accordingly.</p>
 <p>Persistent absence without valid reasons and frequent late-coming are serious offences that Home Tutors will bring to the attention of parents. Attendance and punctuality data shall be documented in Result Slips and Personal Profiles as references for future educational institutions, prospective employers and other relevant authorities.</p>
 </div>
 </li>
-<li><input id="accordion4" type="checkbox"> <label for="accordion4">General Behaviour</label>
+<li><input type="checkbox" id="accordion4"> <label for="accordion4">General Behaviour</label>
 <div>
 <p><strong><u>Purpose</u></strong>: Students should conduct themselves responsibly so that all can benefit from a pleasant and conducive learning environment. More significantly, they should strive to become morally upright citizens with respect for authority.</p>
 <p>All rules pertaining to the use of the Institute’s resources, facilities and equipment, and rules governing CCA groups are to be complied with. Students are expected to use Institute property responsibly.</p>
@@ -84,7 +84,7 @@ third_nav_title: SOCIAL EMOTIONAL LEARNING
 </ul>
 </div>
 </li>
-<li><input id="accordion5" type="checkbox"> <label for="accordion5">Cleanliness, Safety and Use of School Facilities</label>
+<li><input type="checkbox" id="accordion5"> <label for="accordion5">Cleanliness, Safety and Use of School Facilities</label>
 <div>
 <p><strong><u>Purpose</u></strong>: It is the responsibility of every student to keep the school clean and pleasant as this helps all to enjoy a comfortable and conducive learning environment.</p>
 <p>Littering mars the appearance and lowers the hygiene standards of the Institute. All litter must therefore be properly disposed of.</p>
@@ -96,7 +96,7 @@ third_nav_title: SOCIAL EMOTIONAL LEARNING
 <p>Persons who are neither students nor staff of Millennia Institute must not be invited to the premises, participate in any Institute activity, instruct or address students without approval from the Principal.</p>
 </div>
 </li>
-<li><input id="accordion6" type="checkbox"> <label for="accordion6">Sales and Fund-raising Activities</label>
+<li><input type="checkbox" id="accordion6"> <label for="accordion6">Sales and Fund-raising Activities</label>
 <div>
 <p>There should not be any sale of items or advertisements with the purpose of soliciting sales within the Institute without the approval from the Principal.</p>
 </div>
