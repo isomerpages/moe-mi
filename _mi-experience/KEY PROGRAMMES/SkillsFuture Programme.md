@@ -4,8 +4,6 @@ permalink: /mi-experience/key-programmes/skillsfuture-programme/
 description: ""
 third_nav_title: KEY PROGRAMMES
 ---
-  
-
 <p style="text-align:justify;">The MI SkillsFuture Programme (SFP) is an integral part of the Institute’s Total Curriculum that seeks to nurture future-ready individuals, who will become the learners, thinkers and leaders of tomorrow.</p>
 
   
