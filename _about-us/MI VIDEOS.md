@@ -31,12 +31,7 @@ description: ""
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 50%;">&nbsp;</td>
-<td style="width: 50%;">&nbsp;</td>
-</tr>
-<tr>
-<td style="width: 50%;">&nbsp;</td>
-<td style="width: 50%;">&nbsp;</td>
+<td style="width: 100%; border:0px;"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/videoseries?list=PLHXLwozKtqOG0JLKVNqHg7EQrrOuD32s3" height="315" width="560"></iframe></td>
 </tr>
 <tr>
 <td style="width: 50%;">&nbsp;</td>
