@@ -8,7 +8,7 @@ description: ""
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
-<td><strong>Teacher-in-charge:&nbsp;</strong>Mr John Goh, Mr Leong Yan-Hao Keith, Ms Loh Ya Ting Stephanie</td>
+<td><strong>Teacher-in-charge:&nbsp;</strong>Mr Lai Yi Han , Mr Leong Yan Hao, Keith , Mr Fan Kaijie Herbert,  Ms Liu Peishan</td>
 </tr>
 <tr>
 <td><strong>Training Days:&nbsp;</strong>Wednesday and Friday</td>
