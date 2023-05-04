@@ -23,6 +23,8 @@ third_nav_title: SPORTS
 <tr>
 <td width="616"><strong>Key Achievements in the past three years:</strong><br>
 <ul>
+<li>400m Boys - 3rd Place, Thejesvi Mohan 20MI04 (Colours Award)</li>
+<li>1500m Boys - 4th Place, Pranav Manimurugan 20MI08 (Colours Award)</li>
 <li>Wings Active SG Cross Country 2019 - 12th place Aldrich Goh</li>
 <li>National Inter-School Cross Country 2019 - 8th place Boys Team; 10th place Girls Team; 20th place individual Aldrich Goh</li>
 <li>National Inter-School Track &amp; Field 2019 - 8th place (800m) Aldrich Goh; 3rd place (100m) Ibrahim Halil</li>
