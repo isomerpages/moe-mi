@@ -14,7 +14,7 @@ third_nav_title: KEY PROGRAMMES
 <li>Seek to understand and appreciate multiple perspectives;</li>
 <li>Be resilient, adaptable and optimistic in the face of adversity;</li>
 <li>Demonstrate social responsibility and make meaningful contributions to the community by leading through service; and</li>
-<li>Be proud Singaporeans who are committed to building the future of Singapore and who understand Singapore&rsquo;s role in the world.</li>
+<li>Be proud Singaporeans who are committed to building the future of Singapore and who understand Singapore’s role in the world.</li>
 </ul>
 <h4><strong>Character and Citizenship Education Lessons</strong></h4>
 <p>One hour a week is set aside, during curriculum time, as the Home Tutor Period (HTP) to teach Values, Knowledge and Skills for Character and Citizenship. A progressive approach is adopted in planning the HTP schedule to meet the differing needs of our students over the three years. Lessons cover values, Socio-Emotional Learning skills, Sexuality Education, Education and Career Guidance, Cyber Wellness, National Education as well as planning and reflections for Values in Action activities and projects.</p>
@@ -22,9 +22,9 @@ third_nav_title: KEY PROGRAMMES
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 33.3333%; text-align: center;"><a href="/mi-experience/key-programmes/character-and-citizenship-education/ne-programme"><img src="/images/cce1.jpg"></a><a href="/mi-experience/key-programmes/character-and-citizenship-education/ne-programme">National Education (NE) Programme</a></td>
-<td style="width: 33.3333%; text-align: center;"><a href="/mi-experience/key-programmes/character-and-citizenship-education/via-programme"><img src="/images/cce2.jpg"></a><a href="/mi-experience/key-programmes/character-and-citizenship-education/via-programme">Values In Action (VIA) Programme</a></td>
-<td style="width: 33.3333%; text-align: center;"><a href="/mi-experience/key-programmes/character-and-citizenship-education/sexuality-education"><img src="/images/cce3.jpg"></a><a href="/mi-experience/key-programmes/character-and-citizenship-education/sexuality-education">Sexuality Education</a></td>
+<td style="width: 33.3333%; text-align: center; border:0px;"><a href="/mi-experience/key-programmes/character-and-citizenship-education/ne-programme"><img src="/images/cce1-ne.png"></a><a href="/mi-experience/key-programmes/character-and-citizenship-education/ne-programme"></a></td>
+<td style="width: 33.3333%; text-align: center; border:0px;"><a href="/mi-experience/key-programmes/character-and-citizenship-education/via-programme"><img src="/images/cce2-via.png"></a><a href="/mi-experience/key-programmes/character-and-citizenship-education/via-programme"></a></td>
+<td style="width: 33.3333%; text-align: center; border:0px;"><a href="/mi-experience/key-programmes/character-and-citizenship-education/sexuality-education"><img src="/images/cce3-sed.png"></a><a href="/mi-experience/key-programmes/character-and-citizenship-education/sexuality-education"></a></td>
 </tr>
 </tbody>
 </table>
