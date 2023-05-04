@@ -10,20 +10,16 @@ third_nav_title: CLUBS
 <td><strong>Teacher-in-charge:&nbsp;</strong>Ms Kelly Tan Sin Yee, Mrs Tamilselvi Siva, Mr Jonah Chua En Huang</td>
 </tr>
 <tr>
-<td><strong>Training Days:&nbsp;</strong>Wednesday</td>
+<td><strong>Training Days:&nbsp;</strong>Wednesdays and Fridays</td>
 </tr>
 <tr>
 <td><strong>Important Events:</strong><br>
 <ul>
-<li>MI Social Bazaar</li>
+<li>Ministry of Manpower School Partnership Programme - Our Migrant Voices @ Acacia Lodge</li>
+<li>Collaboration with Delta Senior School - Numeracy Programme, Numercy Carnival and Read with Me Programme</li>
+	<li>Collaboration with National Library  Board - KidsRead @ Lakeside Primary School</li>
+	<li>Other Collaborations - Volunteering work at All Saints Home and St Luke’s Eldercare</li>
+	
 </ul></td>
 </tr>
-<tr>
-<td><strong>Key Achievements in the past three years:</strong><br>
-<ul>
-<li>&nbsp;</li>
-</ul>
-</td>
-</tr>
-</tbody>
-</table>
+</tbody></table>
