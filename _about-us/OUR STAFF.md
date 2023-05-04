@@ -490,8 +490,7 @@ description: ""
 	<tr>
 	<td><a href="mailto:liu_pei_shan@moe.edu.sg" target="">Ms Liu Pei Shan</a></td>
 <td>Biology Teacher</td>
-</tr>
-</tbody>
+</tr></tbody>
 </table>
 </div>
 </li>
