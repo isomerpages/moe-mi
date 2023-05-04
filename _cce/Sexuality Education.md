@@ -380,4 +380,3 @@ description: ""
 <p style="text-align:justify;">10. Parents who wish to opt their children out of the&nbsp;<strong><em>eTeens programme</em></strong>&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;<a href="/files/Annex%20B_eTeens_Opt-out%20Form%202022.pdf" rel="noopener">here</a>. The completed form is to be submitted by 21/07/2023.</p>
 	
 <p style="text-align:justify;">11. Parents can contact the school at&nbsp;<strong><a href="mailto:millennia_inst@moe.edu.sg">millennia_inst@moe.edu.sg</a></strong>&nbsp;for discussion or to seek clarification about the school’s sexuality education programme.</p>
-<p style="text-align:justify;">12. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.</p>
