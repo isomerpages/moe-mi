@@ -9,8 +9,7 @@ sections:
   - hero:
       background: /images/mi-splash.jpg
       height: 504px
-      title: MILLENNIA INSTITUTE
-      subtitle: A Place of Opportunity
+      title: A Place of Opportunity
   - infobar:
       title: MI Coporate Video
       description: <iframe width="560" height="315"
