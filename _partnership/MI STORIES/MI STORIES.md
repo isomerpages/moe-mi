@@ -29,7 +29,7 @@ third_nav_title: MI STORIES
 </table>
 </div>
 </li>
-<li><input id="accordion1" type="checkbox"> <label for="accordion1">MI Beyond Academics</label>
+<li><input id="accordion2" type="checkbox"> <label for="accordion2">MI Beyond Academics</label>
 <div>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
