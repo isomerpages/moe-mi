@@ -43,7 +43,7 @@ links:
         url: /partnership/alumni/mi-stories
   - title: Partnership
     url: /partnership
-  - title: Contact Us
+  - title: Partnership
     url: /contact-us/
     sublinks:
       - title: Contact Us
@@ -52,3 +52,6 @@ links:
         url: /contact-us/bookshop-uniform/
       - title: IT Support
         url: /contact-us/it-support/
+  - title: Contact Us
+    url: /contact-us/
+    sublinks: []
