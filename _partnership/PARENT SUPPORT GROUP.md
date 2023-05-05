@@ -21,11 +21,9 @@ description: ""
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 50%;"><img src="/images/psg1.png"></td>
-<td style="width: 50%;"><img src="/images/psg2.png"></td>
-</tr>
-<tr>
-<td colspan="2"><img style="width: 60%;" src="/images/psg3.png"></td>
+<td style="width: 33.3333%; border:0px;"><img src="/images/psg1new.png"></td>
+<td style="width: 33.3333%; border:0px;"><img src="/images/psg2new.png"></td>
+<td style="width: 33.3333%; border:0px;"><img src="/images/psg3new.png"></td>
 </tr>
 </tbody>
 </table>
