@@ -47,9 +47,4 @@ third_nav_title: MI STORIES
 <td style="width: 33.3333%; text-align: center; border:0px;"><a href="/partnership/alumni/mi-stories/mi-beyond-academics/samantha-foo-hockey-girls" target=""><img src="/images/mba7.png"></a><a href="/partnership/alumni/mi-stories/mi-beyond-academics/samantha-foo-hockey-girls" target=""><p><strong>Samantha Foo</strong><br>Class of 2017, Hockey Girls</p></a></td>
 <td style="width: 33.3333%; text-align: center; border:0px;">&nbsp;</td>
 <td style="width: 33.3333%; text-align: center; border:0px;">&nbsp;</td>
-</tr>
-</tbody>
-</table>
-</div>
-</li>
-</ul>
+</tr></tbody></table></div></li></ul>
