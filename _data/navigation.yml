@@ -39,15 +39,11 @@ links:
         url: /mi-experience/cca
       - title: Achievements
         url: /mi-experience/achievements
-      - title: MI Stories
-        url: /partnership/alumni/mi-stories
   - title: Partnership
     url: /partnership
-  - title: Partnership
-    url: /contact-us/
     sublinks:
-      - title: Contact Us
-        url: /contact-us/
+      - title: MI Stories
+        url: /partnership/alumni/mi-stories
       - title: Bookshop & Uniform Vendor
         url: /contact-us/bookshop-uniform/
       - title: IT Support
