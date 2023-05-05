@@ -1,0 +1,13 @@
+---
+title: GWEN TAN
+permalink: /partnership/alumni/mi-stories/mi-mettle-journey/gwen-tan/
+description: ""
+third_nav_title: MI STORIES
+---
+<h4><strong>Second Chance</strong></h4>
+<p>I had a longer MI journey than most of my peers. I was heavily involved in basketball and it was not easy to stay focused on my studies. My lackluster efforts in managing my various commitments caused me to repeat my first year.</p>
+<p>A knee surgery in the year I repeated school made things more challenging than it already was. The post-surgery rehabilitation meant that I had to skip an average of four lessons per week. However, this forced me to step up my efforts to manage my time and improvise on my studying methods. I made use of my breaks to do revision with my friends. I also did past year questions and reviewed my mistakes before any test or exam. I was determined to prove to the people who had doubted my decision to stay for an extra year that my decision was not in vain. At the same time, I wanted to graduate with good results and did not want to waste the four years spent at MI. This pushed me to stay on track even though it was mentally draining to juggle between my academics and other commitments.</p>
+<p>Through this tough journey, I was surrounded by many people that were very supportive throughout my four-year journey – my mother, teachers and friends. My mother trusted my judgment and my decision to stay for an extra year, and my teachers constantly encouraged me and were always there when I needed extra help or practices. My friends were also a strong source of support. They looked out for me and kept me sane during this stressful period.</p>
+<p>While spending an additional year was challenging, I made good use of the opportunities to take part in various events such as the annual house meets, A Division Basketball tournaments and forums. I even had the opportunity to represent Singapore in the 7th Asian Basketball Championships. These opportunities allowed me to improve myself as a person especially in the areas that I am weaker in, such as public speaking.</p>
+<p>At the end of this four-year journey, I am happy to say that one of my proudest moments in my life thus far was the day I collected my A-level results on stage. That moment reminded me of everything I went through in the four years. You reap what you sow. The hard work was worth it and I made the people around me proud.</p>
+<p>To my juniors in MI, stay resilient and do not lose the enthusiasm despite the challenges faced. Continue to explore innovative ways to solve the problems. Your hard work will be worth it.</p>

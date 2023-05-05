@@ -1,0 +1,15 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - The MI Experience.md
+      - ABOUT US.md
+      - PRINCIPAL'S MESSAGE.md
+      - OUR STAFF.md
+      - MI IDENTITY/.keep
+      - MI IDENTITY/MI IDENTITY.md
+      - MI IDENTITY/OUR VISION, MISSION, VALUES.md
+      - MI IDENTITY/INSTITUTE SONG.md
+      - MI IDENTITY/OUR HISTORY.md
+      - MI VIRTUAL TOUR.md
+      - MI VIDEOS.md

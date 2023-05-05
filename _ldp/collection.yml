@@ -1,0 +1,7 @@
+collections:
+  ldp:
+    output: true
+    order:
+      - Students' Council.md
+      - Senate.md
+      - Houses.md

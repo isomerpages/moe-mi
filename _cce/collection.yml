@@ -1,0 +1,7 @@
+collections:
+  cce:
+    output: true
+    order:
+      - NE Programme.md
+      - VIA Programme.md
+      - Sexuality Education.md
