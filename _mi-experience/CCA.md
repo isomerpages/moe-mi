@@ -26,7 +26,7 @@ description: ""
 <table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
-<td style="width: 33.3333%;"><a href="/mi-experience/cca/aesthetics/art-club"><img src="/images/cca9.png"></a></td>
+<td style="width: 33.3333%; border:0px;"><a href="/mi-experience/cca/aesthetics/art-club"><img src="/images/cca9.png"></a></td>
 <td style="width: 33.3333%; border:0px;"><a href="/mi-experience/cca/aesthetics/cultural-studies"><img src="/images/cca10.png"></a></td>
 <td style="width: 33.3333%; border:0px;"><a href="/mi-experience/cca/aesthetics/angklung-kulintang-ensemble"><img src="/images/cca11.png"></a></td>
 </tr>
