@@ -7,6 +7,8 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/mi splash page2-min.gif
+      background: /images/mi-splash.jpg
       height: 504px
+      title: MILLENNIA INSTITUTE
+      subtitle: A Place of Opportunity
 ---
