@@ -29,4 +29,4 @@ description: ""
 
 <p><strong> PU2 Weighted Assessment and Test Schedule <br></strong><a href="/files/2023%20pu2%20term%202%20wa%20schedule.pdf">2023 PU2 Term 2 WA2 and Test Schedule.pdf</a></p>
 
-<p><strong>PU3 Test Schedule <br></strong><a href="/files/2023%20pu3%20term%202%20test%20schedule.pdf">2023 PU3 Term 2 Test Schedule.pdf</a></p>
+<p><strong>PU3 Test Schedule <br></strong><a href="/files/2023%20Exam%20Schedule/2023%20pu3%20term%202%20test%20schedule.pdf">2023 PU3 Term 2 Test Schedule.pdf</a></p>
