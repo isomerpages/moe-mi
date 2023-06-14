@@ -106,7 +106,7 @@ description: ""
 </tr>
 <tr>
 <td><a href="mailto:lourdes_maria@moe.edu.sg" target="">Ms Maria Lourdes</a></td>
-<td>Lead AED (LBS)</td>
+<td>Lead SEN Officer</td>
 </tr>
 <tr>
 <td><a href="mailto:tey_giin_yang@moe.edu.sg" target="">Mr Tey Giin Yang</a></td>
