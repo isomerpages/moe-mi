@@ -95,7 +95,7 @@ description: ""
   mso-border-right-alt:solid #EAEAEA .75pt;background:white;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="77"><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
   color:black">Term 3</span><b></b></p><span style="outline: 0px"><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;color:black"><span style="outline: 0px">(To be updated by 30/6/23)</span></span><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
+  minor-latin;color:black"><span style="outline: 0px">Week 2</span></span><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
   mso-bidi-theme-font:minor-latin;color:black"></span></p></span></td></tr><tr style="mso-yfti-irow:3"><td style="width:78.55pt;border:none;border-left:solid #EAEAEA 1.0pt;
   mso-border-left-alt:solid #EAEAEA .75pt;background:#FFEAEA;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="105"><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:
@@ -142,7 +142,7 @@ description: ""
   mso-border-right-alt:solid #EAEAEA .75pt;background:#FFEAEA;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="77"><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
   color:black">Term 3</span><b></b></p><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;color:black"><span style="outline: 0px">(To be updated by 30/6/23)</span></span><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
+  minor-latin;color:black"><span style="outline: 0px">Week 6</span></span><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
   mso-bidi-theme-font:minor-latin;color:black"></span></p></td></tr><tr style="mso-yfti-irow:4;mso-yfti-lastrow:yes"><td style="width:78.55pt;border-top:none;border-left:solid #EAEAEA 1.0pt;
   border-bottom:solid #EAEAEA 1.0pt;border-right:none;mso-border-left-alt:solid #EAEAEA .75pt;
   mso-border-bottom-alt:solid #EAEAEA .75pt;background:white;mso-background-themecolor:
@@ -189,7 +189,7 @@ description: ""
   mso-background-themecolor:background1;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="77"><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
   color:black">Term 3<b></b></span></p><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;color:black">(To be updated by 30/6/23)</span><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
+  minor-latin;color:black">Week 8</span><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
   mso-bidi-theme-font:minor-latin;color:black"></span></p></td></tr></tbody></table>
 
 
