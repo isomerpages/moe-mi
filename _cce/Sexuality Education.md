@@ -95,7 +95,7 @@ description: ""
   mso-border-right-alt:solid #EAEAEA .75pt;background:white;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="77"><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
   color:black">Term 3</span><b></b></p><span style="outline: 0px"><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;color:black"><span style="outline: 0px">(To be updated by 30/6/23)</span></span><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
+  minor-latin;color:black"><span style="outline: 0px">Week 2</span></span><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
   mso-bidi-theme-font:minor-latin;color:black"></span></p></span></td></tr><tr style="mso-yfti-irow:3"><td style="width:78.55pt;border:none;border-left:solid #EAEAEA 1.0pt;
   mso-border-left-alt:solid #EAEAEA .75pt;background:#FFEAEA;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="105"><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:
@@ -142,7 +142,7 @@ description: ""
   mso-border-right-alt:solid #EAEAEA .75pt;background:#FFEAEA;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="77"><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
   color:black">Term 3</span><b></b></p><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;color:black"><span style="outline: 0px">(To be updated by 30/6/23)</span></span><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
+  minor-latin;color:black"><span style="outline: 0px">Week 6</span></span><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
   mso-bidi-theme-font:minor-latin;color:black"></span></p></td></tr><tr style="mso-yfti-irow:4;mso-yfti-lastrow:yes"><td style="width:78.55pt;border-top:none;border-left:solid #EAEAEA 1.0pt;
   border-bottom:solid #EAEAEA 1.0pt;border-right:none;mso-border-left-alt:solid #EAEAEA .75pt;
   mso-border-bottom-alt:solid #EAEAEA .75pt;background:white;mso-background-themecolor:
@@ -189,7 +189,7 @@ description: ""
   mso-background-themecolor:background1;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="77"><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
   color:black">Term 3<b></b></span></p><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;color:black">(To be updated by 30/6/23)</span><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
+  minor-latin;color:black">Week 8</span><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
   mso-bidi-theme-font:minor-latin;color:black"></span></p></td></tr></tbody></table>
 
 
@@ -375,8 +375,8 @@ description: ""
 	
 <h4><strong>INFORMATION FOR PARENTS</strong></h4>
 <p style="text-align:justify;">8. Parents may opt their children out of Growing Years and/or supplementary sexuality education programmes by MOE-approved external provider.</p>
-<p style="text-align:justify;">9. Parents who wish to opt their children out of the&nbsp;<strong>Sexuality Education lessons</strong>&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;<a href="/files/annex%20a_gy_opt-out%20form%202023.pdf" rel="noopener">here</a>. The completed form is to be submitted by 17/02/2023 (PU2) and 21/07/2023 (PU1).</p>
+<p style="text-align:justify;">9. Parents who wish to opt their children out of the&nbsp;<strong>Sexuality Education lessons</strong>&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;<a href="/files/annex%20a_gy_opt-out%20form%202023.pdf" rel="noopener">here</a>. The completed form is to be submitted by 17/02/2023 (PU2) and 30/06/2023 (PU1).</p>
 	
-<p style="text-align:justify;">10. Parents who wish to opt their children out of the&nbsp;<strong><em>eTeens programme</em></strong>&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;<a href="/files/annex%20b_eteens_opt-out%20form%202023.pdf" rel="noopener">here</a>. The completed form is to be submitted by 21/07/2023.</p>
+<p style="text-align:justify;">10. Parents who wish to opt their children out of the&nbsp;<strong><em>eTeens programme</em></strong>&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;<a href="/files/annex%20b_eteens_opt-out%20form%202023.pdf" rel="noopener">here</a>. The completed form is to be submitted by 15/09/2023.</p>
 	
 <p style="text-align:justify;">11. Parents can contact the school at&nbsp;<strong><a href="mailto:millennia_inst@moe.edu.sg">millennia_inst@moe.edu.sg</a></strong>&nbsp;for discussion or to seek clarification about the school’s sexuality education programme.</p>
