@@ -121,15 +121,10 @@ description: ""
 <td>Library Officer</td>
 </tr>
 <tr>
-<td><a href="mailto:Eddy_Ngarian_Sumantri@moe.edu.sg.sg" target="">Mr Eddy Ngarian Sumantri</a></td>
-<td>ICT Manager</td>
-</tr>
-
-<tr>
 <td><a href="mailto:g-ncs0908jde@ncs.com.sg" target="">Mr Lim Jia Qing</a></td>
 <td>Desktop Engineer</td>
 </tr>
-	<tr><td><a href="mailto:g-ncs0908jde@ncs.com.sg" target="">Mr Alexander Aggasih Morrie</a></td>
+<tr><td><a href="mailto:g-ncs0908jde@ncs.com.sg" target="">Mr Alexander Aggasih Morrie</a></td>
 <td>Desktop Engineer</td>
 </tr>
 	
