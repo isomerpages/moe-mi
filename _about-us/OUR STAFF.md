@@ -124,7 +124,7 @@ description: ""
 <td><a href="mailto:g-ncs0908jde@ncs.com.sg" target="">Mr Lim Jia Qing</a></td>
 <td>Desktop Engineer</td>
 </tr>
-	<tr><td><a href="mailto:g-ncs0908jde@ncs.com.sg" target="">Mr Alexander Aggasih Morrie</a></td>
+<tr><td><a href="mailto:g-ncs0908jde@ncs.com.sg" target="">Mr Alexander Aggasih Morrie</a></td>
 <td>Desktop Engineer</td>
 </tr>
 	
