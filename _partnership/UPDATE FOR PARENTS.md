@@ -25,9 +25,9 @@ description: ""
 
 
 <h5><strong>2023 Term 2</strong></h5>
-<p><strong>PU1 Weighted Assessment Schedule <br></strong><a href="/files/2023%20pu1%20term%202%20wa%20schedule.pdf">2023 PU1 Term 2 WA1 Schedule.pdf</a></p>
+<p><strong>PU1 Weighted Assessment Schedule <br></strong><a href="files/2023%20pu1%20term%202%20wa%20schedule.pdf">2023 PU1 Term 2 WA1 Schedule.pdf</a></p>
 
-2023%20pu1%20term%202%20wa%20schedule.pdf
+[](/files/2023%20pu1%20term%202%20wa%20schedule.pdf)
 
 
 
