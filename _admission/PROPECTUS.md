@@ -3,6 +3,9 @@ title: PROPECTUS
 permalink: /admission/prospectus/
 description: ""
 ---
-<h4><strong>Millennia Institute Prospectus 2022</strong></h4>
-<p style="text-align: center;"><a href="/files/MI_Prospectus20229Feb.pdf" target="_blank" rel="noopener">[Click here to open the PDF]</a></p>
-<a href="/files/MI_Prospectus20229Feb.pdf" target="_blank" rel="noopener"><img src="/images/prospectus.jpg"></a>
+<h4><strong>Millennia Institute Prospectus 2023</strong></h4>
+
+
+[MI Prospectus 2023](https://online.flipbuilder.com/millennia_inst/mage/?)
+
+<a target="_blank" rel="noopener"><img src="/images/prospectus.jpg"></a>
