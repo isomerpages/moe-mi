@@ -11,10 +11,15 @@ description: ""
 
 <p><strong> PU1 Weighted Assessment Schedule <br></strong>
 <a href="/files/2023%20Exam%20Schedule/pu1%20t3wa2%20schedule_final.pdf">2023 PU1 Term 3 WA2 Schedule.pdf</a>
-	<br>
-<a href="/files/2023%20Exam%20Schedule/pu1%20t3wa3%20schedule_final.pdf">2023 PU1 Term 3 WA3 Schedule.pdf</a></p>
+<br>
+<a href="/files/2023%20Exam%20Schedule/pu1%20wa3%20schedule%20_revised_7%20jul.pdf">2023 PU1 Term 3 WA3 Schedule_updated.pdf</a>
 
-<p><strong>PU2 Mid-Year Exam Schedule <br></strong><a href="/files/2023%20Exam%20Schedule/2023%20pu2%20term%203%20mye%20schedule%20(student%20copy).pdf">2023 PU2 Term 3 MYE Schedule.pdf</a></p>
+
+
+
+
+
+</p><p><strong>PU2 Mid-Year Exam Schedule <br></strong><a href="/files/2023%20Exam%20Schedule/2023%20pu2%20term%203%20mye%20schedule%20(student%20copy).pdf">2023 PU2 Term 3 MYE Schedule.pdf</a></p>
 
 <p><strong> PU2 Weighted Assessment and Test Schedule <br></strong><a href="/files/2023%20Exam%20Schedule/pu2%20t3wa3&amp;%20test%20schedule_final.pdf">2023 PU2 Term 3 WA3 and Test Schedule.pdf</a></p>
 
@@ -25,7 +30,8 @@ description: ""
 
 
 <h5><strong>2023 Term 2</strong></h5>
-<p><strong>PU1 Weighted Assessment Schedule <br></strong><a href="/files/2023%20pu1%20term%202%20wa%20schedule.pdf">2023 PU1 Term 2 WA1 Schedule.pdf</a></p>
+<p><strong>PU1 Weighted Assessment Schedule <br></strong><a href="files/2023%20pu1%20term%202%20wa%20schedule.pdf">2023 PU1 Term 2 WA1 Schedule.pdf</a></p>
+
 
 <p><strong> PU2 Weighted Assessment and Test Schedule <br></strong><a href="/files/2023%20pu2%20term%202%20wa%20schedule.pdf">2023 PU2 Term 2 WA2 and Test Schedule.pdf</a></p>
 
