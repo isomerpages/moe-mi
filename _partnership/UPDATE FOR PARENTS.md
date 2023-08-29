@@ -8,9 +8,11 @@ description: ""
 <h4><strong>Assessment Schedule</strong></h4>
 
 <h5><strong>2023 EOY (Term3/4):</strong></h5>
-<a href="/files/2023%20Exam%20Schedule/pu2%20eoy%20exam%20schedule_for%20student_3rd%20aug.pdf)">2023 PU2 EOY Exam Schedule.pdf</a>
-<br> 
-<a href="/files/2023%20Exam%20Schedule/pu3%20eoy%20exam%20schedule_for%20student_3rd%20aug.pdf">2023 PU3 EOY Exam Schedule.pdf</a>
+<a href="/files/2023%20Exam%20Schedule/2023%20pu1%20eoy%20exam%20schedule.pdf">2023 PU1 EOY Exam Schedule.pdf</a>
+
+<a href="/files/2023%20Exam%20Schedule/pu2%20%20eoy%20exam%20schedule_final_18th%20aug.pdf">2023 PU2 EOY Exam Schedule.pdf</a> [Updated 18 Aug]
+
+<a href="/files/2023%20Exam%20Schedule/pu3%20eoy%20exam%20schedule_final_18th%20aug.pdf">2023 PU3 EOY Exam Schedule.pdf</a> [ Updated 18 Aug]
 
 
 
