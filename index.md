@@ -25,4 +25,5 @@ sections:
       button: Parent Gateway Website
       url: https://pg.moe.edu.sg/
       image: /images/parent gateway.jpg
+      alt: Parent Gateway
 ---
