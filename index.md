@@ -23,7 +23,6 @@ sections:
       id: infopic
       url: https://pg.moe.edu.sg/
       image: /images/parent gateway.jpg
-      alt: Image alt text
       title: Parent Gateway
       button: Parent Gateway Site
 ---
