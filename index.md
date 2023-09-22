@@ -19,10 +19,4 @@ sections:
         allowfullscreen=""></iframe>
       button: Find out more about us
       url: /about-us/mi-videos/
-  - infopic:
-      id: infopic
-      url: https://pg.moe.edu.sg/
-      image: /images/parent gateway.jpg
-      title: Parent Gateway
-      button: Parent Gateway Site
 ---
