@@ -2,6 +2,7 @@
 title: SUBJECT COMBINATION
 permalink: /admission/subject-combination/
 description: ""
+variant: markdown
 ---
 <p style="text-align:justify;">Millennia Institute offers the GCE A-Level curriculum to our students. All students are required to offer 10 to 12 Academic Units of study including two compulsory Knowledge Skills subjects (General Paper and Project Work), four content-based subjects and Mother Tongue Language.</p>
 <p style="text-align:justify;">All A-Level subjects are classified at H1, H2 or H3 level. General Paper, Project Work and Mother Tongue Language are H1 subjects. Of the four content-based subjects, students offer three at H2 level and one at H1 level. The combinations of the four content-based subjects offered by the Institute are shown in the table below:</p>
@@ -578,7 +579,7 @@ description: ""
 <li><p style="text-align:justify;">Achieved at least A2 in one relevant Combined Science subject AND at least C6 in Additional Mathematics at GCE O-Level.</p></li>
 </ul>
 <h4><strong>Considerations to Note</strong></h4>
-<strong>Merit-Based Allocation</strong><p></p>
+<p><strong>Merit-Based Allocation</strong></p>
 <p style="text-align:justify;">Students are allocated to their choice of subject combination based on academic merit, including their L1R4 aggregate score or equivalent, and performance in the relevant subject(s). The allocation also depends on the number of places that are available for each subject. In the event that a subject is oversubscribed, allocation is done based on academic merit.</p>
 <p><strong>Assumed Knowledge</strong></p>
 <p style="text-align:justify;">Students who chose to offer&nbsp;<u>Science and Mathematics subjects</u>&nbsp;need to be aware of the assumed knowledge<sup>1</sup>&nbsp;of the corresponding subject at GCE O-Level.</p>
