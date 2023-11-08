@@ -11,7 +11,7 @@ sections:
       height: 504px
       title: A Place of Opportunity
   - infobar:
-      title: MI Coporate Video
+      title: MI Corporate Video
       description: <iframe width="560" height="315"
         src="https://www.youtube.com/embed/Wjt3FtojvFs" title="YouTube video
         player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
