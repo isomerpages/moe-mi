@@ -2,19 +2,19 @@
 title: JAE APPEALS
 permalink: /admission/jae-appeals/
 description: ""
+variant: markdown
 ---
-  <p style="text-align:justify;">The Joint Admissions Exercise (JAE) Appeal Period is strictly from&nbsp;<strong>2 February 2023 to 7 February 2023</strong>.</p>
+<p style="text-align:justify;">The Joint Admissions Exercise (JAE) Appeal Period is currently closed. <strong> Please check back in early 2024. </strong></p>
 	
   
-
-<p style="text-align:justify;">
-Students who wish to appeal for admission to Millennia Institute must meet the admission criteria for Millennia Institute, The admission criteria can be found in Section 6a of the JAE Information Booklet or through the&nbsp;<a href="https://www.moe.gov.sg/post-secondary/admissions/jae/admission-criteria/#L1R4" target="_blank" rel="noopener"><strong>MOE website</strong></a>.</p>
+<p style="text-align:justify;"> 
+Students who wish to appeal for admission to Millennia Institute must meet the admission criteria for Millennia Institute, The admission criteria can be found through the&nbsp;<a href="https://www.moe.gov.sg/post-secondary/admissions/jae/admission-criteria/#L1R4" target="_blank" rel="noopener"><strong>MOE website</strong></a>.</p>
   
 
 <p style="text-align:justify;">Appeal applicants must complete the application procedures as outlined below. Applicants must ensure that all required documents are submitted together with the application form to facilitate the admission application process.</p>
   
 
-<p style="text-align:justify;">Shortlisted applicants will be notified of an online (Zoom) interview. Results of all appeals are subject to the Institute&rsquo;s admission criteria and school vacancies.</p>
+<p style="text-align:justify;">Shortlisted applicants will be notified of an online (Zoom) interview. Results of all appeals are subject to the Institute’s admission criteria and school vacancies.</p>
 <p><strong>Application Procedure</strong></p>
 
 <table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-yfti-tbllook:1184;mso-padding-alt:
@@ -22,7 +22,7 @@ Students who wish to appeal for admission to Millennia Institute must meet the a
   6.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph;
   line-height:normal">1.</p></td><td width="595" valign="top" style="width:446.45pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-top:6.0pt;margin-right:0cm;margin-bottom:
   6.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph;
-  line-height:normal;background:white">Complete and submit the application form by 7 February 2023, 1pm. Please click&nbsp;<a href="https://go.gov.sg/8sgc9r" target="_blank"><span style="color:#2A67B7">here</span></a>&nbsp;for the form.</p></td></tr><tr style="mso-yfti-irow:1"><td width="28" valign="top" style="width:21.05pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-top:6.0pt;margin-right:0cm;margin-bottom:
+  line-height:normal;background:white">Complete and submit the online application form by the stipulated deadline.</p></td></tr><tr style="mso-yfti-irow:1"><td width="28" valign="top" style="width:21.05pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-top:6.0pt;margin-right:0cm;margin-bottom:
   6.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph;
   line-height:normal">2.</p></td><td width="595" valign="top" style="width:446.45pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-top:6.0pt;margin-right:0cm;margin-bottom:
   6.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph;
