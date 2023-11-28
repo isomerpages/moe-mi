@@ -1,5 +1,7 @@
 logo: /images/logo.png
 links:
+  - title: Open House 2024
+    url: /openhouse2024
   - title: About Us
     url: /about-us
     sublinks:
@@ -13,8 +15,6 @@ links:
         url: /about-us/mi-virtual-tour
       - title: MI Videos
         url: /about-us/mi-videos
-  - title: Open House 2024
-    url: /openhouse2024
   - title: Admission
     url: /admission
     sublinks:
