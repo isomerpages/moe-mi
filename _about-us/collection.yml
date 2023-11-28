@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - MI Open House 2024.md
       - The MI Experience.md
       - ABOUT US.md
       - PRINCIPAL'S MESSAGE.md
