@@ -2,5 +2,5 @@ collections:
   open-house-2024:
     output: true
     order:
-      - Choose MI.md
       - MI Open House 2024.md
+      - Choose MI.md
