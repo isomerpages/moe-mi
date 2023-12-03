@@ -18,6 +18,8 @@ sections:
         Friday, 12 January 2024, 12:00 - 5:00 PM
       image: /images/Homepage/Landing_page_for_OH_2024_microsite.jpg
       alt: Image alt text
+      button: Find out more
+      url: /openhouse2024
   - infobar:
       title: MI Corporate Video
       description: <iframe width="560" height="315"
