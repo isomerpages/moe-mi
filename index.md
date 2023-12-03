@@ -13,12 +13,13 @@ sections:
       variant: center
   - infopic:
       title: Open House 2024
-      subtitle: The MI EXPERIENCE
       id: infopic
       description: |-
         Friday, 12 January 2024
+
         12:00 - 5:00 PM
-        (Principal's Talk 2:00 PM)
+
+        Principal's Talk: 2:00 PM
       image: /images/Homepage/Landing_page_for_OH_2024_microsite.jpg
       alt: Image alt text
   - infobar:
