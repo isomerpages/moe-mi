@@ -7,10 +7,10 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage/Landing_page_for_OH_2024_narrow.jpg
+      background: /images/banner.gif
       height: 504px
       title: A Place of Opportunity
-      variant: image
+      variant: center
   - infobar:
       title: MI Corporate Video
       description: <iframe width="560" height="315"
