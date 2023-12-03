@@ -2,5 +2,6 @@ collections:
   open-house-2024:
     output: true
     order:
+      - MI VIRTUAL TOUR.md
       - MI Open House 2024.md
       - Choose MI.md
