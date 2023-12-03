@@ -9,6 +9,6 @@ description: ""
 
 <p><strong>Related Links</strong></p>
 
-* Subject Combination 2024
+* [Subject Combination 2024](https://www.millenniainstitute.moe.edu.sg/admission/subject-combination/)
 
-* MI Prospectus 
+* [MI Prospectus](https://www.millenniainstitute.moe.edu.sg/admission/prospectus/)
