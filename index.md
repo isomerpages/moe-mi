@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage/Landing_page_for_OH_2024_microsite.jpg
+      background: /images/Homepage/Landing_page_for_OH_2024_narrow.jpg
       height: 504px
       title: A Place of Opportunity
       variant: image
