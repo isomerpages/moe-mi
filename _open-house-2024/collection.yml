@@ -2,7 +2,7 @@ collections:
   open-house-2024:
     output: true
     order:
-      - MI CONNECTION.md
       - OPEN HOUSE 2024.md
       - MI OVERVIEW.md
       - MI VIRTUAL TOUR.md
+      - MI CONNECTION.md
