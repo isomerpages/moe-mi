@@ -6,10 +6,9 @@ description: ""
 ---
 ![](/images/Homepage/Landing_page_for_OH_2024_microsite.jpg)
 
-<h1>
 
-=============
+<p><strong>Related Links</strong></p>
 
-Subject Combination 2024
+* Subject Combination 2024
 
-MI Prospectus</h1>
+* MI Prospectus 
