@@ -1,5 +1,7 @@
 logo: /images/logo.png
 links:
+  - title: Open House 2024
+    url: /openhouse2024
   - title: About Us
     url: /about-us
     sublinks:
@@ -59,5 +61,3 @@ links:
         url: /contact-us/bookshop-uniform/
       - title: IT Support
         url: /contact-us/it-support/
-  - title: Open House 2024
-    url: /openhouse2024
