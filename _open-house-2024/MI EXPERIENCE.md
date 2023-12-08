@@ -1,7 +1,8 @@
 ---
-title: MI VIDEOS
+title: MI EXPERIENCE
 permalink: /about-us/mi-videos/
 description: ""
+variant: tiptap
 ---
 <h4><strong>Millennia Institute Corporate Video</strong></h4>
 <table style="border-collapse: collapse; width: 100%;" border="1">
