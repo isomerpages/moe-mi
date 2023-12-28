@@ -4,7 +4,7 @@ permalink: /about-us/principals-message/
 description: ""
 variant: markdown
 ---
-<p></p><h4><strong> MI -An Institute of Hope and Discovery</strong></h4><p>
+<p></p><h4><strong> MI - An Institute of Hope and Discovery</strong></h4><p>
 	
 <img style="width: 70%;" src="/images/prin.jpg" align="centre">
 
