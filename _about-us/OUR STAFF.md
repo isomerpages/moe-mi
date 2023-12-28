@@ -342,7 +342,7 @@ variant: markdown
 </tr>
 <tr>
 <td><a href="mailto:nur_illiana_mohamad_malek@moe.edu.sg" target="">Ms Nur Illiana Bte Mohamad Malek</a></td>
-<td>Year Head 1 - ML</td>
+<td>Year Head - ML</td>
 </tr>
 <tr>
 <td><a href="mailto:mohd_fuad_salim@moe.edu.sg" target="">Mr Mohd Fuad Bin Salim</a>&nbsp;</td>
