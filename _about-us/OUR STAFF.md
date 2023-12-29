@@ -2,6 +2,7 @@
 title: OUR STAFF
 permalink: /about-us/our-staff/
 description: ""
+variant: markdown
 ---
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox"> <label for="accordion1">School Leaders</label>
@@ -9,7 +10,7 @@ description: ""
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
-<td><a href="mailto:millennia_inst@moe.edu.sg" target="">Mrs Tan Wan Yu</a></td>
+<td><a href="mailto:millennia_inst@moe.edu.sg" target="">Mr Loo Ming Yaw</a></td>
 <td>Principal</td>
 </tr>
 <tr>
@@ -41,7 +42,9 @@ description: ""
 <td>Operations Manager</td>
 </tr>
 <tr>
-<td><a href="mailto:arinah_asyura_arshad@moe.edu.sg" target="">Ms Arinah Asyura Binte Arshad</a></td>
+<td><a href="mailto:eddy_ngarian_sumantri@moe.edu.sg" target="">Mr Eddy Ngarian Sumantri</a></td>
+<td>ICT Manager</td>
+</tr><tr><td><a href="mailto:arinah_asyura_arshad@moe.edu.sg" target="">Ms Arinah Asyura Binte Arshad</a></td>
 <td>Administrative Executive</td>
 </tr>
 <tr>
@@ -92,10 +95,7 @@ description: ""
 <td><a href="mailto:zeng_xiumei@moe.edu.sg" target="">Mdm Zeng Xiumei</a></td>
 <td>Operations Support Officer</td>
 </tr>
-<tr>
-<td><a href="mailto:kasturi_narainan_kasturi_narainan@moe.edu.sg" target="">Mdm Kasturi Narainan Kasturi Narainan</a></td>
-<td>Operations Support Officer</td>
-</tr>
+
 <tr>
 <td><a href="mailto:GANAPATHI_SARAVANA_KANNAN@moe.edu.sg" target="">Mr Ganapathi Saravanakannan</a></td>
 <td>Senior School Counsellor</td>
@@ -113,6 +113,9 @@ description: ""
 <td>SEN Officer</td>
 </tr>
 <tr>
+<td><a href="mailto:tan_chia_boon@schools.gov.sg@moe.edu.sg" target="">Mr Tan Chia Boon</a></td>
+<td>ECG Officer</td>
+</tr><tr>
 <td><a href="mailto:salmah_saat@moe.edu.sg" target="">Mdm Salmah Bte Saat</a></td>
 <td>Admin Assistant</td>
 </tr>
@@ -169,15 +172,16 @@ description: ""
 <td>Econs Teacher</td>
 </tr>
 <tr>
-<td><a href="mailto:ho_beng_choo_rose@moe.edu.sg" target="">Ms Ho Beng Choo Rose</a></td>
-<td>Econs Teacher</td>
-</tr>
-<tr>
+
+</tr><tr>
 <td><a href="mailto:tan_sin_yee_a@moe.edu.sg" target="">Mrs Lim-Tan Sin Yee Kelly</a></td>
 <td>Econs Teacher</td>
 </tr>
 <tr>
 <td><a href="mailto:tan_sok_hong_selina@moe.edu.sg" target="">Mrs Wee-Tan Sok Hong Selina</a></td>
+<td>Econs Teacher</td>
+</tr>
+	<tr><td><a href="mailto:lim_zhen_ting_jodyn@moe.edu.sg" target="">Ms Jodyn Lim Zhen Ting</a></td>
 <td>Econs Teacher</td>
 </tr>
 <tr>
@@ -212,16 +216,14 @@ description: ""
 <td><a href="mailto:ng_hong_peng@moe.edu.sg" target="">Mr Ng Hong Peng</a></td>
 <td>School Staff Developer - GP/Lit</td>
 </tr>
-<tr>
-<td><a href="mailto:loh_ya_ting_stephanie@moe.edu.sg" target="">Ms Loh Ya Ting, Stephanie</a></td>
-<td>SH English</td>
-</tr>
-<tr><td><a href="mailto:apetroaie_gabriela@moe.edu.sg" target="">Mdm Apetroaie Gabriela</a></td>
-<td>GP Teacher</td>
-</tr>
+
 <tr>
 <td><a href="mailto:chee_cavell_jiahe@moe.edu.sg" target="">Mr Chee Cavell Jiahe</a></td>
 <td>GP / Lit Teacher</td>
+</tr>
+	<tr>
+<td><a href="mailto:chua_tiong_seng@moe.edu.sg" target="">Mr Chua Tiong Seng</a></td>
+<td>GP Teacher</td>
 </tr>
 <tr>
 <td><a href="mailto:jamaliah_b_othman@moe.edu.sg" target="">Ms Jamaliah B Othman</a></td>
@@ -241,6 +243,9 @@ description: ""
 <td>GP Teacher</td>
 </tr>
 <tr>
+<td><a href="mailto:tay_guan_wei_bernard@moe.edu.sg" target="">Mr Bernard Tay Guan Wei</a></td>
+<td>GP / Lit Teacher</td>
+</tr><tr>
 <td><a href="mailto:Thia_Shi_Hui@moe.edu.sg" target="">Ms Thia Shi Hui</a></td>
 <td>GP Teacher</td>
 </tr>
@@ -248,10 +253,7 @@ description: ""
 <td><a href="mailto:ong_yong_yang@moe.edu.sg" target="">Mr Ong Yong Yang</a></td>
 <td>GP Teacher</td>
 </tr>
-<tr>
-<td><a href="mailto:chua_tiong_seng@moe.edu.sg" target="">Mr Chua Tiong Seng</a></td>
-<td>GP Teacher</td>
-</tr>
+
 <tr>
 <td><a href="mailto:liao_yingtong@moe.edu.sg" target="">Ms Liao Yingtong Sharon</a></td>
 <td>Lit Teacher</td>
@@ -270,28 +272,25 @@ description: ""
 <td>HOD Humanities - Geography</td>
 </tr>
 <tr>
-<td><a href="mailto:er_kia_hui@moe.edu.sg" target="">Ms Er Kia Hui</a></td>
-<td>SH Aesthetics - Art</td>
-</tr>
-<tr>
 <td><a href="mailto:tamilselvi_siva@moe.edu.sg" target="">Mrs Siva-Tamilselvi D/O Muthu</a></td>
 <td>SH CCE - History</td>
-</tr>
-<tr>
-<td><a href="mailto:tay_rong_shenq_christopher@moe.edu.sg" target="">Mr Tay Rong Shenq Christopher</a></td>
-<td>Senior Teacher - Geography</td>
 </tr>
 <tr>
 <td><a href="mailto:ghazrizal_azry_ghazali_nor@moe.edu.sg" target="">Mr Ghazrizal Azry Bin Ghazali Nor</a></td>
 <td>Art Teacher</td>
 </tr>
+	<tr>
+<td><a href="mailto:sharmaine_ong_gek_teng_a@moe.edu.sg" target="">Mr Sharmaine Ong Gek Teng</a></td>
+<td>Geography Teacher</td>
+</tr>
+
 <tr>
 <td><a href="mailto:lee_jake_hooi@moe.edu.sg" target="">Mr Lee Jake Hooi</a></td>
-<td>Hist Teacher</td>
+<td>History Teacher</td>
 </tr>
 <tr>
 <td><a href="mailto:see_kurt_wei@moe.edu.sg" target="">Mr See Kurt Wei</a></td>
-<td>Hist Teacher</td>
+<td>History Teacher</td>
 </tr>
 </tbody>
 </table>
@@ -322,10 +321,6 @@ description: ""
 <td>Maths Teacher&nbsp;</td>
 </tr>
 <tr>
-<td><a href="mailto:sai_chang_sheng@moe.edu.sg" target="">Mr Sai Chang Sheng Dillon</a></td>
-<td>Maths Teacher</td>
-</tr>
-<tr>
 <td><a href="mailto:lim_eik_kheng@moe.edu.sg" target="">Mr Lim Eik Kheng David</a></td>
 <td>Maths Teacher</td>
 </tr>
@@ -347,7 +342,7 @@ description: ""
 </tr>
 <tr>
 <td><a href="mailto:nur_illiana_mohamad_malek@moe.edu.sg" target="">Ms Nur Illiana Bte Mohamad Malek</a></td>
-<td>Year Head 1 - ML</td>
+<td>Year Head - ML</td>
 </tr>
 <tr>
 <td><a href="mailto:mohd_fuad_salim@moe.edu.sg" target="">Mr Mohd Fuad Bin Salim</a>&nbsp;</td>
@@ -376,6 +371,9 @@ description: ""
 <td>ML Teacher</td>
 </tr>
 <tr>
+<td><a href="mailto:cheong_chew_yen@moe.edu.sg" target="">Ms Cheong Chew Yen</a></td>
+<td>CL Teacher</td>
+</tr><tr>
 <td><a href="mailto:li_qiu_jue@moe.edu.sg" target="">Mdm Li Qiu Jue</a></td>
 <td>CL Teacher</td>
 </tr>
@@ -398,10 +396,6 @@ description: ""
 </tr>
 <tr><td><a href="mailto:ang_wei_wen_shawn@moe.edu.sg" target="">Mr Ang Wei Wen Shawn</a></td>
 <td>SH PE</td>
-</tr>
-<tr>
-<td><a href="mailto:then_aik_bei@moe.edu.sg" target="">Mr Then Aik Bei</a></td>
-<td>SH Student Mgmt / PE Teacher</td>
 </tr>
 <tr>
 <td><a href="mailto:fatmawatee_othman@moe.edu.sg" target="">Mdm Fatmawatee Othman</a></td>
@@ -470,10 +464,6 @@ description: ""
 <tr>
 <td><a href="mailto:tay_yong_kiang_jason@moe.edu.sg" target="">Mr Tay Yong Khiang Jason</a></td>
 <td>Chemistry Teacher</td>
-</tr>
-<tr>
-	<td><a href="mailto:jian_martin_ang@moe.edu.sg" target="">Mr Ang Jian Martin</a></td>
-<td>Physics Teacher</td>
 </tr>
 <tr>
 <td><a href="mailto:koh_yuan_nee_annie@moe.edu.sg" target="">Mrs Annie Ong-Koh Yuan Nee</a></td>
