@@ -7,7 +7,7 @@ variant: markdown
 <h4><strong> MI - An Institute of Hope and Discovery</strong></h4>
 <div>
 	<div>
-			<img style="width: 40%;float:left;margin-right:34px" src="/images/Homepage/SL__01__MR_LOO_MING_YAW_cropped.jpg">
+			<img style="width: 40%;float:left;margin-right:25px" src="/images/Homepage/SL__01__MR_LOO_MING_YAW_cropped.jpg">
 	</div>
 <p style="text-align:justify;">  At MI, we pride ourselves as an institute of hope and discovery, where students are provided with various platforms to engage, explore and experience learning and growth, so as to achieve their aspirations in a world that is growing increasingly more volatile, uncertain, complex and ambiguous. When the journey gets tough and turbulent, the Institute’s core values of Integrity, Responsibility, Respect and Resilience will be their internal compass.</p>
 
