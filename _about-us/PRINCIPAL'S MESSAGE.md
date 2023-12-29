@@ -9,7 +9,7 @@ variant: markdown
 <table>
 	<tbody><tr>
 		<td>
-			<img style="width: 4000px;" src="/images/Homepage/SL__01__MR_LOO_MING_YAW_cropped.jpg">
+			<img src="/images/Homepage/SL__01__MR_LOO_MING_YAW_cropped.jpg">
 		</td><td>
 <p style="text-align:justify;">  At MI, we pride ourselves as an institute of hope and discovery, where students are provided with various platforms to engage, explore and experience learning and growth, so as to achieve their aspirations in a world that is growing increasingly more volatile, uncertain, complex and ambiguous. When the journey gets tough and turbulent, the Institute’s core values of Integrity, Responsibility, Respect and Resilience will be their internal compass.</p>
    </td>
