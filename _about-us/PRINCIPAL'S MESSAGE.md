@@ -5,8 +5,6 @@ description: ""
 variant: markdown
 ---
 <p></p><h4><strong> MI - An Institute of Hope and Discovery</strong></h4>
-		
-
 
 <table>
 	<tbody><tr>
