@@ -4,9 +4,4 @@ permalink: /miexperience/publications/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Millennia Institute Prospectus 2023</strong></h4>
-
-
-[MI Prospectus 2023](https://online.flipbuilder.com/millennia_inst/mage/?)
-
-<a target="_blank" rel="noopener"><img src="/images/prospectus.jpg"></a>
+<h4><strong>Millennia Institute Publications</strong></h4><p></p><p><a href="https://book.flipbuilder.com/millennia_inst/" rel="noopener noreferrer nofollow" target="_blank">MI Publications Bookshelf </a></p><h4>Latest Publication</h4><p>2023 MI Bulletin Issue 2</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/MI_Bulletin_2023_Issue_2.png"></div><p></p>
