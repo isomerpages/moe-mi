@@ -24,8 +24,6 @@ links:
         url: /admission/returning-singaporeans-international-students
       - title: Subject Combination
         url: /admission/subject-combination
-      - title: Prospectus
-        url: /admission/prospectus
       - title: Financial Assistance Schemes
         url: /admission/financial-assistance-schemes
   - title: MI Experience
@@ -41,6 +39,8 @@ links:
         url: /mi-experience/cca
       - title: Achievements
         url: /mi-experience/achievements
+      - title: Publications
+        url: /mi-experience/publications
   - title: Partnership
     url: /partnership
     sublinks:
