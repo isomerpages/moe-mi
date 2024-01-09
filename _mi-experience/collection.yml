@@ -2,6 +2,7 @@ collections:
   mi-experience:
     output: true
     order:
+      - PROPECTUS.md
       - MI EXPERIENCE.md
       - DEPARTMENTS/Departments.md
       - DEPARTMENTS/.keep
