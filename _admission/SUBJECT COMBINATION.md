@@ -672,4 +672,4 @@ variant: markdown
 
 
 <p><strong>Frequently Asked Questions</strong></p>
-<p style="text-align:justify;">A list of Frequently Asked Questions about the A-Level Curriculum and Subject Combinations can be downloaded as a&nbsp;<a href="https://www.millenniainstitute.moe.edu.sg/qql/slot/u145/Admission/2022/FAQs%20-%20Subjects%20Combination%202022%20FINAL_updated_full.pdf">PDF document</a>.</p>
+<p style="text-align:justify;">A list of Frequently Asked Questions about the A-Level Curriculum and Subject Combinations can be downloaded as a&nbsp;<a href="/files/FAQs___Subjects_Combination_2024.pdf">PDF document</a>.</p>
