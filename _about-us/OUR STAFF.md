@@ -70,7 +70,7 @@ variant: markdown
 <tr><td><a href="mailto:shen_liwen_jamie@moe.edu.sg" target="">Mdm Shen Liwen Jamie</a></td><td>GP Teacher</td></tr>
 <tr><td><a href="mailto:tay_guan_wei_bernard@moe.edu.sg" target="">Mr Bernard Tay Guan Wei</a></td><td>GP Teacher</td></tr>
 <tr><td><a href="mailto:Thia_Shi_Hui@moe.edu.sg" target="">Ms Thia Shi Hui</a></td><td>GP Teacher</td></tr>
-<tr><td><a href="mailto:ong_yong_yang@moe.edu.sg" target="">Mr Ong Yong Yang</a></td><td>GP Teacher</td></tr>
+<tr><td><a href="mailto:ong_yong_yang@moe.edu.sg" target="">Mr Ong Yong Yang</a></td><td>GP / Lit Teacher</td></tr>
 <tr><td><a href="mailto:liao_yingtong@moe.edu.sg" target="">Ms Liao Yingtong Sharon</a></td><td>Lit Teacher</td></tr></tbody></table></div></li>
 
 <li><input type="checkbox" id="accordion5"> <label for="accordion5">Humanities</label>
