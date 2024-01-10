@@ -10,4 +10,3 @@ description: ""
 <p><strong>Related Links</strong></p>
 
 * [Subject Combination 2024](https://www.millenniainstitute.moe.edu.sg/admission/subject-combination/)
-
