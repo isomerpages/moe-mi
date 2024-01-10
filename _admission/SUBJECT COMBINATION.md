@@ -672,4 +672,4 @@ variant: markdown
 
 
 <p><strong>Frequently Asked Questions</strong></p>
-<p style="text-align:justify;">A list of Frequently Asked Questions about the A-Level Curriculum and Subject Combinations can be downloaded as a&nbsp;<a href="/files/FAQs___Subjects_Combination_2024.pdf">PDF document</a>.</p>
+<p style="text-align:justify;">A list of Frequently Asked Questions about the A-Level Curriculum and Subject Combinations can be downloaded as a&nbsp;<a href="/files/FAQs___Subjects_Combination_2024__10Jan.pdf">PDF document</a>.</p>

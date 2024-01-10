@@ -2,19 +2,207 @@
 title: ACHIEVEMENTS
 permalink: /mi-experience/achievements/
 description: ""
+variant: markdown
 ---
 <ul class="jekyllcodex_accordion">
-<li><input id="accordion1" type="checkbox" /> <label for="accordion1">2022 Achievements</label>
-<div>
-<table>
-<tbody>
+<li><input id="accordion8" type="checkbox"> <label for="accordion8">2023 Achievements</label><div><table><tbody>
+<tr><th>Month</th><th>Department/CCA</th><th>Event</th><th>Organiser</th><th>Achievement</th></tr>
 <tr>
-<th>Month </th>
-<th>Department/CCA</th>
-<th>Event</th>
-<th>Organiser</th>
-<th>Achievement</th>
+<td>January</td>
+<td>Science</td>
+<td>DaVinci@SUTD STEAMxD Immersion Programme 2023</td>
+<td>Singapore University of Technology and Design (SUTD</td>
+<td>AI Robots Best Social Context Award - Sim Jung Hui Kairos (21MI03)</td>
 </tr>
+<tr>
+<td>March</td>
+<td>Angklung</td>
+<td>Singapore Youth Festival Arts Presentation</td>
+<td>MOE Art Education Branch</td>
+<td>Certificate of Distinction</td>
+</tr>
+<tr>
+<td>March</td>
+<td>Mathematics</td>
+<td>International Mathematical Modelling Challenge</td>
+<td>AST, NJC, RGS</td>
+<td>Chan Jing Yuan (21MI06), Oh Jay Meng (21MI06), Jeevarathinam Dhanasekar Nithish (21MI05) - Certificate of Merit</td>
+</tr>
+<tr>
+<td>April</td>
+<td>Modern Dance</td>
+<td>Singapore Youth Festival Arts Presentation</td>
+<td>MOE Art Education Branch</td>
+<td>Certificate of Accomplishment</td>
+</tr>
+<tr>
+<td>April</td>
+<td>Malay Dance</td>
+<td>Singapore Youth Festival Arts Presentation</td>
+<td>MOE Art Education Branch</td>
+<td>Certificate of Distinction</td>
+</tr>
+<tr>
+<td>April</td>
+<td>Wushu</td>
+<td>National School Games 'A' Division</td>
+<td>Singapore Schools Sports Council</td>
+<td>Nan Quan: 1st Place, Devni Chamodya Kaluarachchi (22MI09) (Colours Award) 
+Nan Dao: 1st Place, Devni Chamodya Kaluarachchi (22MI09) (Colours Award)
+Nan Gun: 1st Place, Devni Chamodya Kaluarachchi (22MI09) (Colours Award)</td>
+</tr>
+<tr>
+<td>May</td>
+<td>Band</td>
+<td>Singapore Youth Festival Arts Presentation</td>
+<td>MOE Art Education Branch</td>
+<td>Certificate of Commendation</td>
+</tr>
+<tr>
+<td>May</td>
+<td>Art</td>
+<td>W7 Cluster Art Competition</td>
+<td>W7 Cluster Art NLC</td>
+<td>Gold Award - Goh Si Hua (23MI01), Commendation - Ng Yi Yi Vanessa (22MI02)</td>
+</tr>
+<tr>
+<td>May</td>
+<td>Science</td>
+<td>SISTEMIC 2023</td>
+<td>National Junior College</td>
+<td>Most Sustainable Concept - Xu Jianhang (22MI03), Goh Wei Zhen, Jevier (22MI07)</td>
+</tr>
+<tr>
+<td>June</td>
+<td>Aesthetics</td>
+<td>Singapore Youth Festival Youth Station Project</td>
+<td>MOE Art Education Branch</td>
+<td>Honurable Mention - Yesterday's Dawn - Wang Jing (22MI02), Ng Yi Yi Vanessa (22MI02), Apostol Gian Paolo (22MI02), Be Brave - Nirvashini d/o Pannirselvam (22MI04)</td>
+</tr>
+<tr>
+<td>June</td>
+<td>VIA</td>
+<td>Harvard Prize Book</td>
+<td>Harvard Prize Book (Singapore)</td>
+<td>Harvard Prize Book award - David Colson (20MI05)</td>
+</tr>
+<tr>
+<td>July</td>
+<td>Science</td>
+<td>Singapore Chemistry League (SChL)</td>
+<td>Singapore Chemistry League (supported by the Singapore National Institute of Chemistry)</td>
+<td>Bronze - Dai Muhua (22MI07), He Peng Fan (22MI07), Wyman Wong Rui Kang (22MI07), Edwin Franklin Davis (22MI07)</td>
+</tr>
+<tr>
+<td>July</td>
+<td>Science</td>
+<td>Engineering and Tech Programme Scholarship</td>
+<td>Sciences Branch, Curriculum Planning and Development Division 1, MOE</td>
+<td>Engineering and Tech Programme Scholarship Recipients - Hendricks Tan Kai Sen (22MI09), Reagan Lee Zhi Geng (22MI07), Wong Kern Xin (22MI07)</td>
+</tr>
+<tr>
+<td>August</td>
+<td>Wuhsu</td>
+<td>World Kungfu C'ships</td>
+<td>International Wushu Federation</td>
+<td>Southern Routines - Gold &amp; Bronze medals - Devni Chamodya Kaluarachchi (22MI09)</td>
+</tr>
+<tr>
+<td>August</td>
+<td>Rugby</td>
+<td>Peter Lim Scholarship</td>
+<td>Singapore Olympic Foundation</td>
+<td>Awarded Peter Lim's Scholarship 2023 (High Performance) - Cedric Teo (22MI07)</td>
+</tr>
+<tr>
+<td>August</td>
+<td>Football</td>
+<td>National School Games 'A' Division</td>
+<td>Singapore Schools Sports Council</td>
+<td>NSG Football Fairplay Award (Team)</td>
+</tr>
+<tr>
+<td>August</td>
+<td>Badminton</td>
+<td>National School Games 'A' Division</td>
+<td>Singapore Schools Sports Council</td>
+<td>Sportsmanship Award - Chia Chee Meng (22MI07), Zhu Zixuan (22MI03)</td>
+</tr>
+<tr>
+<td>August</td>
+<td>Basketball</td>
+<td>National School Games 'A' Division</td>
+<td>Singapore Schools Sports Council</td>
+<td>Sportsmanship Award - Mika Laurence Golucino Templonuevo (21MI05), Yam Xin Hui (21MI01)</td>
+</tr>
+<tr>
+<td>August</td>
+<td>Cross Country</td>
+<td>National School Games 'A' Division</td>
+<td>Singapore Schools Sports Council</td>
+<td>Sportsmanship Award - A Nishandini (23MI02), Goh Wan En (22MI06), Kho Yao-En Seth (22MI03)</td>
+</tr>
+<tr>
+<td>August</td>
+<td>Track and Field</td>
+<td>National School Games 'A' Division</td>
+<td>Singapore Schools Sports Council</td>
+<td>Sportsmanship Award - Kho Yao-En Seth (22MI03)</td>
+</tr>
+<tr>
+<td>August</td>
+<td>Floorball</td>
+<td>National School Games 'A' Division</td>
+<td>Singapore Schools Sports Council</td>
+<td>Sportsmanship Award - Nur Hairina Binte Mohammed Khalid (21MI02)</td>
+</tr>
+<tr>
+<td>August</td>
+<td>Netball</td>
+<td>National School Games 'A' Division</td>
+<td>Singapore Schools Sports Council</td>
+<td>Sportsmanship Award - Leena Nor Rani Rozario (21MI04)</td>
+</tr>
+<tr>
+<td>August</td>
+<td>Taekwondo</td>
+<td>National School Games 'A' Division</td>
+<td>Singapore Schools Sports Council</td>
+<td>Sportsmanship Award - Lin Zili (22MI07)</td>
+</tr>
+<tr>
+<td>August</td>
+<td>Wushu</td>
+<td>National School Games 'A' Division</td>
+<td>Singapore Schools Sports Council</td>
+<td>Sportsmanship Award - Devni Chamodya Kaluarachchi (22MI09)</td>
+</tr>
+<tr>
+<td>August</td>
+<td>Hockey</td>
+<td>SHF Youth Indoor Hockey Carnival</td>
+<td>Singapore Hockey Federation</td>
+<td>Girls Team - 4th Position</td>
+</tr>
+<tr>
+<td>October</td>
+<td>SFP-ATP Committee</td>
+<td>National Design Project</td>
+<td>Temasek Polytechnic, National Design Council</td>
+<td>Merit Award - Samuel Tan (22MI01), Noel Liew Yue Hung (22MI06), Lucie-Jean Chai Lit Huey (23MI01), Dai Muhua (22MI07), Xu Jianhang (22MI03)</td>
+</tr>
+<tr>
+<td>November</td>
+<td>Environmental Education Team</td>
+<td>Seatrium Green Wave Environmental Care Competition 2023</td>
+<td>Seatrium (Formerly, Sembcorp Marine)</td>
+<td>Merit Award and Team Award - Noel Liew Yue Hung (22MI06), Leow Hai Er (22MI04), Lim Yi Hern Xzavier (22MI03), Chua Yu Yang (22MI06), Nur Athirah Binte Md Azhar (22MI02), Teki Abhay Das (22MI07), Nur Irdina Binte Muhammed Sabri (22MI09), Oliver Quek Yi Chou (22MI06)</td>
+</tr>
+</tbody></table></div></li>
+<li><input id="accordion1" type="checkbox"> <label for="accordion1">2022 Achievements</label>
+<div>
+<table><tbody>
+<tr><th>Month </th><th>Department/CCA</th><th>Event</th><th>Organiser</th><th>Achievement</th></tr>
 <tr>
 <td>Feb </td>
 <td>Youth Diplomats Society</td>
@@ -83,7 +271,7 @@ description: ""
 <td>Youth Diplomats Society</td>
 <td>Dunman High ASEAN Plus</td>
 <td>Dunman High School</td>
-<td>Best Delegates - Zhang Ruo Tian (21MI04) &amp; Chang Huixin (22MI01)<br /><br />Best Position Paper - Toh-Chin Rui Mu Eterny (22MI06)</td>
+<td>Best Delegates - Zhang Ruo Tian (21MI04) &amp; Chang Huixin (22MI01)<br><br>Best Position Paper - Toh-Chin Rui Mu Eterny (22MI06)</td>
 </tr>
 <tr>
 <td>June</td>
@@ -96,7 +284,7 @@ description: ""
 </table>
 </div>
 </li>
-<li><input id="accordion2" type="checkbox" /> <label for="accordion2">2021 Achievements</label>
+<li><input id="accordion2" type="checkbox"> <label for="accordion2">2021 Achievements</label>
 <div>
 <table>
 <tbody>
@@ -108,14 +296,14 @@ description: ""
 <th>Achievement</th>
 </tr>
 <tr>
-<td>&nbsp;April</td>
+<td>April</td>
 <td>Cultural Societies (Malay Dance)</td>
 <td>Singapore Youth Festival Arts Presentation</td>
 <td>MOE Arts Education Branch </td>
 <td>Certificate of Distinction</td>
 </tr>
 <tr>
-<td>&nbsp;April</td>
+<td>April</td>
 <td>Angklung Kulintang Ensemble</td>
 <td>Singapore Youth Festival Arts Presentation</td>
 <td>MOE Arts Education Branch</td>
@@ -129,49 +317,49 @@ description: ""
 <td>Certificate of Accomplishment</td>
 </tr>
 <tr>
-<td>&nbsp;May</td>
+<td>May</td>
 <td>Symphonic Band</td>
 <td>Singapore Youth Festival Arts Presentation</td>
 <td>MOE Arts Education Branch</td>
 <td>Certificate of Accomplishment</td>
 </tr>
 <tr>
-<td>&nbsp;May</td>
+<td>May</td>
 <td>Entrepreneurship Club</td>
 <td>National Youth Entrepreneurship Award 2021</td>
 <td>ACE, *SCAPE &amp; EDGE</td>
 <td>Silver Award</td>
 </tr>
 <tr>
-<td>&nbsp;June</td>
+<td>June</td>
 <td>Mother Tongue Language</td>
 <td>13th National Chinese Short Film Competition</td>
 <td>Maris Stella High School</td>
-<td>Best Poster - Lin Yang (20MI06)<br />Best Cinematography - Guan Jiahao (20MI10)</td>
+<td>Best Poster - Lin Yang (20MI06)<br>Best Cinematography - Guan Jiahao (20MI10)</td>
 </tr>
 <tr>
-<td>&nbsp;July</td>
+<td>July</td>
 <td>Basketball</td>
 <td>Singapore Olympic Foundation Peter Lim Scholarship</td>
 <td>Singapore Olympic Foundation</td>
 <td>Tertiary: Valarie Lim Xin Er (19C2)</td>
 </tr>
 <tr>
-<td>&nbsp;July</td>
+<td>July</td>
 <td>Hockey</td>
 <td>Singapore Olympic Foundation Peter Lim Scholarship&nbsp;</td>
 <td>Singapore Olympic Foundation </td>
 <td>Tertiary: Luqman Hakim Bin Rahmat (19S4)</td>
 </tr>
 <tr>
-<td>&nbsp;July</td>
-<td>Football&nbsp;</td>
+<td>July</td>
+<td>Football</td>
 <td>Singapore Olympic Foundation Peter Lim Scholarship</td>
 <td>Singapore Olympic Foundation</td>
 <td>Tertiary: Eunice Liew Shuyi (19S5)</td>
 </tr>
 <tr>
-<td>&nbsp;July</td>
+<td>July</td>
 <td>Aesthetic</td>
 <td>The Youth Station Project</td>
 <td>MOE Arts Education Branch</td>
@@ -182,7 +370,7 @@ description: ""
 <td>Science</td>
 <td>The Antimicrobials: Handle with Care Competition 2021</td>
 <td>National Centre for Infectious Disease</td>
-<td>1st Prize: Social Media Post Category -<br />Dea Imelia Rohani</td>
+<td>1st Prize: Social Media Post Category -<br>Dea Imelia Rohani</td>
 </tr>
 <tr>
 <td>October</td>
@@ -195,7 +383,7 @@ description: ""
 </table>
 </div>
 </li>
-<li><input id="accordion3" type="checkbox" /> <label for="accordion3">2020 Achievements</label>
+<li><input id="accordion3" type="checkbox"> <label for="accordion3">2020 Achievements</label>
 <div>
 <table>
 <tbody>
@@ -294,7 +482,7 @@ description: ""
 </table>
 </div>
 </li>
-<li><input id="accordion4" type="checkbox" /> <label for="accordion4">2019 Achievements</label>
+<li><input id="accordion4" type="checkbox"> <label for="accordion4">2019 Achievements</label>
 <div>
 <table>
 <tbody>
@@ -317,7 +505,7 @@ description: ""
 <td>Mathematics</td>
 <td>NUS Business Analytics Case Competition 2019</td>
 <td>NUS Industrial Systems Engineering Club</td>
-<td>Team attained 4th Position in the Quantitative Segment.<br />Team members: Ng Chuan Chai Dillion 17S1, Goh See Yin 17S3, Joei Chen Pei Shi 17S3, Neo See Chyi 17S3</td>
+<td>Team attained 4th Position in the Quantitative Segment.<br>Team members: Ng Chuan Chai Dillion 17S1, Goh See Yin 17S3, Joei Chen Pei Shi 17S3, Neo See Chyi 17S3</td>
 </tr>
 <tr>
 <td>March</td>
@@ -401,7 +589,7 @@ description: ""
 <td>GP/Lit</td>
 <td>NTU Current Affairs Challenge</td>
 <td>NTU</td>
-<td>3rd, Team Presentation - Dillon Sim Si Chun 19A1, Winston Ng Yong Jie 19A3, Siti Amanah Mulyati Bte Husaini 19C1<br />1st, Individual Speech - Nicole Teo Yi Teng 19A1, 3rd Individual Speech - Chong Ye Ni 19A1</td>
+<td>3rd, Team Presentation - Dillon Sim Si Chun 19A1, Winston Ng Yong Jie 19A3, Siti Amanah Mulyati Bte Husaini 19C1<br>1st, Individual Speech - Nicole Teo Yi Teng 19A1, 3rd Individual Speech - Chong Ye Ni 19A1</td>
 </tr>
 <tr>
 <td>May</td>
@@ -436,7 +624,7 @@ description: ""
 <td>Science</td>
 <td>Singapore Student Learning Space (SLS) Learning Designers Symposium</td>
 <td>MOE ETD</td>
-<td>Certificate of Achievement for Quality Lesson Design<br />Neo Yng Yng, Annie Koh, Chan Xin Yu</td>
+<td>Certificate of Achievement for Quality Lesson Design<br>Neo Yng Yng, Annie Koh, Chan Xin Yu</td>
 </tr>
 <tr>
 <td>June</td>
@@ -519,7 +707,7 @@ description: ""
 </table>
 </div>
 </li>
-<li><input id="accordion5" type="checkbox" /> <label for="accordion5">2018 Achievements</label>
+<li><input id="accordion5" type="checkbox"> <label for="accordion5">2018 Achievements</label>
 <div>
 <table>
 <tbody>
@@ -652,7 +840,7 @@ description: ""
 <tr>
 <td>July</td>
 <td>English</td>
-<td>2018 Tales of &lsquo;S&rsquo; eBook Competition</td>
+<td>2018 Tales of ‘S’ eBook Competition</td>
 <td>CIVICA</td>
 <td>Winner (Darin Chow 16A1)</td>
 </tr>
@@ -716,7 +904,7 @@ description: ""
 </table>
 </div>
 </li>
-<li><input id="accordion6" type="checkbox" /> <label for="accordion6">2017 Achievements</label>
+<li><input id="accordion6" type="checkbox"> <label for="accordion6">2017 Achievements</label>
 <div>
 <table>
 <tbody>
@@ -855,7 +1043,7 @@ description: ""
 <tr>
 <td>August</td>
 <td>CCA - Rugby</td>
-<td>Asian Rugby Women&rsquo;s Under 20 Sevens Series.</td>
+<td>Asian Rugby Women’s Under 20 Sevens Series.</td>
 <td>Singapore Rugby Union</td>
 <td>National Under-20 Representation - Diyana Khairunnisa Bte Muhammad Afiq Al-Matin (17A2)</td>
 </tr>
@@ -878,7 +1066,7 @@ description: ""
 <td>CCA - Sports</td>
 <td>Singapore Schools Sports Council Colours Award</td>
 <td>Singapore Schools Sports Council</td>
-<td>Best Sports Boy (Floorball) - Mohamad Amir Arsyad 16C4;<br />Colours Award Distinction - Mohammed Mikaail 15A3;<br />Colours Award - Leona Yeo Mu Khoong 15B1, Eunice Lim Xin Hui 15B4, Eylia Bte Mohammad Hizam 15A1, Diyana Khairunnisa Bte M 17A2, Nursara Bte Mohd Rezal 17C5, Samantha Foo Qian Lin 15S4, Nur Amalina Bte Mohamed Amidun 15S3, Nur 'Aqilah Bte Saffaa'i 16S2, Deepa Subramaniam 15S4, Alfianah Nurulfatihah Bte Rahmat 15B1, Xu Jia Yi 17C3, Siti Nur Ellysha Bte Jaffar 16S2, Nurdiana Bte Noordin 16C5, Nur Rafiqah Bte Mohamed Azahar 16A1, Nur Dania Bte Ahmad Hasliana 16C3, Natasha Louise Vine 16A1, Michelle Genandy 16C4, Lim Zi Xuan 16C5, Krithaisha Vijayakumar 16S2, Galistan Desiree Virginia P 17A1, Erica Foo Suz Yen 16A1, Thufailah Bte Ridzwan 17A4, Tong Wan Yee Meredith 17S2</td>
+<td>Best Sports Boy (Floorball) - Mohamad Amir Arsyad 16C4;<br>Colours Award Distinction - Mohammed Mikaail 15A3;<br>Colours Award - Leona Yeo Mu Khoong 15B1, Eunice Lim Xin Hui 15B4, Eylia Bte Mohammad Hizam 15A1, Diyana Khairunnisa Bte M 17A2, Nursara Bte Mohd Rezal 17C5, Samantha Foo Qian Lin 15S4, Nur Amalina Bte Mohamed Amidun 15S3, Nur 'Aqilah Bte Saffaa'i 16S2, Deepa Subramaniam 15S4, Alfianah Nurulfatihah Bte Rahmat 15B1, Xu Jia Yi 17C3, Siti Nur Ellysha Bte Jaffar 16S2, Nurdiana Bte Noordin 16C5, Nur Rafiqah Bte Mohamed Azahar 16A1, Nur Dania Bte Ahmad Hasliana 16C3, Natasha Louise Vine 16A1, Michelle Genandy 16C4, Lim Zi Xuan 16C5, Krithaisha Vijayakumar 16S2, Galistan Desiree Virginia P 17A1, Erica Foo Suz Yen 16A1, Thufailah Bte Ridzwan 17A4, Tong Wan Yee Meredith 17S2</td>
 </tr>
 <tr>
 <td>September</td>
@@ -905,7 +1093,7 @@ description: ""
 </table>
 </div>
 </li>
-<li><input id="accordion7" type="checkbox" /> <label for="accordion7">2016 Achievements</label>
+<li><input id="accordion7" type="checkbox"> <label for="accordion7">2016 Achievements</label>
 <div>
 <table>
 <tbody>
@@ -1080,15 +1268,15 @@ description: ""
 <tr>
 <td>Aug</td>
 <td>Mother Tongue/ Chinese</td>
-<td>The 9th Chinese Bridge-Chinese Proficiency Competition<br />for Foreign High School Students</td>
-<td>Confucius School in Singapore<br />(新加坡孔子学校)</td>
+<td>The 9th Chinese Bridge-Chinese Proficiency Competition<br>for Foreign High School Students</td>
+<td>Confucius School in Singapore<br>(新加坡孔子学校)</td>
 <td>1st - Aljess Lee Chia Mun, 16A3, 2nd - Outayar Maw Maw Naing, 16C1</td>
 </tr>
 <tr>
 <td>Aug</td>
 <td>Mother Tongue/ Chinese</td>
-<td>2016 National Public Speaking Competition (Chinese) for Secondary Schools &amp; Junior<br />Colleges</td>
-<td>Anglican High School, Singapore Middle School Chinese<br />Teachers&rsquo; Association, zbCOMMA</td>
+<td>2016 National Public Speaking Competition (Chinese) for Secondary Schools &amp; Junior<br>Colleges</td>
+<td>Anglican High School, Singapore Middle School Chinese<br>Teachers’ Association, zbCOMMA</td>
 <td>3rd - Wei Ming, 15B7</td>
 </tr>
 <tr>
@@ -1110,7 +1298,7 @@ description: ""
 <td>Mother Tongue/ Chinese</td>
 <td>43rd National Schools Translation Competition</td>
 <td><em>Lianhe Zaobao COMMA of SPH and Nan Hua High School</em></td>
-<td>Lee Yann Yih (14B4) &ndash; Merit</td>
+<td>Lee Yann Yih (14B4) – Merit</td>
 </tr>
 <tr>
 <td>Oct</td>
