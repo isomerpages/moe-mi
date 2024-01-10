@@ -6,17 +6,17 @@ variant: markdown
 ---
 <h4><strong>MOE SEXUALITY EDUCATION IN SCHOOLS</strong></h4>
   
-<p style="text-align:justify;">1. Sexuality Education (SEd) in schools aims to enable students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships with others, including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.</p>
+<p style="text-align:justify;">1.  &nbsp;Sexuality Education (SEd) in schools aims to enable students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships with others, including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.</p>
   
-<p style="text-align:justify;">2. The Goals of Sexuality Education are to:<br>(a)	Support students in managing their physiological, social and emotional changes as they grow up and develop safe and healthy relationships.<br>(b)	Guide students to make wise, informed and responsible decisions on sexuality matters.<br>(c)	Help students develop a moral compass and respect for themselves and others by having positive mainstream values and attitudes about sexuality that are premised on the family as the basic unit of society.</p>
+<p style="text-align:justify;">2.  &nbsp;The Goals of Sexuality Education are to:<br>(a)	Support students in managing their physiological, social and emotional changes as they grow up and develop safe and healthy relationships.<br>(b)	Guide students to make wise, informed and responsible decisions on sexuality matters.<br>(c)	Help students develop a moral compass and respect for themselves and others by having positive mainstream values and attitudes about sexuality that are premised on the family as the basic unit of society.</p>
   
 
-<p style="text-align:justify;">3. The Key Messages of Sexuality Education are:<br>(a)	Love and respect yourself as you love and respect others;<br>(b)	Build positive relationships based on love and respect (which are the foundation for strong families);<br>(c)	Make responsible decisions for yourself, your family and society; and<br>(d)	Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.</p>
+<p style="text-align:justify;">3.  &nbsp;The Key Messages of Sexuality Education are:<br>(a)	Love and respect yourself as you love and respect others;<br>(b)	Build positive relationships based on love and respect (which are the foundation for strong families);<br>(c)	Make responsible decisions for yourself, your family and society; and<br>(d)	Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.</p>
 <p>You may click&nbsp;<strong><a href="https://go.gov.sg/moe-sexuality-education" rel="noopener">here</a></strong>&nbsp;for more information on MOE Sexuality Education.</p>
 <h4><strong>OVERVIEW OF MILLENNIA INSTITUTE'S SEXUALITY EDUCATION PROGRAMME FOR 2023</strong></h4>
-<p style="text-align:justify;">4.Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;<strong><a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener">here</a></strong>&nbsp;for more information on the scope of Sexuality Education in the school curriculum.</p>
+<p style="text-align:justify;">4. &nbsp;Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;<strong><a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener">here</a></strong>&nbsp;for more information on the scope of Sexuality Education in the school curriculum.</p>
 <p><strong>Sexuality Education:</strong></p>
-<p style="text-align:justify;">5. The focus for Sexuality Education at Pre-University is on respectful relationships. Specifically, the JC/MI package covers themes of Interpersonal Relationships, Sexual Health, Sexual Behaviour, and Culture, Society and Law woven into the main focus on relationships.</p>
+<p style="text-align:justify;">5.  &nbsp;The focus for Sexuality Education at Pre-University is on respectful relationships. Specifically, the JC/MI package covers themes of Interpersonal Relationships, Sexual Health, Sexual Behaviour, and Culture, Society and Law woven into the main focus on relationships.</p>
 <p style="text-align: left;"><strong>At Millennia Institute, the following Sexuality Education lessons will be taught in&nbsp;<u>2024</u>:</strong></p>
 
 
@@ -32,11 +32,17 @@ variant: markdown
 
 
 <p><strong><em><u>eTeens Programme:</u></em></strong></p>
-<p style="text-align:justify;">6. <em>eTeens</em>&nbsp;is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide JC/CI Year 1 students with accurate information on STI/HIV and protection from a health perspective so as to enable them to make wise, informed, and sensible decisions.</p>
-<p style="text-align:justify;">7. &nbsp;Students learn&nbsp;the health, social and financial implications of STIs/HIV on an individual and the family if he/she gets infected with STIs/HIV and the importance of responsible decision-making and knowing where to seek help.&nbsp;Abstinence and upholding family values are the key messages.&nbsp;The desired outcome of the&nbsp;<em>eTeens</em>&nbsp;programme is that students are empowered to make wise, informed and sensible decisions.</p>
-<p><strong>At Millennia Institute, the&nbsp;<em>eTeens&nbsp;</em>programme will be implemented as follows in 2023:</strong></p>
+<p style="text-align:justify;">6. &nbsp;<em>eTeens</em>&nbsp;is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide JC/MI Year 1 students with accurate information on STIs/HIV and protection from a health perspective. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions. </p>
+<p style="text-align:justify;">7. &nbsp;Students learn the health, social and financial implications of STIs/HIV on an individual and the family, and the importance of responsible decision-making and seeking help. Abstinence and upholding family values are the key messages.</p>
+<p><strong>At Millennia Institute, the&nbsp;<em>eTeens&nbsp;</em>programme will be implemented as follows in 2024:</strong></p>
 <table border="0" width="943" cellspacing="0" cellpadding="0">
 <thead>
+	
+	
+	
+	
+	
+	
 	
 	
 </thead></table><table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" width="623" style="width:467.4pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
