@@ -2,19 +2,13 @@
 title: ACHIEVEMENTS
 permalink: /mi-experience/achievements/
 description: ""
+variant: markdown
 ---
 <ul class="jekyllcodex_accordion">
-<li><input id="accordion1" type="checkbox" /> <label for="accordion1">2022 Achievements</label>
+<li><input id="accordion1" type="checkbox"> <label for="accordion1">2022 Achievements</label>
 <div>
-<table>
-<tbody>
-<tr>
-<th>Month </th>
-<th>Department/CCA</th>
-<th>Event</th>
-<th>Organiser</th>
-<th>Achievement</th>
-</tr>
+<table><tbody>
+<tr><th>Month </th><th>Department/CCA</th><th>Event</th><th>Organiser</th><th>Achievement</th></tr>
 <tr>
 <td>Feb </td>
 <td>Youth Diplomats Society</td>
@@ -83,7 +77,7 @@ description: ""
 <td>Youth Diplomats Society</td>
 <td>Dunman High ASEAN Plus</td>
 <td>Dunman High School</td>
-<td>Best Delegates - Zhang Ruo Tian (21MI04) &amp; Chang Huixin (22MI01)<br /><br />Best Position Paper - Toh-Chin Rui Mu Eterny (22MI06)</td>
+<td>Best Delegates - Zhang Ruo Tian (21MI04) &amp; Chang Huixin (22MI01)<br><br>Best Position Paper - Toh-Chin Rui Mu Eterny (22MI06)</td>
 </tr>
 <tr>
 <td>June</td>
@@ -96,7 +90,7 @@ description: ""
 </table>
 </div>
 </li>
-<li><input id="accordion2" type="checkbox" /> <label for="accordion2">2021 Achievements</label>
+<li><input id="accordion2" type="checkbox"> <label for="accordion2">2021 Achievements</label>
 <div>
 <table>
 <tbody>
@@ -147,7 +141,7 @@ description: ""
 <td>Mother Tongue Language</td>
 <td>13th National Chinese Short Film Competition</td>
 <td>Maris Stella High School</td>
-<td>Best Poster - Lin Yang (20MI06)<br />Best Cinematography - Guan Jiahao (20MI10)</td>
+<td>Best Poster - Lin Yang (20MI06)<br>Best Cinematography - Guan Jiahao (20MI10)</td>
 </tr>
 <tr>
 <td>&nbsp;July</td>
@@ -182,7 +176,7 @@ description: ""
 <td>Science</td>
 <td>The Antimicrobials: Handle with Care Competition 2021</td>
 <td>National Centre for Infectious Disease</td>
-<td>1st Prize: Social Media Post Category -<br />Dea Imelia Rohani</td>
+<td>1st Prize: Social Media Post Category -<br>Dea Imelia Rohani</td>
 </tr>
 <tr>
 <td>October</td>
@@ -195,7 +189,7 @@ description: ""
 </table>
 </div>
 </li>
-<li><input id="accordion3" type="checkbox" /> <label for="accordion3">2020 Achievements</label>
+<li><input id="accordion3" type="checkbox"> <label for="accordion3">2020 Achievements</label>
 <div>
 <table>
 <tbody>
@@ -294,7 +288,7 @@ description: ""
 </table>
 </div>
 </li>
-<li><input id="accordion4" type="checkbox" /> <label for="accordion4">2019 Achievements</label>
+<li><input id="accordion4" type="checkbox"> <label for="accordion4">2019 Achievements</label>
 <div>
 <table>
 <tbody>
@@ -317,7 +311,7 @@ description: ""
 <td>Mathematics</td>
 <td>NUS Business Analytics Case Competition 2019</td>
 <td>NUS Industrial Systems Engineering Club</td>
-<td>Team attained 4th Position in the Quantitative Segment.<br />Team members: Ng Chuan Chai Dillion 17S1, Goh See Yin 17S3, Joei Chen Pei Shi 17S3, Neo See Chyi 17S3</td>
+<td>Team attained 4th Position in the Quantitative Segment.<br>Team members: Ng Chuan Chai Dillion 17S1, Goh See Yin 17S3, Joei Chen Pei Shi 17S3, Neo See Chyi 17S3</td>
 </tr>
 <tr>
 <td>March</td>
@@ -401,7 +395,7 @@ description: ""
 <td>GP/Lit</td>
 <td>NTU Current Affairs Challenge</td>
 <td>NTU</td>
-<td>3rd, Team Presentation - Dillon Sim Si Chun 19A1, Winston Ng Yong Jie 19A3, Siti Amanah Mulyati Bte Husaini 19C1<br />1st, Individual Speech - Nicole Teo Yi Teng 19A1, 3rd Individual Speech - Chong Ye Ni 19A1</td>
+<td>3rd, Team Presentation - Dillon Sim Si Chun 19A1, Winston Ng Yong Jie 19A3, Siti Amanah Mulyati Bte Husaini 19C1<br>1st, Individual Speech - Nicole Teo Yi Teng 19A1, 3rd Individual Speech - Chong Ye Ni 19A1</td>
 </tr>
 <tr>
 <td>May</td>
@@ -436,7 +430,7 @@ description: ""
 <td>Science</td>
 <td>Singapore Student Learning Space (SLS) Learning Designers Symposium</td>
 <td>MOE ETD</td>
-<td>Certificate of Achievement for Quality Lesson Design<br />Neo Yng Yng, Annie Koh, Chan Xin Yu</td>
+<td>Certificate of Achievement for Quality Lesson Design<br>Neo Yng Yng, Annie Koh, Chan Xin Yu</td>
 </tr>
 <tr>
 <td>June</td>
@@ -519,7 +513,7 @@ description: ""
 </table>
 </div>
 </li>
-<li><input id="accordion5" type="checkbox" /> <label for="accordion5">2018 Achievements</label>
+<li><input id="accordion5" type="checkbox"> <label for="accordion5">2018 Achievements</label>
 <div>
 <table>
 <tbody>
@@ -652,7 +646,7 @@ description: ""
 <tr>
 <td>July</td>
 <td>English</td>
-<td>2018 Tales of &lsquo;S&rsquo; eBook Competition</td>
+<td>2018 Tales of ‘S’ eBook Competition</td>
 <td>CIVICA</td>
 <td>Winner (Darin Chow 16A1)</td>
 </tr>
@@ -716,7 +710,7 @@ description: ""
 </table>
 </div>
 </li>
-<li><input id="accordion6" type="checkbox" /> <label for="accordion6">2017 Achievements</label>
+<li><input id="accordion6" type="checkbox"> <label for="accordion6">2017 Achievements</label>
 <div>
 <table>
 <tbody>
@@ -855,7 +849,7 @@ description: ""
 <tr>
 <td>August</td>
 <td>CCA - Rugby</td>
-<td>Asian Rugby Women&rsquo;s Under 20 Sevens Series.</td>
+<td>Asian Rugby Women’s Under 20 Sevens Series.</td>
 <td>Singapore Rugby Union</td>
 <td>National Under-20 Representation - Diyana Khairunnisa Bte Muhammad Afiq Al-Matin (17A2)</td>
 </tr>
@@ -878,7 +872,7 @@ description: ""
 <td>CCA - Sports</td>
 <td>Singapore Schools Sports Council Colours Award</td>
 <td>Singapore Schools Sports Council</td>
-<td>Best Sports Boy (Floorball) - Mohamad Amir Arsyad 16C4;<br />Colours Award Distinction - Mohammed Mikaail 15A3;<br />Colours Award - Leona Yeo Mu Khoong 15B1, Eunice Lim Xin Hui 15B4, Eylia Bte Mohammad Hizam 15A1, Diyana Khairunnisa Bte M 17A2, Nursara Bte Mohd Rezal 17C5, Samantha Foo Qian Lin 15S4, Nur Amalina Bte Mohamed Amidun 15S3, Nur 'Aqilah Bte Saffaa'i 16S2, Deepa Subramaniam 15S4, Alfianah Nurulfatihah Bte Rahmat 15B1, Xu Jia Yi 17C3, Siti Nur Ellysha Bte Jaffar 16S2, Nurdiana Bte Noordin 16C5, Nur Rafiqah Bte Mohamed Azahar 16A1, Nur Dania Bte Ahmad Hasliana 16C3, Natasha Louise Vine 16A1, Michelle Genandy 16C4, Lim Zi Xuan 16C5, Krithaisha Vijayakumar 16S2, Galistan Desiree Virginia P 17A1, Erica Foo Suz Yen 16A1, Thufailah Bte Ridzwan 17A4, Tong Wan Yee Meredith 17S2</td>
+<td>Best Sports Boy (Floorball) - Mohamad Amir Arsyad 16C4;<br>Colours Award Distinction - Mohammed Mikaail 15A3;<br>Colours Award - Leona Yeo Mu Khoong 15B1, Eunice Lim Xin Hui 15B4, Eylia Bte Mohammad Hizam 15A1, Diyana Khairunnisa Bte M 17A2, Nursara Bte Mohd Rezal 17C5, Samantha Foo Qian Lin 15S4, Nur Amalina Bte Mohamed Amidun 15S3, Nur 'Aqilah Bte Saffaa'i 16S2, Deepa Subramaniam 15S4, Alfianah Nurulfatihah Bte Rahmat 15B1, Xu Jia Yi 17C3, Siti Nur Ellysha Bte Jaffar 16S2, Nurdiana Bte Noordin 16C5, Nur Rafiqah Bte Mohamed Azahar 16A1, Nur Dania Bte Ahmad Hasliana 16C3, Natasha Louise Vine 16A1, Michelle Genandy 16C4, Lim Zi Xuan 16C5, Krithaisha Vijayakumar 16S2, Galistan Desiree Virginia P 17A1, Erica Foo Suz Yen 16A1, Thufailah Bte Ridzwan 17A4, Tong Wan Yee Meredith 17S2</td>
 </tr>
 <tr>
 <td>September</td>
@@ -905,7 +899,7 @@ description: ""
 </table>
 </div>
 </li>
-<li><input id="accordion7" type="checkbox" /> <label for="accordion7">2016 Achievements</label>
+<li><input id="accordion7" type="checkbox"> <label for="accordion7">2016 Achievements</label>
 <div>
 <table>
 <tbody>
@@ -1080,15 +1074,15 @@ description: ""
 <tr>
 <td>Aug</td>
 <td>Mother Tongue/ Chinese</td>
-<td>The 9th Chinese Bridge-Chinese Proficiency Competition<br />for Foreign High School Students</td>
-<td>Confucius School in Singapore<br />(新加坡孔子学校)</td>
+<td>The 9th Chinese Bridge-Chinese Proficiency Competition<br>for Foreign High School Students</td>
+<td>Confucius School in Singapore<br>(新加坡孔子学校)</td>
 <td>1st - Aljess Lee Chia Mun, 16A3, 2nd - Outayar Maw Maw Naing, 16C1</td>
 </tr>
 <tr>
 <td>Aug</td>
 <td>Mother Tongue/ Chinese</td>
-<td>2016 National Public Speaking Competition (Chinese) for Secondary Schools &amp; Junior<br />Colleges</td>
-<td>Anglican High School, Singapore Middle School Chinese<br />Teachers&rsquo; Association, zbCOMMA</td>
+<td>2016 National Public Speaking Competition (Chinese) for Secondary Schools &amp; Junior<br>Colleges</td>
+<td>Anglican High School, Singapore Middle School Chinese<br>Teachers’ Association, zbCOMMA</td>
 <td>3rd - Wei Ming, 15B7</td>
 </tr>
 <tr>
@@ -1110,7 +1104,7 @@ description: ""
 <td>Mother Tongue/ Chinese</td>
 <td>43rd National Schools Translation Competition</td>
 <td><em>Lianhe Zaobao COMMA of SPH and Nan Hua High School</em></td>
-<td>Lee Yann Yih (14B4) &ndash; Merit</td>
+<td>Lee Yann Yih (14B4) – Merit</td>
 </tr>
 <tr>
 <td>Oct</td>
