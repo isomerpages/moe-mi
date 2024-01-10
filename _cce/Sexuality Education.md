@@ -71,31 +71,32 @@ variant: markdown
   tab-stops:list 36.0pt"><span style="font-size:10.0pt;
   mso-bidi-font-size:11.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
   mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin">Awareness of the different STI and HIV</span></p><p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  mso-bidi-theme-font:minor-latin">infectious diseases (STIs and HIV)</span></p><p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:26.55pt;text-indent:-14.15pt;line-height:normal;mso-list:l2 level1 lfo2;
   tab-stops:list 36.0pt"><span style="font-size:10.0pt;
   mso-bidi-font-size:11.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
   mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin">Modes of transmission for STI and HIV</span></p><p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  mso-bidi-theme-font:minor-latin">modes of transmission for STIs and HIV</span></p><p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:26.55pt;text-indent:-14.15pt;line-height:normal;mso-list:l3 level1 lfo3;
   tab-stops:list 36.0pt"><span style="font-size:10.0pt;
   mso-bidi-font-size:11.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
   mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin">Modes of protection against infection, specifically abstinence and the correct use of condom</span></p><p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  mso-bidi-theme-font:minor-latin">modes of protection against infection, specifically abstinence and the correct and consistent use of condoms</span></p><p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:26.55pt;text-indent:-14.15pt;line-height:normal;mso-list:l1 level1 lfo4;
   tab-stops:list 36.0pt"><span style="font-size:10.0pt;
   mso-bidi-font-size:11.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
   mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin">Consequences and impact of STI/HIV</span></p><p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-  margin-left:26.55pt;line-height:normal"><span style="mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">State the ways of managing the challenges of the impact</span></p></td><td width="170" style="width:127.45pt;border-top:none;border-left:none;
+  mso-bidi-theme-font:minor-latin">consequences and impact of being infected with STIs/HIV</span></p><p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:26.55pt;text-indent:-14.15pt;line-height:normal;mso-list:l1 level1 lfo4;
+  tab-stops:list 36.0pt"><span style="font-size:10.0pt;
+  mso-bidi-font-size:11.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
+  mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:minor-latin">ways of managing the impact of STIs</span></p></td><td width="170" style="width:127.45pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
   line-height:18.75pt"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:black">Term 4 (PU1)</span></p><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
-  line-height:normal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:black">(To be updated by 30/6/2023)</span></p></td></tr></tbody></table>
+  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:black">Term 4 Week 2)</span></p></td></tr></tbody></table>
 	
 	
 <h4><strong>INFORMATION FOR PARENTS</strong></h4>
