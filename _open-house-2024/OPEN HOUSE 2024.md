@@ -11,4 +11,3 @@ description: ""
 
 * [Subject Combination 2024](https://www.millenniainstitute.moe.edu.sg/admission/subject-combination/)
 
-* [MI Prospectus](https://www.millenniainstitute.moe.edu.sg/admission/prospectus/)

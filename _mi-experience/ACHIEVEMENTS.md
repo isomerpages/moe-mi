@@ -47,8 +47,8 @@ variant: markdown
 <td>Wushu</td>
 <td>National School Games 'A' Division</td>
 <td>Singapore Schools Sports Council</td>
-<td>Nan Quan: 1st Place, Devni Chamodya Kaluarachchi (22MI09) (Colours Award) 
-Nan Dao: 1st Place, Devni Chamodya Kaluarachchi (22MI09) (Colours Award)
+<td>Nan Quan: 1st Place, Devni Chamodya Kaluarachchi (22MI09) (Colours Award)<br>
+Nan Dao: 1st Place, Devni Chamodya Kaluarachchi (22MI09) (Colours Award)<br>
 Nan Gun: 1st Place, Devni Chamodya Kaluarachchi (22MI09) (Colours Award)</td>
 </tr>
 <tr>
