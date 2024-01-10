@@ -5,6 +5,200 @@ description: ""
 variant: markdown
 ---
 <ul class="jekyllcodex_accordion">
+<li><input id="accordion8" type="checkbox"> <label for="accordion8">2023 Achievements</label><div><table><tbody>
+<tr><th>Month</th><th>Department/CCA</th><th>Event</th><th>Organiser</th><th>Achievement</th></tr>
+<tr>
+<td>January</td>
+<td>Science</td>
+<td>DaVinci@SUTD STEAMxD Immersion Programme 2023</td>
+<td>Singapore University of Technology and Design (SUTD</td>
+<td>AI Robots Best Social Context Award - Sim Jung Hui Kairos (21MI03)</td>
+</tr>
+<tr>
+<td>March</td>
+<td>Angklung</td>
+<td>Singapore Youth Festival Arts Presentation</td>
+<td>MOE Art Education Branch</td>
+<td>Certificate of Distinction</td>
+</tr>
+<tr>
+<td>March</td>
+<td>Mathematics</td>
+<td>International Mathematical Modelling Challenge</td>
+<td>AST, NJC, RGS</td>
+<td>Chan Jing Yuan (21MI06), Oh Jay Meng (21MI06), Jeevarathinam Dhanasekar Nithish (21MI05) - Certificate of Merit</td>
+</tr>
+<tr>
+<td>April</td>
+<td>Modern Dance</td>
+<td>Singapore Youth Festival Arts Presentation</td>
+<td>MOE Art Education Branch</td>
+<td>Certificate of Accomplishment</td>
+</tr>
+<tr>
+<td>April</td>
+<td>Malay Dance</td>
+<td>Singapore Youth Festival Arts Presentation</td>
+<td>MOE Art Education Branch</td>
+<td>Certificate of Distinction</td>
+</tr>
+<tr>
+<td>April</td>
+<td>Wushu</td>
+<td>National School Games 'A' Division</td>
+<td>Singapore Schools Sports Council</td>
+<td>Nan Quan: 1st Place, Devni Chamodya Kaluarachchi (22MI09) (Colours Award) 
+Nan Dao: 1st Place, Devni Chamodya Kaluarachchi (22MI09) (Colours Award)
+Nan Gun: 1st Place, Devni Chamodya Kaluarachchi (22MI09) (Colours Award)</td>
+</tr>
+<tr>
+<td>May</td>
+<td>Band</td>
+<td>Singapore Youth Festival Arts Presentation</td>
+<td>MOE Art Education Branch</td>
+<td>Certificate of Commendation</td>
+</tr>
+<tr>
+<td>May</td>
+<td>Art</td>
+<td>W7 Cluster Art Competition</td>
+<td>W7 Cluster Art NLC</td>
+<td>Gold Award - Goh Si Hua (23MI01), Commendation - Ng Yi Yi Vanessa (22MI02)</td>
+</tr>
+<tr>
+<td>May</td>
+<td>Science</td>
+<td>SISTEMIC 2023</td>
+<td>National Junior College</td>
+<td>Most Sustainable Concept - Xu Jianhang (22MI03), Goh Wei Zhen, Jevier (22MI07)</td>
+</tr>
+<tr>
+<td>June</td>
+<td>Aesthetics</td>
+<td>Singapore Youth Festival Youth Station Project</td>
+<td>MOE Art Education Branch</td>
+<td>Honurable Mention - Yesterday's Dawn - Wang Jing (22MI02), Ng Yi Yi Vanessa (22MI02), Apostol Gian Paolo (22MI02), Be Brave - Nirvashini d/o Pannirselvam (22MI04)</td>
+</tr>
+<tr>
+<td>June</td>
+<td>VIA</td>
+<td>Harvard Prize Book</td>
+<td>Harvard Prize Book (Singapore)</td>
+<td>Harvard Prize Book award - David Colson (20MI05)</td>
+</tr>
+<tr>
+<td>July</td>
+<td>Science</td>
+<td>Singapore Chemistry League (SChL)</td>
+<td>Singapore Chemistry League (supported by the Singapore National Institute of Chemistry)</td>
+<td>Bronze - Dai Muhua (22MI07), He Peng Fan (22MI07), Wyman Wong Rui Kang (22MI07), Edwin Franklin Davis (22MI07)</td>
+</tr>
+<tr>
+<td>July</td>
+<td>Science</td>
+<td>Engineering and Tech Programme Scholarship</td>
+<td>Sciences Branch, Curriculum Planning and Development Division 1, MOE</td>
+<td>Engineering and Tech Programme Scholarship Recipients - Hendricks Tan Kai Sen (22MI09), Reagan Lee Zhi Geng (22MI07), Wong Kern Xin (22MI07)</td>
+</tr>
+<tr>
+<td>August</td>
+<td>Wuhsu</td>
+<td>World Kungfu C'ships</td>
+<td>International Wushu Federation</td>
+<td>Southern Routines - Gold &amp; Bronze medals - Devni Chamodya Kaluarachchi (22MI09)</td>
+</tr>
+<tr>
+<td>August</td>
+<td>Rugby</td>
+<td>Peter Lim Scholarship</td>
+<td>Singapore Olympic Foundation</td>
+<td>Awarded Peter Lim's Scholarship 2023 (High Performance) - Cedric Teo (22MI07)</td>
+</tr>
+<tr>
+<td>August</td>
+<td>Football</td>
+<td>National School Games 'A' Division</td>
+<td>Singapore Schools Sports Council</td>
+<td>NSG Football Fairplay Award (Team)</td>
+</tr>
+<tr>
+<td>August</td>
+<td>Badminton</td>
+<td>National School Games 'A' Division</td>
+<td>Singapore Schools Sports Council</td>
+<td>Sportsmanship Award - Chia Chee Meng (22MI07), Zhu Zixuan (22MI03)</td>
+</tr>
+<tr>
+<td>August</td>
+<td>Basketball</td>
+<td>National School Games 'A' Division</td>
+<td>Singapore Schools Sports Council</td>
+<td>Sportsmanship Award - Mika Laurence Golucino Templonuevo (21MI05), Yam Xin Hui (21MI01)</td>
+</tr>
+<tr>
+<td>August</td>
+<td>Cross Country</td>
+<td>National School Games 'A' Division</td>
+<td>Singapore Schools Sports Council</td>
+<td>Sportsmanship Award - A Nishandini (23MI02), Goh Wan En (22MI06), Kho Yao-En Seth (22MI03)</td>
+</tr>
+<tr>
+<td>August</td>
+<td>Track and Field</td>
+<td>National School Games 'A' Division</td>
+<td>Singapore Schools Sports Council</td>
+<td>Sportsmanship Award - Kho Yao-En Seth (22MI03)</td>
+</tr>
+<tr>
+<td>August</td>
+<td>Floorball</td>
+<td>National School Games 'A' Division</td>
+<td>Singapore Schools Sports Council</td>
+<td>Sportsmanship Award - Nur Hairina Binte Mohammed Khalid (21MI02)</td>
+</tr>
+<tr>
+<td>August</td>
+<td>Netball</td>
+<td>National School Games 'A' Division</td>
+<td>Singapore Schools Sports Council</td>
+<td>Sportsmanship Award - Leena Nor Rani Rozario (21MI04)</td>
+</tr>
+<tr>
+<td>August</td>
+<td>Taekwondo</td>
+<td>National School Games 'A' Division</td>
+<td>Singapore Schools Sports Council</td>
+<td>Sportsmanship Award - Lin Zili (22MI07)</td>
+</tr>
+<tr>
+<td>August</td>
+<td>Wushu</td>
+<td>National School Games 'A' Division</td>
+<td>Singapore Schools Sports Council</td>
+<td>Sportsmanship Award - Devni Chamodya Kaluarachchi (22MI09)</td>
+</tr>
+<tr>
+<td>August</td>
+<td>Hockey</td>
+<td>SHF Youth Indoor Hockey Carnival</td>
+<td>Singapore Hockey Federation</td>
+<td>Girls Team - 4th Position</td>
+</tr>
+<tr>
+<td>October</td>
+<td>SFP-ATP Committee</td>
+<td>National Design Project</td>
+<td>Temasek Polytechnic, National Design Council</td>
+<td>Merit Award - Samuel Tan (22MI01), Noel Liew Yue Hung (22MI06), Lucie-Jean Chai Lit Huey (23MI01), Dai Muhua (22MI07), Xu Jianhang (22MI03)</td>
+</tr>
+<tr>
+<td>November</td>
+<td>Environmental Education Team</td>
+<td>Seatrium Green Wave Environmental Care Competition 2023</td>
+<td>Seatrium (Formerly, Sembcorp Marine)</td>
+<td>Merit Award and Team Award - Noel Liew Yue Hung (22MI06), Leow Hai Er (22MI04), Lim Yi Hern Xzavier (22MI03), Chua Yu Yang (22MI06), Nur Athirah Binte Md Azhar (22MI02), Teki Abhay Das (22MI07), Nur Irdina Binte Muhammed Sabri (22MI09), Oliver Quek Yi Chou (22MI06)</td>
+</tr>
+</tbody></table></div></li>
 <li><input id="accordion1" type="checkbox"> <label for="accordion1">2022 Achievements</label>
 <div>
 <table><tbody>
@@ -102,14 +296,14 @@ variant: markdown
 <th>Achievement</th>
 </tr>
 <tr>
-<td>&nbsp;April</td>
+<td>April</td>
 <td>Cultural Societies (Malay Dance)</td>
 <td>Singapore Youth Festival Arts Presentation</td>
 <td>MOE Arts Education Branch </td>
 <td>Certificate of Distinction</td>
 </tr>
 <tr>
-<td>&nbsp;April</td>
+<td>April</td>
 <td>Angklung Kulintang Ensemble</td>
 <td>Singapore Youth Festival Arts Presentation</td>
 <td>MOE Arts Education Branch</td>
@@ -123,49 +317,49 @@ variant: markdown
 <td>Certificate of Accomplishment</td>
 </tr>
 <tr>
-<td>&nbsp;May</td>
+<td>May</td>
 <td>Symphonic Band</td>
 <td>Singapore Youth Festival Arts Presentation</td>
 <td>MOE Arts Education Branch</td>
 <td>Certificate of Accomplishment</td>
 </tr>
 <tr>
-<td>&nbsp;May</td>
+<td>May</td>
 <td>Entrepreneurship Club</td>
 <td>National Youth Entrepreneurship Award 2021</td>
 <td>ACE, *SCAPE &amp; EDGE</td>
 <td>Silver Award</td>
 </tr>
 <tr>
-<td>&nbsp;June</td>
+<td>June</td>
 <td>Mother Tongue Language</td>
 <td>13th National Chinese Short Film Competition</td>
 <td>Maris Stella High School</td>
 <td>Best Poster - Lin Yang (20MI06)<br>Best Cinematography - Guan Jiahao (20MI10)</td>
 </tr>
 <tr>
-<td>&nbsp;July</td>
+<td>July</td>
 <td>Basketball</td>
 <td>Singapore Olympic Foundation Peter Lim Scholarship</td>
 <td>Singapore Olympic Foundation</td>
 <td>Tertiary: Valarie Lim Xin Er (19C2)</td>
 </tr>
 <tr>
-<td>&nbsp;July</td>
+<td>July</td>
 <td>Hockey</td>
 <td>Singapore Olympic Foundation Peter Lim Scholarship&nbsp;</td>
 <td>Singapore Olympic Foundation </td>
 <td>Tertiary: Luqman Hakim Bin Rahmat (19S4)</td>
 </tr>
 <tr>
-<td>&nbsp;July</td>
-<td>Football&nbsp;</td>
+<td>July</td>
+<td>Football</td>
 <td>Singapore Olympic Foundation Peter Lim Scholarship</td>
 <td>Singapore Olympic Foundation</td>
 <td>Tertiary: Eunice Liew Shuyi (19S5)</td>
 </tr>
 <tr>
-<td>&nbsp;July</td>
+<td>July</td>
 <td>Aesthetic</td>
 <td>The Youth Station Project</td>
 <td>MOE Arts Education Branch</td>
