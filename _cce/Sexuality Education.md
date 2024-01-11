@@ -31,7 +31,7 @@ variant: markdown
   mso-background-themecolor:background1;padding:3.75pt 3.75pt 3.75pt 3.75pt" colspan="5" width="793"><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;
   mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:black;
-  background:white">2023 Sexuality Education Lessons in CCE 2021</span></b></p><p style="margin-bottom:0cm;text-align:center;
+  background:white">2024 Sexuality Education Lessons in CCE 2021</span></b></p><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;
   mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:black;
   background:white">Pre-U Year 2</span></b></p></td></tr><tr style="mso-yfti-irow:1;height:57.2pt"><td style="width:71.5pt;border:none;border-left:solid #EAEAEA 1.0pt;
@@ -59,12 +59,10 @@ variant: markdown
   line-height:normal" align="center" class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;
   mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:black">Developing Healthy Relationships/ Theme 3C ‘Society, Culture and the Law’</span></p></td><td style="width:67.05pt;border:none;background:white;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="89"><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:black">Why is Voyeurism&nbsp;</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:black">Wrong?</span></p><p style="margin-bottom:0cm;text-align:center;
+  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:black">Why is Voyeurism Wrong?&nbsp;</span></p><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;
   mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:black">(60 mins)</span></p></td><td style="width:203.4pt;border:none;background:white;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="271"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin;color:black">Is voyeurism wrong? Why?&nbsp;<br><br>Students will examine the relationship between rights and responsibilities by exploring societal expectations, the laws that protect teenagers from sexual crimes, and the legal consequences of inappropriate sexual behaviour. They will examine what makes voyeurism wrong, learn the importance of the law as signposts for desired behaviours and conduct in society, and the importance of one’s moral compass in responsible decision-making and choosing to do what is right.</span></p></td><td style="width:203.4pt;border:none;background:white;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="271"><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  mso-bidi-theme-font:minor-latin;color:black">Is voyeurism wrong? Why?&nbsp;<br><br>In this lesson, students will examine the relationship between rights and responsibilities by exploring societal expectations, the laws that protect teenagers from sexual crimes, and the legal consequences of inappropriate sexual behaviour.&nbsp;<br><br>Students will examine what makes voyeurism wrong, learn the importance of the law as signposts for desired behaviours and conduct in society, and the importance of one’s moral compass in responsible decision-making and choosing to do what is right. </span></p></td><td style="width:203.4pt;border:none;background:white;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="271"><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:15.6pt;text-indent:-14.2pt;line-height:normal;mso-list:l1 level1 lfo1;
   tab-stops:list 27.0pt" class="MsoNormal"><span style="font-size:10.0pt;
   mso-bidi-font-size:11.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
@@ -90,7 +88,7 @@ variant: markdown
   line-break"><br style="mso-special-character:line-break"></span></p></td><td style="width:49.6pt;border:none;border-right:solid #EAEAEA 1.0pt;
   mso-border-right-alt:solid #EAEAEA .75pt;background:white;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="66"><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:black">Term 1 Week 7</span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes"><td style="width:71.5pt;border-top:none;border-left:solid #EAEAEA 1.0pt;
+  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:black">Term 1 Week 9</span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes"><td style="width:71.5pt;border-top:none;border-left:solid #EAEAEA 1.0pt;
   border-bottom:solid #EAEAEA 1.0pt;border-right:none;mso-border-left-alt:solid #EAEAEA .75pt;
   mso-border-bottom-alt:solid #EAEAEA .75pt;background:#FFEAEA;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="95"><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;
@@ -104,7 +102,9 @@ variant: markdown
   Calibri;mso-bidi-theme-font:minor-latin;color:black;mso-ansi-language:EN-GB" lang="EN-GB">How does the media portray gender and relationships? How do societal influences affect our understanding of gender stereotypes?</span><span style="mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
   color:black"></span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
-  Calibri;mso-bidi-theme-font:minor-latin;color:black;mso-ansi-language:EN-GB" lang="EN-GB">This lesson will help students recognise that some segments of society may inaccurately reflect the efforts needed to maintain healthy relationships, leading to skewed assumptions of sexual messages and connotations within relationships. Students will understand how societal influences can skew one’s understanding of gender stereotypes (e.g. boys should not cry, and are to suppress emotional sensitivity so as not to seem weak; girls are physically weak and unathletic, and downplay achievements so as to fit in).</span><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
+  Calibri;mso-bidi-theme-font:minor-latin;color:black;mso-ansi-language:EN-GB" lang="EN-GB">In this lesson, students will recognise that some segments of society may inaccurately reflect the efforts needed to maintain healthy relationships, leading to skewed assumptions of sexual messages and connotations within relationships. 
+Students will understand how societal influences can skew one’s understanding of gender stereotypes (e.g. boys should not cry, and are to suppress emotional sensitivity so as not to seem weak; girls are physically weak and unathletic, and downplay achievements so as to fit in), which can affect interactions and relationships in ways that are harmful to themselves and others.
+</span><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
   mso-bidi-theme-font:minor-latin;color:black"></span></p></td><td style="width:203.4pt;border:none;border-bottom:solid #EAEAEA 1.0pt;
   mso-border-bottom-alt:solid #EAEAEA .75pt;background:#FFEAEA;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="271"><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:17.7pt;text-indent:-17.7pt;line-height:normal;mso-list:l0 level1 lfo2;
@@ -126,7 +126,7 @@ variant: markdown
   solid #EAEAEA .75pt;mso-border-right-alt:solid #EAEAEA .75pt;background:#FFEAEA;
   padding:3.75pt 3.75pt 3.75pt 3.75pt" width="66"><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:black">Term 1 Week 8</span></p></td></tr></tbody></table>
+  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:black">Term 1 Week 4</span></p></td></tr></tbody></table>
 
 
 
