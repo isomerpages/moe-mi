@@ -101,8 +101,8 @@ variant: markdown
 	
 <h4><strong>INFORMATION FOR PARENTS</strong></h4>
 <p style="text-align:justify;">8. Parents may opt their children out of Sexuality Education and/or supplementary Sexuality Education programmes by MOE-approved external providers.</p>
-<p style="text-align:justify;">9. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable&nbsp;<a href="/files/annex%20a_gy_opt-out%20form%202023.pdf" rel="noopener">here</a>. The completed form is to be submitted by 17/02/2023 (PU2) and 30/06/2023 (PU1).</p>
+<p style="text-align:justify;">9. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable&nbsp;<a href="/files/Annex_A_2024.pdf" rel="noopener">here</a>. The completed form is to be submitted by 25/01/2024 (PU2) and 28/06/2024 (PU1).</p>
 	
-<p style="text-align:justify;">10. Parents who wish to opt their children out of the&nbsp;<strong><em>eTeens programme</em></strong>&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;<a href="/files/annex%20b_eteens_opt-out%20form%202023.pdf" rel="noopener">here</a>. The completed form is to be submitted by 15/09/2023.</p>
+<p style="text-align:justify;">10. Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable&nbsp;<a href="/files/Annex_B_2024.pdf" rel="noopener">here</a>. The completed form is to be submitted by 13/09/2024.</p>
 	
 <p style="text-align:justify;">11. Parents can contact the school at&nbsp;<strong><a href="mailto:millennia_inst@moe.edu.sg">millennia_inst@moe.edu.sg</a></strong>&nbsp;for discussion or to seek clarification about the school’s sexuality education programme.</p>
