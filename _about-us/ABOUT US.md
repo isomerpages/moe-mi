@@ -2,6 +2,7 @@
 title: ABOUT US
 permalink: /about-us/
 description: ""
+variant: markdown
 ---
 <p style="text-align:justify;">
 <strong>Millennia Institute (MI), currently the only Centralised Institute in Singapore, was formed in 2004 from the merger of Jurong Institute (JI) and Outram Institute (OI).</strong></p>
@@ -16,7 +17,7 @@ description: ""
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 33.3333%; text-align: center;"><a href="/about-us/principals-message"><img src="/images/au1.jpg"></a><a href="/about-us/principals-message"><strong>Principal's Message</strong></a></td>
+<td style="width: 33.3333%; text-align: center;"><a href="/about-us/principals-message"><img src="/images/stadium.jpeg"></a><a href="/about-us/principals-message"><strong>Principal's Message</strong></a></td>
 <td style="width: 33.3333%; text-align: center;"><a href="/about-us/our-staff"><img src="/images/au2.jpg"></a><a href="/about-us/our-staff"><strong>Our Staff</strong></a></td>
 <td style="width: 33.3333%; text-align: center;"><a href="/about-us/mi-identity"><img src="/images/au3.jpg"></a><a href="/about-us/mi-identity"><strong>MI Identity</strong></a></td>
 </tr>
