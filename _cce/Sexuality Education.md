@@ -56,7 +56,7 @@ Theme 3B 'Sexual Health and Behaviour’
   mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:black">What Are Your #relationshipgoals?&nbsp;</span></p><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;
   mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:black">(60 mins)</span></p></td><td style="width:203.4pt;border:none;background:white;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="271"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin;color:black">What are unhealthy relationships and who can I turn to if I need help? How does one manage aggression, both physical and emotional, in relationships?&nbsp;<br><br>In this lesson, students will learn to navigate challenges in a dating relationship. This includes identifying unhealthy relationships, when to seek help, who to turn to for support and to appreciate that one can emerge stronger and be better prepared for future relationships. &nbsp;<br><br>Students will have a deeper understanding of what dating and family violence entails and be reminded of the importance of respect for others.</span></p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  mso-bidi-theme-font:minor-latin;color:black"><em>What are unhealthy relationships and who can I turn to if I need help? How does one manage aggression, both physical and emotional, in relationships?</em>&nbsp;<br><br>In this lesson, students will learn to navigate challenges in a dating relationship. This includes identifying unhealthy relationships, when to seek help, who to turn to for support and to appreciate that one can emerge stronger and be better prepared for future relationships. &nbsp;<br><br>Students will have a deeper understanding of what dating and family violence entails and be reminded of the importance of respect for others.</span></p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:15.6pt;text-indent:-14.2pt;line-height:normal" class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
   mso-bidi-theme-font:minor-latin;color:black"><br style="mso-special-character:
   line-break"><br style="mso-special-character:line-break"></span></p></td><td style="width:49.6pt;border:none;border-right:solid #EAEAEA 1.0pt;
@@ -76,7 +76,7 @@ Theme 3B 'Sexual Health and Behaviour’</span></p></td><td style="width:67.05pt
   line-height:normal" align="center" class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;
   mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:black">(60 mins)</span></p></td><td style="width:203.4pt;border:none;border-bottom:solid #EAEAEA 1.0pt;
   mso-border-bottom-alt:solid #EAEAEA .75pt;background:#FFEAEA;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="271"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
-  Calibri;mso-bidi-theme-font:minor-latin;color:black;mso-ansi-language:EN-GB" lang="EN-GB">Are values such as abstinence of sexual activity before marriage still valid in the world today? Why? Is abstinence a reasonable choice?</span><span style="mso-fareast-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin;color:black;mso-ansi-language:EN-GB" lang="EN-GB"><em>Are values such as abstinence of sexual activity before marriage still valid in the world today? Why? Is abstinence a reasonable choice?</em></span><span style="mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
   color:black"></span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
   Calibri;mso-bidi-theme-font:minor-latin;color:black;mso-ansi-language:EN-GB" lang="EN-GB">In this lesson, students examine issues related to abstinence and explore the balance between being free to make personal choices and being responsible for the consequences of their choices. They will understand that, in the face of conflicting voices and perspectives, they need to focus on integrity, and choose to act in accordance with sound values and moral principles. &nbsp;<br><br>In so doing, students learn to make responsible decisions for self and others, and think through the consequences of doing so.
@@ -85,13 +85,27 @@ Theme 3B 'Sexual Health and Behaviour’</span></p></td><td style="width:67.05pt
   solid #EAEAEA .75pt;mso-border-right-alt:solid #EAEAEA .75pt;background:#FFEAEA;
   padding:3.75pt 3.75pt 3.75pt 3.75pt" width="66"><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:black">Term 3 Week 6</span></p></td></tr></tbody></table>
+  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:black">Term 3 Week 6</span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:71.5pt;border:none;border-left:solid #EAEAEA 1.0pt;
+  mso-border-left-alt:solid #EAEAEA .75pt;background:white;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="95"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:black">Developing Healthy Relationships/
+Theme 3B 'Sexual Health and Behaviour’
+</span></p></td><td style="width:67.05pt;border:none;background:white;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="89"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:black">If Not Now When 
+(Part 2)
+&nbsp;</span></p><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:black">(60 mins)</span></p></td><td style="width:203.4pt;border:none;background:white;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="271"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:minor-latin;color:black"><em>Is one’s personal choice more important than considering the impact and consequences of one’s choice on others?</em>&nbsp;<br><br>In this lesson, students examine issues related to abortion and the impact of sexually transmitted infections (STIs), and understand that one has to make responsible decisions for both self and others. &nbsp;<br><br>Students are also taught to consider sexual abstinence before marriage to remove any risks that come with casual sex. The lesson will also focus on being a source of support for others who may be pregnant or have STIs.</span></p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:15.6pt;text-indent:-14.2pt;line-height:normal" class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:minor-latin;color:black"><br style="mso-special-character:
+  line-break"><br style="mso-special-character:line-break"></span></p></td><td style="width:49.6pt;border:none;border-right:solid #EAEAEA 1.0pt;
+  mso-border-right-alt:solid #EAEAEA .75pt;background:white;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="66"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:black">Term 3 Week 8</span></p></td></tr></tbody></table>
 
-
-
-
-
-
+<p></p>
 
 
 
@@ -127,7 +141,7 @@ Theme 3B 'Sexual Health and Behaviour’</span></p></td><td style="width:67.05pt
   mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:black">Why is Voyeurism Wrong?&nbsp;</span></p><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;
   mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:black">(60 mins)</span></p></td><td style="width:203.4pt;border:none;background:white;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="271"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin;color:black">Is voyeurism wrong? Why?&nbsp;<br><br>In this lesson, students will examine the relationship between rights and responsibilities by exploring societal expectations, the laws that protect teenagers from sexual crimes, and the legal consequences of inappropriate sexual behaviour.&nbsp;<br><br>Students will examine what makes voyeurism wrong, learn the importance of the law as signposts for desired behaviours and conduct in society, and the importance of one’s moral compass in responsible decision-making and choosing to do what is right. </span></p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+	mso-bidi-theme-font:minor-latin;color:black"><em>Is voyeurism wrong? Why?</em>&nbsp;<br><br>In this lesson, students will examine the relationship between rights and responsibilities by exploring societal expectations, the laws that protect teenagers from sexual crimes, and the legal consequences of inappropriate sexual behaviour.&nbsp;<br><br>Students will examine what makes voyeurism wrong, learn the importance of the law as signposts for desired behaviours and conduct in society, and the importance of one’s moral compass in responsible decision-making and choosing to do what is right. </span></p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:15.6pt;text-indent:-14.2pt;line-height:normal" class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
   mso-bidi-theme-font:minor-latin;color:black"><br style="mso-special-character:
   line-break"><br style="mso-special-character:line-break"></span></p></td><td style="width:49.6pt;border:none;border-right:solid #EAEAEA 1.0pt;
@@ -144,7 +158,7 @@ Theme 3B 'Sexual Health and Behaviour’</span></p></td><td style="width:67.05pt
   line-height:normal" align="center" class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;
   mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:black">(60 mins)</span></p></td><td style="width:203.4pt;border:none;border-bottom:solid #EAEAEA 1.0pt;
   mso-border-bottom-alt:solid #EAEAEA .75pt;background:#FFEAEA;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="271"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
-  Calibri;mso-bidi-theme-font:minor-latin;color:black;mso-ansi-language:EN-GB" lang="EN-GB">How does the media portray gender and relationships? How do societal influences affect our understanding of gender stereotypes?</span><span style="mso-fareast-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin;color:black;mso-ansi-language:EN-GB" lang="EN-GB"><em>How does the media portray gender and relationships? How do societal influences affect our understanding of gender stereotypes?</em></span><span style="mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
   color:black"></span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
   Calibri;mso-bidi-theme-font:minor-latin;color:black;mso-ansi-language:EN-GB" lang="EN-GB">In this lesson, students will recognise that some segments of society may inaccurately reflect the efforts needed to maintain healthy relationships, leading to skewed assumptions of sexual messages and connotations within relationships. 
