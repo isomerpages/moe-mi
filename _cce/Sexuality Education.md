@@ -13,7 +13,7 @@ variant: markdown
 
 <p style="text-align:justify;">3.  &nbsp;The Key Messages of Sexuality Education are:<br>(a)	Love and respect yourself as you love and respect others;<br>(b)	Build positive relationships based on love and respect (which are the foundation for strong families);<br>(c)	Make responsible decisions for yourself, your family and society; and<br>(d)	Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.</p>
 <p>You may click&nbsp;<strong><a href="https://go.gov.sg/moe-sexuality-education" rel="noopener">here</a></strong>&nbsp;for more information on MOE Sexuality Education.</p>
-<h4><strong>OVERVIEW OF MILLENNIA INSTITUTE'S SEXUALITY EDUCATION PROGRAMME FOR 2023</strong></h4>
+<h4><strong>OVERVIEW OF MILLENNIA INSTITUTE'S SEXUALITY EDUCATION PROGRAMME FOR 2024</strong></h4>
 <p style="text-align:justify;">4. &nbsp;Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;<strong><a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener">here</a></strong>&nbsp;for more information on the scope of Sexuality Education in the school curriculum.</p>
 <p><strong>Sexuality Education:</strong></p>
 <p style="text-align:justify;">5.  &nbsp;The focus for Sexuality Education at Pre-University is on respectful relationships. Specifically, the JC/MI package covers themes of Interpersonal Relationships, Sexual Health, Sexual Behaviour, and Culture, Society and Law woven into the main focus on relationships.</p>
