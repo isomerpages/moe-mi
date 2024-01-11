@@ -44,9 +44,6 @@ variant: markdown
   mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:white">Lesson Title/ Duration</span></b></p></td><td style="width:203.4pt;border:none;background:#004282;padding:
   3.75pt 3.75pt 3.75pt 3.75pt;height:57.2pt" width="271"><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:white">Lesson Overview</span></b></p></td><td style="width:203.4pt;border:none;background:#004282;padding:
-  3.75pt 3.75pt 3.75pt 3.75pt;height:57.2pt" width="271"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;
   mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:white">Lesson Objectives</span></b><b><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;
   mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:black"></span></b></p><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;
@@ -62,27 +59,7 @@ variant: markdown
   mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:black">Why is Voyeurism Wrong?&nbsp;</span></p><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;
   mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:black">(60 mins)</span></p></td><td style="width:203.4pt;border:none;background:white;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="271"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin;color:black">Is voyeurism wrong? Why?&nbsp;<br><br>In this lesson, students will examine the relationship between rights and responsibilities by exploring societal expectations, the laws that protect teenagers from sexual crimes, and the legal consequences of inappropriate sexual behaviour.&nbsp;<br><br>Students will examine what makes voyeurism wrong, learn the importance of the law as signposts for desired behaviours and conduct in society, and the importance of one’s moral compass in responsible decision-making and choosing to do what is right. </span></p></td><td style="width:203.4pt;border:none;background:white;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="271"><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-  margin-left:15.6pt;text-indent:-14.2pt;line-height:normal;mso-list:l1 level1 lfo1;
-  tab-stops:list 27.0pt" class="MsoNormal"><span style="font-size:10.0pt;
-  mso-bidi-font-size:11.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
-  mso-bidi-font-family:Symbol;color:black"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin;color:black">examine the relationship between rights and responsibilities by exploring societal expectations, the laws and the legal consequences of inappropriate sexual behaviour</span></p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-  margin-left:15.6pt;text-indent:-14.2pt;line-height:normal;mso-list:l1 level1 lfo1;
-  tab-stops:list 27.0pt" class="MsoNormal"><span style="font-size:10.0pt;
-  mso-bidi-font-size:11.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
-  mso-bidi-font-family:Symbol;color:black"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin;color:black">examine what makes voyeurism wrong</span></p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-  margin-left:15.6pt;text-indent:-14.2pt;line-height:normal;mso-list:l1 level1 lfo1;
-  tab-stops:list 27.0pt" class="MsoNormal"><span style="font-size:10.0pt;
-  mso-bidi-font-size:11.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
-  mso-bidi-font-family:Symbol;color:black"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin;color:black">learn the importance of the law as signposts for desired behaviours and conduct in society</span></p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-  margin-left:15.6pt;text-indent:-14.2pt;line-height:normal;mso-list:l1 level1 lfo1;
-  tab-stops:list 27.0pt" class="MsoNormal"><span style="font-size:10.0pt;
-  mso-bidi-font-size:11.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
-  mso-bidi-font-family:Symbol;color:black"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin;color:black">learn the importance of one’s moral compass in responsible decision-making and choosing to do what is right</span></p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  mso-bidi-theme-font:minor-latin;color:black">Is voyeurism wrong? Why?&nbsp;<br><br>In this lesson, students will examine the relationship between rights and responsibilities by exploring societal expectations, the laws that protect teenagers from sexual crimes, and the legal consequences of inappropriate sexual behaviour.&nbsp;<br><br>Students will examine what makes voyeurism wrong, learn the importance of the law as signposts for desired behaviours and conduct in society, and the importance of one’s moral compass in responsible decision-making and choosing to do what is right. </span></p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:15.6pt;text-indent:-14.2pt;line-height:normal" class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
   mso-bidi-theme-font:minor-latin;color:black"><br style="mso-special-character:
   line-break"><br style="mso-special-character:line-break"></span></p></td><td style="width:49.6pt;border:none;border-right:solid #EAEAEA 1.0pt;
@@ -104,24 +81,7 @@ variant: markdown
   color:black"></span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
   Calibri;mso-bidi-theme-font:minor-latin;color:black;mso-ansi-language:EN-GB" lang="EN-GB">In this lesson, students will recognise that some segments of society may inaccurately reflect the efforts needed to maintain healthy relationships, leading to skewed assumptions of sexual messages and connotations within relationships. 
 Students will understand how societal influences can skew one’s understanding of gender stereotypes (e.g. boys should not cry, and are to suppress emotional sensitivity so as not to seem weak; girls are physically weak and unathletic, and downplay achievements so as to fit in), which can affect interactions and relationships in ways that are harmful to themselves and others.
-</span><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin;color:black"></span></p></td><td style="width:203.4pt;border:none;border-bottom:solid #EAEAEA 1.0pt;
-  mso-border-bottom-alt:solid #EAEAEA .75pt;background:#FFEAEA;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="271"><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-  margin-left:17.7pt;text-indent:-17.7pt;line-height:normal;mso-list:l0 level1 lfo2;
-  tab-stops:list 36.0pt" class="MsoNormal"><span style="font-size:10.0pt;
-  mso-bidi-font-size:11.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
-  mso-bidi-font-family:Symbol;color:black"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:black">recognise that some segments of society may inaccurately reflect the efforts needed to maintain healthy relationships</span></p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-  margin-left:17.7pt;text-indent:-17.7pt;line-height:normal;mso-list:l0 level1 lfo2;
-  tab-stops:list 36.0pt" class="MsoNormal"><span style="font-size:10.0pt;
-  mso-bidi-font-size:11.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
-  mso-bidi-font-family:Symbol;color:black"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:black">understand how societal influences can skew one’s understanding of gender stereotypes</span></p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-  margin-left:17.7pt;text-indent:-17.7pt;line-height:normal;mso-list:l0 level1 lfo2;
-  tab-stops:list 36.0pt" class="MsoNormal"><span style="font-size:10.0pt;
-  mso-bidi-font-size:11.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
-  mso-bidi-font-family:Symbol;color:black"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:black">learn how gender stereotypes (e.g. boys should not cry, and are to suppress emotional sensitivity so as not to seem weak; girls are physically weak and unathletic, and downplay achievements so as to fit in) can affect interactions and relationships in ways that are harmful to themselves and others</span></p></td><td style="width:49.6pt;border-top:none;border-left:none;border-bottom:
+</span></p></td><td style="width:49.6pt;border-top:none;border-left:none;border-bottom:
   solid #EAEAEA 1.0pt;border-right:solid #EAEAEA 1.0pt;mso-border-bottom-alt:
   solid #EAEAEA .75pt;mso-border-right-alt:solid #EAEAEA .75pt;background:#FFEAEA;
   padding:3.75pt 3.75pt 3.75pt 3.75pt" width="66"><p style="margin-bottom:0cm;text-align:center;
