@@ -3,6 +3,7 @@ title: Counselling Support
 permalink: /mi-experience/social-emotional-learning/counselling-support/
 description: ""
 third_nav_title: SOCIAL EMOTIONAL LEARNING
+variant: markdown
 ---
 <p><strong>Counselling Approach<br></strong>
 MI provides counselling support as part of our social-emotional support for students to care for their well-being. Our counselling approach is based on respect, safety and collaboration. School counselling aims to help our students to improve ways of coping with issues, adapting to changing life circumstances, and developing better understanding and appreciation of their possibilities and options. When necessary and appropriate, school counsellors work collaboratively with students’ families, other professionals or school staff to facilitate better wellness and functioning. Students can meet the School Counsellor first to clarify questions and find out more if you would like to discuss your concerns.
@@ -116,10 +117,10 @@ Our counselling team come from diverse backgrounds, have post-graduate qualifica
   mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
   paragraph;mso-element-anchor-horizontal:margin;mso-element-left:center;
   mso-element-top:29.65pt;mso-height-rule:exactly"><span style="font-size:10.0pt;
-  line-height:107%;color:black">Tuesdays &amp; Thursdays<br style="outline: 0px">(By appointment basis)</span></p></td></tr></tbody></table>
+  line-height:107%;color:black">Mondays, Tuesdays &amp; Thursdays<br style="outline: 0px">(By appointment basis)</span></p></td></tr></tbody></table>
 
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="719" style="width:539.0pt;margin-left:-35.85pt;border-collapse:collapse;border:
+<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="719" style="width:545.0pt;margin-left:5pt;border-collapse:collapse;border:
  none;mso-border-alt:solid #EAEAEA .75pt;mso-yfti-tbllook:1184;mso-padding-alt:
  0cm 0cm 0cm 0cm"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="719" colspan="3" style="width:539.0pt;border:solid #EAEAEA 1.0pt;
   border-bottom:none;mso-border-top-alt:solid #EAEAEA .75pt;mso-border-left-alt:
