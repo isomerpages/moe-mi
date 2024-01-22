@@ -119,7 +119,7 @@ Our counselling team come from diverse backgrounds, have post-graduate qualifica
   mso-element-top:29.65pt;mso-height-rule:exactly"><span style="font-size:10.0pt;
   line-height:107%;color:black">Mondays, Tuesdays &amp; Thursdays<br style="outline: 0px">(By appointment basis)</span></p></td></tr></tbody></table>
 
-</p><br><p>
+<br>
 	
 <table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="719" style="width:545.0pt;margin-left:5pt;border-collapse:collapse;border:
  none;mso-border-alt:solid #EAEAEA .75pt;mso-yfti-tbllook:1184;mso-padding-alt:
