@@ -3,6 +3,7 @@ title: Basketball
 permalink: /mi-experience/cca/sports/basketball/
 description: ""
 third_nav_title: SPORTS
+variant: tiptap
 ---
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody>

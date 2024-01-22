@@ -2,45 +2,6 @@
 title: UPDATE FOR PARENTS
 permalink: /partnership/parents/update-for-parents/
 description: ""
+variant: tiptap
 ---
-<h4><strong>Sexuality Education</strong></h4>
-<p>Click&nbsp;<a href="/mi-experience/key-programmes/character-and-citizenship-education/sexuality-education" target="_blank" rel="noopener"><strong>HERE.</strong></a></p>
-<h4><strong>Assessment Schedule</strong></h4>
-
-<h5><strong>2023 EOY (Term3/4):</strong></h5>
-<a href="/files/2023%20Exam%20Schedule/2023%20pu1%20eoy%20exam%20schedule.pdf">2023 PU1 EOY Exam Schedule.pdf</a>
-
-<a href="/files/2023%20Exam%20Schedule/pu2%20%20eoy%20exam%20schedule_final_18th%20aug.pdf">2023 PU2 EOY Exam Schedule.pdf</a> [Updated 18 Aug]
-
-<a href="/files/2023%20Exam%20Schedule/pu3%20eoy%20exam%20schedule_final_18th%20aug.pdf">2023 PU3 EOY Exam Schedule.pdf</a> [ Updated 18 Aug]
-
-
-
-<h5><strong>2023 Term 3:</strong></h5>
-
-<p><strong> PU1 Weighted Assessment Schedule <br></strong>
-<a href="/files/2023%20Exam%20Schedule/pu1%20t3wa2%20schedule_final.pdf">2023 PU1 Term 3 WA2 Schedule.pdf</a>
-<br>
-<a href="/files/2023%20Exam%20Schedule/pu1%20wa3%20schedule%20_revised_7%20jul.pdf">2023 PU1 Term 3 WA3 Schedule_updated.pdf</a>
-
-
-</p><p><strong>PU2 Mid-Year Exam Schedule <br></strong>
-<a href="/files/2023%20Exam%20Schedule/2023%20pu2%20term%203%20mye%20schedule%20(student%20copy).pdf">2023 PU2 MYE Schedule.pdf</a>
-
-	
-
-</p><p><strong> PU2 Weighted Assessment and Test Schedule <br></strong><a href="/files/2023%20Exam%20Schedule/pu2%20t3wa3&amp;%20test%20schedule_final.pdf">2023 PU2 Term 3 WA3 and Test Schedule.pdf</a></p>
-
-<p><strong>PU3 Mid-Year Exam Schedule <br></strong><a href="/files/2023%20Exam%20Schedule/2023%20pu3%20term%203%20mye%20schedule%20(student%20copy).pdf">2023 PU3 Term 3 MYE Schedule.pdf</a></p>
-
-<p><strong>PU3 Weighted Test Schedule <br></strong><a href="/files/2023%20Exam%20Schedule/pu3%20term%203%20test%20schedule_final.pdf">2023 PU3 Term 3 Test Schedule.pdf</a></p>
-
-
-
-<h5><strong>2023 Term 2</strong></h5>
-<p><strong>PU1 Weighted Assessment Schedule <br></strong><a href="/files/2023%20Exam%20Schedule/2023%20pu1%20term%202%20wa%20schedule.pdf">2023 PU1 Term 2 WA1 Schedule.pdf</a></p>
-
-
-<p><strong> PU2 Weighted Assessment and Test Schedule <br></strong><a href="/files/2023%20pu2%20term%202%20wa%20schedule.pdf">2023 PU2 Term 2 WA2 and Test Schedule.pdf</a></p>
-
-<p><strong>PU3 Test Schedule <br></strong><a href="/files/2023%20Exam%20Schedule/2023%20pu3%20term%202%20test%20schedule.pdf">2023 PU3 Term 2 Test Schedule.pdf</a></p>
+<h4><strong>Sexuality Education</strong></h4><p>Click&nbsp;<strong><a href="/mi-experience/key-programmes/character-and-citizenship-education/sexuality-education" rel="noopener" target="_blank">HERE.</a></strong></p><h4><strong>Assessment Schedule</strong></h4><h5><strong>2024 Term 1</strong></h5><p><strong>PU2 Weighted Assessment and Test Schedule <br></strong><a href="/files/PU2_2024_Term_1_WA1_Test_Schedule_final.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 PU2 Term 1 WA1 and Test Schedule.pdf</a></p><p><strong>PU3 Test Schedule <br></strong><a href="/files/PU3_2024_Term_1_Test_Schedule_final.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 PU3 Term 1 Test Schedule.pdf</a></p>

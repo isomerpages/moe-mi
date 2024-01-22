@@ -2,20 +2,21 @@
 title: CCA
 permalink: /mi-experience/cca/
 description: ""
+variant: markdown
 ---
 <h4><strong>Sports</strong></h4>
 <div>
 <table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
+<td style="width: 33.3333%; border:0px;"><a href="/mi-experience/cca/sports/badminton"><img src="/images/cca1.png"></a></td>
 <td style="width: 33.3333%; border:0px;"><a href="/mi-experience/cca/sports/basketball"><img src="/images/cca2.png"></a></td>
 <td style="width: 33.3333%; border:0px;"><a href="/mi-experience/cca/sports/cross-country"><img src="/images/cca3.png"></a></td>
-<td style="width: 33.3333%; border:0px;"><a href="/mi-experience/cca/sports/football-boys"><img src="/images/cca5.png"></a></td>
 </tr>
 <tr>
+<td style="width: 33.3333%; border:0px;"><a href="/mi-experience/cca/sports/football-boys"><img src="/images/cca5.png"></a></td>
 <td style="width: 33.3333%; border:0px;"><a href="/mi-experience/cca/sports/hockey"><img src="/images/cca7.png"></a></td>
 <td style="width: 33.3333%; border:0px;"><a href="/mi-experience/cca/sports/netball"><img src="/images/cca8.png"></a></td>
-<td style="width: 33.3333%;">&nbsp;</td>
 </tr>
 </tbody>
 </table>
