@@ -3,6 +3,7 @@ title: OUR HISTORY
 permalink: /about-us/mi-identity/our-history/
 description: ""
 third_nav_title: MI IDENTITY
+variant: markdown
 ---
 <p style="text-align:justify;">Millennia Institute (MI) was established in 2004 with the merger of Outram Institute (OI) and Jurong Institute (JI). It became the only Centralised Institute in Singapore, offering a 3-year GCE A-Level course and the Commerce stream, on top of the Arts and Science streams.</p>
   
@@ -106,7 +107,7 @@ third_nav_title: MI IDENTITY
 <table style="border: 0px solid black; border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr style="background-color: #FAFAFA;">
-<td style="width: 10%; border: 0px;" rowspan="2"><strong>MILLENNIA INSTITUTE</strong><img style="width: 75%;" src="/images/ohist11.jpg"></td>
+<td style="width: 10%; border: 0px;" rowspan="3"><strong>MILLENNIA INSTITUTE</strong><img style="width: 75%;" src="/images/ohist11.jpg"></td>
 <td style="width: 30%; text-align: center;">
 <img style="width: 75%;" src="/images/ohist12.jpg">
 <div>MRS ONG-OOI GIOK TIN</div>
@@ -124,6 +125,16 @@ third_nav_title: MI IDENTITY
 </td>
 <td style="width: 60%; text-align: center;">
 <p><em>“Our strategic plan is to ensure that you are skilful beyond just content knowledge, so you can strive and achieve as global citizens, with a sense of rootedness to Singapore. We want MI to be a familial home where you feel a sense of belonging, because you are accepted, you are heard and you can grow from the opportunities offered to you.”</em></p>
+</td>
+</tr>
+<tr style="background-color: #FAFAFA;">
+<td style="width: 30%; text-align: center;">
+<img style="width: 75%;" src="/images/prin.jpg">
+<div>MRS TAN WAN YU</div>
+<div>(2014 – 2023)</div>
+</td>
+<td style="width: 60%; text-align: center;">
+<p><em>“At MI, we pride ourselves as an institute of hope and discovery, where students are provided with various platforms to engage, explore and experience learning and growth, so as to achieve their aspirations in a world that is growing increasingly more volatile, uncertain, complex and ambiguous.”</em></p>
 </td>
 </tr>
 </tbody>
