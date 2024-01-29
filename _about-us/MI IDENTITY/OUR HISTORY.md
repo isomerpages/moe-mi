@@ -134,7 +134,7 @@ variant: markdown
 <div>(2014 – 2023)</div>
 </td>
 <td style="width: 60%; text-align: center;">
-<p><em>“At MI, we pride ourselves as an institute of hope and discovery, where students are provided with various platforms to engage, explore and experience learning and growth, so as to achieve their aspirations in a world that is growing increasingly more volatile, uncertain, complex and ambiguous, more diverse and disrupted. When the journey gets tough and turbulent, the Institute’s core values of Integrity, Responsibility, Respect and Resilience will be their internal compass.”</em></p>
+<p><em>“MI prides itself as a place of opportunity that provides diverse learning experiences designed to develop students into antifragile and agile learners. Only those who continue to seize every opportunity to learn throughout life can achieve their aspirations in a world that is increasingly more volatile, uncertain, complex and ambiguous; more diverse and disrupted. When the journey gets tough and turbulent, the institute’s core values of Integrity, Responsibility, Respect and Resilience with be their internal compass.”</em></p>
 </td>
 </tr>
 </tbody>
