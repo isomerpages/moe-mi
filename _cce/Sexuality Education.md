@@ -232,7 +232,7 @@ Students will understand how societal influences can skew one’s understanding 
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
   line-height:18.75pt"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:black">Term 4 Week 2)</span></p></td></tr></tbody></table>
+  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:black">Term 4 Week 2</span></p></td></tr></tbody></table>
 	
 	
 <h4><strong>INFORMATION FOR PARENTS</strong></h4>
