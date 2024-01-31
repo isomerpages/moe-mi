@@ -20,4 +20,12 @@ sections:
         allowfullscreen=""></iframe>
       button: Find out more about us
       url: /about-us/mi-videos/
+  - infopic:
+      title: Orientation 2024
+      id: infopic
+      description: Welcoming all Year 1s to MI Orientation 2024!
+      button: More details
+      url: /orientation2024/
+      image: /images/mitopia2024pc.jpeg
+      alt: Image alt text
 ---
