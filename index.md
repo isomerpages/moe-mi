@@ -16,7 +16,7 @@ sections:
       id: infopic
       description: Welcoming all Year 1s to MI Orientation 2024!
       button: More details
-      url: /orientation2024/
+      url: /orientation-2024/
       image: /images/mitopia2024pc.jpeg
       alt: Image alt text
   - infobar:
