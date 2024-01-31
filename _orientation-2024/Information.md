@@ -20,8 +20,8 @@ description: ""
 </ul>
 </font>
 
-<h4><b>Things to bring:</b></h4><b>
-<ol>
+<h4><b>Things to bring:</b></h4>
+<ol><b>
 	<li>Secondary School EZ-Link Card</li>
 	<li>Writing Materials</li>
 	<li>Water Bottle</li>
@@ -30,6 +30,6 @@ description: ""
 	<li>Extra cash to purchase uniforms <br>
 a.	Girls from $53 (size S – XXL) to $79 (size 3XL and above)<br>
 b.	Boys from $57 (size S – XXL) to $86 (size 3XL and above)</li>
-</ol>
+</b></ol>
 
-<h4><b>Follow us on IG <a href="https://www.instagram.com/mi.council/">@mi.council</a> to learn more! </b></h4></b>
+<h4><b>Follow us on IG <a href="https://www.instagram.com/mi.council/">@mi.council</a> to learn more! </b></h4>
