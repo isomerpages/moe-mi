@@ -4,7 +4,7 @@ permalink: /admission/jae-appeals/
 description: ""
 variant: markdown
 ---
-<p style="text-align:justify;">The Joint Admissions Exercise (JAE) Appeal will be open between 1 Feb 2024 (Thu) and 7 Feb 2024 (Wed), 12 pm. </p>
+<p style="text-align:justify;">The Joint Admissions Exercise (JAE) Appeal will be open between 1 Feb 2024 (Thu), 9am and 7 Feb 2024 (Wed), 12 pm. </p>
 	
   
 <p style="text-align:justify;"> 
