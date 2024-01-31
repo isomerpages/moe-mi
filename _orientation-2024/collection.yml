@@ -1,4 +1,5 @@
 collections:
   orientation-2024:
     output: true
-    order: []
+    order:
+      - Information.md
