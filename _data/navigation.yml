@@ -1,5 +1,7 @@
 logo: /images/logo.png
 links:
+  - title: Orientation 2024
+    url: /orientation-2024/
   - title: About Us
     url: /about-us
     sublinks:
