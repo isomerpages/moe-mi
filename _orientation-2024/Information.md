@@ -21,15 +21,15 @@ description: ""
 </font>
 
 <h4><b>Things to bring:</b></h4>
-<ol><b>
-	<li>Secondary School EZ-Link Card</li>
-	<li>Writing Materials</li>
-	<li>Water Bottle</li>
-	<li>Umbrella</li>
-	<li>Cash to purchase food and drinks during breaks (our canteen vendors also accept QR-code e-payment!)</li>
-	<li>Extra cash to purchase uniforms <br>
-a.	Girls from $53 (size S – XXL) to $79 (size 3XL and above)<br>
-b.	Boys from $57 (size S – XXL) to $86 (size 3XL and above)</li>
-</b></ol>
+<ol>
+	<li><b>Secondary School EZ-Link Card</b></li>
+	<li><b>Writing Materials</b></li>
+	<li><b>Water Bottle</b></li>
+	<li><b>Umbrella</b></li>
+	<li><b>Cash to purchase food and drinks during breaks (our canteen vendors also accept QR-code e-payment!)</b></li>
+	<li><b>Extra cash to purchase uniforms</b><br>
+<b>a.	Girls from $53 (size S – XXL) to $79 (size 3XL and above)</b><br>
+<b>b.	Boys from $57 (size S – XXL) to $86 (size 3XL and above)</b></li>
+</ol>
 
 <h4><b>Follow us on IG <a href="https://www.instagram.com/mi.council/">@mi.council</a> to learn more! </b></h4>
