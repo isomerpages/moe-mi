@@ -8,7 +8,7 @@ variant: markdown
 	
   
 <p style="text-align:justify;"> 
-Students who wish to appeal for admission to Millennia Institute must meet the admission criteria for Millennia Institute, The admission criteria can be found through the&nbsp;<a href="https://www.moe.gov.sg/post-secondary/admissions/jae/admission-criteria/#L1R4" target="_blank" rel="noopener"><strong>MOE website</strong></a>.</p>
+Students who wish to appeal for admission to Millennia Institute must meet the admission criteria for Millennia Institute, The admission criteria can be found through the&nbsp;<a href="https://www.moe.gov.sg/post-secondary/admissions/jae/junior-colleges-and-millennia-institute?pt=Millennia%20Institute%20(MI)" target="_blank" rel="noopener"><strong>MOE website</strong></a>.</p>
   
 
 <p style="text-align:justify;">Appeal applicants must complete the application procedures as outlined below. Applicants must ensure that all required documents are submitted together with the application form to facilitate the admission application process.</p>
