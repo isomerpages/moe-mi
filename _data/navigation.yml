@@ -1,5 +1,7 @@
 logo: /images/logo.png
 links:
+  - title: "2023 A Level results "
+    url: /alevelresultsadmin/
   - title: About Us
     url: /about-us
     sublinks:
