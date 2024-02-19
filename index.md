@@ -12,7 +12,7 @@ sections:
       title: A Place of Opportunity
       variant: center
   - infopic:
-      title: A-Level Results 2023
+      title: Release of A-Level Results
       id: infopic
       description: 23 Feb 2024, Friday
       button: For More DETAILS
