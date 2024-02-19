@@ -1,0 +1,4 @@
+collections:
+  a-level-results-release:
+    output: true
+    order: []
