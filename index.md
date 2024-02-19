@@ -16,7 +16,7 @@ sections:
       id: infopic
       description: 23 Feb 2024, Friday
       button: For More DETAILS
-      url: /alevelresultsadmin
+      url: /alevelresultsadmin/
       image: /images/2023_Cohort_picture.jpg
       alt: Image alt text
       subtitle: Class of 2023
