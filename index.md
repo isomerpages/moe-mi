@@ -11,6 +11,14 @@ sections:
       height: 504px
       title: A Place of Opportunity
       variant: center
+  - infopic:
+      title: A-Level Results 2023
+      id: infopic
+      description: 23 Feb 2024, Friday
+      button: For More DETAILS
+      url: /alevelresultsadmin
+      image: /images/2023_Cohort_picture.jpg
+      alt: Image alt text
   - infobar:
       title: MI Corporate Video
       description: <iframe width="560" height="315"
