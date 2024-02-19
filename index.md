@@ -11,14 +11,6 @@ sections:
       height: 504px
       title: A Place of Opportunity
       variant: center
-  - infopic:
-      title: Orientation 2024
-      id: infopic
-      description: Welcoming all Year 1s to MI Orientation 2024!
-      button: More details
-      url: /orientation-2024/
-      image: /images/mitopia2024pc.jpeg
-      alt: Image alt text
   - infobar:
       title: MI Corporate Video
       description: <iframe width="560" height="315"
