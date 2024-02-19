@@ -2,4 +2,4 @@ collections:
   a-level-results-release:
     output: true
     order:
-      - A Level Results.md
+      - A Level Results Release Admin.md
