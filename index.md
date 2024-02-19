@@ -19,6 +19,7 @@ sections:
       url: /alevelresultsadmin
       image: /images/2023_Cohort_picture.jpg
       alt: Image alt text
+      subtitle: Class of 2023
   - infobar:
       title: MI Corporate Video
       description: <iframe width="560" height="315"
