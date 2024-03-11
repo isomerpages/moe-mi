@@ -10,15 +10,6 @@ sections:
       background: /images/banner.gif
       title: A Place of Opportunity
       variant: center
-  - infopic:
-      title: Release of A-Level Results
-      id: infopic
-      description: 23 Feb 2024, Friday
-      button: For More DETAILS
-      url: /alevelresultsadmin/
-      image: /images/2023_Cohort_picture.jpg
-      alt: Image alt text
-      subtitle: Class of 2023
   - infobar:
       title: MI Corporate Video
       description: <iframe width="560" height="315"
