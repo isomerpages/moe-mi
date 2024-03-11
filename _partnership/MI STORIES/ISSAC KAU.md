@@ -1,0 +1,12 @@
+---
+title: ISSAC KAU
+permalink: /partnership/alumni/mi-stories/mi-mettle-journey/issac-kau/
+description: ""
+third_nav_title: MI STORIES
+---
+<h4><strong>Breakthrough</strong></h4>
+<p>The &lsquo;A&rsquo; Level examination is one of the most challenging periods in a student&rsquo;s life. I am proud to say that with the help of my teachers and friends in MI, I managed to pull through and do very well for the GCE A-Level examination.</p>
+<p>I was from a neighbourhood secondary school and the thought of going through the &lsquo;A&rsquo; Level route was daunting because of the stiff competition and rigour. When I first stepped into MI, I knew that my three years would be very challenging. However, what I did not expect at that point was the fruitful relationships I would have with my teachers and peers, and the opportunities provided by the school that made my MI journey positive and rewarding.</p>
+<p>The close relationships forged with my teachers and classmates created a supportive and conducive learning environment. A striking distinction between the teachers in MI and those of other schools is their willingness to help. The teachers are always prepared to go the extra mile for their students. I vividly remember the many occasions where I contacted my tutors after office hours to clarify my doubts, and my tutors never failed to respond to my queries. Their contributions and invaluable support made me realise that I was never alone in this journey and my tutors were alongside every step of the way.</p>
+<p>Additionally, MI also provided opportunities for me to develop my passion. I was given the chance to participate in competitions that required me to harness knowledge learnt in class. Some of these competitions include the Singapore Mathematics Olympiad, the Singapore Physics Olympiad and ASME Mech Challenge. These small milestones went a long way in preparing me for my &lsquo;A&rsquo; Level examinations as well as in making me a more confident thinker and a holistic learner.</p>
+<p>In short, MI has provided me with an excellent environment to learn and mature. I can confidently say that the opportunities, academic tutors and friendships provided by MI had resulted in the success I have today. I will always remember and be grateful for the journey I had in MI.</p>

@@ -1,0 +1,59 @@
+logo: /images/logo.png
+links:
+  - title: About Us
+    url: /about-us
+    sublinks:
+      - title: Principal's Message
+        url: /about-us/principals-message
+      - title: Our Staff
+        url: /about-us/our-staff
+      - title: MI Identity
+        url: /about-us/mi-identity
+      - title: MI Virtual Tour
+        url: /about-us/mi-virtual-tour
+      - title: MI Videos
+        url: /about-us/mi-videos
+  - title: Admission
+    url: /admission
+    sublinks:
+      - title: JAE Appeals
+        url: /admission/jae-appeals
+      - title: Returning Singaporeans
+        url: /admission/returning-singaporeans-international-students
+      - title: Subject Combination
+        url: /admission/subject-combination
+  - title: MI Experience
+    url: /mi-experience
+    sublinks:
+      - title: Departments
+        url: /mi-experience/departments
+      - title: Key Programmes
+        url: /mi-experience/key-programmes
+      - title: Social Emotional Learning
+        url: /mi-experience/social-emotional-learning
+      - title: CCA
+        url: /mi-experience/cca
+      - title: Achievements
+        url: /mi-experience/achievements
+      - title: Publications
+        url: /mi-experience/publications
+  - title: Partnership
+    url: /partnership
+    sublinks:
+      - title: MI Stories
+        url: /partnership/alumni/mi-stories
+      - title: Stay Connected
+        url: /partnership/alumni/stay-connected/
+      - title: Update for Parents
+        url: /partnership/parents/update-for-parents/
+      - title: Parents Support Group
+        url: /partnership/parents/parent-support-group/
+  - title: Contact Us
+    url: /contact-us/
+    sublinks:
+      - title: Contact Us
+        url: /contact-us/
+      - title: Bookshop & Uniform Vendor
+        url: /contact-us/bookshop-uniform/
+      - title: IT Support
+        url: /contact-us/it-support/
