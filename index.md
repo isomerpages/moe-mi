@@ -8,7 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/banner.gif
-      height: 504px
       title: A Place of Opportunity
       variant: center
   - infopic:
