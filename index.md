@@ -14,9 +14,8 @@ sections:
       title: NSG & SYF Season
       subtitle: 2024 Term 2
       id: infopic
-      description: Join us in supporting Millennia athletes and artists, as they
-        dedicate their passion and talent to excel in the realms of sports and
-        the arts.
+      description: Join us in supporting our athletes and artists, as they dedicate
+        their passion and talent to excel in the realms of sports and the arts.
       button: Link to NSG fixtures / SYF Schedule
       url: https://docs.google.com/spreadsheets/d/1ZmHtL03sFwU8ZlsGmiUEOqmk7FVELx0kTak46QbNCTg/edit?usp=sharing
       image: /images/NSG_SYF_2023_Banner_large.jpg
