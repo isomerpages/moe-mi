@@ -2,7 +2,7 @@
 title: UPDATE FOR PARENTS
 permalink: /partnership/parents/update-for-parents/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <h4><strong>Sexuality Education</strong></h4>
 <p>Click&nbsp;<strong><a href="/mi-experience/key-programmes/character-and-citizenship-education/sexuality-education" rel="noopener" target="_blank">HERE.</a></strong>
@@ -28,4 +28,8 @@ variant: tiptap
 <p><a href="/files/2024_Term_2_PU3_Test_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Term 2 PU3 Test Schedule</a>
 </p>
 <p></p>
-<p></p>
+<h5><strong>2024 Term 3</strong></h5>
+<p><strong>2024 PU3 Term 3 Mid-Year Examination Schedule</strong>
+</p>
+<p><a href="/files/PU3_MYE_2024_For_school_website.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 PU3 MYE Schedule</a>
+</p><p></p>
