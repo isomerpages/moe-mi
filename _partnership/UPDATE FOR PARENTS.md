@@ -31,5 +31,5 @@ variant: markdown
 <h5><strong>2024 Term 3</strong></h5>
 <p><strong>2024 PU3 Term 3 Mid-Year Examination Schedule</strong>
 </p>
-<p>PU2_MYE_2024_For_school_website</p>
-<p></p>
+<p><a href="/files/PU3_MYE_2024_For_school_website.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 PU3 MYE Schedule</a>
+</p><p></p>
