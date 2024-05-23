@@ -36,4 +36,10 @@ variant: tiptap
 <p></p>
 <p><strong>2024 PU2 Term 3 Weighted Assessment 3 &amp; Test Schedule</strong>
 </p>
+<p><a href="/files/2024_Term_3_PU2_WA3_and_Test_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Term 3 PU2</a>
+</p>
 <p></p>
+<p><strong>2024 PU1 Term 3 Weighted Assessment 2 Schedule</strong>
+</p>
+<p><a href="/files/2024_Term_3_PU1_WA2_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Term 3 PU1</a>
+</p>
