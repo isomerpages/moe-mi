@@ -58,7 +58,7 @@ variant: markdown
 <tr><td><a href="mailto:tan_sok_hong_selina@moe.edu.sg" target="">Mrs Wee-Tan Sok Hong Selina</a></td><td>Econs Teacher</td></tr>
 <tr><td><a href="mailto:lim_zhen_ting_jodyn@moe.edu.sg" target="">Ms Jodyn Lim Zhen Ting</a></td><td>Econs Teacher</td></tr>
 <tr><td><a href="mailto:chloe_guo_leyi@moe.edu.sg" target="">Ms Chloe Guo Leyi</a></td><td>Econs Teacher</td></tr>
-	
+		<tr><td><a href="mailto:Ang_wei_qing_b@moe.edu.sg" target="">Mr Ang Wei Qing</a></td><td>Econs Teacher</td></tr>
 <tr><td><a href="mailto:wee_chong_lin@moe.edu.sg" target="">Mr Wee Chong Lin</a></td><td>MOB Teacher</td></tr>
 <tr><td><a href="mailto:mohammed_fadzil_dawood@moe.edu.sg" target="">Mr Mohammed Fadzil Bin Dawood</a></td><td>PAA Teacher</td></tr>
 <tr><td><a href="mailto:thong_lai_yoong@moe.edu.sg" target="">Ms Thong Lai Yoong Irene</a></td><td>PAA Teacher</td></tr>
@@ -102,7 +102,6 @@ variant: markdown
 <tr><td><a href="mailto:lim_eik_kheng@moe.edu.sg" target="">Mr Lim Eik Kheng David</a></td><td>Maths Teacher</td></tr>
 <tr><td><a href="mailto:wu_yuen_yi@moe.edu.sg" target="">Mdm Wu Yuen Yi Shirlyn</a></td><td>Maths Teacher</td></tr>
 <tr><td><a href="mailto:ng_yu_xuan@moe.edu.sg" target="">Ms Ng Yu Xuan</a></td><td>Maths Teacher</td></tr>
-	<tr><td><a href="mailto:Ang_wei_qing_b@moe.edu.sg" target="">Mr Ang Wei Qing</a></td><td>Maths Teacher</td></tr>
 		</tbody></table></div></li>
 
 <li><input type="checkbox" id="accordion7"> <label for="accordion7">Mother Tongue Languages</label>
