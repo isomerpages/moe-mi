@@ -143,4 +143,4 @@ variant: markdown
 <tr><td><a href="mailto:koh_yuan_nee_annie@moe.edu.sg" target="">Mrs Annie Ong-Koh Yuan Nee</a></td><td>Physics Teacher</td></tr>
 <tr><td><a href="mailto:twang_fuu_tze_alfred@moe.edu.sg" target="">Mr Twang Fuu Tze Alfred</a></td><td>Physics Teacher</td></tr>
 <tr><td><a href="mailto:lee_qiao_le@moe.edu.sg" target="">Ms Lee Qiao Le</a></td><td>Biology Teacher</td></tr>
-<tr><td><a href="mailto:liu_pei_shan@moe.edu.sg" target="">Ms Liu Pei Shan</a></td><td>Biology Teacher</td></tr></tbody></table></div></li></ul></div>
+<tr><td><a href="mailto:liu_peishan@moe.edu.sg" target="">Ms Liu Pei Shan</a></td><td>Biology Teacher</td></tr></tbody></table></div></li></ul></div>
