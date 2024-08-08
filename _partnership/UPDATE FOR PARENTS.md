@@ -48,3 +48,14 @@ variant: tiptap
 </p>
 <p><a href="/files/2024_Term_3_PU1_WA3_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Term 3 PU1 WA3</a>
 </p>
+<p></p>
+<p><strong>2024 PU2 End-of-Year Exams Schedule</strong>
+</p>
+<p><a href="/files/2024_PU2_EOY_Exam_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 PU2 End-of-Year Exams Schedule</a>
+</p>
+<p></p>
+<p><strong>2024 PU3 Preliminary Exams Schedule</strong>
+</p>
+<p><a href="/files/2024_PU3_Prelims_Exam_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 PU3 Preliminary Exams Schedule</a>
+</p>
+<p></p>
