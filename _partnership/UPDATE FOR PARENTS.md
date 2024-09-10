@@ -59,3 +59,8 @@ variant: tiptap
 <p><a href="/files/2024_PU3_Prelims_Exam_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 PU3 Preliminary Exams Schedule</a>
 </p>
 <p></p>
+<p><strong>2024 PU1 End-of-Year Exam Schedule</strong>
+</p>
+<p><a href="/files/2024_PU1_EOY_Exam_Schedule.pdf" rel="noopener nofollow" target="_blank">2024 PU1 End-of-Year Exam Schedule</a>
+</p>
+<p></p>
