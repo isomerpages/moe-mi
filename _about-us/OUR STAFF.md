@@ -18,7 +18,7 @@ variant: markdown
 <tr><td><a href="mailto:mo_kang_fei@moe.edu.sg" target="">Mr Mo Kang Fei</a></td><td>Administration Manager</td></tr>
 <tr><td><a href="mailto:ramadan_noor_alem@moe.edu.sg" target="">Mr Ramadan Noor Alem</a></td><td>Operations Manager</td></tr>
 <tr><td><a href="mailto:eddy_ngarian_sumantri@moe.edu.sg" target="">Mr Eddy Ngarian Sumantri</a></td><td>ICT Manager</td></tr>
-<tr><td><a href="mailto:seri_munirah_mohamad@moe.edu.sg" target="">Mdm Seri Munirah Mohamad</a></td><td>Administrative Executive</td></tr>
+<tr><td><a href="mailto:salmah_saat@moe.edu.sg" target="">Mdm Salmah Bte Saat</a></td><td>Administrative Executive</td></tr>
 <tr><td><a href="mailto:affida_marzuki@moe.edu.sg" target="">Mdm Affida Bte Marzuki</a></td><td>Corporate Support Officer</td></tr>
 <tr><td><a href="mailto:low_san_san_a@moe.edu.sg" target="">Ms Low San San</a>&nbsp;</td><td>Corporate Support Officer</td></tr>
 <tr><td><a href="mailto:NUR_ASMIN_ASMAWI@moe.edu.sg" target="">Mr Nur Asmin Bin Asmawi</a></td><td>School Laboratory Technician</td></tr>
@@ -39,7 +39,7 @@ variant: markdown
 <tr><td><a href="mailto:lourdes_maria@moe.edu.sg" target="">Ms Maria Lourdes</a></td><td>Lead SEN Officer</td></tr>
 <tr><td><a href="mailto:tey_giin_yang@moe.edu.sg" target="">Mr Tey Giin Yang</a></td><td>SEN Officer</td></tr>
 <tr><td><a href="mailto:tan_chia_boon@schools.gov.sg@moe.edu.sg" target="">Mr Tan Chia Boon</a></td><td>ECG Officer</td></tr>
-<tr><td><a href="mailto:salmah_saat@moe.edu.sg" target="">Mdm Salmah Bte Saat</a></td><td>Admin Assistant</td></tr>
+<tr><td><a href="mailto:seri_munirah_mohamad@moe.edu.sg" target="">Mdm Seri Munirah Mohamad</a></td><td>Admin Assistant</td></tr>
 <tr><td><a href="mailto:Sri.Liyana@staff.spydus.com.sg" target="">Ms Sri Liyana Binte Samad</a></td><td>Library Officer</td></tr>
 <tr><td><a href="mailto:g-ncs0908jde@ncs.com.sg" target="">Mr Lim Jia Qing</a></td><td>Desktop Engineer</td></tr>
 <tr><td><a href="mailto:g-ncs0908jde@ncs.com.sg" target="">Mr Alexander Aggasih Morrie</a></td><td>Desktop Engineer</td></tr></tbody></table></div></li>
