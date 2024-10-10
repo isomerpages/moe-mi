@@ -16,9 +16,9 @@ variant: markdown
 <div><table cellpadding="0" cellspacing="0" border="0"><tbody>
 <tr><td><a href="mailto:ajmoonbeevi_majid@moe.edu.sg" target="">Ms Ajmoonbeevi D/O Majid</a></td><td>Administration Manager</td></tr>
 <tr><td><a href="mailto:mo_kang_fei@moe.edu.sg" target="">Mr Mo Kang Fei</a></td><td>Administration Manager</td></tr>
-<tr><td><a href="mailto:muhamad_hisham_b_sairi@moe.edu.sg" target="">Mr Muhamad Hisham Bin Sairi</a></td><td>Operations Manager</td></tr>
+<tr><td><a href="mailto:ramadan_noor_alem@moe.edu.sg" target="">Mr Ramadan Noor Alem</a></td><td>Operations Manager</td></tr>
 <tr><td><a href="mailto:eddy_ngarian_sumantri@moe.edu.sg" target="">Mr Eddy Ngarian Sumantri</a></td><td>ICT Manager</td></tr>
-<tr><td><a href="mailto:arinah_asyura_arshad@moe.edu.sg" target="">Ms Arinah Asyura Binte Arshad</a></td><td>Administrative Executive</td></tr>
+<tr><td><a href="mailto:seri_munirah_mohamad@moe.edu.sg" target="">Mdm Seri Munirah Mohamad</a></td><td>Administrative Executive</td></tr>
 <tr><td><a href="mailto:affida_marzuki@moe.edu.sg" target="">Mdm Affida Bte Marzuki</a></td><td>Corporate Support Officer</td></tr>
 <tr><td><a href="mailto:low_san_san_a@moe.edu.sg" target="">Ms Low San San</a>&nbsp;</td><td>Corporate Support Officer</td></tr>
 <tr><td><a href="mailto:NUR_ASMIN_ASMAWI@moe.edu.sg" target="">Mr Nur Asmin Bin Asmawi</a></td><td>School Laboratory Technician</td></tr>
