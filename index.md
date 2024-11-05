@@ -15,7 +15,7 @@ sections:
       id: infopic
       button: Ask me Anything about MI
       url: https://chatgpt.com/g/g-G0k4S3DKl-mi-guide
-      image: /images/MIOpenAILogo.png
+      image: /images/OpenAILogo.png
   - infobar:
       title: MI Corporate Video
       description: <iframe width="560" height="315"
