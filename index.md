@@ -10,6 +10,12 @@ sections:
       background: /images/banner.gif
       title: A Place of Opportunity
       variant: center
+  - infopic:
+      title: Ask me Anything about Millennia Institute
+      id: infopic
+      button: Ask me Anything about MI
+      url: https://chatgpt.com/g/g-G0k4S3DKl-mi-guide
+      image: /images/MIOpenAILogo.png
   - infobar:
       title: MI Corporate Video
       description: <iframe width="560" height="315"
