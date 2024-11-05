@@ -15,7 +15,7 @@ sections:
       id: infopic
       button: Ask me Anything about MI
       url: https://chatgpt.com/g/g-G0k4S3DKl-mi-guide
-      image: /images/OpenAILogo.png
+      image: /images/MIOpenAILogo.png
       alt: ChatGPT
   - infobar:
       title: MI Corporate Video
