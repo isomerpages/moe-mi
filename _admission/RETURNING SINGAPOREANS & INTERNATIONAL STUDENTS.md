@@ -17,7 +17,7 @@ variant: markdown
   6.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph;
   line-height:normal">1.</p></td><td width="595" valign="top" style="width:446.45pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-top:6.0pt;margin-right:0cm;margin-bottom:
   6.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph;
-  line-height:normal;background:white">Complete and submit the application form by 15 January 2025, 5pm. Please click&nbsp;<a href="https://go.gov.sg/mirsis" target="_blank"><span style="color:#2A67B7">here</span></a>&nbsp;for the form.</p></td></tr><tr style="mso-yfti-irow:1"><td width="28" valign="top" style="width:21.05pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-top:6.0pt;margin-right:0cm;margin-bottom:
+  line-height:normal;background:white">Complete and submit the application form by 10 January 2025, 5pm. Please click&nbsp;<a href="https://go.gov.sg/mirsis" target="_blank"><span style="color:#2A67B7">here</span></a>&nbsp;for the form.</p></td></tr><tr style="mso-yfti-irow:1"><td width="28" valign="top" style="width:21.05pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-top:6.0pt;margin-right:0cm;margin-bottom:
   6.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph;
   line-height:normal">2.</p></td><td width="595" valign="top" style="width:446.45pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-top:6.0pt;margin-right:0cm;margin-bottom:
   6.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph;
@@ -57,7 +57,7 @@ variant: markdown
   6.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph;
   line-height:normal">1.</p></td><td width="595" valign="top" style="width:446.45pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-top:6.0pt;margin-right:0cm;margin-bottom:
   6.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph;
-  line-height:normal;background:white">Complete and submit the application form by 15 January 2025, 5pm. Please click&nbsp;<a href="https://go.gov.sg/mirsis" target="_blank"><span style="color:#2A67B7">here</span></a>&nbsp;for the form.</p></td></tr><tr style="mso-yfti-irow:1"><td width="28" valign="top" style="width:21.05pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-top:6.0pt;margin-right:0cm;margin-bottom:
+  line-height:normal;background:white">Complete and submit the application form by 10 January 2025, 5pm. Please click&nbsp;<a href="https://go.gov.sg/mirsis" target="_blank"><span style="color:#2A67B7">here</span></a>&nbsp;for the form.</p></td></tr><tr style="mso-yfti-irow:1"><td width="28" valign="top" style="width:21.05pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-top:6.0pt;margin-right:0cm;margin-bottom:
   6.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph;
   line-height:normal">2.</p></td><td width="595" valign="top" style="width:446.45pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-top:6.0pt;margin-right:0cm;margin-bottom:
   6.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph;
