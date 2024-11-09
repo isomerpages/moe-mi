@@ -12,7 +12,7 @@ variant: markdown
   mso-border-alt:solid windowtext .5pt;background:#E7E6E6;mso-background-themecolor:
   background2;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-top:6.0pt;margin-right:0cm;
   margin-bottom:6.0pt;margin-left:0cm;text-align:center;line-height:normal"><b><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
-  color:black;mso-color-alt:windowtext">Subject Combination 2024</span></b><b><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin"></span></b></p></td></tr><tr style="mso-yfti-irow:1"><td width="60" valign="top" style="width:45.3pt;border:solid windowtext 1.0pt;
+  color:black;mso-color-alt:windowtext">Subject Combination 2025</span></b><b><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin"></span></b></p></td></tr><tr style="mso-yfti-irow:1"><td width="60" valign="top" style="width:45.3pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   background:#E7E6E6;mso-background-themecolor:background2;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-top:6.0pt;margin-right:0cm;
   margin-bottom:6.0pt;margin-left:0cm;text-align:center;line-height:normal"><b><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
@@ -560,7 +560,30 @@ variant: markdown
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-top:6.0pt;margin-right:0cm;
-  margin-bottom:6.0pt;margin-left:0cm;text-align:center;line-height:normal"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">MATH</span></p></td></tr><tr style="mso-yfti-irow:30;mso-yfti-lastrow:yes"><td width="623" colspan="5" valign="top" style="width:467.5pt;border:none;
+  margin-bottom:6.0pt;margin-left:0cm;text-align:center;line-height:normal"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">MATH</span></p></td>
+</tr><tr style="mso-yfti-irow:29"><td width="60" valign="top" style="width:45.3pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-top:6.0pt;margin-right:0cm;
+  margin-bottom:6.0pt;margin-left:0cm;text-align:center;line-height:normal"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">S13^^</span></p></td><td width="93" valign="top" style="width:69.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-top:6.0pt;margin-right:0cm;
+  margin-bottom:6.0pt;margin-left:0cm;text-align:center;line-height:normal"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">CHEM</span></p></td><td width="93" valign="top" style="width:69.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-top:6.0pt;margin-right:0cm;
+  margin-bottom:6.0pt;margin-left:0cm;text-align:center;line-height:normal"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">BIO</span></p></td><td width="93" valign="top" style="width:69.9pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-top:6.0pt;margin-right:0cm;
+  margin-bottom:6.0pt;margin-left:0cm;text-align:center;line-height:normal"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">ECONS</span></p></td><td width="283" valign="top" style="width:212.6pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-top:6.0pt;margin-right:0cm;
+  margin-bottom:6.0pt;margin-left:0cm;text-align:center;line-height:normal"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">MATH</span></p></td>	
+		</tr>
+	
+<tr style="mso-yfti-irow:30;mso-yfti-lastrow:yes"><td width="623" colspan="5" valign="top" style="width:467.5pt;border:none;
   mso-border-top-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-top:6.0pt;margin-right:0cm;margin-bottom:
   6.0pt;margin-left:0cm;line-height:normal"><span style="font-size:10.0pt;
   font-family:&quot;Open Sans&quot;,sans-serif;color:black;background:white">PAA: Principles of Accounts</span></p><p class="MsoNormal" style="margin-top:6.0pt;margin-right:0cm;margin-bottom:
@@ -578,6 +601,17 @@ variant: markdown
 <li><p style="text-align:justify;">Achieved at least C6 in one relevant Pure Science subject AND at least B4 in one relevant Combined Science subject at GCE O-Level <u><strong>OR</strong></u></p></li>
 <li><p style="text-align:justify;">Achieved at least A2 in one relevant Combined Science subject AND at least C6 in Additional Mathematics at GCE O-Level.</p></li>
 </ul>
+
+<p style="text-align:justify;">^^Students who wish to offer S13 must have the following assumed knowledge at GCE O-Level: </p>
+<ul>
+<li><p style="text-align:justify;"> Achieved at least C6 in both relevant Pure Science subjects at GCE O-Level <u><strong>OR</strong></u></p></li>
+<li><p style="text-align:justify;">Achieved at least C6 in one relevant Pure Science subject AND at least B4 in one relevant Combined Science subject at GCE O-Level <u><strong>OR</strong></u></p></li>
+<li><p style="text-align:justify;">Achieved at least A2 in both relevant Combined Science subjects AND at least C6 in Elementary Mathematics at GCE O-Level.</p></li>
+</ul>
+
+
+
+
 <h4><strong>Considerations to Note</strong></h4>
 <p><strong>Merit-Based Allocation</strong></p>
 <p style="text-align:justify;">Students are allocated to their choice of subject combination based on academic merit, including their L1R4 aggregate score or equivalent, and performance in the relevant subject(s). The allocation also depends on the number of places that are available for each subject. In the event that a subject is oversubscribed, allocation is done based on academic merit.</p>
