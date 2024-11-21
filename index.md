@@ -23,4 +23,6 @@ sections:
       id: infopic
       image: /images/WEBSITE__MI_OPEN_HOUSE_2025_BANNER.png
       alt: Image alt text
+      subtitle: Come Join Us!
+      title: OPEN HOUSE 2025
 ---
