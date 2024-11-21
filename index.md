@@ -19,4 +19,12 @@ sections:
         allowfullscreen=""></iframe>
       button: Find out more about us
       url: /about-us/mi-videos/
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      image: /images/WEBSITE__MI_OPEN_HOUSE_2025_BANNER.png
+      alt: Image alt text
 ---
