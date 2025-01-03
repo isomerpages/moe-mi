@@ -102,6 +102,7 @@ variant: markdown
 <tr><td><a href="mailto:mohd_fuad_salim@moe.edu.sg" target="">Mr Mohd Fuad Bin Salim</a></td><td>SH ML</td></tr>
 <tr><td><a href="mailto:zaibah_mohammed_amin@moe.edu.sg" target="">Ms Zaibah Mohd Amin</a></td><td>Senior Teacher - ML</td></tr>
 <tr><td><a href="mailto:rajarajan_hemalatha@moe.edu.sg" target="">Mdm Rajarajan Hemalatha</a></td><td>TL Teacher</td></tr>
+<tr><td><a href="mailto:nelaothaman_suppayan@moe.edu.sg" target="">Mr Nelaothaman s/o Suppayan</a></td><td>TL Teacher</td></tr>
 <tr><td><a href="mailto:marnee_suhiat@moe.edu.sg" target="">Mdm Marnee Suhiat</a></td><td>ML Teacher</td></tr>
 <tr><td><a href="mailto:siti_mardiana_abdul_hamid@moe.edu.sg" target="">Ms Siti Mardiana Bte Abdul Hamid</a></td><td>ML Teacher</td></tr>
 <tr><td><a href="mailto:cheong_chew_yen@moe.edu.sg" target="">Ms Cheong Chew Yen</a></td><td>CL Teacher</td></tr>
