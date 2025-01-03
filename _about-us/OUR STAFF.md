@@ -94,6 +94,7 @@ variant: markdown
 <tr><td><a href="mailto:kee_yongxiang_tommy@moe.edu.sg" target="">Mr Kee Yong Xiang Tommy</a></td><td>Maths Teacher</td></tr>
 <tr><td><a href="mailto:lim_eik_kheng@moe.edu.sg" target="">Mr Lim Eik Kheng David</a></td><td>Maths Teacher</td></tr>
 <tr><td><a href="mailto:ng_yu_xuan@moe.edu.sg" target="">Ms Ng Yu Xuan</a></td><td>Maths Teacher</td></tr>
+<tr><td><a href="mailto:qian_kun@moe.edu.sg" target="">Ms Qian Kun </a></td><td>Maths Teacher</td></tr>
 		</tbody></table></div></li>
 
 <li><input type="checkbox" id="accordion7"> <label for="accordion7">Mother Tongue Languages</label>
