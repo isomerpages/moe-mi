@@ -91,9 +91,9 @@ variant: markdown
 <tr><td><a href="mailto:li_xiaofeng@moe.edu.sg" target="">Mr Li Xiaofeng</a></td><td>HOD Maths</td></tr>
 <tr><td><a href="mailto:tan_shu_yan_ginny@moe.edu.sg" target="">Ms Tan Shu Yan Ginny</a></td><td>SH Maths</td></tr>
 <tr><td><a href="mailto:lee_peici@moe.edu.sg" target="">Mdm Lee Peici</a></td><td>SH Maths</td></tr>
+<tr><td><a href="mailto:kee_yongxiang_tommy@moe.edu.sg" target="">Mr Kee Yong Xiang Tommy</a></td><td>SH Student Management</td></tr>
 <tr><td><a href="mailto:kelvin_thiang_perng_meng@moe.edu.sg" target="">Mr Thiang Perng Meng Kelvin</a></td><td>Senior Teacher - Maths</td></tr>
 <tr><td><a href="mailto:chua_en_huang_jonah@moe.edu.sg" target="">Mr Chua En Huang, Jonah</a></td><td>Maths Teacher</td></tr>
-<tr><td><a href="mailto:kee_yongxiang_tommy@moe.edu.sg" target="">Mr Kee Yong Xiang Tommy</a></td><td>Maths Teacher</td></tr>
 <tr><td><a href="mailto:lim_eik_kheng@moe.edu.sg" target="">Mr Lim Eik Kheng David</a></td><td>Maths Teacher</td></tr>
 <tr><td><a href="mailto:ng_yu_xuan@moe.edu.sg" target="">Ms Ng Yu Xuan</a></td><td>Maths Teacher</td></tr>
 <tr><td><a href="mailto:qian_kun@moe.edu.sg" target="">Ms Qian Kun </a></td><td>Maths Teacher</td></tr>
@@ -124,14 +124,14 @@ variant: markdown
 <li><input type="checkbox" id="accordion9"> <label for="accordion9">Science</label>
 <div><table cellpadding="0" cellspacing="0" border="0"><tbody>
 <tr><td><a href="mailto:neo_chai_seng@moe.edu.sg" target="">Mr Neo Chai Seng</a></td><td>HOD Science - Physics</td></tr>
-<tr><td><a href="mailto:khoo_bee_chan@moe.edu.sg" target="">Mdm Khoo Bee Chan</a></td><td>HOD ICT - Physics</td></tr>
+<tr><td><a href="mailto:khoo_bee_chan@moe.edu.sg" target="">Mdm Khoo Bee Chan</a></td><td>School Staff Developer - Physics</td></tr>
 <tr><td><a href="mailto:pang_sze_kiang@moe.edu.sg" target="">Mr Pang Sze Kiang</a></td><td>HOD CCE - Physics</td></tr>
+<tr><td><a href="mailto:jascelyn_ang_qian_lin@moe.edu.sg" target="">Mdm Jascelyn Ang Qian Lin</a></td><td>HOD ICT - Chemistry</td></tr>
 <tr><td><a href="mailto:ng_xue_li_shirley@moe.edu.sg" target="">Ms Ng Xue Li Shirley</a></td><td>Year Head - Chemistry</td></tr>
-<tr><td><a href="mailto:jascelyn_ang_qian_lin@moe.edu.sg" target="">Mdm Jascelyn Ang Qian Lin</a></td><td>Year Head - Chemistry</td></tr>
-<tr><td><a href="mailto:lee_le_xin@moe.edu.sg" target="">Mrs Ang-Lee Le Xin Lydia</a></td><td>SH Chemistry</td></tr>
+<tr><td><a href="mailto:lee_le_xin@moe.edu.sg" target="">Mrs Ang-Lee Le Xin Lydia</a></td><td>Year Head (Covering) - Chemistry</td></tr>
 <tr><td><a href="mailto:liew_yong_qiang@moe.edu.sg" target="">Mr Liew Yong Qiang</a></td><td>SH ICT - Chemistry</td></tr>
 <tr><td><a href="mailto:foo_yongkuan@moe.edu.sg" target="">Mr Foo Yongkuan</a></td><td>SH Biology</td></tr>
-<tr><td><a href="mailto:lee_li_wen@moe.edu.sg" target="">Ms Lee Li Wen</a></td><td>Chemistry Teacher</td></tr>
+<tr><td><a href="mailto:lee_li_wen@moe.edu.sg" target="">Ms Lee Li Wen</a></td><td>SH Chemistry (Covering)</td></tr>
 <tr><td><a href="mailto:liu_yiqian_lionel@moe.edu.sg" target="">Mr Liu Yiqian Lionel</a></td><td>Chemistry Teacher</td></tr>
 <tr><td><a href="mailto:fan_kaijie_herbert@moe.edu.sg" target="">Mr Fan Kaijie Herbert</a></td><td>Chemistry Teacher</td></tr>
 <tr><td><a href="mailto:tay_yong_khiang_jason@moe.edu.sg" target="">Mr Tay Yong Khiang Jason</a></td><td>Chemistry Teacher</td></tr>
