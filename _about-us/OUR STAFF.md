@@ -80,6 +80,7 @@ variant: markdown
 <tr><td><a href="mailto:ng_erin@moe.edu.sg" target="">Ms Erin Ng</a></td><td>HOD Humanities - Geography</td></tr>
 <tr><td><a href="mailto:tamilselvi_siva@moe.edu.sg" target="">Mrs Siva-Tamilselvi D/O Muthu</a></td><td>SH CCE - History</td></tr>
 <tr><td><a href="mailto:ghazrizal_azry_ghazali_nor@moe.edu.sg" target="">Mr Ghazrizal Azry Bin Ghazali Nor</a></td><td>Art Teacher</td></tr>
+<tr><td><a href="mailto:ernest_yeo@moe.edu.sg" target="">Mr Yeo Chin Kent Ernest</a></td><td>Art Teacher</td></tr>
 <tr><td><a href="mailto:sharmaine_ong_gek_teng_a@moe.edu.sg" target="">Ms Sharmaine Ong Gek Teng</a></td><td>Geography Teacher</td></tr>
 <tr><td><a href="mailto:lee_jake_hooi@moe.edu.sg" target="">Mr Lee Jake Hooi</a></td><td>History Teacher</td></tr>
 <tr><td><a href="mailto:see_kurt_wei@moe.edu.sg" target="">Mr See Kurt Wei</a></td><td>History Teacher</td></tr></tbody></table></div></li>
