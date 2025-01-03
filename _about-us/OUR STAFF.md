@@ -34,10 +34,8 @@ variant: markdown
 <tr><td><a href="mailto:zeng_xiumei@moe.edu.sg" target="">Mdm Zeng Xiumei</a></td><td>Operations Support Officer</td></tr>
 	<tr><td><a href="mailto:tay_choon_wei@moe.edu.sg" target="">Mr Tay Choon Wei</a></td><td>Operations Support Officer</td></tr>
 	
-	
 <tr><td><a href="mailto:GANAPATHI_SARAVANA_KANNAN@moe.edu.sg" target="">Mr Ganapathi Saravanakannan</a></td><td>Senior School Counsellor</td></tr>
 <tr><td><a href="mailto:yeo_zhou_zhen@moe.edu.sg" target="">Ms Yeo Zhou Zhen</a></td><td>School Counsellor</td></tr>
-<tr><td><a href="mailto:lourdes_maria@moe.edu.sg" target="">Ms Maria Lourdes</a></td><td>Lead SEN Officer</td></tr>
 <tr><td><a href="mailto:tey_giin_yang@moe.edu.sg" target="">Mr Tey Giin Yang</a></td><td>SEN Officer</td></tr>
 <tr><td><a href="mailto:tan_chia_boon@schools.gov.sg@moe.edu.sg" target="">Mr Tan Chia Boon</a></td><td>ECG Officer</td></tr>
 <tr><td><a href="mailto:seri_munirah_mohamad@moe.edu.sg" target="">Mdm Seri Munirah Mohamad</a></td><td>Admin Assistant</td></tr>
@@ -74,7 +72,6 @@ variant: markdown
 <tr><td><a href="mailto:tay_guan_wei_bernard@moe.edu.sg" target="">Mr Bernard Tay Guan Wei</a></td><td>GP Teacher</td></tr>
 	<tr><td><a href="mailto:joseph_jerome_estrellas_fernandez@moe.edu.sg" target=""> Mr Joseph Jerome Estrellas Fernandez </a></td><td>GP Teacher</td></tr>
 	<tr><td><a href="mailto:rasveena_kaur_harcharan_singh@moe.edu.sg" target="">Ms Rasveena Kaur D/O Harcharan </a></td><td>GP / Lit Teacher</td></tr>
-		<tr><td><a href="mailto:chow_yiheng@moe.edu.sg" target="">Mr Nicholas Chow Yiheng </a></td><td>GP / Lit Teacher</td></tr>	
 		</tbody></table></div></li>
 
 <li><input type="checkbox" id="accordion5"> <label for="accordion5">Humanities</label>
