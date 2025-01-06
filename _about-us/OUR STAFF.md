@@ -32,7 +32,8 @@ variant: markdown
 <tr><td><a href="mailto:ZEENATH_BANU_YUSOFF@moe.edu.sg" target="">Mdm Zeenath Banu Binte Yusoff</a></td><td>Operations Support Officer</td></tr>
 <tr><td><a href="mailto:NORHAYATI_OTHMAN_A@moe.edu.sg" target="">Mdm Norhayati Othman</a></td><td>Operations Support Officer</td></tr>
 <tr><td><a href="mailto:zeng_xiumei@moe.edu.sg" target="">Mdm Zeng Xiumei</a></td><td>Operations Support Officer</td></tr>
-	<tr><td><a href="mailto:tay_choon_wei@moe.edu.sg" target="">Mr Tay Choon Wei</a></td><td>Operations Support Officer</td></tr>
+<tr><td><a href="mailto:tay_choon_wei@moe.edu.sg" target="">Mr Tay Choon Wei</a></td><td>Operations Support Officer</td></tr>
+<tr><td><a href="mailto:goh_poh_sim@moe.edu.sg" target="">Mdm Goh Poh Sim</a></td><td>Operations Support Officer</td></tr>
 	
 <tr><td><a href="mailto:GANAPATHI_SARAVANA_KANNAN@moe.edu.sg" target="">Mr Ganapathi Saravanakannan</a></td><td>Senior School Counsellor</td></tr>
 <tr><td><a href="mailto:yeo_zhou_zhen@moe.edu.sg" target="">Ms Yeo Zhou Zhen</a></td><td>School Counsellor</td></tr>
