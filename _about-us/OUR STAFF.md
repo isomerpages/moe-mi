@@ -38,7 +38,7 @@ variant: markdown
 <tr><td><a href="mailto:yeo_zhou_zhen@moe.edu.sg" target="">Ms Yeo Zhou Zhen</a></td><td>School Counsellor</td></tr>
 <tr><td><a href="mailto:tey_giin_yang@moe.edu.sg" target="">Mr Tey Giin Yang</a></td><td>SEN Officer</td></tr>
 <tr><td><a href="mailto:tan_chia_boon@schools.gov.sg@moe.edu.sg" target="">Mr Tan Chia Boon</a></td><td>ECG Officer</td></tr>
-<tr><td><a href="mailto:arshad_arinah_asyura@moe.edu.sg" target="">Ms Arinah Asyura Arshad</a></td><td>Admin Assistant</td></tr>
+<tr><td><a href="mailto:arshad_arinah_asyura@moe.edu.sg" target="">Ms Arinah Asyura Arshad</a></td><td>Admin Executive</td></tr>
 <tr><td><a href="mailto:seri_munirah_mohamad@moe.edu.sg" target="">Mdm Seri Munirah Mohamad</a></td><td>Admin Assistant</td></tr>
 <tr><td><a href="mailto:Sri.Liyana@staff.spydus.com.sg" target="">Ms Sri Liyana Binte Samad</a></td><td>Library Officer</td></tr>
 <tr><td><a href="mailto:g-ncs0908jde@ncs.com.sg" target="">Mr Lim Jia Qing</a></td><td>Desktop Engineer</td></tr>
