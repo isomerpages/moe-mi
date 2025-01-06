@@ -25,10 +25,4 @@ sections:
         allowfullscreen=""></iframe>
       button: Find out more about us
       url: /about-us/mi-videos/
-  - infobar:
-      title: Infobar
-      subtitle: Add informational text
-      id: infobar
-      description: Infobar description
-      button: Button Text
 ---
