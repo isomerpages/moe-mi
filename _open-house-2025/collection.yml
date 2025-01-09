@@ -2,5 +2,6 @@ collections:
   open-house-2025:
     output: true
     order:
+      - terms-of-use.md
       - privacy.md
       - faq.md
