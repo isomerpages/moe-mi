@@ -3,8 +3,9 @@ title: MI IDENTITY
 permalink: /about-us/mi-identity/
 description: ""
 third_nav_title: MI IDENTITY
+variant: markdown
 ---
-<img style="width: 50%;" src="/images/milogo.png" />
+<img style="width: 50%;" src="/images/milogo.png">
 <p><strong>Millennia Institute Logo</strong></p>
   
 
@@ -21,7 +22,7 @@ third_nav_title: MI IDENTITY
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 33.3333%; text-align: center;"><strong><a href="/about-us/mi-identity/our-vision-mission-values"><img src="/images/mii1.jpg"></a><a href="/about-us/mi-identity/our-vision-mission-values">Our Vision, Mission, Values</a></strong></td>
+<td style="width: 33.3333%; text-align: center;"><strong><a href="/about-us/mi-identity/our-vision-mission-values"><img src="/images/mii1.jpg"></a><a href="/about-us/mi-identity/vision-mipromise-values">Vision, MI Promise, Values</a></strong></td>
 <td style="width: 33.3333%; text-align: center;"><strong><a href="/about-us/mi-identity/institute-song"><img src="/images/mii2.jpg"></a><a href="/about-us/mi-identity/institute-song">Institute Song</a></strong></td>
 <td style="width: 33.3333%; text-align: center;"><strong><a href="/about-us/mi-identity/our-history"><img src="/images/mii3.jpg"></a><a href="/about-us/mi-identity/our-history">Our History</a></strong></td>
 </tr>
