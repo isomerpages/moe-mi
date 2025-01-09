@@ -17,7 +17,7 @@ sections:
       subtitle: Come Join Us!
       title: OPEN HOUSE 2025
       url: /open-house-2025/
-      button: Click Here for Programme
+      button: Programme Highlights
   - infobar:
       title: MI Corporate Video
       description: <iframe width="560" height="315"
