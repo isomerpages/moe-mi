@@ -9,13 +9,13 @@ variant: markdown
 	<div>
 			<img style="width: 40%;float:left;margin-right:25px" src="/images/Homepage/SL__01__MR_LOO_MING_YAW_cropped.jpg">
 	</div>
-<p style="text-align:justify;">  At MI, we pride ourselves as an institute of hope and discovery, where students are provided with various platforms to engage, explore and experience learning and growth, so as to achieve their aspirations in a world that is growing increasingly more volatile, uncertain, complex and ambiguous. When the journey gets tough and turbulent, the Institute’s core values of Integrity, Responsibility, Respect and Resilience will be their internal compass.</p>
+<p style="text-align:justify;">  Welcome to Millennia Institute, where learning is not just about following a set path but about forging your own. With "Do It MI Way," we celebrate the spirit of ownership, resilience, leadership and self-discovery — values that define a transformative education.</p>
 
-<p style="text-align:justify;">We are also proud to be an institute of excellence with a unique business focus. Our future-oriented curriculum and holistic teaching and learning framework will develop in students a spirit of innovation and enterprise, as well as the emerging 21st century competencies. They are empowered to seize every opportunity to take risks, learn from failures and succeed in diverse ways in a globalised and digital world, while keeping a strong Singapore heartbeat and a positive growth mindset.</p>
+<p style="text-align:justify;">Here, you will find a diverse range of programmes designed to challenge and inspire you, but your journey does not end with what is readily available. True growth happens when you take the lead — when you identify gaps, create opportunities, and take charge of your own learning. Whether it is starting a project, forming a new interest group, or seeking mentorship beyond the classroom, this is your space to innovate and thrive.</p>
 
-<p style="text-align:justify;">Yes, we are an institute where our students find success. Many of our students enroll in the local autonomous universities. Some of our alumni have won government scholarships, unconditional admission to SUTD, recognition as valedictorian and gold medalist of NTU, while others have graduated magna-cum-laude from SMU and the NUS University Scholars Programme.</p>
+<p style="text-align:justify;">At MI, we believe that learning is not just about what is given to you, but what you choose to make of it. The most meaningful experiences often come from stepping beyond structured offerings, charting new territories, and daring to carve your own path. So go ahead — embrace the possibilities, take bold steps, and shape an education that is uniquely yours.</p>
 
-<p style="text-align:justify;">Check us out as you navigate your way around our website. Come visit us at our campus. Discover MI as an institute of hope and excellence and where our students find success through autonomy, mastery and purpose!</p>
+<p style="text-align:justify;">This is your journey. Do it MI way.</p>
 
 <p><strong>Mr Loo Ming Yaw<br>Principal<br></strong></p>
 </div>
