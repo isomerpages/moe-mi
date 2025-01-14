@@ -4,7 +4,7 @@ permalink: /about-us/principals-message/
 description: ""
 variant: markdown
 ---
-<h4><strong>An Institute of Hope and Self-Discovery</strong></h4>
+<h4><strong>MI - A Place of Hope and Opportunity</strong></h4>
 <div>
 	<div>
 			<img style="width: 40%;float:left;margin-right:25px" src="/images/Homepage/SL__01__MR_LOO_MING_YAW_cropped.jpg">
@@ -15,7 +15,7 @@ variant: markdown
 
 <p style="text-align:justify;">At MI, we believe that learning is not just about what is given to you, but what you choose to make of it. The most meaningful experiences often come from stepping beyond structured offerings, charting new territories, and daring to carve your own path. So go ahead — embrace the possibilities, take bold steps, and shape an education that is uniquely yours.</p>
 
-<p style="text-align:justify;">This is your journey. Do it MI way.</p>
+<p style="text-align:justify;">This is your journey. Do it the MI way.</p>
 
 <p><strong>Mr Loo Ming Yaw<br>Principal<br></strong></p>
 </div>
