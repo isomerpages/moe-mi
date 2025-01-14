@@ -7,7 +7,7 @@ variant: markdown
 <h4><strong>MI - A Place of Hope and Opportunity</strong></h4>
 <div>
 	<div>
-			<img style="width: 40%;float:left;margin-right:25px" src="/images/Homepage/SL__01__MR_LOO_MING_YAW_cropped.jpg">
+			<img style="width: 30%;float:left;margin-right:25px" src="/images/Homepage/SL__01__MR_LOO_MING_YAW_cropped.jpg">
 	</div>
 <p style="text-align:justify;">  Welcome to Millennia Institute, where learning is not just about following a set path but about forging your own. With "Do It MI Way," we celebrate the spirit of ownership, resilience, leadership and self-discovery — values that define a transformative education.</p>
 
