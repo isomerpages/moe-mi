@@ -4,7 +4,7 @@ permalink: /about-us/principals-message/
 description: ""
 variant: markdown
 ---
-<h4><strong> MI - An Institute of Hope and Discovery</strong></h4>
+<h4><strong>An Institute of Hope and Self-Discovery</strong></h4>
 <div>
 	<div>
 			<img style="width: 40%;float:left;margin-right:25px" src="/images/Homepage/SL__01__MR_LOO_MING_YAW_cropped.jpg">
