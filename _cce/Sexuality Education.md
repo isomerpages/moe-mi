@@ -48,9 +48,8 @@ Relationships, Sexual Health, Sexual Behaviour, and Culture, Society and
 Law woven into the main focus on relationships.</p>
 <p><strong>At Millennia Institute, the following Sexuality Education lessons will be taught in&nbsp;<u>2025</u>:</strong>
 </p>
-<table style="minWidth: 125px">
+<table style="minWidth: 100px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -58,7 +57,7 @@ Law woven into the main focus on relationships.</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="5">
+<td rowspan="1" colspan="4">
 <p><strong>2025 Sexuality Education Lessons in CCE</strong>
 </p>
 <p><strong>Pre-U Year 1</strong>
@@ -81,9 +80,6 @@ Law woven into the main focus on relationships.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Time Period<br>(e.g. Term 1 Week 8)</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -112,9 +108,6 @@ entails and be reminded of the importance of respect for others.</p>
 <td rowspan="1" colspan="1">
 <p>Term 3 Week 3</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -139,9 +132,6 @@ others, and think through the consequences of doing so.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3 Week 4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -170,16 +160,12 @@ on being a source of support for others who may be pregnant or have STIs.</p>
 <td rowspan="1" colspan="1">
 <p>Term 3 Week 5</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<table style="minWidth: 125px">
+<table style="minWidth: 100px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -187,7 +173,7 @@ on being a source of support for others who may be pregnant or have STIs.</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="5">
+<td rowspan="1" colspan="4">
 <p><strong>2025 Sexuality Education Lessons in CCE</strong>
 </p>
 <p><strong>Pre-U Year 2</strong>
@@ -210,9 +196,6 @@ on being a source of support for others who may be pregnant or have STIs.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Time Period<br>(e.g. Term 1 Week 8)</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -243,9 +226,6 @@ and choosing to do what is right.</p>
 <td rowspan="1" colspan="1">
 <p>Term 2 Week 5</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -270,9 +250,6 @@ to themselves and others.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2 Week 4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
