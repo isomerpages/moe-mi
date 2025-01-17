@@ -78,7 +78,7 @@ Law woven into the main focus on relationships.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Time Period<br>(e.g. Term 1 Week 8)</strong>
+<p><strong>Time Period</strong>
 </p>
 </td>
 </tr>
@@ -194,7 +194,7 @@ on being a source of support for others who may be pregnant or have STIs.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Time Period<br>(e.g. Term 1 Week 8)</strong>
+<p><strong>Time Period<br></strong>
 </p>
 </td>
 </tr>
@@ -290,7 +290,7 @@ are the key messages.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>TIME PERIOD<br>(e.g. Term 3 Week 2)</strong>
+<p><strong>TIME PERIOD<br></strong>
 </p>
 </td>
 </tr>
