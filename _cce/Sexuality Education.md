@@ -345,12 +345,12 @@ STIs/HIV</p>
 Sexuality Education programmes by MOE-approved external providers.</p>
 <p>9. Parents who wish to opt their children out of the Sexuality Education
 lessons need to complete an opt-out form. This form will be communicated
-to parents at the start of the year and is also downloadable&nbsp;<a href="/files/Annex_A_2024.pdf" rel="noopener" target="_blank">here</a>. The completed form
-is to be submitted by 25/01/2024 (PU2) and 28/06/2024 (PU1).</p>
+to parents at the start of the year and is also downloadable&nbsp;<a href="/files/Annex_A.pdf" rel="noopener nofollow" target="_blank">here</a>. The completed
+form is to be submitted by 11/04/2025 (PU2) and 09/07/2025 (PU1).</p>
 <p>10. Parents who wish to opt their children out of the eTeens programme
 need to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable&nbsp;<a href="/files/Annex_B_2024.pdf" rel="noopener" target="_blank">here</a>. The completed form
-is to be submitted by 13/09/2024.</p>
+at the start of the year and is also downloadable&nbsp;<a href="/files/Annex_B.pdf" rel="noopener nofollow" target="_blank">here</a>. The completed
+form is to be submitted by 30/05/2025.</p>
 <p>11. Parents can contact the school at&nbsp;<strong><a href="mailto:millennia_inst@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">millennia_inst@moe.edu.sg</a></strong>&nbsp;for
 discussion or to seek clarification about the school’s sexuality education
 programme.</p>
