@@ -87,8 +87,7 @@ Law woven into the main focus on relationships.</p>
 <p>Developing Healthy Relationships/ Theme 3B 'Sexual Health and Behaviour’</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>What Are Your #relationshipgoals?&nbsp;</p>
-<p>(60 mins)</p>
+<p>What Are Your #relationshipgoals?<br>(60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><em>What are unhealthy relationships and who can I turn to if I need help? How does one manage aggression, both physical and emotional, in relationships?</em>&nbsp;
@@ -114,8 +113,7 @@ entails and be reminded of the importance of respect for others.</p>
 <p>Developing Healthy Relationships/ Theme 3B 'Sexual Health and Behaviour’</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;If Not Now When (Part 1)</p>
-<p>(60 mins)</p>
+<p>If Not Now When (Part 1)<br>(60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><em>Are values such as abstinence of sexual activity before marriage still valid in the world today? Why? Is abstinence a reasonable choice?</em>
@@ -139,8 +137,7 @@ others, and think through the consequences of doing so.</p>
 <p>Developing Healthy Relationships/ Theme 3B 'Sexual Health and Behaviour’</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>If Not Now When (Part 2) &nbsp;</p>
-<p>(60 mins)</p>
+<p>If Not Now When (Part 2)<br>(60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><em>Is one’s personal choice more important than considering the impact and consequences of one’s choice on others?</em>&nbsp;
@@ -203,8 +200,7 @@ on being a source of support for others who may be pregnant or have STIs.</p>
 <p>Developing Healthy Relationships/ Theme 3C ‘Society, Culture and the Law’</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Why is Voyeurism Wrong?&nbsp;</p>
-<p>(60 mins)</p>
+<p>Why is Voyeurism Wrong?<br>(60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><em>Is voyeurism wrong? Why?</em>&nbsp;
@@ -232,8 +228,7 @@ and choosing to do what is right.</p>
 <p>Developing Healthy Relationships/ Theme 3C 'Society, Culture and the Law'</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Overcoming Stereotypes</p>
-<p>(60 mins)</p>
+<p>Overcoming Stereotypes<br>(60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><em>How does the media portray gender and relationships? How do societal influences affect our understanding of gender stereotypes?</em>
@@ -267,18 +262,7 @@ decision-making and seeking help. Abstinence and upholding family values
 are the key messages.</p>
 <p><strong>At Millennia Institute, the&nbsp;<em>eTeens&nbsp;</em>programme will be implemented as follows in 2025:</strong>
 </p>
-<table style="width: 0px">
-<colgroup></colgroup>
-<tbody>
-<tr></tr>
-</tbody>
-</table>
 <table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -290,26 +274,24 @@ are the key messages.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>TIME PERIOD<br></strong>
+<p><strong>TIME PERIOD</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mass Talk</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; by HPB appointed vendor
-in Term 1 2025</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; by pre-recorded video
-from Semester 2 2025</p>
+<p>Mass Talk<br>
+·&nbsp; by HPB appointed vendor in Term 1 2025<br>
+·&nbsp; by pre-recorded video from Semester 2 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp; infectious diseases (STIs and HIV)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp; modes of transmission for STIs and HIV</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp; modes of protection against infection, specifically
-abstinence and the correct and consistent use of condoms</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp; consequences and impact of being infected with
-STIs/HIV</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp; ways of managing the impact of STIs</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; infectious diseases (STIs and HIV)<br>
+·&nbsp;&nbsp;&nbsp;&nbsp; modes of transmission for STIs and HIV<br>
+·&nbsp;&nbsp;&nbsp;&nbsp; modes of protection against infection, specifically
+abstinence and the correct and consistent use of condoms<br>
+·&nbsp;&nbsp;&nbsp;&nbsp; consequences and impact of being infected with
+STIs/HIV<br>
+·&nbsp;&nbsp;&nbsp;&nbsp; ways of managing the impact of STIs</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3 Week 2</p>
