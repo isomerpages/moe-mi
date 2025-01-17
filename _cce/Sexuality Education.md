@@ -110,7 +110,7 @@ entails and be reminded of the importance of respect for others.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 2</p>
+<p>Term 3 Week 3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -138,7 +138,7 @@ and choose to act in accordance with sound values and moral principles.
 others, and think through the consequences of doing so.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 6</p>
+<p>Term 3 Week 4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -168,7 +168,7 @@ on being a source of support for others who may be pregnant or have STIs.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 8</p>
+<p>Term 3 Week 5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -188,7 +188,7 @@ on being a source of support for others who may be pregnant or have STIs.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="5">
-<p><strong>2024 Sexuality Education Lessons in CCE 2021</strong>
+<p><strong>2025 Sexuality Education Lessons in CCE</strong>
 </p>
 <p><strong>Pre-U Year 2</strong>
 </p>
@@ -241,7 +241,7 @@ and choosing to do what is right.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 9</p>
+<p>Term 2 Week 5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -269,7 +269,7 @@ in), which can affect interactions and relationships in ways that are harmful
 to themselves and others.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 4</p>
+<p>Term 2 Week 4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -288,7 +288,7 @@ students are empowered to make wise, informed and sensible decisions.</p>
 of STIs/HIV on an individual and the family, and the importance of responsible
 decision-making and seeking help. Abstinence and upholding family values
 are the key messages.</p>
-<p><strong>At Millennia Institute, the&nbsp;<em>eTeens&nbsp;</em>programme will be implemented as follows in 2024:</strong>
+<p><strong>At Millennia Institute, the&nbsp;<em>eTeens&nbsp;</em>programme will be implemented as follows in 2025:</strong>
 </p>
 <table style="width: 0px">
 <colgroup></colgroup>
@@ -319,7 +319,11 @@ are the key messages.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mass Talk by HPB appointed vendor</p>
+<p>Mass Talk</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; by HPB appointed vendor
+in Term 1 2025</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; by pre-recorded video
+from Semester 2 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp; infectious diseases (STIs and HIV)</p>
@@ -331,7 +335,7 @@ STIs/HIV</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp; ways of managing the impact of STIs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 4 Week 2</p>
+<p>Term 3 Week 2</p>
 </td>
 </tr>
 </tbody>
