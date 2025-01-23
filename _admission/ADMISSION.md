@@ -2,6 +2,7 @@
 title: ADMISSION
 permalink: /admission/
 description: ""
+variant: markdown
 ---
 <p style="text-align:justify;">Millennia Institute is the only Centralised Institute offering a 3-year Pre-University course, leading to the GCE ‘A’ Level certification. For students who took the GCE ‘O’ Level examination and are eligible to apply for admission through the Joint Admissions Exercise (JAE), the minimum requirements specified below must be met.</p>
 
@@ -97,4 +98,4 @@ description: ""
 
 
 <p style="text-align:justify;">Students who satisfy the conditional admission criteria and are conditionally admitted to Millennia Institute would be required to re-sit for the relevant language and/or mathematics papers by the following year’s GCE ‘O’ Level Examination.</p>
-<p>For more information, please access the&nbsp;<a href="https://www.moe.gov.sg/post-secondary/admissions/jae/admission-criteria" target="_blank" rel="noopener">MOE website</a>.</p>
+<p>For more information, please access the&nbsp;<a href="https://www.moe.gov.sg/post-secondary/admissions/jae/junior-colleges-and-millennia-institute?pt=Millennia%20Institute%20(MI)" target="_blank" rel="noopener">MOE website</a>.</p>
