@@ -9,8 +9,8 @@ variant: tiptap
 </p>
 <h4><strong>Assessment Schedule</strong></h4>
 <h5><strong>2025 Term 1</strong></h5>
-<p><strong>PU2 Weighted Assessment and Test Schedule <br></strong><a href="/files/PU2_2024_Term_1_WA1_Test_Schedule_final.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 PU2 Term 1 WA1 and Test Schedule.pdf</a>
+<p><strong>PU2 Weighted Assessment and Test Schedule <br></strong><a href="/files/2025_PU2_WA1___CT1.pdf" rel="noopener nofollow" target="_blank">2025 Term 1 WA1 and Test Schedule.pdf</a>
 </p>
-<p><strong>PU3 Test Schedule <br></strong><a href="/files/PU3_2024_Term_1_Test_Schedule_final.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 PU3 Term 1 Test Schedule.pdf</a>
+<p><strong>PU3 Test Schedule <br></strong><a href="/files/2025_PU3_CT1.pdf" rel="noopener nofollow" target="_blank">2025 Term 1 Test Schedule.pdf</a>
 </p>
 <p></p>
