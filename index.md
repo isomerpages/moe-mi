@@ -10,14 +10,6 @@ sections:
       background: /images/banner.gif
       title: A Place of Opportunity
       variant: center
-  - infopic:
-      id: infopic
-      image: /images/WEBSITE__MI_OPEN_HOUSE_2025_BANNER.png
-      alt: Image alt text
-      subtitle: Come Join Us!
-      title: OPEN HOUSE 2025
-      url: /open-house-2025/
-      button: Programme Highlights
   - infobar:
       title: MI Corporate Video
       description: <iframe width="560" height="315"
