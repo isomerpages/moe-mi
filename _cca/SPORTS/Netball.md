@@ -5,27 +5,46 @@ description: ""
 third_nav_title: SPORTS
 variant: tiptap
 ---
-<table border="0" cellspacing="0" cellpadding="0">
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td width="616"><strong>Teacher-in-charge:</strong>&nbsp; Mrs Vivien Low, Mdm Fatmawatee Othman, Ms Apetroaie Gabriela</td>
+<td rowspan="1" colspan="1">
+<p><strong>Teacher-in-charge:</strong>&nbsp;Ms Shafarina Bte Sujak, Ms Ng
+Yu Xuan</p>
+</td>
 </tr>
 <tr>
-<td width="616"><strong>Training Days:</strong>&nbsp;Wednesday and Friday</td>
+<td rowspan="1" colspan="1">
+<p><strong>Training Days:</strong>&nbsp;Wednesday and Friday</p>
+</td>
 </tr>
 <tr>
-<td width="616"><strong>Important Events:</strong><br>
-<ul>
-<li>National Inter-School Netball, Daisy Tan Carnival</li>
+<td rowspan="1" colspan="1">
+<p><strong>Important Events:</strong>
+<br>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>National Inter-School Netball, Daisy Tan Carnival</p>
+</li>
 </ul>
 </td>
 </tr>
 <tr>
-<td width="616"><strong>Key Achievements in the past three years:</strong><br>
-<ul>
-<li>National Inter-School Netball 2017 &amp; 2019 - Participation</li>
+<td rowspan="1" colspan="1">
+<p><strong>Key Achievements in the past three years:</strong>
+<br>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>National Inter-School Netball 2017 &amp; 2019 - Participation</p>
+</li>
 </ul>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
