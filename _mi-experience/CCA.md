@@ -32,14 +32,14 @@ variant: markdown
 <table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
-<td style="width: 33.3333%; border:0px;"><a href="/mi-experience/cca/aesthetics/art-club"><img src="/images/cca9.png"></a></td>
-<td style="width: 33.3333%; border:0px;"><a href="/mi-experience/cca/aesthetics/cultural-studies"><img src="/images/cca10.png"></a></td>
-<td style="width: 33.3333%; border:0px;"><a href="/mi-experience/cca/aesthetics/angklung-kulintang-ensemble"><img src="/images/cca11.png"></a></td>
+<td style="width: 33.3333%; border:0px;"><a href="/mi-experience/cca/aesthetics/art-club"><img src="/images/cca/cca08_art.png"></a></td>
+<td style="width: 33.3333%; border:0px;"><a href="/mi-experience/cca/aesthetics/cultural-societies/"><img src="/images/cca/cca10_cs.png"></a></td>
+<td style="width: 33.3333%; border:0px;"><a href="/mi-experience/cca/aesthetics/dance"><img src="/images/cca/cca11_dance.png"></a></td>
 </tr>
 <tr>
-<td style="width: 33.3333%; border:0px;"><a href="/mi-experience/cca/aesthetics/dance"><img src="/images/cca12.png"></a></td>
-<td style="width: 33.3333%; border:0px;"><a href="/mi-experience/cca/aesthetics/eldds"><img src="/images/cca-22.png"></a></td>
-<td style="width: 33.3333%; border:0px;"><a href="/mi-experience/cca/aesthetics/symphonic-band"><img src="/images/cca14.png"></a></td>
+<td style="width: 33.3333%; border:0px;"><a href="/mi-experience/cca/aesthetics/eldds"><img src="/images/cca/cca12_eldds.png"></a></td>
+<td style="width: 33.3333%; border:0px;"><a href="/mi-experience/cca/aesthetics/music-ensemble/"><img src="/images/cca/cca09_me.png"></a></td>
+<td style="width: 33.3333%; border:0px;"><a href="/mi-experience/cca/aesthetics/symphonic-band"><img src="/images/cca/cca13_band.png"></a></td>
 </tr>
 </tbody>
 </table>
@@ -50,9 +50,9 @@ variant: markdown
 <table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
-<td style="width: 33.3333%;"><a href="/mi-experience/cca/clubs/entrepreneurship-club"><img src="/images/cca15.png"></a></td>
-<td style="width: 33.3333%;"><a href="/mi-experience/cca/clubs/new-media-club"><img src="/images/cca16.png"></a></td>
-<td style="width: 33.3333%;"><a href="/mi-experience/cca/clubs/service-learning-club"><img src="/images/cca-21.png"></a></td>
+<td style="width: 33.3333%;"><a href="/mi-experience/cca/clubs/entrepreneurship-club"><img src="/images/cca/cca14_eclub.png"></a></td>
+<td style="width: 33.3333%;"><a href="/mi-experience/cca/clubs/new-media-club"><img src="/images/cca/cca15_nmc.png"></a></td>
+<td style="width: 33.3333%;"><a href="/mi-experience/cca/clubs/service-learning-club"><img src="/images/cca/cca16_slc.png"></a></td>
 </tr>
 </tbody>
 </table>
