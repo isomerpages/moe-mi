@@ -14,7 +14,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Teacher-in-charge:</strong>&nbsp;Mdm Li Qiu Jue, Ms Zaibah Binte
 Mohammed Amin, Ms Rajarajan Hemalatha, Mdm Xu Jian Fen, Ms Siti Mardiana
-Bte Abdul Hamid, Mr Nelaothaman s/o Suppayan</p>
+Bte Abdul Hamid, Mr Nelaothaman S/O Suppayan</p>
 </td>
 </tr>
 <tr>
