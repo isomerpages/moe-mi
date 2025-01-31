@@ -8,7 +8,7 @@ third_nav_title: SPORTS
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
-<td width="616"><strong>Teacher-in-charge:&nbsp;</strong>Mr Roslan Bin Taib, Ms Shirlyn Wu Yuen Yi</td>
+<td width="616"><strong>Teacher-in-charge:&nbsp;</strong>Mr Roslan Bin Taib, Mdm Goh Anna, Mr Joseph Jerome Estrellas Fernandez, Mr Tan Kwok Wai</td>
 </tr>
 <tr>
 <td width="616"><strong>Training Days:</strong>&nbsp;Wednesday (2.30 pm - 4.30 pm), Friday (3 pm - 5 pm)</td>
