@@ -2,14 +2,14 @@ collections:
   cca:
     output: true
     order:
-      - SPORTS/Tchoukball.md
+      - SPORTS/.keep
       - SPORTS/Badminton.md
       - SPORTS/Basketball.md
       - SPORTS/Cross Country.md
-      - SPORTS/.keep
       - SPORTS/Football (Boys).md
       - SPORTS/Hockey.md
       - SPORTS/Netball.md
+      - SPORTS/Tchoukball.md
       - AESTHETICS/.keep
       - AESTHETICS/Art Club.md
       - AESTHETICS/Angklung Kulintang Ensemble.md
