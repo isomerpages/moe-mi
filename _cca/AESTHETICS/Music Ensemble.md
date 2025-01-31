@@ -27,7 +27,7 @@ Bin Salim</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Singapore Youth Festival (Instrumental Ensemble)</p>
+<p>Singapore Youth Festival Arts Presentation (Instrumental Ensemble)</p>
 </li>
 <li>
 <p>Angklung Kulintang</p>
