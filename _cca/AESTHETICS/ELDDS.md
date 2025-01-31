@@ -3,33 +3,37 @@ title: ELDDS
 permalink: /mi-experience/cca/aesthetics/eldds/
 description: ""
 third_nav_title: AESTHETICS
+variant: markdown
 ---
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
-<td width="616"><strong>Teacher-in-charge:&nbsp;</strong>Ms Jamie Shen Liwen, Ms Jamaliah Othman, Mr Christopher Tay Rong Shenq, Mr Bernard Tay Guan Wei</td>
+<td width="616"><strong>Teacher-in-charge:&nbsp;</strong>Ms Jamaliah Binte Othman, Mr Tay Guan Wei, Bernard</td>
 </tr>
 <tr>
-<td width="616"><strong>Training Days:</strong> Wednesday (2.30 pm - 5.30 pm) and&nbsp;Friday&nbsp;(1.30 pm - 4.30 pm)</td>
+<td width="616"><strong>Training Days:&nbsp;</strong>Wednesday (3 pm - 6 pm) and Friday (1 pm - 4 pm)</td>
 </tr>
 <tr>
 <td width="616"><strong>Important Events:</strong><br>
 <ul>
-<li>Singapore Youth Festival (Drama)</li>
-<li>PU1 Orientation</li>
-<li>Institute Day</li>
-<li>Normal - A production by the Millennian Stage</li>
+	<li>Singapore Youth Festival Arts Presentation (Drama)</li>
+	<li>#TELLSTORY at Esplanade (Upcoming April 2025)</li>
+	<li>Institute Day</li>
+	<li>Literature Festival / Lit Week</li>
 </ul>
 </td>
 </tr>
 <tr>
 <td width="616"><strong>Key Achievements in the Past Three Years:</strong><br>
 <ul>
-<li>Normal - A production by the Millennian Stage</li>
-<li>Certificate of Accomplishment in Singapore Youth Festival 2018</li>
-<li>YMCA Plain English Speaking Award (PSEA) - Semi Final (JC/Poly)</li>
-<li>PU1 Orientation Camp performance in 2017</li>
-<li>Teachers' Day Performance in 2017</li>
+<li>Certificate of Distinction in the Singapore Youth Festival Arts Presentation (Drama) 2024 - Hamlette</li>
+<li>Lit Fest - Drama Appreciation (Performance) 2024</li>
+<li>'C' Division Squash Finals Emcees (2022, 2023, 2024)</li>
+<li>Transcendence Performance 2023</li>
+<li>Peter and the Starcatcher (Production) 2023</li>
+<li>Certificate of Distinction in the Singapore Youth Festival Arts Presentation (Drama) 2022 - Boom</li>
+<li>Institute Day Emcees (Yearly)</li>
+<li>Transcendence Emcees (Yearly)</li>
 </ul>
 </td>
 </tr>
