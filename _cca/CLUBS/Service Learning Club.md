@@ -3,11 +3,12 @@ title: Service Learning Club
 permalink: /mi-experience/cca/clubs/service-learning-club/
 description: ""
 third_nav_title: CLUBS
+variant: markdown
 ---
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
-<td><strong>Teacher-in-charge:&nbsp;</strong>Ms Kelly Tan Sin Yee, Mrs Tamilselvi Siva, Mr Jonah Chua En Huang</td>
+<td><strong>Teacher-in-charge:&nbsp;</strong>Ms Tan Sin Yee, Kelly, Ms Rasveena Kaur D/O Harcharan Singh, Mr Jerome Robert Lee Jake Hooi</td>
 </tr>
 <tr>
 <td><strong>Training Days:&nbsp;</strong>Wednesdays and Fridays</td>
