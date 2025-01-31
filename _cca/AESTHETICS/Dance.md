@@ -3,11 +3,12 @@ title: Dance
 permalink: /mi-experience/cca/aesthetics/dance/
 description: ""
 third_nav_title: AESTHETICS
+variant: markdown
 ---
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
-<td width="616"><strong>Teacher-in-charge:&nbsp;</strong>Ms Zaibah  Mohammed Amin, Mr Martin Ang Jian, Mr Lionel Liu Yiqian, Ms Siti Mardiana  Abdul Hamid</td>
+<td width="616"><strong>Teacher-in-charge:&nbsp;</strong>Mr Liu Yiqian Lionel, Ms Sharmaine Ong Gek Teng</td>
 </tr>
 <tr>
 <td width="616"><strong>Training Days:&nbsp;</strong>Wednesday&nbsp;(3.00 pm - 5.30 pm) and Friday (1.30 pm - 4.30 pm)</td>
