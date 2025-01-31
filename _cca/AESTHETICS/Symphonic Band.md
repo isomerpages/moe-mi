@@ -16,7 +16,7 @@ variant: markdown
 <tr>
 <td width="616"><strong>Important Events:</strong>
 <ul>
-<li>Singapore Youth Festival (Concert Band)</li>
+<li>Singapore Youth Festival Arts Presentation (Concert Band)</li>
 </ul>
 </td>
 </tr>
