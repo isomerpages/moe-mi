@@ -3,14 +3,15 @@ title: Hockey
 permalink: /mi-experience/cca/sports/hockey/
 description: ""
 third_nav_title: SPORTS
+variant: markdown
 ---
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
-<td width="616"><strong>Teacher-in-charge:</strong>&nbsp;Mr Roslan Taib, Mr See Kurt Wei, Mr Tommy Kee Yongxiang, Mr Ong Yong Yang</td>
+<td width="616"><strong>Teacher-in-charge:&nbsp;</strong>Mdm Fatmawatee Binte Othman, Mr Kee Yongxiang Tommy, Mr See Kurt Wei, Ms Lynn Norhana Bte Hassan</td>
 </tr>
 <tr>
-<td width="616"><strong>Training Days:</strong>&nbsp;Monday, Wednesday and Friday</td>
+<td width="616"><strong>Training Days:&nbsp;</strong>Monday, Wednesday and Friday</td>
 </tr>
 <tr>
 <td width="616"><strong>Important Events:</strong><br>
