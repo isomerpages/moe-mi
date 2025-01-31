@@ -19,8 +19,8 @@ variant: markdown
 <td style="width: 33.3333%; border:0px;"><a href="/mi-experience/cca/sports/netball/"><img src="/images/CCA/cca06_netball.png"></a></td>
 </tr>
 <tr>
-<td style="width: 33.3333%; border:0px;"><a href="/mi-experience/cca/sports/tchoukball/"><img src="/images/CCA/cca07_tchoukball.png"></a></td>
 <td style="width: 33.3333%; border:0px;"></td>
+<td style="width: 33.3333%; border:0px;"><a href="/mi-experience/cca/sports/tchoukball/"><img src="/images/CCA/cca07_tchoukball.png"></a></td>
 <td style="width: 33.3333%; border:0px;"></td>
 </tr>
 </tbody>
