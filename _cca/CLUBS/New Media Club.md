@@ -3,14 +3,15 @@ title: New Media Club
 permalink: /mi-experience/cca/clubs/new-media-club/
 description: ""
 third_nav_title: CLUBS
+variant: markdown
 ---
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
-<td width="616"><strong>Teacher-in-charge:</strong>&nbsp;Ms Lee Li Wen, Mr Twang Fuu Tze Alfred, Mdm Vemalathevey Manikiam</td>
+<td width="616"><strong>Teacher-in-charge:&nbsp;</strong>Ms Lee Li Wen, Ms Chloe Guo Leyi, Ms Qian Kun</td>
 </tr>
 <tr>
-<td width="616"><strong>Training Days:</strong>&nbsp;Wednesday (2.30 pm - 5.30 pm), Friday (Events-dependent)</td>
+<td width="616"><strong>Training Days:&nbsp;</strong>Wednesday (2.30 pm - 5.30 pm), Friday (Events-dependent)</td>
 </tr>
 <tr>
 <td width="616"><strong>Important Events:</strong><br>

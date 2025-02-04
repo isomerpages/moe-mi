@@ -3,14 +3,15 @@ title: Football (Boys)
 permalink: /mi-experience/cca/sports/football-boys/
 description: ""
 third_nav_title: SPORTS
+variant: markdown
 ---
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
-<td width="616"><strong>Teacher-in-charge:</strong>&nbsp;Mr Cavell Chee Jiahe, Mr Shawn Ang Wei Wen, Mr David Lim Eik Kheng, Mr Chua Tiong Seng</td>
+<td width="616"><strong>Teacher-in-charge:&nbsp;</strong>Mr Chua Tiong Seng, Mr Ang Wei Wen Shawn, Mr Chua En Huang, Jonah</td>
 </tr>
 <tr>
-<td width="616"><strong>Training Days:</strong>&nbsp;Wednesday (3 pm - 5.30 pm), Friday (3.30 pm - 6 pm)</td>
+<td width="616"><strong>Training Days:&nbsp;</strong>Wednesday (3 pm - 5.30 pm), Friday (3.30 pm - 6 pm)</td>
 </tr>
 <tr>
 <td width="616"><strong>Important Events:</strong><br>

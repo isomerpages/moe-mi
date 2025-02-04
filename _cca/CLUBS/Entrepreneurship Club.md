@@ -3,14 +3,15 @@ title: Entrepreneurship Club
 permalink: /mi-experience/cca/clubs/entrepreneurship-club/
 description: ""
 third_nav_title: CLUBS
+variant: markdown
 ---
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
-<td width="616"><strong>Teacher-in-charge:</strong>&nbsp;Mrs Selina Wee, Mr Tay Yong Khiang Jason</td>
+<td width="616"><strong>Teacher-in-charge:&nbsp;</strong>Mrs Selina Wee, Mr Mohammed Fadzil Bin Dawood</td>
 </tr>
 <tr>
-<td width="616"><strong>Training Days:</strong>&nbsp;Wednesday and Friday</td>
+<td width="616"><strong>Training Days:&nbsp;</strong>Wednesday and Friday</td>
 </tr>
 <tr>
 <td width="616"><strong>Important Events:</strong><br>

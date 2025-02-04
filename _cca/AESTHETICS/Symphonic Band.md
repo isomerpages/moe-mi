@@ -3,11 +3,12 @@ title: Symphonic Band
 permalink: /mi-experience/cca/aesthetics/symphonic-band/
 description: ""
 third_nav_title: AESTHETICS
+variant: markdown
 ---
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
-<td width="616"><strong>Teacher-in-charge:&nbsp;</strong>Mr Dillon Sai Chang Sheng, Ms Thia Shi Hui, Mr Kelvin Thiang Perng Meng</td>
+<td width="616"><strong>Teacher-in-charge:&nbsp;</strong>Mr Kelvin Thiang Perng Meng, Ms Voon Xin Yi, Mr Choong Jun Mao</td>
 </tr>
 <tr>
 <td width="616"><strong>Training Days:</strong>&nbsp;Wednesday and Friday</td>
@@ -15,7 +16,7 @@ third_nav_title: AESTHETICS
 <tr>
 <td width="616"><strong>Important Events:</strong>
 <ul>
-<li>Singapore Youth Festival (Concert Band)</li>
+<li>Singapore Youth Festival Arts Presentation (Concert Band)</li>
 </ul>
 </td>
 </tr>
