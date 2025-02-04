@@ -1,5 +1,5 @@
 collections:
-  orientation-2024:
+  orientation:
     output: true
     order:
       - Information.md
