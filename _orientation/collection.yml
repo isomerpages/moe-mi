@@ -2,4 +2,5 @@ collections:
   orientation:
     output: true
     order:
+      - 2025 Orientation Information.md
       - Information.md
