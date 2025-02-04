@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 <h4><font style="color:#000000;" size="5"><b>Welcoming all Year 1s to MI Orientation 2025!</b>
-<h2><b>MI-Topia!</b></h2>
+<h2><b></b></h2>
 	<img style="width:30%;" src="/images/mitopia2024.png">
 	<h4><b>Reporting Instructions:</b></h4>
 	Time: 7.30am<br>
