@@ -30,7 +30,7 @@ description: ""
 <li>Umbrella</li>
 <li>Cash to purchase food and drinks during breaks (our canteen vendors also accept QR-code e-payment)</li>
 <li>Cash to purchase uniforms<br>
-a.	Boys from $67 (size S – XXL) to $96 (size 3XL and above) per set
+a.	Boys from $67 (size S – XXL) to $96 (size 3XL and above) per set<br>
 b.	Girls from $63 (size S – XXL) to $89 (size 3XL and above) per set<br></li>
 </ol>
 
