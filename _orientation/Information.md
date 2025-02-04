@@ -32,4 +32,4 @@ a.	Girls from $67 (size S – XXL) to $96 (size 3XL and above)<br>
 b.	Boys from $63 (size S – XXL) to $89 (size 3XL and above)</li>
 </ol>
 
-<h4><b>Follow us on IG <a href="https://www.instagram.com/mi.council/">@mi.council</a> to learn more! </b>and see you in school!</h4>
+<h4><b>Follow us on IG <a href="https://www.instagram.com/mi.council/">@mi.council</a> to learn more! <br>and see you in school!</b></h4>
