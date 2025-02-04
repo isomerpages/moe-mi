@@ -12,15 +12,11 @@ description: ""
 	Date: 5 Feb 2025, Wednesday<br>
 	Venue: Hall (at Level 2)</font></h4>
 
-<font style="color:#000000;" size="5">
-	<p>Note: If you are feeling unwell and cannot attend school, please inform the school at (65) 6302 3700.</p>
-
 <h4><b>Attire:</b></h4>
 <ul><li>Half school uniform (PE T-shirt with skirt / trousers) of your secondary school with covered footwear.</li>
 <li>International / Direct Admission students / students from polytechnics may report in plain and dark coloured T-shirt and jeans / long pants and covered footwear (canvas / track shoes).</li>
 <li>All students should have PE attire available for station games and clan dances from Friday onwards.</li>
 </ul>
-</font>
 
 <h4><b>Things to bring:</b></h4>
 <ol>
