@@ -19,8 +19,8 @@ Bte Abdul Hamid, Mr Nelaothaman S/O Suppayan</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Training Days:</strong>&nbsp;Wednesday (3.00 pm - 5.00 pm) and
-Friday (1.00 pm - 3.00 pm)</p>
+<p><strong>Training Days:</strong>&nbsp;Wednesday (3:00 pm - 5:00pm) and
+Friday (1:00 pm - 3:00pm)</p>
 </td>
 </tr>
 <tr>
