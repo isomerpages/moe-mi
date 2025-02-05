@@ -12,13 +12,13 @@ variant: markdown
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Teacher-in-charge:</strong>&nbsp;Ms Shafarina Bte Sujak, Ms Ng
+<p><strong>Teacher-in-charge:&nbsp;</strong>Ms Shafarina Bte Sujak, Ms Ng
 Yu Xuan</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Training Days:</strong>&nbsp;Wednesday and Friday</p>
+<p><strong>Training Days:&nbsp;</strong>Wednesday (3pm -  5.30pm), Friday (1pm - 4pm)</p>
 </td>
 </tr>
 <tr>
@@ -27,9 +27,9 @@ Yu Xuan</p>
 <br>
 </p>
 <ul data-tight="true" class="tight">
-<li>
-<p>National Inter-School Netball, Daisy Tan Carnival</p>
-</li>
+	<li>National School Games A-Division Netball</li>
+	<li>Pesta Sukan Netball Carnival</li>
+  <li>Sneakers Netball Challenge</li>
 </ul>
 </td>
 </tr>
@@ -39,9 +39,7 @@ Yu Xuan</p>
 <br>
 </p>
 <ul data-tight="true" class="tight">
-<li>
-<p>National Inter-School Netball 2017 &amp; 2019 - Participation</p>
-</li>
+<li>National Inter-School Netball 2022 - 2024 (Participation)</li>
 </ul>
 </td>
 </tr>
