@@ -11,7 +11,7 @@ variant: markdown
 <td width="616"><strong>Teacher-in-charge:&nbsp;</strong>Mrs Wan Suyin, Ms Cheong Chew Yen, Mr Wee Chong Lin, Mr Tan Xian Li, Joshua</td>
 </tr>
 <tr>
-<td width="616"><strong>Training Days:</strong>&nbsp;Wednesday (3 pm - 6 pm), Friday (2 pm - 6 pm)</td>
+<td width="616"><strong>Training Days:</strong>&nbsp;Wednesday (3pm - 6pm) and Friday (2pm - 6pm)</td>
 </tr>
 <tr>
 <td width="616"><strong>Important Events:</strong><br>
