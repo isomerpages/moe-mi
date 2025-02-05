@@ -11,7 +11,7 @@ variant: markdown
 <td width="616"><strong>Teacher-in-charge:&nbsp;</strong>Mr Liu Yiqian Lionel, Ms Sharmaine Ong Gek Teng</td>
 </tr>
 <tr>
-<td width="616"><strong>Training Days:&nbsp;</strong>Wednesday&nbsp;(3pm - 5.30pm) and Friday (1.30pm - 4.30pm)</td>
+<td width="616"><strong>Training Days:&nbsp;</strong>Wednesday&nbsp;(3pm - 5:30pm) and Friday (1:30pm - 4:30pm)</td>
 </tr>
 <tr>
 <td width="616">
