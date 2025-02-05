@@ -11,7 +11,7 @@ variant: markdown
 <td width="616"><strong>Teacher-in-charge:&nbsp;</strong>Mrs Selina Wee, Mr Mohammed Fadzil Bin Dawood</td>
 </tr>
 <tr>
-<td width="616"><strong>Training Days:&nbsp;</strong>Wednesday (3pm -  5pm), Friday (1:30pm - 3:30pm)</td>
+<td width="616"><strong>Training Days:&nbsp;</strong>Wednesday (3pm -  5pm) and Friday (1:30pm - 3:30pm)</td>
 </tr>
 <tr>
 <td width="616"><strong>Important Events:</strong><br>
