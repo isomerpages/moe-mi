@@ -11,7 +11,7 @@ third_nav_title: SPORTS
 <td width="616"><strong>Teacher-in-charge:&nbsp;</strong>Mr Roslan Bin Taib, Ms Goh Anna, Mr Joseph Jerome Estrellas Fernandez, Mr Tan Kwok Wai</td>
 </tr>
 <tr>
-<td width="616"><strong>Training Days:</strong>&nbsp;Wednesday (2.30 pm - 4.30 pm), Friday (3 pm - 5 pm)</td>
+<td width="616"><strong>Training Days:&nbsp;</strong>Wednesday (2:30pm - 4:30pm) and Friday (3pm - 5pm)</td>
 </tr>
 <tr>
 <td width="616"><strong>Important Events:</strong><br>
