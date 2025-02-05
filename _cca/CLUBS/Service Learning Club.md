@@ -11,7 +11,7 @@ variant: markdown
 <td><strong>Teacher-in-charge:&nbsp;</strong>Ms Tan Sin Yee, Kelly, Ms Rasveena Kaur D/O Harcharan Singh, Mr Jerome Robert Lee Jake Hooi</td>
 </tr>
 <tr>
-<td><strong>Training Days:&nbsp;</strong><br>Wednesday (3pm - 4:30pm [Project Planning] or 3pm - 5pm [Project Execution]) and <br>Friday (1:30pm - 4:30pm)</td>
+<td><strong>Training Days:&nbsp;</strong><br>Wednesday (3pm - 4:30pm [for Project Planning] or 3pm - 5pm [for Project Execution]) and <br>Friday (1:30pm - 4:30pm)</td>
 </tr>
 <tr>
 <td><strong>Important Events:</strong><br>
