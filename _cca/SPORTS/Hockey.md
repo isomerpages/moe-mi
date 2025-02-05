@@ -11,12 +11,15 @@ variant: markdown
 <td width="616"><strong>Teacher-in-charge:&nbsp;</strong>Mdm Fatmawatee Binte Othman, Mr Kee Yongxiang Tommy, Mr See Kurt Wei, Ms Lynn Norhana Bte Hassan</td>
 </tr>
 <tr>
-<td width="616"><strong>Training Days:&nbsp;</strong>Monday, Wednesday and Friday</td>
+<td width="616"><strong>Training Days:&nbsp;</strong>Wednesday (3pm -  6pm) and Friday (3pm -  6pm)</td>
 </tr>
 <tr>
 <td width="616"><strong>Important Events:</strong><br>
 <ul>
-<li>National Inter-School Hockey</li>
+	<li>Hockey Retreat</li>
+	<li>National Junior League Competition</li>
+	<li>Inter-Schools 'A' Division Hockey Competition</li>
+	<li>Pesta Sukan Hockey Carnival</li>
 </ul>
 </td>
 </tr>
@@ -25,9 +28,8 @@ variant: markdown
 <div>
 <div>
 <ul>
-<li>National Inter-School Hockey 2019 - 5th place Girls Team</li>
-<li>National Inter-School Hockey 2018 - 4th place Girls Team</li>
-<li>National Inter-School Hockey 2017 - 2nd place Girls Team</li>
+<li>Indoor Hockey Championships 2024 - 2nd Runner-up (Girls)</li>
+<li>National School Games 2024 - 4th Runner-Up (Both Boys' and Girls' Teams)</li>
 </ul>
 </div>
 </div>

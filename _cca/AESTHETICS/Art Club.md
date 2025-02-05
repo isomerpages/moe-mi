@@ -11,7 +11,7 @@ variant: markdown
 <td width="616"><strong>Teacher-in-charge:&nbsp;</strong>Mr Ghazrizal Azry Bin Ghazali Nor, Mr Yeo Chin Kent Ernest</td>
 </tr>
 <tr>
-<td width="616"><strong>Training Days:&nbsp;</strong>Wednesday (2.30 pm - 4.30 pm) and Friday (2.30 pm - 4.30 pm)</td>
+<td width="616"><strong>Training Days:&nbsp;</strong>Wednesday (2:30pm - 4:30pm) and Friday (2:30pm - 4:30pm)</td>
 </tr>
 <tr>
 <td width="616"><strong>Important Events:</strong><br>

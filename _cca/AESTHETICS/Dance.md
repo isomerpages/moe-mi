@@ -11,13 +11,15 @@ variant: markdown
 <td width="616"><strong>Teacher-in-charge:&nbsp;</strong>Mr Liu Yiqian Lionel, Ms Sharmaine Ong Gek Teng</td>
 </tr>
 <tr>
-<td width="616"><strong>Training Days:&nbsp;</strong>Wednesday&nbsp;(3.00 pm - 5.30 pm) and Friday (1.30 pm - 4.30 pm)</td>
+<td width="616"><strong>Training Days:&nbsp;</strong>Wednesday&nbsp;(3pm - 5:30pm) and Friday (1:30pm - 4:30pm)</td>
 </tr>
 <tr>
 <td width="616">
 <p><strong>Important Events:</strong></p>
 <ul>
-<li>Singapore Youth Festival Arts Presentation</li>
+  <li>Singapore Youth Festival Arts Presentation</li>
+	<li>Transcendence</li>
+	<li>Teachers' Day Celebration / Institute Day Performance (Ad hoc)</li>
 </ul>
 </td>
 </tr>
@@ -27,7 +29,6 @@ variant: markdown
 <ul>
 <li>Certificate of Accomplishment in Singapore Youth Festival 2023</li><li>Certificate of Accomplishment in Singapore Youth Festival 2021</li>
 <li>Certificate of Accomplishment in Singapore Youth Festival 2019</li>
-<li>Certificate of Accomplishment in Singapore Youth Festival 2017</li>
 </ul>
 </td>
 </tr>

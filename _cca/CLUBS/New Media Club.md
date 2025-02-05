@@ -11,23 +11,16 @@ variant: markdown
 <td width="616"><strong>Teacher-in-charge:&nbsp;</strong>Ms Lee Li Wen, Ms Chloe Guo Leyi, Ms Qian Kun</td>
 </tr>
 <tr>
-<td width="616"><strong>Training Days:&nbsp;</strong>Wednesday (2.30 pm - 5.30 pm), Friday (Events-dependent)</td>
+<td width="616"><strong>Training Days:&nbsp;</strong>Wednesday (3pm - 5pm) and Friday (1:30pm - 3:30pm)</td>
 </tr>
 <tr>
 <td width="616"><strong>Important Events:</strong><br>
 <ul>
-<li>Basic Photography / Videography and Photoshop Workshop</li>
-<li>Coding Workshop</li>
-<li>3D Printing Workshop</li>
-<li>AVIT Support for School Events</li>
-	<li>Cyber Wellness Advocacy</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td width="616"><strong>Key Achievements in the past three years:</strong><br>
-<ul>
-<li>2nd Place in 2016 VJC Canon Expose IX Playmobil Macro Photography Competition</li>
+	<li>Photography/Videography Workshops</li>
+	<li>Media-related Workshops</li>
+	<li>AV/PA Support for School Events</li>
+	<li>IMDA Learning Journeys</li>
+	<li>MOE Our Schools Our Stories</li>
 </ul>
 </td>
 </tr>

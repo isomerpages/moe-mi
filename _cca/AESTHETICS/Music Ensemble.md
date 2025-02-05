@@ -18,7 +18,8 @@ Bin Salim</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Training Days:&nbsp;</strong>Wednesday and Friday</p>
+<p><strong>Training Days:&nbsp;</strong>Wednesday (2:30pm - 4:30pm) and Friday
+(12:30pm - 2:30pm)</p>
 </td>
 </tr>
 <tr>
@@ -30,7 +31,10 @@ Bin Salim</p>
 <p>Singapore Youth Festival Arts Presentation (Instrumental Ensemble)</p>
 </li>
 <li>
-<p>Angklung Kulintang</p>
+<p>Transcendence</p>
+</li>
+<li>
+<p>Teachers' Day Celebration / Institute Day Performance (Ad hoc)</p>
 </li>
 </ul>
 </td>
@@ -48,15 +52,6 @@ Bin Salim</p>
 </li>
 <li>
 <p>Certificate of Distinction in Singapore Youth Festival 2019</p>
-</li>
-<li>
-<p>Performance at Esplanade - In Youthful Company 2018</p>
-</li>
-<li>
-<p>Certificate of Distinction in Singapore Youth Festival 2017</p>
-</li>
-<li>
-<p>Performance at Esplanade - In Youthful Company 2017</p>
 </li>
 </ul>
 </td>
