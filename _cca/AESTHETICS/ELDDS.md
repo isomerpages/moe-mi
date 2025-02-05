@@ -11,7 +11,7 @@ variant: markdown
 <td width="616"><strong>Teacher-in-charge:&nbsp;</strong>Ms Jamaliah Binte Othman, Mr Tay Guan Wei, Bernard</td>
 </tr>
 <tr>
-<td width="616"><strong>Training Days:&nbsp;</strong>Wednesday (3 pm - 6 pm) and Friday (1 pm - 4 pm)</td>
+<td width="616"><strong>Training Days:&nbsp;</strong>Wednesday (3pm - 6pm) and Friday (1pm - 4pm)</td>
 </tr>
 <tr>
 <td width="616"><strong>Important Events:</strong><br>
