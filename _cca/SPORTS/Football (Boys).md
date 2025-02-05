@@ -11,7 +11,7 @@ variant: markdown
 <td width="616"><strong>Teacher-in-charge:&nbsp;</strong>Mr Chua Tiong Seng, Mr Ang Wei Wen Shawn, Mr Chua En Huang, Jonah</td>
 </tr>
 <tr>
-<td width="616"><strong>Training Days:&nbsp;</strong>Wednesday (3pm - 5:30pm), Friday (3:30pm - 6pm)</td>
+<td width="616"><strong>Training Days:&nbsp;</strong>Wednesday (3pm - 5:30pm) and Friday (3:30pm - 6pm)</td>
 </tr>
 <tr>
 <td width="616"><strong>Important Events:</strong><br>
