@@ -16,7 +16,7 @@ Note: This is a centre-based CCA.
 <td width="616"><strong>Teacher-in-charge:</strong>&nbsp; Mrs Vivien Low-Soon Wei Qi</td>
 </tr>
 <tr>
-<td width="616"><strong>Training Days:&nbsp;</strong>Wednesday (4pm - 6pm, Friday 4:30pm - 6:30pm)</td>
+<td width="616"><strong>Training Days:&nbsp;</strong>Wednesday (4pm - 6pm) and Friday (4:30pm - 6:30pm)</td>
 </tr>
 <tr>
 <td width="616"><strong>Important Events:</strong><br>
