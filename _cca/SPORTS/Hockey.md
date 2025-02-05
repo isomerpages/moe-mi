@@ -11,7 +11,7 @@ variant: markdown
 <td width="616"><strong>Teacher-in-charge:&nbsp;</strong>Mdm Fatmawatee Binte Othman, Mr Kee Yongxiang Tommy, Mr See Kurt Wei, Ms Lynn Norhana Bte Hassan</td>
 </tr>
 <tr>
-<td width="616"><strong>Training Days:&nbsp;</strong>Wednesday (3pm -  6pm), Friday (3pm -  6pm)</td>
+<td width="616"><strong>Training Days:&nbsp;</strong>Wednesday (3pm -  6pm) and Friday (3pm -  6pm)</td>
 </tr>
 <tr>
 <td width="616"><strong>Important Events:</strong><br>
