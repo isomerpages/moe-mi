@@ -18,7 +18,7 @@ Yu Xuan</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Training Days:&nbsp;</strong>Wednesday (3pm -  5.30pm), Friday (1pm - 4pm)</p>
+<p><strong>Training Days:&nbsp;</strong>Wednesday (3pm - 5:30pm) and Friday (1pm - 4pm)</p>
 </td>
 </tr>
 <tr>
