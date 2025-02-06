@@ -19,7 +19,7 @@ Bin Salim</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Training Days:&nbsp;</strong>Wednesday (2:30pm - 4:30pm) and Friday
-(12:30pm - 2:30pm)</p>
+(12:30pm - 3:30pm)</p>
 </td>
 </tr>
 <tr>
