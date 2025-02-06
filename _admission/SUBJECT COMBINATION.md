@@ -638,7 +638,7 @@ variant: markdown
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="120"><p style="margin-top:3.0pt;margin-right:0cm;
-  margin-bottom:3.0pt;margin-left:0cm;text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin"><a href="https://www.moe.gov.sg/-/media/files/post-secondary/syllabuses/maths/2020-pre-university-h2-mathematics.pdf?la=en&amp;hash=1B98CC55CB1437213B9E0517F5122295ABF4D47A">H2</a><sup>2</sup></span></p></td><td style="width:296.75pt;border-top:none;border-left:none;
+  margin-bottom:3.0pt;margin-left:0cm;text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin"><a href="https://www.moe.gov.sg/-/media/files/post-secondary/syllabuses/maths/2024-pre-university-h2-mathematics.pdf">H2</a><sup>2</sup></span></p></td><td style="width:296.75pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="396"><p style="margin-top:3.0pt;margin-right:0cm;margin-bottom:
