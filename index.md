@@ -14,7 +14,7 @@ sections:
       title: Release of 2024 GCE A-Level Examination Results
       id: announcements
       announcement_items:
-        - title: Release of 2024 GCE A-Level Examination Results
+        - title: Millennia Institute
           date: 21 February 2025
           announcement: Release of 2024 GCE A-Level Examination Results
           link_text: ""
