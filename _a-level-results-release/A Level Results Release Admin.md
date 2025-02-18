@@ -6,7 +6,7 @@ description: ""
 ---
 <h3> Dear Parents / Guardians, </h3>
 
-1.&nbsp;&nbsp;&nbsp;&nbsp; 1.	The 2024 A-Level results will be released soon. Regardless of the outcome, it is important for our teens to know that they are loved for the person that they have grown up to be, and that their grades do not define who they are in our eyes. The support you offer your teen during this milestone is especially necessary and valuable in helping your teen manage emotions and be positive when deciding on next steps.
+1.&nbsp;&nbsp;&nbsp;&nbsp; The 2024 A-Level results will be released soon. Regardless of the outcome, it is important for our teens to know that they are loved for the person that they have grown up to be, and that their grades do not define who they are in our eyes. The support you offer your teen during this milestone is especially necessary and valuable in helping your teen manage emotions and be positive when deciding on next steps.
 
 2.&nbsp;&nbsp;&nbsp;&nbsp; Please refer to the following document [(Info Sheet for Parents.pdf)](/files/A%20level%20Results%20Release/2024_A_Level_Info_Sheet_for_Parents) on how you can better support your teens as they collect their GCE A-Level examination results on 21 February 2025 (Friday). 
 
