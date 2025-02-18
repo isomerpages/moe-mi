@@ -33,15 +33,15 @@ description: ""
 
 6.&nbsp;&nbsp;&nbsp;&nbsp; Students who are eligible for Singpass can use their Singpass account to access SEAB’s Candidates Portal. School candidates who are International Students will receive their system-generated username via email from Wednesday, 19 February 2025.   [(CP User Guide.pdf)](/files/A%20level%20Results%20Release/CP_User_Guide___School_Candidates.pdf)
 
-6.&nbsp;&nbsp;&nbsp;&nbsp;  Students who are unable to collect their results in person can also appoint a proxy to collect a physical copy of their results on their behalf from the school. Proxies are required to produce the relevant documents for the school’s verification when collecting the results. Students may contact their schools for assistance if they are unable to appoint a proxy, or if they have not received their system-generated username for SEAB’s Candidates Portal.
+7.&nbsp;&nbsp;&nbsp;&nbsp; Students who are unable to collect their results in person can also appoint a proxy to collect a physical copy of their results on their behalf from the school. Proxies are required to produce the relevant documents for the school’s verification when collecting the results. Students may contact their schools for assistance if they are unable to appoint a proxy, or if they have not received their system-generated username for SEAB’s Candidates Portal.
 
  <h5>Application to Local Autonomous Universities </h5>
  
-7.&nbsp;&nbsp;&nbsp;&nbsp;  Students who wish to apply for admissions to the Autonomous Universities (AUs), and/or scholarships from them, should submit their applications online via the respective AUs’ websites. There is no need to submit a hard copy of their GCE A-Level certificates. More information on the AUs’ admissions processes can be found on their websites, and applicants should approach the AUs directly for further clarifications. 
+8.&nbsp;&nbsp;&nbsp;&nbsp; Students who wish to apply for admission to the autonomous universities (AUs) and for AU scholarships should submit their applications online via the respective AUs’ websites. There is no need to submit a hard copy of the GCE A-Level certificate. Information on the AUs’ admissions requirements and processes can be found on their websites, and applicants should approach the universities directly for further assistance. 
 
  <h5>Education and Career Guidance (ECG)</h5>
  
- 8.&nbsp;&nbsp;&nbsp;&nbsp;  Students who would like guidance on their education options can refer to the attached MI's Guide to further education after A-Levels 2024 [(Guide to Further Education after A-Level.pdf)](/files/A%20level%20Results%20Release/Guide_to_further_education_after_A_Levels__2024_pdf.pdf). Alternatively, you may choose to make an appointment with our school’s ECG Counsellor Mr Tan Chia Boon via this link: https://go.gov.sg/miecgappt   
+ 9.&nbsp;&nbsp;&nbsp;&nbsp; Students who would like guidance on their education options can refer to the attached MI's Guide to further education after A-Levels 2025. [(Guide to Further Education after A-Level.pdf)](/files/A%20level%20Results%20Release/Guide_to_further_education_after_A_Levels__2024_pdf.pdf). Alternatively, you may choose to make an appointment with our school’s ECG Counsellor Mr Tan Chia Boon via this link: https://go.gov.sg/miecgappt
  
  9.&nbsp;&nbsp;&nbsp;&nbsp;  Students are encouraged to explore the range of education and career pathways available to them to make informed decisions about their next steps. They may refer to the following websites for more information:
 * MOE’s CourseFinder (www.moe.gov.sg/coursefinder) on the course offerings in AUs
