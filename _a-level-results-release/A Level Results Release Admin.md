@@ -23,7 +23,7 @@ description: ""
 
 <h5>Collection of Examination Results </h5>
 
-3.&nbsp;&nbsp;&nbsp;&nbsp; Please arrive in school by 2.00pm if you are collecting your result slips and certificates in person. Your parents/guardians may accompany you to school if they wish to. 
+3.&nbsp;&nbsp;&nbsp;&nbsp; <strong>Please arrive in school by 2.00pm if you are collecting your result slips and certificates in person.</strong> Your parents/guardians may accompany you to school if they wish to. 
 
 4.&nbsp;&nbsp;&nbsp;&nbsp; If you are unwell, you should exercise social responsibility and access your results online.
  
