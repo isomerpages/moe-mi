@@ -8,12 +8,14 @@ description: ""
 
 1.&nbsp;&nbsp;&nbsp;&nbsp; 1.	The 2024 A-Level results will be released soon. Regardless of the outcome, it is important for our teens to know that they are loved for the person that they have grown up to be, and that their grades do not define who they are in our eyes. The support you offer your teen during this milestone is especially necessary and valuable in helping your teen manage emotions and be positive when deciding on next steps.
 
-2.&nbsp;&nbsp;&nbsp;&nbsp; Please refer to the following document [(Info Sheet for Parents.pdf)](/files/A%20level%20Results%20Release/2023_Infosheet_for_Parents__A_Levels_.pdf) on how you can better support your teens as they collect their GCE A-Level examination results on 21 February 2025 (Friday). 
+2.&nbsp;&nbsp;&nbsp;&nbsp; Please refer to the following document [(Info Sheet for Parents.pdf)](/files/A%20level%20Results%20Release/2024_A_Level_Info_Sheet_for_Parents) on how you can better support your teens as they collect their GCE A-Level examination results on 21 February 2025 (Friday). 
 
 
-3.&nbsp;&nbsp;&nbsp;&nbsp; For more resources on providing social and emotional support, affirming your teen, and supporting your teen’s transition through post A-Level education, please refer to: https://go.gov.sg/selresforparents. You may also wish to refer to the What’s Next pamphlet (https://go.gov.sg/whats-next-alevel) and available Education and Career Guidance (ECG) resources on the MySkillsFuture Student Portal (Pre-University) (https://go.gov.sg/MySFPreU).
+3.&nbsp;&nbsp;&nbsp;&nbsp; For more resources on providing social and emotional support, affirming your teen, and supporting your teen’s transition through post A-Level education, please refer to: https://go.gov.sg/selresforparents
 
-<h3> For Students</h3> 
+4.&nbsp;&nbsp;&nbsp;&nbsp; For ECG counselling support, students may contact the ECG Counsellor in their schools or make an ECG counselling session with the ECG Centre @ MOE from 17 February to 19 March 2025 (Weekdays: 9.00 am to 5.00 pm; Saturdays: 9.00 am to 12.00 pm) through the appointment booking form: https://go.gov.sg/moe-ecg-centre
+
+<h3> Dear Students​,</h3> 
 <h4>Adminstrative Details </h4>
 
 1.&nbsp;&nbsp;&nbsp;&nbsp; The results of the 2023 Singapore-Cambridge General Certificate of Education Advanced Level (GCE A-Level) examination will be released on Friday, 23 February 2024, 2.30pm.
