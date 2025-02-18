@@ -18,7 +18,7 @@ sections:
           date: 21 February 2025
           announcement: Release of 2024 GCE A-Level Examination Results
           link_text: FIND OUT MORE
-          link_url: /A-Level-Results-Release/a-level-results-admin
+          link_url: /A-Level-Results-Release
   - infobar:
       title: MI Corporate Video
       description: <iframe width="560" height="315"
