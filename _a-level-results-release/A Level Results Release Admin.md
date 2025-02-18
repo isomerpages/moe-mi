@@ -15,22 +15,23 @@ description: ""
 
 4.&nbsp;&nbsp;&nbsp;&nbsp; For ECG counselling support, students may contact the ECG Counsellor in their schools or make an ECG counselling session with the ECG Centre @ MOE from 17 February to 19 March 2025 (Weekdays: 9.00 am to 5.00 pm; Saturdays: 9.00 am to 12.00 pm) through the appointment booking form: https://go.gov.sg/moe-ecg-centre
 
-<h3> Dear Students​,</h3> 
-<h4>Adminstrative Details </h4>
+<h3> Dear Students,</h3> 
 
-1.&nbsp;&nbsp;&nbsp;&nbsp; The results of the 2023 Singapore-Cambridge General Certificate of Education Advanced Level (GCE A-Level) examination will be released on Friday, 23 February 2024, 2.30pm.
+1.&nbsp;&nbsp;&nbsp;&nbsp; The results of the 2024 Singapore-Cambridge General Certificate of Education Advanced Level (GCE A-Level) examination will be released on Friday, 21 February 2025, 2.30pm.
 
-<h5>Collection of Results </h5>
+2.&nbsp;&nbsp;&nbsp;&nbsp; Please read the following information which details how you will be receiving your results. 
 
-2.&nbsp;&nbsp;&nbsp;&nbsp; Students collecting their examination results and certificates in person are to arrive in school by 2.00 pm. Parents/ guardians may accompany the student to school if they wish to.
+<h5>Collection of Examination Results </h5>
 
-3.&nbsp;&nbsp;&nbsp;&nbsp; If you are unwell, you should exercise social responsibility and access your results online. 
+3.&nbsp;&nbsp;&nbsp;&nbsp; Please arrive in school by 2.00pm if you are collecting your result slips and certificates in person. Your parents/guardians may accompany you to school if they wish to. 
+
+4.&nbsp;&nbsp;&nbsp;&nbsp; If you are unwell, you should exercise social responsibility and access your results online.
  
  <h5>Viewing of Examination Results Online </h5>
  
-4.&nbsp;&nbsp;&nbsp;&nbsp;  Results can be accessed via the Singapore Examinations and Assessment Board’s (SEAB) Candidates Portal at www.seab.gov.sg from 3.15pm on Friday, 23 February 2024 till 11.59pm on Thursday, 7 March 2024. 
+5.&nbsp;&nbsp;&nbsp;&nbsp; Results can be accessed via the Singapore Examinations and Assessment Board’s (SEAB) Candidates Portal at www.seab.gov.sg from 3.15pm on Friday, 21 February 2025 till 11.59pm on Friday, 7 March 2025.
 
-5.&nbsp;&nbsp;&nbsp;&nbsp;  Students who are eligible for Singpass can use their Singpass account to access SEAB’s Candidates Portal. School candidates who are International Students will receive their system-generated username via email from Tuesday, 20 February 2024.   [(CP User Guide.pdf)](/files/A%20level%20Results%20Release/CP_User_Guide___School_Candidates.pdf)
+6.&nbsp;&nbsp;&nbsp;&nbsp; Students who are eligible for Singpass can use their Singpass account to access SEAB’s Candidates Portal. School candidates who are International Students will receive their system-generated username via email from Wednesday, 19 February 2025.   [(CP User Guide.pdf)](/files/A%20level%20Results%20Release/CP_User_Guide___School_Candidates.pdf)
 
 6.&nbsp;&nbsp;&nbsp;&nbsp;  Students who are unable to collect their results in person can also appoint a proxy to collect a physical copy of their results on their behalf from the school. Proxies are required to produce the relevant documents for the school’s verification when collecting the results. Students may contact their schools for assistance if they are unable to appoint a proxy, or if they have not received their system-generated username for SEAB’s Candidates Portal.
 
