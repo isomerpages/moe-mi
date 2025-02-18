@@ -41,12 +41,12 @@ description: ""
 
  <h5>Education and Career Guidance (ECG)</h5>
  
- 9.&nbsp;&nbsp;&nbsp;&nbsp; Students who would like guidance on their education options can refer to the attached MI's Guide to further education after A-Levels 2025. [(Guide to Further Education after A-Level.pdf)](/files/A%20level%20Results%20Release/Guide_to_further_education_after_A_Levels__2024_pdf.pdf). Alternatively, you may choose to make an appointment with our school’s ECG Counsellor Mr Tan Chia Boon via this link: https://go.gov.sg/miecgappt
+ 9.&nbsp;&nbsp;&nbsp;&nbsp; Students who would like guidance on their education options can refer to the attached MI's Guide to further education after A-Levels 2025. [(Guide to Further Education after A-Level.pdf)](/files/A%20level%20Results%20Release/Guide_to_further_education_after_A_Levels__2025.pdf). Alternatively, you may choose to make an appointment with our school’s ECG Counsellor Mr Tan Chia Boon via this link: https://go.gov.sg/miecgappt
  
- 9.&nbsp;&nbsp;&nbsp;&nbsp;  Students are encouraged to explore the range of education and career pathways available to them to make informed decisions about their next steps. They may refer to the following websites for more information:
+ 10.&nbsp;&nbsp;&nbsp;&nbsp; Students are encouraged to explore the range of education and career pathways available to them to make informed decisions about their next steps. They may refer to the following websites for more information:
 * MOE’s CourseFinder (www.moe.gov.sg/coursefinder) on the course offerings in AUs
 * MySkillsFuture (https://go.gov.sg/mysfpreu) on education and career pathways
 
-10.&nbsp;&nbsp;&nbsp;&nbsp;  To complement the ECG support provided by schools, students can also make an ECG counselling appointment at https://go.gov.sg/moe-ecg-centre. The MOE ECG Centre offers online or phone counselling services to GCE A-Level candidates from Monday, 19 February 2024 to Saturday, 16 March 2024 (Weekdays: 9.00am to 5.00pm; Saturdays: 9.00am to 12.00pm).
+11.&nbsp;&nbsp;&nbsp;&nbsp; To complement the ECG support provided by schools, students can make an ECG counselling appointment via the ECG Centre at https://go.gov.sg/moe-ecg-centre. The ECG Centre offers online or phone counselling services to GCE A-Level candidates from 17 February 2025 to 19 March 2025 from 9am to 5pm on weekdays, and 9am to 12pm on Saturdays.
 
-11.&nbsp;&nbsp;&nbsp;&nbsp;  We wish you all the best in your future endeavours. If you have any questions, please contact Mr Neo Chai Seng at neo_chai_seng@moe.edu.sg for matters related to results of examination or Ms Annie Tan at tan_siew_hong_annie@moe.edu.sg for ECG related matters.
+12.&nbsp;&nbsp;&nbsp;&nbsp; We wish you all the best in your future endeavours. If you have any questions, please contact Mr Neo Chai Seng at neo_chai_seng@moe.edu.sg for matters related to results of examination or Ms Annie Tan at tan_siew_hong_annie@moe.edu.sg for ECG related matters.
