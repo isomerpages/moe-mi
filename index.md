@@ -17,8 +17,8 @@ sections:
         - title: Millennia Institute
           date: 21 February 2025
           announcement: Release of 2024 GCE A-Level Examination Results
-          link_text: ""
-          link_url: ""
+          link_text: FIND OUT MORE
+          link_url: /ALevelResultsRelease/alevelresultsadmin
   - infobar:
       title: MI Corporate Video
       description: <iframe width="560" height="315"
