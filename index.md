@@ -10,15 +10,15 @@ sections:
       background: /images/banner.gif
       title: A Place of Opportunity
       variant: center
-  - infopic:
-      title: EQUINOX
-      subtitle: MI Orientation 2025
-      id: infopic
-      description: Reporting Instructions
-      button: Click here for details
-      url: /orientation-2025/
-      image: /images/2025equinox2.png
-      alt: Equinox
+  - announcements:
+      title: Release of 2024 GCE A-Level Examination Results
+      id: announcements
+      announcement_items:
+        - title: Release of 2024 GCE A-Level Examination Results
+          date: 21 February 2025
+          announcement: Release of 2024 GCE A-Level Examination Results
+          link_text: ""
+          link_url: ""
   - infobar:
       title: MI Corporate Video
       description: <iframe width="560" height="315"
