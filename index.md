@@ -10,15 +10,6 @@ sections:
       background: /images/banner.gif
       title: A Place of Opportunity
       variant: center
-  - announcements:
-      title: Release of 2024 GCE A-Level Examination Results
-      id: announcements
-      announcement_items:
-        - title: Millennia Institute
-          date: 21 February 2025
-          announcement: Release of 2024 GCE A-Level Examination Results
-          link_text: FIND OUT MORE
-          link_url: /alevelresultsadmin/
   - infobar:
       title: MI Corporate Video
       description: <iframe width="560" height="315"
