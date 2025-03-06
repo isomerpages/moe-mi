@@ -14,8 +14,9 @@ variant: tiptap
 <p><strong>PU3 Test Schedule <br></strong><a href="/files/2025_PU3_CT1.pdf" rel="noopener nofollow" target="_blank">2025 PU3 Term 1 Test Schedule.pdf</a>
 </p>
 <p></p>
+<p></p>
 <h5><strong>2025 Term 2</strong></h5>
-<p></p>
-<p><strong>PU1 Weighted Assessment and Test Schedule </strong>
+<p><strong>PU1 Weighted Assessment and Test Schedule</strong>
 </p>
-<p></p>
+<p><a href="/files/PU1_WA1_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">2025 PU1 WA1 and Test Schedule.pdf</a>
+</p>
