@@ -618,84 +618,71 @@ variant: markdown
 <p><strong>Assumed Knowledge</strong></p>
 <p style="text-align:justify;">Students who chose to offer&nbsp;<u>Science and Mathematics subjects</u>&nbsp;need to be aware of the assumed knowledge<sup>1</sup>&nbsp;of the corresponding subject at GCE O-Level.</p>
 
-<table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
- mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:80.75pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#E7E6E6;mso-background-themecolor:background2;
-  padding:0cm 5.4pt 0cm 5.4pt" width="108"><p style="margin-top:3.0pt;margin-right:0cm;
-  margin-bottom:3.0pt;margin-left:0cm;text-align:center;line-height:normal" align="center" class="MsoNormal"><b><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
-  color:black;mso-color-alt:windowtext">Subjects</span></b><b><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin"></span></b></p></td><td style="width:90.0pt;border:solid windowtext 1.0pt;border-left:
-  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  background:#E7E6E6;mso-background-themecolor:background2;padding:0cm 5.4pt 0cm 5.4pt" width="120"><p style="margin-top:3.0pt;margin-right:0cm;
-  margin-bottom:3.0pt;margin-left:0cm;text-align:center;line-height:normal" align="center" class="MsoNormal"><b><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
-  color:black;mso-color-alt:windowtext">Subject Level</span></b><b><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin"></span></b></p></td><td style="width:296.75pt;border:solid windowtext 1.0pt;border-left:
-  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  background:#E7E6E6;mso-background-themecolor:background2;padding:0cm 5.4pt 0cm 5.4pt" width="396"><p style="margin-top:3.0pt;margin-right:0cm;
-  margin-bottom:3.0pt;margin-left:0cm;text-align:center;line-height:normal" align="center" class="MsoNormal"><b><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
-  color:black;mso-color-alt:windowtext">Assumed Knowledge</span></b><b><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin"></span></b></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:80.75pt;border:solid windowtext 1.0pt;border-top:
-  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" width="108"><p style="margin-top:3.0pt;margin-right:0cm;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">Mathematics</span></p></td><td style="width:90.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="120"><p style="margin-top:3.0pt;margin-right:0cm;
-  margin-bottom:3.0pt;margin-left:0cm;text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin"><a href="https://www.moe.gov.sg/-/media/files/post-secondary/syllabuses/maths/2024-pre-university-h2-mathematics.pdf">H2</a><sup>2</sup></span></p></td><td style="width:296.75pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="396"><p style="margin-top:3.0pt;margin-right:0cm;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">Knowledge of the content of the <b>O-Level</b> <b>Mathematics</b> syllabus and some of the content of the <b>O-Level</b> <b>Additional Mathematics</b> syllabus are assumed.</span></p></td></tr><tr style="mso-yfti-irow:2;height:20.45pt"><td style="width:80.75pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:20.45pt" rowspan="2" width="108"><p style="margin-top:3.0pt;margin-right:0cm;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">Biology</span></p></td><td style="width:90.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:20.45pt" width="120"><p style="margin-top:3.0pt;margin-right:0cm;
-  margin-bottom:3.0pt;margin-left:0cm;text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin"><a href="https://www.moe.gov.sg/-/media/files/post-secondary/syllabuses/science/pre-university-h1-biology.pdf?la=en&amp;hash=B9CB772A325BFD38A04F25DB33E91B9C7978B7EC">H1</a><sup>2</sup></span></p></td><td style="width:296.75pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:20.45pt" rowspan="2" width="396"><p style="margin-top:3.0pt;margin-right:0cm;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">Knowledge and understanding of <b>O-Level Biology</b>, either as a single subject or as part of a balanced science course is assumed.</span></p></td></tr><tr style="mso-yfti-irow:3;height:20.45pt"><td style="width:90.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:20.45pt" width="120"><p style="margin-top:3.0pt;margin-right:0cm;
-  margin-bottom:3.0pt;margin-left:0cm;text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin"><a href="https://www.moe.gov.sg/-/media/files/post-secondary/syllabuses/science/preuniversity_h2_biology_syllabus.pdf?la=en&amp;hash=77754455A1A1FD9C7BF2CB8DC117180158F014E8">H2</a><sup>2</sup></span></p></td></tr><tr style="mso-yfti-irow:4;height:20.45pt"><td style="width:80.75pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:20.45pt" rowspan="2" width="108"><p style="margin-top:3.0pt;margin-right:0cm;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">Chemistry</span></p></td><td style="width:90.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:20.45pt" width="120"><p style="margin-top:3.0pt;margin-right:0cm;
-  margin-bottom:3.0pt;margin-left:0cm;text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin"><a href="https://www.moe.gov.sg/-/media/files/post-secondary/syllabuses/science/pre-university-h1-chemistry-syllabus.pdf?la=en&amp;hash=6F1325909BEC67AC99DF1A1BC8EB2D06C0176E8B">H1</a><sup>2</sup></span></p></td><td style="width:296.75pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:20.45pt" rowspan="2" width="396"><p style="margin-top:3.0pt;margin-right:0cm;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">Knowledge and understanding of <b>O-Level Chemistry</b>, either as a single subject or as part of a balanced science course is assumed.<b></b></span></p></td></tr><tr style="mso-yfti-irow:5;height:20.45pt"><td style="width:90.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:20.45pt" width="120"><p style="margin-top:3.0pt;margin-right:0cm;
-  margin-bottom:3.0pt;margin-left:0cm;text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin"><a href="https://www.moe.gov.sg/-/media/files/post-secondary/syllabuses/science/preuniversity_h2_chemistry_syllabus.pdf?la=en&amp;hash=0CB171C35F97263AA714163CFF809B81CF2421A6">H2</a><sup>2</sup></span></p></td></tr><tr style="mso-yfti-irow:6;height:20.45pt"><td style="width:80.75pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:20.45pt" rowspan="2" width="108"><p style="margin-top:3.0pt;margin-right:0cm;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">Physics</span></p></td><td style="width:90.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:20.45pt" width="120"><p style="margin-top:3.0pt;margin-right:0cm;
-  margin-bottom:3.0pt;margin-left:0cm;text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin"><a href="https://www.moe.gov.sg/-/media/files/post-secondary/syllabuses/science/pre-university-h1-physics-syllabus.pdf?la=en&amp;hash=6D840E71EDE1B2753D15ACDEDEBE4D4DB7557D43">H1</a><sup>2</sup></span></p></td><td style="width:296.75pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:20.45pt" rowspan="2" width="396"><p style="margin-top:3.0pt;margin-right:0cm;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">Knowledge and understanding of <b>O-Level Physics</b>, either as a single subject or as part of a balanced science course is assumed.</span></p></td></tr><tr style="mso-yfti-irow:7;mso-yfti-lastrow:yes;height:20.45pt"><td style="width:90.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:20.45pt" width="120"><p style="margin-top:3.0pt;margin-right:0cm;
-  margin-bottom:3.0pt;margin-left:0cm;text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin"><a href="https://www.moe.gov.sg/-/media/files/post-secondary/syllabuses/science/preuniversity_h2_physics_syllabus.pdf?la=en&amp;hash=39F0A6869A7077F047E8FECA77AEE85B55BD9F57">H2</a><sup>2</sup></span></p></td></tr></tbody></table>
-
-
-
-
-
-
-
-
+<table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody>
+	<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
+		<td style="width:80.75pt;border:solid windowtext 1.0pt;mso-border-alt:solid windowtext .5pt;background:#E7E6E6;mso-background-themecolor:background2;padding:0cm 5.4pt 0cm 5.4pt" width="108">
+			<p style="margin-top:3.0pt;margin-right:0cm;margin-bottom:3.0pt;margin-left:0cm;text-align:center;line-height:normal" align="center" class="MsoNormal">
+				<b><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:black;mso-color-alt:windowtext">Subjects</span></b>
+			</p></td>
+		<td style="width:90.0pt;border:solid windowtext 1.0pt;border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;background:#E7E6E6;mso-background-themecolor:background2;padding:0cm 5.4pt 0cm 5.4pt" width="120">
+			<p style="margin-top:3.0pt;margin-right:0cm;margin-bottom:3.0pt;margin-left:0cm;text-align:center;line-height:normal" align="center" class="MsoNormal">
+				<b><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:black;mso-color-alt:windowtext">Subject Level</span></b>
+			</p></td>
+		<td style="width:296.75pt;border:solid windowtext 1.0pt;border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;background:#E7E6E6;mso-background-themecolor:background2;padding:0cm 5.4pt 0cm 5.4pt" width="396">
+			<p style="margin-top:3.0pt;margin-right:0cm;margin-bottom:3.0pt;margin-left:0cm;text-align:center;line-height:normal" align="center" class="MsoNormal">
+				<b><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:black;mso-color-alt:windowtext">Assumed Knowledge</span></b>
+			</p></td>
+	</tr>
+	<tr style="mso-yfti-irow:1"><td style="width:80.75pt;border:solid windowtext 1.0pt;border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;  padding:0cm 5.4pt 0cm 5.4pt" width="108">
+		<p style="margin-top:3.0pt;margin-right:0cm;margin-bottom:3.0pt;margin-left:0cm;text-align:justify;line-height:normal" class="MsoNormal">
+			<span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">Mathematics</span>
+		</p></td>
+		<td style="width:90.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="120">
+			<p style="margin-top:3.0pt;margin-right:0cm;margin-bottom:3.0pt;margin-left:0cm;text-align:center;line-height:normal" align="center" class="MsoNormal">
+				<span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin"><a href="https://www.moe.gov.sg/-/media/files/post-secondary/syllabuses/maths/2024-pre-university-h2-mathematics.pdf">H2</a><sup>2</sup></span>
+			</p></td>
+		<td style="width:296.75pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="396">
+			<p style="margin-top:3.0pt;margin-right:0cm;margin-bottom:3.0pt;margin-left:0cm;text-align:justify;line-height:normal" class="MsoNormal">
+				<span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">Knowledge of the content of the <b>O-Level</b> <b>Mathematics</b> syllabus and some of the content of the <b>O-Level</b> <b>Additional Mathematics</b> syllabus are assumed.</span>
+			</p></td>
+	</tr>
+	<tr style="mso-yfti-irow:1"><td style="width:80.75pt;border:solid windowtext 1.0pt;border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;  padding:0cm 5.4pt 0cm 5.4pt" width="108">
+		<p style="margin-top:3.0pt;margin-right:0cm;margin-bottom:3.0pt;margin-left:0cm;text-align:justify;line-height:normal" class="MsoNormal">
+			<span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">Biology</span>
+		</p></td>
+		<td style="width:90.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="120">
+			<p style="margin-top:3.0pt;margin-right:0cm;margin-bottom:3.0pt;margin-left:0cm;text-align:center;line-height:normal" align="center" class="MsoNormal">
+				<span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin"><a href="https://www.moe.gov.sg/-/media/files/syllabus/2025-preu-h1h2h3-biology.pdf">H1 / H2</a><sup>2</sup></span>
+			</p></td>
+		<td style="width:296.75pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="396">
+			<p style="margin-top:3.0pt;margin-right:0cm;margin-bottom:3.0pt;margin-left:0cm;text-align:justify;line-height:normal" class="MsoNormal">
+				<span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">Knowledge and understanding of <b>O-Level Biology</b>, either as a single subject or as part of a balanced science course is assumed.</span></p>
+		</td></tr>
+	<tr style="mso-yfti-irow:1"><td style="width:80.75pt;border:solid windowtext 1.0pt;border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;  padding:0cm 5.4pt 0cm 5.4pt" width="108">
+		<p style="margin-top:3.0pt;margin-right:0cm;margin-bottom:3.0pt;margin-left:0cm;text-align:justify;line-height:normal" class="MsoNormal">
+			<span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">Chemistry</span>
+		</p></td>
+		<td style="width:90.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="120">
+			<p style="margin-top:3.0pt;margin-right:0cm;margin-bottom:3.0pt;margin-left:0cm;text-align:center;line-height:normal" align="center" class="MsoNormal">
+				<span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin"><a href="https://www.moe.gov.sg/-/media/files/syllabus/2025-preu-h1h2h3-chemistry.pdf">H1 / H2</a><sup>2</sup></span>
+			</p></td>
+		<td style="width:296.75pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="396">
+			<p style="margin-top:3.0pt;margin-right:0cm;margin-bottom:3.0pt;margin-left:0cm;text-align:justify;line-height:normal" class="MsoNormal">
+				<span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">Knowledge and understanding of <b>O-Level Chemistry</b>, either as a single subject or as part of a balanced science course is assumed.<b></b></span></p>
+		</td></tr>
+		<tr style="mso-yfti-irow:1"><td style="width:80.75pt;border:solid windowtext 1.0pt;border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;  padding:0cm 5.4pt 0cm 5.4pt" width="108">
+		<p style="margin-top:3.0pt;margin-right:0cm;margin-bottom:3.0pt;margin-left:0cm;text-align:justify;line-height:normal" class="MsoNormal">
+			<span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">Physics</span>
+		</p></td>
+		<td style="width:90.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="120">
+			<p style="margin-top:3.0pt;margin-right:0cm;margin-bottom:3.0pt;margin-left:0cm;text-align:center;line-height:normal" align="center" class="MsoNormal">
+				<span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin"><a href="https://www.moe.gov.sg/-/media/files/syllabus/2025-preu-h1h2h3-physics.pdf">H1 / H2</a><sup>2</sup></span>
+			</p></td>
+		<td style="width:296.75pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="396">
+			<p style="margin-top:3.0pt;margin-right:0cm;margin-bottom:3.0pt;margin-left:0cm;text-align:justify;line-height:normal" class="MsoNormal">
+				<span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">Knowledge and understanding of <b>O-Level Physics</b>, either as a single subject or as part of a balanced science course is assumed.</span></p>
+			</td></tr>
+	</tbody></table>
 <p><strong>Note:</strong></p>
 <p style="text-align:justify;"><sup>1&nbsp;</sup>Assumed knowledge refers to the set of content knowledge that students are expected to have learnt in advance, usually as part of a corresponding subject at GCE O-Level, which&nbsp;<u>will not be taught</u>&nbsp;but is needed in the course of learning the GCE A-Level syllabus. Students without the assumed knowledge may offer the subject but will be&nbsp;<u>required to bridge the knowledge gap during the course of study</u>&nbsp;on their own.</p>
 <p style="text-align:justify;"><sup>2</sup>Students can find out more about the subject syllabuses at <a href="https://www.moe.gov.sg/post-secondary/a-level-curriculum-and-subject-syllabuses">https://www.moe.gov.sg/post-secondary/a-level-curriculum-and-subject-syllabuses</a>, or click on the hyperlink at each of the subject level in the table above.&nbsp;</p>
