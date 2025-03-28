@@ -76,6 +76,7 @@ variant: markdown
 <tr><td><a href="mailto:joseph_jerome_estrellas_fernandez@moe.edu.sg" target=""> Mr Joseph Jerome Estrellas Fernandez </a></td><td>GP Teacher</td></tr>
 <tr><td><a href="mailto:shafarina_sujak@moe.edu.sg" target=""> Mdm Shafarina Bte Sujak</a></td><td>GP Teacher</td></tr>
 <tr><td><a href="mailto:rasveena_kaur_harcharan_singh@moe.edu.sg" target="">Ms Rasveena Kaur D/O Harcharan </a></td><td>GP / Lit Teacher</td></tr>
+<tr><td><a href="mailto:Christiann_Priyanka_Augustine@moe.edu.sg" target="">Ms Christiann Priyanka Augustine </a></td><td>GP / Lit Teacher</td></tr>
 		</tbody></table></div></li>
 
 <li><input type="checkbox" id="accordion5"> <label for="accordion5">Humanities</label>
@@ -85,6 +86,7 @@ variant: markdown
 <tr><td><a href="mailto:ghazrizal_azry_ghazali_nor@moe.edu.sg" target="">Mr Ghazrizal Azry Bin Ghazali Nor</a></td><td>Art Teacher</td></tr>
 <tr><td><a href="mailto:ernest_yeo@moe.edu.sg" target="">Mr Yeo Chin Kent Ernest</a></td><td>Art Teacher</td></tr>
 <tr><td><a href="mailto:sharmaine_ong_gek_teng_a@moe.edu.sg" target="">Ms Sharmaine Ong Gek Teng</a></td><td>Geography Teacher</td></tr>
+<tr><td><a href="mailto:Lee_Jia_Yi_Alicia_A@moe.edu.sg" target="">Ms Lee Jia Yi Alicia</a></td><td>Geography Teacher</td></tr>
 <tr><td><a href="mailto:lee_jake_hooi@moe.edu.sg" target="">Mr Lee Jake Hooi</a></td><td>History Teacher</td></tr>
 <tr><td><a href="mailto:see_kurt_wei@moe.edu.sg" target="">Mr See Kurt Wei</a></td><td>History Teacher</td></tr></tbody></table></div></li>
 
