@@ -28,10 +28,11 @@ variant: tiptap
 <p></p>
 <p><strong>PU2 WA2 &amp; Class Test 2 Schedule</strong>
 </p>
-<p><a href="/files/PU2_WA2___CT2_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">PU2 WA2 &amp; Class Test 2 Schedule</a>
+<p><a href="/files/PU2_WA2___CT2_Schedule_2025_21Apr25.pdf" rel="noopener nofollow" target="_blank">PU2 WA2 &amp; Class Test 2 Schedule</a>
 </p>
 <p></p>
 <p><strong>PU3 Class Test 2 Schedule</strong>
 </p>
-<p><a href="/files/PU3_CT2_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">PU3_CT2_Schedule_2025</a>
+<p><a href="/files/PU3_CT2_Schedule_2025_21Apr25.pdf" rel="noopener nofollow" target="_blank">PU3_CT2_Schedule_2025</a>
 </p>
+<p></p>
