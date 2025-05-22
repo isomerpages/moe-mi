@@ -44,12 +44,12 @@ variant: tiptap
 <p></p>
 <p><strong>PU2 WA3 &amp; Class Test 3 Schedule</strong>
 </p>
-<p><a href="/files/PU2_WA3CT3_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">PU2 WA3CT3 Schedule 2025</a>
+<p><a href="/files/PU2_WA3CT3_Schedule_2025_22May2025.pdf" rel="noopener nofollow" target="_blank">PU2 WA3 &amp; CT3 Schedule 2025</a>
 </p>
 <p></p>
 <p><strong>PU3 Class Test 3 Schedule</strong>
 </p>
-<p><a href="/files/PU3_CT3_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">PU3 CT3 Schedule 2025</a>
+<p><a href="/files/PU3_WA3CT3_Schedule_2025_22May2025.pdf" rel="noopener nofollow" target="_blank">PU3 CT3 Schedule 2025</a>
 </p>
 <p></p>
 <p></p>
