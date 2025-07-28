@@ -52,4 +52,14 @@ variant: tiptap
 <p><a href="/files/PU3_WA3CT3_Schedule_2025_22May2025.pdf" rel="noopener nofollow" target="_blank">PU3 CT3 Schedule 2025</a>
 </p>
 <p></p>
+<p><strong>PU2 EOY Examination Schedule</strong>
+</p>
+<p><a href="/files/2025_PU2_EOY_Schedule_updated_22_July.pdf" rel="noopener nofollow" target="_blank">PU2 EOY Exam Schedule</a>
+</p>
+<p></p>
+<p><strong>PU3 Preliminary Examination Schedule</strong>
+</p>
+<p><a href="/files/2025_PU3_Prelims_Schedule_updated_22_July.pdf" rel="noopener nofollow" target="_blank">PU3 Preliminary Exam Schedule</a>
+</p>
+<p></p>
 <p></p>
