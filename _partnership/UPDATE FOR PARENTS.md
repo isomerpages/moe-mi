@@ -62,4 +62,10 @@ variant: tiptap
 <p><a href="/files/2025_PU3_Prelims_Schedule_updated_22_July.pdf" rel="noopener nofollow" target="_blank">PU3 Preliminary Exam Schedule</a>
 </p>
 <p></p>
+<h5><strong>2025 Term 4</strong></h5>
+<p><strong>PU1 EOY Exam Schedule</strong>
+</p>
+<p><a href="/files/PU1_EOY_Detailed_Schedule.pdf" rel="noopener nofollow" target="_blank">PU1 End Of Year Exam Schedule</a>
+</p>
+<p></p>
 <p></p>
