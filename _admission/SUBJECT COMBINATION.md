@@ -595,19 +595,6 @@ variant: markdown
 <p><strong>Note:</strong></p>
 <p style="text-align:justify;"><sup>*</sup>AC01, AC02 and AC03 are offered to students in Arts and Commerce streams.</p>
 <p style="text-align:justify;"><sup>#</sup>CS01 is offered to students in Commerce and Science streams. Students in Science stream who choose to offer CS01 must choose H1BIO, H1CHEM or H1PHY as the H1 content-based subject.</p>
-<p style="text-align:justify;">^Students who wish to offer S05 or S06 must have the following assumed knowledge at GCE O-Level: </p>
-<ul>
-<li><p style="text-align:justify;"> Achieved at least C6 in both relevant Pure Science subjects at GCE O-Level <u><strong>OR</strong></u></p></li>
-<li><p style="text-align:justify;">Achieved at least C6 in one relevant Pure Science subject AND at least B4 in one relevant Combined Science subject at GCE O-Level <u><strong>OR</strong></u></p></li>
-<li><p style="text-align:justify;">Achieved at least A2 in one relevant Combined Science subject AND at least C6 in Additional Mathematics at GCE O-Level.</p></li>
-</ul>
-
-<p style="text-align:justify;">^^Students who wish to offer S13 must have the following assumed knowledge at GCE O-Level: </p>
-<ul>
-<li><p style="text-align:justify;"> Achieved at least C6 in both relevant Pure Science subjects at GCE O-Level <u><strong>OR</strong></u></p></li>
-<li><p style="text-align:justify;">Achieved at least C6 in one relevant Pure Science subject AND at least B4 in one relevant Combined Science subject at GCE O-Level <u><strong>OR</strong></u></p></li>
-<li><p style="text-align:justify;">Achieved at least A2 in both relevant Combined Science subjects AND at least C6 in Elementary Mathematics at GCE O-Level.</p></li>
-</ul>
 
 
 
