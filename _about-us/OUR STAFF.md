@@ -9,7 +9,6 @@ variant: markdown
 <li><input type="checkbox" id="accordion1"> <label for="accordion1">School Leaders</label>
 <div><table cellpadding="0" cellspacing="0" border="0"><tbody>
 <tr><td><a href="mailto:millennia_inst@moe.edu.sg" target="">Mr Loo Ming Yaw</a></td><td>Principal</td></tr>
-<tr><td><a href="mailto:millennia_inst@moe.edu.sg" target="">Mr Lin Guojing</a></td><td>Vice-Principal</td></tr>
 <tr><td><a href="mailto:millennia_inst@moe.edu.sg" target="">Mr Tan Keng Cheong </a></td><td>Vice-Principal</td></tr>
 <tr><td><a href="mailto:millennia_inst@moe.edu.sg" target="">Mr David D'Souza</a></td><td>Vice-Principal (Administration)</td></tr></tbody></table></div></li>
 
