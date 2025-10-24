@@ -15,14 +15,8 @@ variant: markdown
 <li>Learning Journeys</li>
 </ul>
 <h4><strong>Key Components in Programme</strong></h4>
-<ul>
-<li><strong>Reflective learning</strong></li>
-</ul>
-<p>To formalise their learning, students are required to pen their reflections about their trip on a daily basis. They should highlight what they have learnt about the host country with regard to its culture, language, lifestyle and aspirations. Students should also include how the trip has influenced their perceptions about their own country and its place in a globalised world.</p>
-<ul>
-<li><strong>Cultural appreciation and understanding</strong></li>
-</ul>
-<p>The best way to learn is not just to read or listen but to experience and be immersed. Hence, students are given opportunities to interact with citizens of the countries they visit, and experience their ways of life. Such interactions will develop students’ understanding and perceptions of another country, and also develop in them a desire to contribute to the well-being of the international community.</p>
+<ul><li><strong>Reflective learning</strong></li></ul><p>To formalise their learning, students are required to pen their reflections about their trip on a daily basis. They should highlight what they have learnt about the host country with regard to its culture, language, lifestyle and aspirations. Students should also include how the trip has influenced their perceptions about their own country and its place in a globalised world.</p>
+<ul><li><strong>Cultural appreciation and understanding</strong></li></ul><p>The best way to learn is not just to read or listen but to experience and be immersed. Hence, students are given opportunities to interact with citizens of the countries they visit, and experience their ways of life. Such interactions will develop students’ understanding and perceptions of another country, and also develop in them a desire to contribute to the well-being of the international community.</p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
