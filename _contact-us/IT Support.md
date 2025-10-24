@@ -23,3 +23,6 @@ variant: markdown
 </tr>
 </tbody>
 </table>
+
+<h4><strong>Acceptable Use Policy (AUP) for EdTech Tools</strong></h4>
+To view the Acceptable Use Policy for EdTech Tools within MI, click <a href="https://www.millenniainstitute.moe.edu.sg/files/MI_Acceptable_Use_Policy__AUP__2026.pdf">HERE</a>.
