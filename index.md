@@ -10,6 +10,22 @@ sections:
       background: /images/banner.gif
       title: A Place of Hope & Opportunity
       variant: center
+      key_highlights:
+        - title: FACEBOOK
+          description: Connect With Us
+          url: https://www.facebook.com/peopleofmillennia/
+        - title: INSTAGRAM
+          description: Follow Us
+          url: https://www.instagram.com/peopleofmillennia/?hl=en
+  - infopic:
+      title: "@PEOPLEOFMILLENNIA"
+      subtitle: Follow us
+      id: infopic
+      description: ON INSTAGRAM
+      button: Get the latest updates!
+      url: https://www.instagram.com/peopleofmillennia/?hl=en
+      image: /images/peopleofmillennia_instagram.jpg
+      alt: Follow us @peopleofmillennia
   - infobar:
       title: MI Corporate Video
       description: <iframe width="560" height="315"
@@ -19,11 +35,4 @@ sections:
         allowfullscreen=""></iframe>
       button: Find out more about us
       url: /about-us/mi-videos/
-  - infobar:
-      subtitle: Visit our Instagram page
-      id: infobar
-      description: <iframe frameborder="0" height="400" width="320"
-        src="https://instagram.com/p/DPVpXtLj2xV/embed/"></iframe>
-      button: "@peopleofmillennia"
-      url: https://www.instagram.com/peopleofmillennia/?hl=en
 ---
