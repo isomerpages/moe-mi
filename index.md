@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       background: /images/banner.gif
-      title: A Place of Opportunity
+      title: A Place of Hope & Opportunity
       variant: center
   - infobar:
       title: MI Corporate Video
