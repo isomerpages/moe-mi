@@ -21,10 +21,10 @@ sections:
           description: Join Us!
           url: https://www.instagram.com/mi.alumni/?hl=en
   - infopic:
-      title: "@PEOPLEOFMILLENNIA"
-      subtitle: Follow us
+      title: Instagram
+      subtitle: Follow us on
       id: infopic
-      description: ON INSTAGRAM
+      description: "@peopleofmillennia"
       button: Get the latest updates!
       url: https://www.instagram.com/peopleofmillennia/?hl=en
       image: /images/peopleofmillennia_instagram.jpg
