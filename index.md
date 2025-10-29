@@ -17,6 +17,9 @@ sections:
         - title: INSTAGRAM
           description: Follow Us
           url: https://www.instagram.com/peopleofmillennia/?hl=en
+        - title: MI Alumni?
+          description: Join Us!
+          url: https://www.instagram.com/mi.alumni/?hl=en
   - infopic:
       title: "@PEOPLEOFMILLENNIA"
       subtitle: Follow us
