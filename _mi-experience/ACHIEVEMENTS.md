@@ -102,7 +102,7 @@ Nan Gun: 1st Place, Devni Chamodya Kaluarachchi (22MI09) (Colours Award)</td>
 </tr>
 <tr>
 <td>August</td>
-<td>Wuhsu</td>
+<td>Wushu</td>
 <td>World Kungfu C'ships</td>
 <td>International Wushu Federation</td>
 <td>Southern Routines - Gold &amp; Bronze medals - Devni Chamodya Kaluarachchi (22MI09)</td>
