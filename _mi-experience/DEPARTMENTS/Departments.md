@@ -3,6 +3,7 @@ title: Departments
 permalink: /mi-experience/departments/
 description: ""
 third_nav_title: DEPARTMENTS
+variant: markdown
 ---
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
@@ -13,7 +14,7 @@ third_nav_title: DEPARTMENTS
 </tr>
 <tr>
 <td style="width: 33.3333%; border:0px;"><a href="/mi-experience/departments/departments/mathematics"><img src="/images/de4.png"></a></td>
-<td style="width: 33.3333%; border:0px;"><a href="/admission/prospectus"><img src="/images/de-prospectus.png"></a></td>
+<td style="width: 33.3333%; border:0px;"><img src="/images/Dept/ourdepts.jpg"></td>
 <td style="width: 33.3333%; border:0px;"><a href="/mi-experience/departments/departments/mother-tongue-languages"><img src="/images/de6.png"></a></td>
 </tr>
 <tr>
