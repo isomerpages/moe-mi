@@ -8,7 +8,7 @@ variant: markdown
   
 <p style="text-align:justify;">Returning Singaporean students who intend to pursue their pre-university education in Millennia Institute are strongly encouraged to register for the&nbsp;<a href="https://www.moe.gov.sg/returning-singaporeans/post-secondary">School Placement Exercise for Returning Singaporeans – Junior Colleges and Millennia Institute (SPERS-JC/MI)</a>. This is a centralised placement exercise conducted at the end of the year for Returning Singaporeans who wish to join Pre-University level 1, at the beginning of the following academic year.</p>
 
-<p style="text-align:justify;">All applicants must complete the application procedures as outlined below. Applicants must ensure that all required documents are submitted together with the application form to facilitate the admissions application process. Shortlisted applicants will be notified of an online (Zoom) interview. Application outcomes are decided by a holistic assessment of each applicant and subject to availability of vacancies.&nbsp;</p>
+<p style="text-align:justify;">All applicants must complete the application procedures as outlined below. Applicants must ensure that all required documents are submitted together with the application form to facilitate the admissions application process. Shortlisted applicants will be notified of an online (MS Teams or Zoom) interview. Application outcomes are decided by a holistic assessment of each applicant and subject to availability of vacancies.&nbsp;</p>
 
 <p><strong>Application Procedure</strong></p>
 
@@ -17,7 +17,7 @@ variant: markdown
   6.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph;
   line-height:normal">1.</p></td><td width="595" valign="top" style="width:446.45pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-top:6.0pt;margin-right:0cm;margin-bottom:
   6.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph;
-  line-height:normal;background:white">Complete and submit the application form by 10 January 2025, 5pm. Please click&nbsp;<a href="https://go.gov.sg/mirsis" target="_blank"><span style="color:#2A67B7">here</span></a>&nbsp;for the form.</p></td></tr><tr style="mso-yfti-irow:1"><td width="28" valign="top" style="width:21.05pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-top:6.0pt;margin-right:0cm;margin-bottom:
+  line-height:normal;background:white">Complete and submit the application form by 09 January 2026, 5pm. Please click&nbsp;<a href="https://go.gov.sg/mirsis" target="_blank"><span style="color:#2A67B7">here</span></a>&nbsp;for the form.</p></td></tr><tr style="mso-yfti-irow:1"><td width="28" valign="top" style="width:21.05pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-top:6.0pt;margin-right:0cm;margin-bottom:
   6.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph;
   line-height:normal">2.</p></td><td width="595" valign="top" style="width:446.45pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-top:6.0pt;margin-right:0cm;margin-bottom:
   6.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph;
@@ -48,7 +48,7 @@ variant: markdown
 
 <h4><strong>International Students</strong></h4>
 <p style="text-align:justify;">International students who intend to pursue their pre-university education in Millennia Institute are strongly encouraged to register for the&nbsp;<a href="https://pact.sg/index.php?option=com_content&amp;view=article&amp;id=58&amp;Itemid=94">Junior College - Principals Academy Certification Test (J-PACT)</a>. This is a centralised admission test for eligible International Students who are not studying in any Singapore Mainstream Schools and, who wish to seek admission into Singapore Mainstream Schools. Please note that J-PACT is not a centralized posting exercise and participation in J-PACT does not guarantee the student a place in their school of choice.</p>
-<p style="text-align:justify;">All applicants must complete the application procedures outlined in the sections below. Applicants must ensure that all required documents are submitted together with the application form to facilitate the admission application process. Shortlisted applicants will be notified of an online (Zoom) interview. Admission is&nbsp;<u>not guaranteed</u>&nbsp;and subject to availability of vacancies, as well as an assessment of the applicant’s holistic achievements.&nbsp;</p>
+<p style="text-align:justify;">All applicants must complete the application procedures outlined in the sections below. Applicants must ensure that all required documents are submitted together with the application form to facilitate the admission application process. Shortlisted applicants will be notified of an online (MS Teams or Zoom) interview. Admission is&nbsp;<u>not guaranteed</u>&nbsp;and subject to availability of vacancies, as well as an assessment of the applicant’s holistic achievements.&nbsp;</p>
 
 <p><strong>Application Procedure</strong></p>
 
@@ -57,7 +57,7 @@ variant: markdown
   6.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph;
   line-height:normal">1.</p></td><td width="595" valign="top" style="width:446.45pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-top:6.0pt;margin-right:0cm;margin-bottom:
   6.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph;
-  line-height:normal;background:white">Complete and submit the application form by 10 January 2025, 5pm. Please click&nbsp;<a href="https://go.gov.sg/mirsis" target="_blank"><span style="color:#2A67B7">here</span></a>&nbsp;for the form.</p></td></tr><tr style="mso-yfti-irow:1"><td width="28" valign="top" style="width:21.05pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-top:6.0pt;margin-right:0cm;margin-bottom:
+  line-height:normal;background:white">Complete and submit the application form by 09 January 2026, 5pm. Please click&nbsp;<a href="https://go.gov.sg/mirsis" target="_blank"><span style="color:#2A67B7">here</span></a>&nbsp;for the form.</p></td></tr><tr style="mso-yfti-irow:1"><td width="28" valign="top" style="width:21.05pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-top:6.0pt;margin-right:0cm;margin-bottom:
   6.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph;
   line-height:normal">2.</p></td><td width="595" valign="top" style="width:446.45pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-top:6.0pt;margin-right:0cm;margin-bottom:
   6.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph;
