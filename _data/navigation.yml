@@ -9,8 +9,6 @@ links:
         url: /about-us/our-staff
       - title: MI Identity
         url: /about-us/mi-identity
-      - title: MI Virtual Tour
-        url: /about-us/mi-virtual-tour
       - title: MI Videos
         url: /about-us/mi-videos
   - title: Admission
@@ -35,8 +33,6 @@ links:
         url: /mi-experience/cca
       - title: Achievements
         url: /mi-experience/achievements
-      - title: Publications
-        url: /mi-experience/publications
   - title: Partnership
     url: /partnership
     sublinks:
