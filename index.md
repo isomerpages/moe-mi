@@ -23,7 +23,7 @@ sections:
   - infobar:
       title: 2026 MI Open House
       id: infobar
-      description: <img src="/images/MOTD___2026_OPEN_HOUSE.jpg">
+      description: <img src="/images/Publicity/MOTD___2026_OPEN_HOUSE.jpg">
   - infopic:
       title: Instagram
       subtitle: Follow us on
