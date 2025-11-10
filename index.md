@@ -21,7 +21,6 @@ sections:
           description: Join Us!
           url: https://www.instagram.com/mi.alumni/?hl=en
   - infobar:
-      title: 2026 MI Open House
       id: infobar
       description: <img src="/images/Publicity/MOTD___2026_OPEN_HOUSE.jpg">
   - infopic:
