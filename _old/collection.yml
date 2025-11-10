@@ -1,0 +1,5 @@
+collections:
+  old:
+    output: true
+    order:
+      - PUBLICATIONS.md
