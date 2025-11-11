@@ -22,7 +22,7 @@ sections:
           url: https://www.instagram.com/mi.alumni/?hl=en
   - infobar:
       id: infobar
-      description: <img src="/images/Publicity/MOTD___2026_OPEN_HOUSE.jpg">
+      description: <img src="/images/Publicity/2026openhouse.png">
   - infopic:
       title: Instagram
       subtitle: Follow us on
