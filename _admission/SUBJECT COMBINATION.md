@@ -12,7 +12,7 @@ variant: markdown
   mso-border-alt:solid windowtext .5pt;background:#E7E6E6;mso-background-themecolor:
   background2;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-top:6.0pt;margin-right:0cm;
   margin-bottom:6.0pt;margin-left:0cm;text-align:center;line-height:normal"><b><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
-  color:black;mso-color-alt:windowtext">Subject Combination 2025</span></b><b><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin"></span></b></p></td></tr><tr style="mso-yfti-irow:1"><td width="60" valign="top" style="width:45.3pt;border:solid windowtext 1.0pt;
+  color:black;mso-color-alt:windowtext">Subject Combination 2026</span></b><b><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin"></span></b></p></td></tr><tr style="mso-yfti-irow:1"><td width="60" valign="top" style="width:45.3pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   background:#E7E6E6;mso-background-themecolor:background2;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-top:6.0pt;margin-right:0cm;
   margin-bottom:6.0pt;margin-left:0cm;text-align:center;line-height:normal"><b><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
