@@ -586,7 +586,7 @@ variant: markdown
 <tr style="mso-yfti-irow:30;mso-yfti-lastrow:yes"><td width="623" colspan="5" valign="top" style="width:467.5pt;border:none;
   mso-border-top-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-top:6.0pt;margin-right:0cm;margin-bottom:
   6.0pt;margin-left:0cm;line-height:normal"><span style="font-size:10.0pt;
-  font-family:&quot;Open Sans&quot;,sans-serif;color:black;background:white">PAA: Principles of Accounts</span></p><p class="MsoNormal" style="margin-top:6.0pt;margin-right:0cm;margin-bottom:
+  font-family:&quot;Open Sans&quot;,sans-serif;color:black;background:white">PAA: Principles of Accounting</span></p><p class="MsoNormal" style="margin-top:6.0pt;margin-right:0cm;margin-bottom:
   6.0pt;margin-left:0cm;line-height:normal"><span style="font-size:10.0pt;
   font-family:&quot;Open Sans&quot;,sans-serif;color:black;background:white">MOB: Management of Business</span><span style="font-size:10.0pt;mso-bidi-font-family:
   Calibri;mso-bidi-theme-font:minor-latin"></span></p></td></tr></tbody></table>
