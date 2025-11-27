@@ -44,7 +44,6 @@ student body for the world around them. Together, these pedagogical commitments
 nurture Humanities students who are not only intellectually curious but
 also empowered to participate meaningfully in a dynamic, interconnected
 global community.</p>
-<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -64,8 +63,7 @@ global community.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Art</p>
+<p>Art</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Geography</p>
@@ -82,10 +80,10 @@ Art</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>✔</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>✔</p>
 </td>
 </tr>
 <tr>
@@ -109,13 +107,13 @@ Art</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>✔</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>✔</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>✔</p>
 </td>
 </tr>
 <tr>
@@ -123,7 +121,7 @@ Art</p>
 <p>Job Experience &amp; Internships</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>✔</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -137,13 +135,13 @@ Art</p>
 <p>External Competitions</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>✔</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>✔</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>✔</p>
 </td>
 </tr>
 <tr>
@@ -162,13 +160,13 @@ Art</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>✔</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>✔</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>✔</p>
 </td>
 </tr>
 <tr>
@@ -176,13 +174,13 @@ Art</p>
 <p>Community Involvement Projects</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>✔</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>✔</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>✔</p>
 </td>
 </tr>
 <tr>
@@ -198,13 +196,13 @@ Art</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>✔</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>✔</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>✔</p>
 </td>
 </tr>
 <tr>
@@ -223,14 +221,13 @@ Art</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>✔</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>✔</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<p></p>
+<p>✔</p>
 </td>
 </tr>
 </tbody>
