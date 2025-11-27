@@ -2,4 +2,5 @@ collections:
   old:
     output: true
     order:
+      - Humanities.md
       - PUBLICATIONS.md
