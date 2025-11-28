@@ -88,10 +88,8 @@ global community.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>Learning Journeys:</p>
-</li>
+<ul data-tight="true" class="tight">
 <li>
 <p>Museum Visit</p>
 </li>
