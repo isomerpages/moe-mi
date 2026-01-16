@@ -69,12 +69,13 @@ variant: markdown
 <div><table cellpadding="0" cellspacing="0" border="0"><tbody>
 <tr><td><a href="mailto:sabariah_ahmad@moe.edu.sg" target="">Ms Sabariah Binte Ahmad</a></td><td>HOD English</td></tr>
 <tr><td><a href="mailto:liao_yingtong@moe.edu.sg" target="">Ms Liao Yingtong Sharon</a></td><td>SH English</td></tr>
-<tr><td><a href="mailto:loh_ya_ting_stephanie@moe.edu.sg" target="">Ms Stephanie Loh </a></td><td>SH Student Well-Being</td></tr>
-<tr><td><a href="mailto:chua_tiong_seng@moe.edu.sg" target="">Mr Chua Tiong Seng</a></td><td>GP / Lit Teacher</td></tr>
 <tr><td><a href="mailto:jamaliah_b_othman@moe.edu.sg" target="">Ms Jamaliah B Othman</a></td><td>GP Teacher</td></tr>
 <tr><td><a href="mailto:tay_guan_wei_bernard@moe.edu.sg" target="">Mr Bernard Tay Guan Wei</a></td><td>GP Teacher</td></tr>
 <tr><td><a href="mailto:joseph_jerome_estrellas_fernandez@moe.edu.sg" target=""> Mr Joseph Jerome Estrellas Fernandez </a></td><td>GP Teacher</td></tr>
 <tr><td><a href="mailto:shafarina_sujak@moe.edu.sg" target=""> Mdm Shafarina Bte Sujak</a></td><td>GP Teacher</td></tr>
+<tr><td><a href="mailto:Mohamed_Nor_Ariffin_Ismail@moe.edu.sg" target=""> Mr Mohd Nor Ariffin Bin Ismail </a></td><td>GP Teacher</td></tr>
+<tr><td><a href="mailto:chua_kay_wee@moe.edu.sg" target=""> Mr Chua Kay Wee </a></td><td>GP Teacher</td></tr>
+<tr><td><a href="mailto:chua_tiong_seng@moe.edu.sg" target="">Mr Chua Tiong Seng</a></td><td>GP / Lit Teacher</td></tr>
 <tr><td><a href="mailto:rasveena_kaur_harcharan_singh@moe.edu.sg" target="">Ms Rasveena Kaur D/O Harcharan </a></td><td>GP / Lit Teacher</td></tr>
 <tr><td><a href="mailto:Christiann_Priyanka_Augustine@moe.edu.sg" target="">Ms Christiann Priyanka Augustine </a></td><td>GP / Lit Teacher</td></tr>
 		</tbody></table></div></li>
