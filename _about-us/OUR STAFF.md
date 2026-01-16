@@ -124,7 +124,7 @@ variant: markdown
 <div><table cellpadding="0" cellspacing="0" border="0"><tbody>
 <tr><td><a href="mailto:chia_peng_hwee@moe.edu.sg" target="">Mr Chia Peng Hwee Joel</a></td><td>HOD PE &amp; CCA</td></tr>
 <tr><td><a href="mailto:ang_wei_wen_shawn@moe.edu.sg" target="">Mr Ang Wei Wen Shawn</a></td><td>SH PE</td></tr>
-<tr><td><a href="mailto:fatmawatee_othman@moe.edu.sg" target="">Mdm Fatmawatee Othman</a></td><td>Senior Teacher - PE / CD</td></tr>
+<tr><td><a href="mailto:fatmawatee_othman@moe.edu.sg" target="">Mdm Fatmawatee Othman</a></td><td>Senior Teacher - PE</td></tr>
 <tr><td><a href="mailto:vivien_soon_wei_qi@moe.edu.sg" target="">Mrs Low-Soon Wei Qi Vivien</a></td><td>PE Teacher</td></tr>
 <tr><td><a href="mailto:roslan_taib@moe.edu.sg" target="">Mr Roslan Taib</a></td><td>PE Teacher</td></tr></tbody></table></div></li>
 
