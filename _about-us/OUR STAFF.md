@@ -135,7 +135,7 @@ variant: markdown
 <tr><td><a href="mailto:pang_sze_kiang@moe.edu.sg" target="">Mr Pang Sze Kiang</a></td><td>HOD CCE - Physics</td></tr>
 <tr><td><a href="mailto:ng_xue_li_shirley@moe.edu.sg" target="">Ms Ng Xue Li Shirley</a></td><td>Year Head - Chemistry</td></tr>
 <tr><td><a href="mailto:lee_le_xin@moe.edu.sg" target="">Mrs Ang-Lee Le Xin Lydia</a></td><td>Year Head - Chemistry</td></tr>
-<tr><td><a href="mailto:liew_yong_qiang@moe.edu.sg" target="">Mr Liew Yong Qiang</a></td><td>SH ICT - Chemistry</td></tr>
+<tr><td><a href="mailto:liew_yong_qiang@moe.edu.sg" target="">Mr Liew Yong Qiang</a></td><td>HOD ICT (Acting) - Chemistry</td></tr>
 <tr><td><a href="mailto:foo_yongkuan@moe.edu.sg" target="">Mr Foo Yongkuan</a></td><td>SH Biology</td></tr>
 <tr><td><a href="mailto:lee_li_wen@moe.edu.sg" target="">Ms Lee Li Wen</a></td><td>SH  Chemistry</td></tr>
 <tr><td><a href="mailto:liu_yiqian_lionel@moe.edu.sg" target="">Mr Liu Yiqian Lionel</a></td><td>Chemistry Teacher</td></tr>
