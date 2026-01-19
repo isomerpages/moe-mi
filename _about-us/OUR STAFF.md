@@ -68,14 +68,14 @@ variant: markdown
 
 <li><input type="checkbox" id="accordion4"> <label for="accordion4">English</label>
 <div><table cellpadding="0" cellspacing="0" border="0"><tbody>
-<tr><td><a href="mailto:sabariah_ahmad@moe.edu.sg" target="">Ms Sabariah Binte Ahmad</a></td><td>HOD English</td></tr>
-<tr><td><a href="mailto:liao_yingtong@moe.edu.sg" target="">Ms Liao Yingtong Sharon</a></td><td>SH English</td></tr>
+<tr><td><a href="mailto:sabariah_ahmad@moe.edu.sg" target="">Mdm Sabariah Binte Ahmad</a></td><td>HOD English</td></tr>
+<tr><td><a href="mailto:liao_yingtong@moe.edu.sg" target="">Mdm Liao Yingtong Sharon</a></td><td>SH English</td></tr>
 <tr><td><a href="mailto:tay_guan_wei_bernard@moe.edu.sg" target="">Mr Bernard Tay Guan Wei</a></td><td>SH Student Well Being - GP</td></tr>
 <tr><td><a href="mailto:jamaliah_b_othman@moe.edu.sg" target="">Ms Jamaliah B Othman</a></td><td>GP Teacher</td></tr>
 <tr><td><a href="mailto:chua_tiong_seng@moe.edu.sg" target="">Mr Chua Tiong Seng</a></td><td>GP Teacher</td></tr>
 <tr><td><a href="mailto:shafarina_sujak@moe.edu.sg" target=""> Mdm Shafarina Bte Sujak</a></td><td>GP Teacher</td></tr>
 <tr><td><a href="mailto:Mohamed_Nor_Ariffin_Ismail@moe.edu.sg" target=""> Mr Mohd Nor Ariffin Bin Ismail </a></td><td>GP Teacher</td></tr>
-<tr><td><a href="mailto:chua_kay_wee@moe.edu.sg" target=""> Mr Chua Kay Wee </a></td><td>GP Teacher</td></tr>
+<tr><td><a href="mailto:tan_xian_li_joshua@moe.edu.sg" target=""> Mr Tan Xian Li Joshua </a></td><td>GP Teacher</td></tr>
 <tr><td><a href="mailto:joseph_jerome_estrellas_fernandez@moe.edu.sg" target=""> Mr Joseph Jerome Estrellas Fernandez </a></td><td>GP / Lit Teacher</td></tr>
 <tr><td><a href="mailto:rasveena_kaur_harcharan_singh@moe.edu.sg" target="">Ms Rasveena Kaur D/O Harcharan </a></td><td>GP / Lit Teacher</td></tr>
 <tr><td><a href="mailto:Christiann_Priyanka_Augustine@moe.edu.sg" target="">Ms Christiann Priyanka Augustine </a></td><td>GP / Lit Teacher</td></tr>
@@ -83,26 +83,26 @@ variant: markdown
 
 <li><input type="checkbox" id="accordion5"> <label for="accordion5">Humanities</label>
 <div><table cellpadding="0" cellspacing="0" border="0"><tbody>
-<tr><td><a href="mailto:ng_erin@moe.edu.sg" target="">Ms Erin Ng</a></td><td>HOD Humanities - Geography</td></tr>
+<tr><td><a href="mailto:ng_erin@moe.edu.sg" target="">Mdm Erin Ng</a></td><td>HOD Humanities - Geography</td></tr>
 <tr><td><a href="mailto:tamilselvi_siva@moe.edu.sg" target="">Mrs Siva-Tamilselvi D/O Muthu</a></td><td>SH CCE - History</td></tr>
 <tr><td><a href="mailto:ghazrizal_azry_ghazali_nor@moe.edu.sg" target="">Mr Ghazrizal Azry Bin Ghazali Nor</a></td><td>Art Teacher</td></tr>
 <tr><td><a href="mailto:ernest_yeo@moe.edu.sg" target="">Mr Yeo Chin Kent Ernest</a></td><td>Art Teacher</td></tr>
 <tr><td><a href="mailto:sharmaine_ong_gek_teng_a@moe.edu.sg" target="">Ms Sharmaine Ong Gek Teng</a></td><td>Geography Teacher</td></tr>
 <tr><td><a href="mailto:Lee_Jia_Yi_Alicia_A@moe.edu.sg" target="">Ms Lee Jia Yi Alicia</a></td><td>Geography Teacher</td></tr>
-<tr><td><a href="mailto:lee_jake_hooi@moe.edu.sg" target="">Mr Lee Jake Hooi</a></td><td>CSE - History Teacher</td></tr>
+<tr><td><a href="mailto:lee_jake_hooi@moe.edu.sg" target="">Mr Lee Jake Hooi</a></td><td>History Teacher</td></tr>
 <tr><td><a href="mailto:see_kurt_wei@moe.edu.sg" target="">Mr See Kurt Wei</a></td><td>History Teacher</td></tr></tbody></table></div></li>
 
 <li><input type="checkbox" id="accordion6"> <label for="accordion6">Mathematics</label>
 <div><table cellpadding="0" cellspacing="0" border="0"><tbody>
 <tr><td><a href="mailto:li_xiaofeng@moe.edu.sg" target="">Mr Li Xiaofeng</a></td><td>HOD Maths</td></tr>
-<tr><td><a href="mailto:tan_shu_yan_ginny@moe.edu.sg" target="">Ms Tan Shu Yan Ginny</a></td><td>SH ICT</td></tr>
+<tr><td><a href="mailto:tan_shu_yan_ginny@moe.edu.sg" target="">Mdm Tan Shu Yan Ginny</a></td><td>SH ICT</td></tr>
 <tr><td><a href="mailto:lee_peici@moe.edu.sg" target="">Mdm Lee Peici</a></td><td>SH Maths</td></tr>
 <tr><td><a href="mailto:kee_yongxiang_tommy@moe.edu.sg" target="">Mr Kee Yong Xiang Tommy</a></td><td>SH Student Management</td></tr>
 <tr><td><a href="mailto:kelvin_thiang_perng_meng@moe.edu.sg" target="">Mr Thiang Perng Meng Kelvin</a></td><td>Lead Teacher - Maths</td></tr>
 <tr><td><a href="mailto:chua_en_huang_jonah@moe.edu.sg" target="">Mr Chua En Huang, Jonah</a></td><td>Maths Teacher</td></tr>
 
 <tr><td><a href="mailto:ng_yu_xuan@moe.edu.sg" target="">Ms Ng Yu Xuan</a></td><td>Maths Teacher</td></tr>
-<tr><td><a href="mailto:qian_kun@moe.edu.sg" target="">Ms Qian Kun </a></td><td>Maths Teacher</td></tr>
+<tr><td><a href="mailto:qian_kun@moe.edu.sg" target="">Mdm Qian Kun </a></td><td>Maths Teacher</td></tr>
 <tr><td><a href="mailto:foo_seck_shin@moe.edu.sg" target="">Mr Foo Seck Shin </a></td><td>Maths Teacher</td></tr>
 <tr><td><a href="mailto:chua_hock_seng@moe.edu.sg" target="">Mr Chua Hock Seng </a></td><td>Maths Teacher</td></tr>
 		</tbody></table></div></li>
