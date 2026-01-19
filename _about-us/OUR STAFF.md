@@ -110,7 +110,7 @@ variant: markdown
 <div><table cellpadding="0" cellspacing="0" border="0"><tbody>
 <tr><td><a href="mailto:loo_ai_wei@moe.edu.sg" target="">Mdm Loo Ai Wei</a></td><td>HOD MTL - CL</td></tr>
 <tr><td><a href="mailto:nur_illiana_mohamad_malek@moe.edu.sg" target="">Ms Nur Illiana Bte Mohamad Malek</a></td><td>Year Head - ML</td></tr>
-<tr><td><a href="mailto:mohamed_azmil_mohamed_alias@moe.edu.sg" target="">Mr Mohd Azmil Bin Mohd Alias </a></td><td>ML &amp; Lit</td></tr>
+<tr><td><a href="mailto:mohamed_azmil_mohamed_alias@moe.edu.sg" target="">Mr Mohd Azmil Bin Mohd Alias </a></td><td>SH MTL (Covering) - ML</td></tr>
 <tr><td><a href="mailto:zaibah_mohammed_amin@moe.edu.sg" target="">Ms Zaibah Mohd Amin</a></td><td>Senior Teacher - ML</td></tr>
 <tr><td><a href="mailto:rajarajan_hemalatha@moe.edu.sg" target="">Mdm Rajarajan Hemalatha</a></td><td>Senior Teacher - TL</td></tr>
 <tr><td><a href="mailto:nelaothaman_suppayan@moe.edu.sg" target="">Mr Nelaothaman s/o Suppayan</a></td><td>TL Teacher</td></tr>
