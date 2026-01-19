@@ -69,7 +69,7 @@ variant: markdown
 <div><table cellpadding="0" cellspacing="0" border="0"><tbody>
 <tr><td><a href="mailto:sabariah_ahmad@moe.edu.sg" target="">Ms Sabariah Binte Ahmad</a></td><td>HOD English</td></tr>
 <tr><td><a href="mailto:liao_yingtong@moe.edu.sg" target="">Ms Liao Yingtong Sharon</a></td><td>SH English</td></tr>
-<tr><td><a href="mailto:tay_guan_wei_bernard@moe.edu.sg" target="">Mr Bernard Tay Guan Wei</a></td><td>Student Well Being - GP</td></tr>
+<tr><td><a href="mailto:tay_guan_wei_bernard@moe.edu.sg" target="">Mr Bernard Tay Guan Wei</a></td><td>SH Student Well Being - GP</td></tr>
 <tr><td><a href="mailto:jamaliah_b_othman@moe.edu.sg" target="">Ms Jamaliah B Othman</a></td><td>GP Teacher</td></tr>
 <tr><td><a href="mailto:chua_tiong_seng@moe.edu.sg" target="">Mr Chua Tiong Seng</a></td><td>GP Teacher</td></tr>
 <tr><td><a href="mailto:shafarina_sujak@moe.edu.sg" target=""> Mdm Shafarina Bte Sujak</a></td><td>GP Teacher</td></tr>
@@ -94,7 +94,7 @@ variant: markdown
 <li><input type="checkbox" id="accordion6"> <label for="accordion6">Mathematics</label>
 <div><table cellpadding="0" cellspacing="0" border="0"><tbody>
 <tr><td><a href="mailto:li_xiaofeng@moe.edu.sg" target="">Mr Li Xiaofeng</a></td><td>HOD Maths</td></tr>
-<tr><td><a href="mailto:tan_shu_yan_ginny@moe.edu.sg" target="">Ms Tan Shu Yan Ginny</a></td><td>SH Maths</td></tr>
+<tr><td><a href="mailto:tan_shu_yan_ginny@moe.edu.sg" target="">Ms Tan Shu Yan Ginny</a></td><td>SH ICT</td></tr>
 <tr><td><a href="mailto:lee_peici@moe.edu.sg" target="">Mdm Lee Peici</a></td><td>SH Maths</td></tr>
 <tr><td><a href="mailto:kee_yongxiang_tommy@moe.edu.sg" target="">Mr Kee Yong Xiang Tommy</a></td><td>SH Student Management</td></tr>
 <tr><td><a href="mailto:kelvin_thiang_perng_meng@moe.edu.sg" target="">Mr Thiang Perng Meng Kelvin</a></td><td>Lead Teacher - Maths</td></tr>
