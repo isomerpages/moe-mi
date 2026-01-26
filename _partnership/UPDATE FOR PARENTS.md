@@ -8,7 +8,7 @@ variant: tiptap
 <p>Click&nbsp;<strong><a href="/mi-experience/key-programmes/character-and-citizenship-education/sexuality-education" rel="noopener" target="_blank">HERE.</a></strong>
 </p>
 <h4><strong>Assessment Schedule</strong></h4>
-<h5><strong>2025 Term 1</strong></h5>
+<h5><strong>2026 Term 1</strong></h5>
 <p><strong>PU2 Weighted Assessment and Class Test 1 Schedule <br></strong>
 </p>
 <p></p>
