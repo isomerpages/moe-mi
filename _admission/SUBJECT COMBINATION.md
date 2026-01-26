@@ -626,7 +626,7 @@ variant: markdown
 		</p></td>
 		<td style="width:90.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="120">
 			<p style="margin-top:3.0pt;margin-right:0cm;margin-bottom:3.0pt;margin-left:0cm;text-align:center;line-height:normal" align="center" class="MsoNormal">
-				<span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin"><a href="https://www.moe.gov.sg/-/media/files/post-secondary/syllabuses/maths/2024-pre-university-h2-mathematics.pdf">H2</a><sup>2</sup></span>
+				<span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin"><a href="https://www.moe.gov.sg/api/media/138f79cf-ec8a-4c4f-a532-b04823e09031/2024-Pre-University-H2-Mathematics.pdf">H2</a><sup>2</sup></span>
 			</p></td>
 		<td style="width:296.75pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="396">
 			<p style="margin-top:3.0pt;margin-right:0cm;margin-bottom:3.0pt;margin-left:0cm;text-align:justify;line-height:normal" class="MsoNormal">
@@ -639,7 +639,7 @@ variant: markdown
 		</p></td>
 		<td style="width:90.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="120">
 			<p style="margin-top:3.0pt;margin-right:0cm;margin-bottom:3.0pt;margin-left:0cm;text-align:center;line-height:normal" align="center" class="MsoNormal">
-				<span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin"><a href="https://www.moe.gov.sg/-/media/files/syllabus/2025-preu-h1h2h3-biology.pdf">H1 / H2</a><sup>2</sup></span>
+				<span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin"><a href="https://www.moe.gov.sg/api/media/1d73eb82-3bb0-4fd6-979f-98aa4724c55e/2025-preu-h1h2h3-biology.pdf">H1 / H2</a><sup>2</sup></span>
 			</p></td>
 		<td style="width:296.75pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="396">
 			<p style="margin-top:3.0pt;margin-right:0cm;margin-bottom:3.0pt;margin-left:0cm;text-align:justify;line-height:normal" class="MsoNormal">
@@ -651,7 +651,7 @@ variant: markdown
 		</p></td>
 		<td style="width:90.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="120">
 			<p style="margin-top:3.0pt;margin-right:0cm;margin-bottom:3.0pt;margin-left:0cm;text-align:center;line-height:normal" align="center" class="MsoNormal">
-				<span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin"><a href="https://www.moe.gov.sg/-/media/files/syllabus/2025-preu-h1h2h3-chemistry.pdf">H1 / H2</a><sup>2</sup></span>
+				<span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin"><a href="https://www.moe.gov.sg/api/media/69bd2fc0-ae7d-48ef-8cbf-6de89903fa33/2025-preu-h1h2h3-chemistry.pdf">H1 / H2</a><sup>2</sup></span>
 			</p></td>
 		<td style="width:296.75pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="396">
 			<p style="margin-top:3.0pt;margin-right:0cm;margin-bottom:3.0pt;margin-left:0cm;text-align:justify;line-height:normal" class="MsoNormal">
@@ -663,7 +663,7 @@ variant: markdown
 		</p></td>
 		<td style="width:90.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="120">
 			<p style="margin-top:3.0pt;margin-right:0cm;margin-bottom:3.0pt;margin-left:0cm;text-align:center;line-height:normal" align="center" class="MsoNormal">
-				<span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin"><a href="https://www.moe.gov.sg/-/media/files/syllabus/2025-preu-h1h2h3-physics.pdf">H1 / H2</a><sup>2</sup></span>
+				<span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin"><a href="https://www.moe.gov.sg/api/media/51b54731-af98-477a-944a-0c51a032b2b1/2025-preu-h1h2h3-physics.pdf">H1 / H2</a><sup>2</sup></span>
 			</p></td>
 		<td style="width:296.75pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="396">
 			<p style="margin-top:3.0pt;margin-right:0cm;margin-bottom:3.0pt;margin-left:0cm;text-align:justify;line-height:normal" class="MsoNormal">
