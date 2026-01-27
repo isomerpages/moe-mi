@@ -46,7 +46,7 @@ more information on the scope of Sexuality Education in the school curriculum.</
 relationships. Specifically, the JC/MI package covers themes of Interpersonal
 Relationships, Sexual Health, Sexual Behaviour, and Culture, Society and
 Law woven into the main focus on relationships.</p>
-<p><strong>At Millennia Institute, the following Sexuality Education lessons will be taught in&nbsp;<u>2025</u>:</strong>
+<p><strong>At Millennia Institute, the following Sexuality Education lessons will be taught in&nbsp;<u>2026</u>:</strong>
 </p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -58,7 +58,7 @@ Law woven into the main focus on relationships.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="4">
-<p><strong>2025 Sexuality Education Lessons in CCE</strong>
+<p><strong>2026 Sexuality Education Lessons in CCE</strong>
 </p>
 <p><strong>Pre-U Year 1</strong>
 </p>
@@ -105,7 +105,7 @@ entails and be reminded of the importance of respect for others.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 3</p>
+<p>Term 3 Week 7</p>
 </td>
 </tr>
 <tr>
@@ -129,7 +129,7 @@ and choose to act in accordance with sound values and moral principles.
 others, and think through the consequences of doing so.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 4</p>
+<p>Term 3 Week 8</p>
 </td>
 </tr>
 <tr>
@@ -155,7 +155,7 @@ on being a source of support for others who may be pregnant or have STIs.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 5</p>
+<p>Term 3 Week 9</p>
 </td>
 </tr>
 </tbody>
@@ -171,7 +171,7 @@ on being a source of support for others who may be pregnant or have STIs.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="4">
-<p><strong>2025 Sexuality Education Lessons in CCE</strong>
+<p><strong>2026 Sexuality Education Lessons in CCE</strong>
 </p>
 <p><strong>Pre-U Year 2</strong>
 </p>
@@ -220,7 +220,7 @@ and choosing to do what is right.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 5</p>
+<p>Term 2 Week 4</p>
 </td>
 </tr>
 <tr>
@@ -244,7 +244,7 @@ in), which can affect interactions and relationships in ways that are harmful
 to themselves and others.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 4</p>
+<p>Term 2 Week 5</p>
 </td>
 </tr>
 </tbody>
@@ -254,13 +254,11 @@ to themselves and others.</p>
 <p>6. &nbsp;<em>eTeens</em>&nbsp;is a programme developed by Health Promotion
 Board, in collaboration with the Ministry of Education, to provide JC/MI
 Year 1 students with accurate information on STIs/HIV and protection from
-a health perspective. The desired outcome of the eTeens programme is that
-students are empowered to make wise, informed and sensible decisions.</p>
-<p>7. &nbsp;Students learn the health, social and financial implications
-of STIs/HIV on an individual and the family, and the importance of responsible
-decision-making and seeking help. Abstinence and upholding family values
-are the key messages.</p>
-<p><strong>At Millennia Institute, the&nbsp;<em>eTeens&nbsp;</em>programme will be implemented as follows in 2025:</strong>
+a health perspective. With the formation of the Communicable Diseases Agency (CDA) on 1 April 2025, the programme would now be managed by CDA’s Training and Education Division instead of HPB. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions to protect themselves from sexually transmitted infectious diseases.</p>
+
+<p>7.  &nbsp;Students learn the health, social and financial implications of STIs/HIV on an individual and the family, and the importance of responsible decision-making and seeking help. Abstinence and upholding family values are the key messages. </p>
+
+<p><strong>At Millennia Institute, the&nbsp;<em>eTeens&nbsp;</em>programme will be implemented as follows in 2026:</strong>
 </p>
 <table style="minWidth: 75px">
 <tbody>
@@ -281,20 +279,17 @@ are the key messages.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mass Talk<br>
-·&nbsp; by HPB appointed vendor in Term 1 2025<br>
-·&nbsp; by pre-recorded video from Semester 2 2025</p>
+·&nbsp; by pre-recorded video from January 2026<br>
+
+</p></td>
+<td rowspan="1" colspan="1">
+<p>(a)&nbsp;&nbsp;&nbsp;&nbsp;Sexually transmitted infectious diseases (STIs and HIV): what it is, how it spreads, how to prevent infection mainly through ABC (abstinence, being faithful, correct, and consistent condom use), consequences and impact of STIs/HIV<br>
+(b)&nbsp;&nbsp;&nbsp;&nbsp; Skills for respecting boundaries (e.g. decision-making, assertiveness, negotiation to say ‘no’ to peer pressure to have pre-marital sex)<br>
+(c)&nbsp;&nbsp;&nbsp;&nbsp; Managing relationships and risky situations in a healthy way, including avenues for help-seeking</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp; infectious diseases (STIs and HIV)<br>
-·&nbsp;&nbsp;&nbsp;&nbsp; modes of transmission for STIs and HIV<br>
-·&nbsp;&nbsp;&nbsp;&nbsp; modes of protection against infection, specifically
-abstinence and the correct and consistent use of condoms<br>
-·&nbsp;&nbsp;&nbsp;&nbsp; consequences and impact of being infected with
-STIs/HIV<br>
-·&nbsp;&nbsp;&nbsp;&nbsp; ways of managing the impact of STIs</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>To be conducted in 2026</p>
+<p>PU1 : Term 4 Week 6<br><br>
+</p><p>PU2 : Term 3 Week 5</p>
 </td>
 </tr>
 </tbody>
@@ -305,11 +300,11 @@ Sexuality Education programmes by MOE-approved external providers.</p>
 <p>9. Parents who wish to opt their children out of the Sexuality Education
 lessons need to complete an opt-out form. This form will be communicated
 to parents at the start of the year and is also downloadable&nbsp;<a href="/files/Annex_A.pdf" rel="noopener nofollow" target="_blank">here</a>. The completed
-form is to be submitted by 11/04/2025 (PU2) and 09/07/2025 (PU1).</p>
-<p>10. Parents who wish to opt their children out of the eTeens programme
+form is to be submitted by 31/03/2026.</p>
+<p>10. Parents who wish to opt their children out of the <strong><em>eTeens</em> programme</strong>
 need to complete an opt-out form. This form will be communicated to parents
 at the start of the year and is also downloadable&nbsp;<a href="/files/Annex_B.pdf" rel="noopener nofollow" target="_blank">here</a>. The completed
-form is to be submitted by 30/05/2025.</p>
+form is to be submitted by 16/07/2026.</p>
 <p>11. Parents can contact the school at&nbsp;<strong><a href="mailto:millennia_inst@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">millennia_inst@moe.edu.sg</a></strong>&nbsp;for
 discussion or to seek clarification about the school’s sexuality education
 programme.</p>
