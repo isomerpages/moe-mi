@@ -34,7 +34,7 @@ and unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
 <p>You may click&nbsp;<strong><a href="https://go.gov.sg/moe-sexuality-education" rel="noopener" target="_blank">here</a></strong>&nbsp;for
 more information on MOE Sexuality Education.</p>
-<h4><strong>OVERVIEW OF MILLENNIA INSTITUTE'S SEXUALITY EDUCATION PROGRAMME FOR 2025</strong></h4>
+<h4><strong>OVERVIEW OF MILLENNIA INSTITUTE'S SEXUALITY EDUCATION PROGRAMME FOR 2026</strong></h4>
 <p>4. &nbsp;Sexuality Education is delivered in a holistic manner through
 the school curriculum. The content for Sexuality Education is grouped into
 five main themes: Human Development, Interpersonal Relationships, Sexual
