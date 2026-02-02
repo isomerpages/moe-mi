@@ -15,7 +15,7 @@ description: ""
 <h4><b>Attire:</b></h4>
 <ul><li>Half school uniform (PE T-shirt with skirt / trousers) of your secondary school with covered footwear.</li>
 <li>International / Direct Admission students / students from polytechnics may report in plain and dark coloured T-shirt and jeans / long pants and covered footwear (canvas / track shoes).</li>
-<li>All students should have PE attire available for station games and clan dances from Friday onwards.</li>
+<li>All students should have MI PE attire available for station games and clan dances from Friday onwards.</li>
 </ul>
 
 <h4><b>Things to bring:</b></h4>
