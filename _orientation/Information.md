@@ -4,12 +4,12 @@ permalink: /orientation-2025/
 variant: markdown
 description: ""
 ---
-<h4><font style="color:#000000;" size="5"><b>Welcoming all Year 1s to MI Orientation 2025!</b>
-<h2><b>Equinox</b></h2>
-	<img style="width:65%;" src="/images/2025equinox.jpg">
+<h4><font style="color:#000000;" size="5"><b>Welcoming all Year 1s to MI Orientation 2026!</b>
+<h2><b>Odyssey</b></h2>
+<p>Odyssey signifies a long and transformational journey. This mirrors the lives of PU1s who will begin a new adventure in Millennia Institute!</p>
 	<h4><b>Reporting Instructions:</b></h4>
 	Time: 7.30 am<br>
-	Date: 5 Feb 2025, Wednesday<br>
+	Date: 4 Feb 2026, Wednesday<br>
 	Venue: Hall (at Level 2)</font></h4>
 
 <h4><b>Attire:</b></h4>
