@@ -7,6 +7,7 @@ description: ""
 <h4><font style="color:#000000;" size="5"><b>Welcoming all Year 1s to MI Orientation 2026!</b>
 <h2><b>Odyssey</b></h2>
 <p>Odyssey signifies a long and transformational journey. This mirrors the lives of PU1s who will begin a new adventure in Millennia Institute!</p>
+	<img height="640" width="480" src="/images/2026orientation.jpg">
 	<h4><b>Reporting Instructions:</b></h4>
 	Time: 7.30 am<br>
 	Date: 4 Feb 2026, Wednesday<br>
