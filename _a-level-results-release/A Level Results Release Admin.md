@@ -8,7 +8,7 @@ description: ""
 
 1.&nbsp;&nbsp;&nbsp;&nbsp; The 2025 A-Level results will be released soon. Regardless of the outcome, it is important for our teens to know that they are loved for the person that they have grown up to be, and that their grades do not define who they are in our eyes. The support you offer your teen during this milestone is especially necessary and valuable in helping your teen manage emotions and be positive when deciding on next steps.
 
-2.&nbsp;&nbsp;&nbsp;&nbsp; Please refer to the following document [(Info Sheet for Parents.pdf)](/files/A%20level%20Results%20Release/2024_A_Level_Info_Sheet_for_Parents.pdf) on how you can better support your teens as they collect their GCE A-Level examination results on 27 February 2026 (Friday). 
+2.&nbsp;&nbsp;&nbsp;&nbsp; Please refer to the following document [(Info Sheet for Parents.pdf)](/files/A%20level%20Results%20Release/2025_A_Level_Parent_Information_Sheet.pdf) on how you can better support your teens as they collect their GCE A-Level examination results on 27 February 2026 (Friday). 
 
 
 3.&nbsp;&nbsp;&nbsp;&nbsp;	Students are encouraged to explore the range of education and career pathways available to them to make informed decisions about their next steps. They may refer to the following websites for more information: 
