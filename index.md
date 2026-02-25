@@ -21,13 +21,12 @@ sections:
           description: Join Us!
           url: https://www.instagram.com/mi.alumni/?hl=en
   - infobar:
-      title: Odyssey
-      subtitle: PU1 Orientation 2026
+      title: A-Level Results Release
+      subtitle: 2025 A-Level Results Release
       id: infobar
-      description: Odyssey signifies a long and transformational journey. This mirrors
-        the lives of PU1s who will begin a new adventure in Millennia Institute!
+      description: 2025 A-Level Results Release
       button: Click here for details
-      url: https://www.millenniainstitute.moe.edu.sg/orientation-2026/
+      url: https://www.millenniainstitute.moe.edu.sg/alevelresults/
   - infopic:
       title: Instagram
       subtitle: Follow us on
