@@ -21,12 +21,12 @@ sections:
           description: Join Us!
           url: https://www.instagram.com/mi.alumni/?hl=en
   - infobar:
-      title: A-Level Result Release
-      subtitle: 2025 A-Level Result Release
+      title: A-Level Results Release
+      subtitle: 2025 A-Level Results Release
       id: infobar
-      description: 2025 A-Level Result Release
+      description: 2025 A-Level Results Release
       button: Click here for details
-      url: https://www.millenniainstitute.moe.edu.sg/alevelresultrelease/
+      url: https://www.millenniainstitute.moe.edu.sg/alevelresultsrelease/
   - infopic:
       title: Instagram
       subtitle: Follow us on
