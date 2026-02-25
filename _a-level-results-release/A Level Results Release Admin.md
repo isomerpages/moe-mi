@@ -44,7 +44,7 @@ description: ""
 
  <h5>Education and Career Guidance (ECG)</h5>
  
- 8.&nbsp;&nbsp;&nbsp;&nbsp; Students who would like guidance on their education options can refer to the attached <em>MI's Guide to further education after A-Levels 2026.</em> [(Guide to Further Education after A-Level.pdf)](/files/A%20level%20Results%20Release/Guide_to_further_education_after_A_Levels__2025.pdf) and <em>FAQ</em> [(A-Levels FAQ.pdf)] . Alternatively, you may choose to make an appointment with our school’s ECG Counsellor Mr Tan Chia Boon via this link: https://go.gov.sg/miecgappt
+ 8.&nbsp;&nbsp;&nbsp;&nbsp; Students who would like guidance on their education options can refer to the attached <em>MI's Guide to further education after A-Levels 2026.</em> [(Guide to Further Education after A-Level.pdf)](/files/A%20level%20Results%20Release/ECG_Guide_to_further_education_after_A_Levels_2026.pdf) and <em>FAQ</em> [(A-Levels FAQ.pdf)](/files/A%20level%20Results%20Release/ECG_Guide_to_further_education_after_A_Levels_2026.pdf) . Alternatively, you may choose to make an appointment with our school’s ECG Counsellor Mr Tan Chia Boon via this link: https://go.gov.sg/miecgappt
  
  9.&nbsp;&nbsp;&nbsp;&nbsp;	Students are encouraged to explore the range of education and career pathways available to them to make informed decisions about their next steps. They may refer to the following websites for more information: 
  
