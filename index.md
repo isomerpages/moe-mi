@@ -26,7 +26,7 @@ sections:
       id: infobar
       description: 2025 A-Level Result Release
       button: Click here for details
-      url: https://www.millenniainstitute.moe.edu.sg/orientation-2026/
+      url: https://www.millenniainstitute.moe.edu.sg/alevelresultsadmin/
   - infopic:
       title: Instagram
       subtitle: Follow us on
