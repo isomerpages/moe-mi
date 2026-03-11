@@ -9,12 +9,26 @@ variant: tiptap
 </p>
 <h4><strong>Assessment Schedule</strong></h4>
 <h5><strong>2026 Term 1</strong></h5>
-<p><strong>PU2 Weighted Assessment and Class Test 1 Schedule <br></strong>
+<p><strong>PU2 Weighted Assessment 1 and Class Test 1 Schedule <br></strong>
 <a href="/files/PU2_WA1_CT1_Schedule_2026_14Jan.pdf" rel="noopener nofollow" target="_blank">PU2 WA1 &amp; CT1 Schedule</a>
 </p>
 <p></p>
 <p><strong>PU3 Class Test 1 Schedule <br></strong><a href="/files/PU3_CT1_Schedule_2026_14Jan.pdf" rel="noopener nofollow" target="_blank">PU3 CT1 Schedule</a>
 </p>
 <p></p>
+<h5><strong>2026 Term 2</strong></h5>
+<p><strong>PU1 Weighted Assessment 1 Schedule</strong>
+</p>
+<p><a href="/files/PU1_WA1_Schedule_2026_3_Mar.pdf" rel="noopener nofollow" target="_blank">PU1 WA1 Schedule</a>
+</p>
 <p></p>
+<p><strong>PU2 Weighted Assessment 2 and Class Test 2 Schedule</strong>
+</p>
+<p><a href="/files/PU2_WA2_CT2_Schedule_2026_3_Mar.pdf" rel="noopener nofollow" target="_blank">PU2 WA2 &amp; CT2 Schedule</a>
+</p>
+<p></p>
+<p><strong>PU3 Class Test 2 Schedule</strong>
+</p>
+<p><a href="/files/PU3_CT2_Schedule_2026_3_Mar.pdf" rel="noopener nofollow" target="_blank">PU3 CT2 Schedule</a>
+</p>
 <p></p>
