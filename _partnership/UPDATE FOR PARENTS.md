@@ -16,5 +16,6 @@ variant: tiptap
 <p><strong>PU3 Class Test 1 Schedule <br></strong><a href="/files/PU3_CT1_Schedule_2026_14Jan.pdf" rel="noopener nofollow" target="_blank">PU3 CT1 Schedule</a>
 </p>
 <p></p>
+<h5><strong>2026 Term 2</strong></h5>
 <p></p>
 <p></p>
