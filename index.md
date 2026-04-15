@@ -21,10 +21,10 @@ sections:
           description: Join Us!
           url: https://www.instagram.com/mi.alumni/?hl=en
   - infopic:
-      title: Institute Day
-      subtitle: Institute Day
+      title: 15 May 2026
+      subtitle: 23rd Institute Day
       id: infopic
-      description: 15 May 2026
+      description: "Guest of Honour : Mr Ng Bin Hong"
       image: /images/23_Iday_final_theme.jpg
       alt: Image alt text
   - infopic:
