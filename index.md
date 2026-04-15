@@ -21,6 +21,13 @@ sections:
           description: Join Us!
           url: https://www.instagram.com/mi.alumni/?hl=en
   - infopic:
+      title: Institute Day
+      subtitle: Institute Day
+      id: infopic
+      description: 15 May 2026
+      image: /images/23_Iday_final_theme.jpg
+      alt: Image alt text
+  - infopic:
       title: Instagram
       subtitle: Follow us on
       id: infopic
@@ -29,13 +36,6 @@ sections:
       url: https://www.instagram.com/peopleofmillennia/?hl=en
       image: /images/peopleofmillennia_instagram.jpg
       alt: Follow us @peopleofmillennia
-  - infopic:
-      title: Institute Day 2026
-      subtitle: Institute Day 2026
-      id: infopic
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
   - infobar:
       title: MI Corporate Video
       description: <iframe width="560" height="315"
