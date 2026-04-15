@@ -27,6 +27,8 @@ sections:
       description: "Guest of Honour : Mr Ng Bin Hong"
       image: /images/23_Iday_final_theme.jpg
       alt: Image alt text
+      url: /2026-i-day/
+      button: Click Here for more Details
   - infopic:
       title: Instagram
       subtitle: Follow us on
