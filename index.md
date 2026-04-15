@@ -24,7 +24,6 @@ sections:
       title: 15 May 2026
       subtitle: 23rd Institute Day
       id: infopic
-      description: "Guest of Honour : Mr Ng Bin Hong"
       image: /images/23_Iday_final_theme.jpg
       alt: Image alt text
       url: /2026-i-day/
