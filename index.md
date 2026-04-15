@@ -29,6 +29,13 @@ sections:
       url: https://www.instagram.com/peopleofmillennia/?hl=en
       image: /images/peopleofmillennia_instagram.jpg
       alt: Follow us @peopleofmillennia
+  - infopic:
+      title: Institute Day 2026
+      subtitle: Institute Day 2026
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
   - infobar:
       title: MI Corporate Video
       description: <iframe width="560" height="315"
