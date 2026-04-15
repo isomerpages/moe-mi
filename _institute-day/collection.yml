@@ -1,4 +1,5 @@
 collections:
   institute-day:
     output: true
-    order: []
+    order:
+      - 2026 I Day.md
