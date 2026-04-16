@@ -1,0 +1,5 @@
+collections:
+  institute-day:
+    output: true
+    order:
+      - 2026 I Day.md

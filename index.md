@@ -21,6 +21,14 @@ sections:
           description: Join Us!
           url: https://www.instagram.com/mi.alumni/?hl=en
   - infopic:
+      title: 15 May 2026
+      subtitle: 23rd Institute Day
+      id: infopic
+      image: /images/23_Iday_final_theme.jpg
+      alt: Image alt text
+      url: /2026-i-day/
+      button: Click Here for more Details
+  - infopic:
       title: Instagram
       subtitle: Follow us on
       id: infopic
