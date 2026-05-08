@@ -74,7 +74,7 @@ variant: markdown
 <tr><td><a href="mailto:jamaliah_b_othman@moe.edu.sg" target="">Ms Jamaliah B Othman</a></td><td>GP Teacher</td></tr>
 <tr><td><a href="mailto:chua_tiong_seng@moe.edu.sg" target="">Mr Chua Tiong Seng</a></td><td>GP Teacher</td></tr>
 <tr><td><a href="mailto:shafarina_sujak@moe.edu.sg" target=""> Mdm Shafarina Bte Sujak</a></td><td>GP Teacher</td></tr>
-<tr><td><a href="mailto:Mohamed_Nor_Ariffin_Ismail@moe.edu.sg" target=""> Mr Mohd Nor Ariffin Bin Ismail </a></td><td>GP Teacher</td></tr>
+<tr><td><a href="mailto:Mohamed_Nor_Ariffin_Ismail@moe.edu.sg" target=""> Mr Mohamed Nor Ariffin Bin Ismail </a></td><td>GP Teacher</td></tr>
 <tr><td><a href="mailto:tan_xian_li_joshua@moe.edu.sg" target=""> Mr Tan Xian Li Joshua </a></td><td>GP Teacher</td></tr>
 <tr><td><a href="mailto:joseph_jerome_estrellas_fernandez@moe.edu.sg" target=""> Mr Joseph Jerome Estrellas Fernandez </a></td><td>GP / Lit Teacher</td></tr>
 <tr><td><a href="mailto:rasveena_kaur_harcharan_singh@moe.edu.sg" target="">Ms Rasveena Kaur D/O Harcharan </a></td><td>GP / Lit Teacher</td></tr>
