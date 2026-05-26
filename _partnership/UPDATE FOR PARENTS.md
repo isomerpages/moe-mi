@@ -32,3 +32,19 @@ variant: tiptap
 <p><a href="/files/PU3_CT2_Schedule_2026_3_Mar.pdf" rel="noopener nofollow" target="_blank">PU3 CT2 Schedule</a>
 </p>
 <p></p>
+<h5><strong>2026 Term 3</strong></h5>
+<p><strong>PU1 WA2 Schedule</strong>
+</p>
+<p><a href="/files/PU1_WA2_Schedule_2026_Term_3.pdf" rel="noopener nofollow" target="_blank">PU1 WA2 Schedule</a>
+</p>
+<p></p>
+<p><strong>PU2 WA3 and Class Test 3 Schedule</strong>
+</p>
+<p><a href="/files/PU2_WA3___CT3_Schedule_2026_Term_3.pdf" rel="noopener nofollow" target="_blank">PU2 WA3 and Class Test 3 Schedule</a>
+</p>
+<p></p>
+<p><strong>PU3 Class Test 3 Schedule</strong>
+</p>
+<p><a href="/files/PU3_CT3_Schedule_2026_Term_3.pdf" rel="noopener nofollow" target="_blank">PU3 Class Test 3 Schedule</a>
+</p>
+<p></p>
